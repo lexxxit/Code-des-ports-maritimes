@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1993-03-20
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -1313,7 +1313,7 @@ Cette déclaration est faite en France à l'officier de port ou, à défaut, au 
 l'agent consulaire français le plus rapproché du port d'arrivée.
 
 Faute de cette déclaration et indépendamment de la réparation du dommage causé à l'ouvrage, il est puni d'un emprisonnement
-de dix jours à trois mois et d'une amende de 160 à 15000 F.
+de trois mois et d'une amende de 25000 F.
 
 **Liens relatifs à cet article**
 
@@ -1323,7 +1323,7 @@ de dix jours à trois mois et d'une amende de 160 à 15000 F.
 
 	**Modifié par**:
 
-	  - Décret n°79-403 1979-05-09 art. 5 JORF 22 mai 1979
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -1340,7 +1340,7 @@ de dix jours à trois mois et d'une amende de 160 à 15000 F.
 
 Quiconque a intentionnellement, dans les zones portuaires ou en dehors d'elles, détruit, abattu ou dégradé un phare, feu,
 ouvrage ou d'une façon générale tout équipement ou installation de balisage ou d'aide à la navigation est puni d'un
-emprisonnement de six mois à trois ans et d'une amende de 10000 à 100000 F, sans préjudice de la réparation du dommage causé.
+emprisonnement de trois ans et d'une amende de 100000 F, sans préjudice de la réparation du dommage causé.
 
 Les dispositions du premier alinéa sont également applicables aux atteintes portées au bon fonctionnement de ces équipements
 et installations.
@@ -1353,7 +1353,7 @@ et installations.
 
 	**Modifié par**:
 
-	  - Loi n°90-1143 du 21 décembre 1990 - art. 3 () JORF 26 décembre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -1482,7 +1482,7 @@ Les conditions de manutention dans les ports maritimes des matières dangereuses
 Quiconque a embarqué ou fait embarquer sur un navire de commerce employé à la navigation maritime ou à la navigation sur les
 rivières ou canaux, expédié ou fait expédier par voie de terre des matières pouvant être une cause d'explosion ou d'incendie,
 sans en avoir déclaré la nature au capitaine, maître ou patron, au commissionnaire expéditeur ou au voiturier, et sans avoir
-apposé des marques apparentes sur les emballages est puni d'une amende de 60 à 20000 F.
+apposé des marques apparentes sur les emballages est puni d'une amende de 25000 F.
 
 Cette disposition est applicable à l'embarquement sur navire étranger dans un port français ou sur un point quelconque des
 eaux françaises.
@@ -1495,7 +1495,7 @@ eaux françaises.
 
 	**Modifié par**:
 
-	  - Décret n°79-403 1979-05-09 art. 7 JORF 22 mai 1979
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -1531,13 +1531,21 @@ règlements généraux est punie de la peine prévue à l'article L. 332-2.
 ###### Article L332-4
 
 En cas de récidive dans l'année, les peines prévues aux articles L. 332-2 et L. 332-3 sont portées au double et le tribunal
-peut prononcer, en outre, un emprisonnement de trois jours à un mois.
+peut prononcer, en outre, un emprisonnement d'un mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
 
 	**Cite**:
 
@@ -9313,22 +9321,22 @@ prendre, à la charge des contrevenants, toutes mesures nécessaires à la manoe
 Les officiers de port veillent à la liberté de la circulation et au maintien de la propreté sur les terre-pleins ; ils
 désignent les emplacements que doivent occuper les marchandises sur les quais avant l'embarquement ou après le débarquement.
 
-Les personnes qui contreviennent aux prescriptions des officiers de port sont punies de l'amende prévue pour la contravention
-de la 2e classe.
+Les personnes qui contreviennent aux prescriptions des officiers de port sont punies de l'amende prévue pour les
+contraventions de 2e classe.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°83-170 1983-03-08 art. 2 JORF 10 mars 1983
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 2
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 ###### Article R*311-9
@@ -9653,7 +9661,7 @@ Nul ne peut porter atteinte au bon état des ports et havres tant dans leur prof
 installations.
 
 Le jet de terres, objets ou immondices dans les eaux des ports et leurs dépendances, leur dépôt sur les quais et terre-pleins
-des ports sont punis de l'amende prévue pour la contravention de la 3e classe.
+des ports sont punis de l'amende prévue pour les contraventions de la 3ème classe.
 
 **Liens relatifs à cet article**
 
@@ -9661,9 +9669,13 @@ des ports sont punis de l'amende prévue pour la contravention de la 3e classe.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°83-170 1983-03-08 art. 3 JORF 10 mars 1983
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 #### Chapitre III : Exploitation du port.
@@ -9870,9 +9882,7 @@ Tout capitaine, maître ou patron d'un bâtiment de commerce, de pêche ou de pl
 de navigation intérieure qui, dans les limites d'un port maritime ou à l'intérieur de ses rades et chenaux d'accès, n'a pas
 obtempéré aux ordres donnés par les officiers de port, officiers de port adjoints et surveillants de port concernant les
 mesures de sécurité et de police, à l'exclusion de ceux qui se rapportent au mouvement du bâtiment, est puni de l'amende
-prévue pour la contravention de la 3e classe.
-
-En cas de récidive, l'amende applicable est celle prévue pour les contraventions de la 4e classe.
+prévue pour la contravention de la 3ème classe.
 
 **Liens relatifs à cet article**
 
@@ -9880,9 +9890,17 @@ En cas de récidive, l'amende applicable est celle prévue pour les contraventio
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-170 1983-03-08 art. 4 JORF 10 mars 1983
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 ### Titre III : Polices du balisage et des matières dangereuses ou infectes.
@@ -9919,33 +9937,8 @@ pas au cas où le navire, bateau ou embarcation, serait en danger de perdition.
 
 ###### Article R*331-2
 
-Les infractions aux dispositions de l'article R. 331-1 sont punies des peines prévues pour la contravention de la 4e classe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes 71
-
-	**Cite**:
-
-	  - Code des ports maritimes R331-1
-
-	**Modifié par**:
-
-	  - Décret n°83-170 1983-09-11 art. 2 JORF 12 septembre 1985
-
-
-###### Article R*331-3
-
-La peine d'emprisonnement peut être élevée jusqu'au double en cas de récidive.
-
-Il y a récidive lorsqu'il a été rendu contre le contrevenant dans les douze mois précédents, un premier jugement pour
-infraction à la police du balisage.
+Les infractions aux dispositions de l'article R. *331-1 sont punies des peines prévues pour la contravention de la 4ème
+classe.
 
 **Liens relatifs à cet article**
 
@@ -9955,11 +9948,16 @@ infraction à la police du balisage.
 
 	**Abrogé par**:
 
-	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 4
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des ports maritimes 74
+	  - Code pénal - art. 131-13
+	  - Code des ports maritimes
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 #### Chapitre II : Matières dangereuses ou infectes.
@@ -10294,15 +10292,11 @@ du concessionnaire.
 	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
 
 
-## Livre III : Police des ports
-
-### Titre V : Règlements de police
-
 #### Chapitre III : Dispositions communes.
 
 ###### Article R*353-1
 
-Sont punies de l'amende prévue pour la contravention de la 2e classe des infractions aux règlements de police des ports
+Sont punies de l'amende prévue pour la contravention de la 2ème classe les infractions aux règlements de police des ports
 maritimes de commerce, de pêche et de plaisance concernant :
 
 Le défaut d'envoi d'un avis exact d'arrivée du bâtiment ou de déclaration de sortie du bâtiment ;
@@ -10319,14 +10313,18 @@ Le défaut de rangement des appareils de manutention.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°83-170 1983-03-08 art. 6 JORF 10 mars 1983
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 ###### Article R*353-2
 
-Sont punies de l'amende prévue pour la contravention de la 3e classe les infractions aux règlements de police des ports
+Sont punies de l'amende prévue pour la contravention de la 3è classe les infractions aux règlements de police des ports
 maritimes de commerce, de pêche et de plaisance concernant :
 
 Le non-respect des conditions de mouillage et de relevage des ancres ;
@@ -10342,7 +10340,7 @@ L'insuffisance des effectifs à maintenir à bord tant pour le gardiennage que p
 Le dépassement des temps de chargement et de déchargement des navires, bateaux et embarcations ou de la durée du séjour des
 bâtiments à quai ;
 
-Le non-respect des conditions de débalastage des bâtiments dans les eaux du port ;
+Le non-respect des conditions de déballastage des bâtiments dans les eaux du port ;
 
 Le non respect des conditions de réparation et d'essai des machines ou de mise à l'eau des bâtiments ;
 
@@ -10350,10 +10348,10 @@ Le non-respect des normes des navires en vue d'assurer leur bon état d'entretie
 sécurité à bord.
 
 Lorsque la longueur hors tout du bâtiment est comprise entre 20 et 100 mètres, ces infractions sont punies de l'amende prévue
-pour la contravention de la 4e classe.
+pour la contravention de la 4è classe.
 
 Lorsque la longueur hors tout du bâtiment est égale ou supérieure à 100 mètres, ces mêmes infractions sont punies de l'amende
-prévue pour la contravention de la 5e classe.
+prévue pour la contravention de la 5è classe.
 
 **Liens relatifs à cet article**
 
@@ -10361,14 +10359,18 @@ prévue pour la contravention de la 5e classe.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°83-170 1983-03-08 art. 6 JORF 10 mars 1983
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 ###### Article R*353-3
 
-Sont punies de l'amende prévue pour la contravention de la 4e classe les infractions aux règlements de police des ports
+Sont punies de l'amende prévue pour la contravention de la 4è classe les infractions aux règlements de police des ports
 maritimes de commerce, de pêche et de plaisance concernant :
 
 Le non-respect de l'interdiction de ramoner et d'incinérer des déchets ou des conditions de nettoyage des quais et terre-
@@ -10382,14 +10384,18 @@ Le défaut d'autorisation d'exécution de travaux sur les quais et terre-pleins.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°83-170 1983-03-08 art. 6 JORF 10 mars 1983
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 ###### Article R*353-4
 
-Sont punies de l'amende prévue pour la contravention de la 5e classe les infractions aux règlements de police des ports
+Sont punies de l'amende prévue pour la contravention de la 5è classe les infractions aux règlements de police des ports
 maritimes de commerce, de pêche et de plaisance concernant :
 
 L'atteinte à la netteté et à la profondeur des plans d'eau ;
@@ -10403,9 +10409,17 @@ lutte contre les sinistres.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-170 1983-03-08 art. 6 JORF 10 mars 1983
+	  - Décret n°93-726 1993-03-29 art. 2 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
 ## Livre IV : Voies ferrées des quais
