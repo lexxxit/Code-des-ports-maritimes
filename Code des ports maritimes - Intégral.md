@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1982-01-05
 
 # Partie législative
 
@@ -1821,6 +1821,34 @@ Le droit à l'indemnité est limité dans des conditions qui sont fixées par d�
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code des ports maritimes - art. R521-2 (M)
+
+
+###### Article L521-3
+
+L'indemnité de garantie n'est pas considérée comme constituant un salaire et n'est, en conséquence, passible d'aucun
+versement de cotisation pour charges sociales sinon par application de l'article L. 131-2 du code la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°82-1 1982-01-04 art. 7 II du 5 janvier 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-20 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L131-2
 
 
 ###### Article L521-4
