@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1978-04-02
+Version Consolidée au 1978-04-02 00:00:01 +0100
 
 # Partie législative
 
@@ -369,13 +369,17 @@ conservent.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI 1044 A
-
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code des ports maritimes
 
 	**Cité par**:
 
@@ -383,10 +387,6 @@ conservent.
 	  - Code des ports maritimes - art. L111-6 (Ab)
 	  - Code des ports maritimes - art. R*111-9 (Ab)
 	  - Code des ports maritimes - art. R*162-1 (Ab)
-
-	**Cite**:
-
-	  - Code des ports maritimes L111-4 à L111-7
 
 
 ###### Article L111-11
@@ -457,11 +457,11 @@ chacune des organisations syndicales les plus représentatives.
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 8
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ##### Section 2 : Personnel.
@@ -528,7 +528,11 @@ conditions d'emploi, de rémunération et de retraite.
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -537,7 +541,7 @@ conditions d'emploi, de rémunération et de retraite.
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L112-4 (M)
+	  - Code des ports maritimes - art. L112-4
 
 
 ###### Article L112-6
@@ -744,7 +748,11 @@ maximum de vingt ans, avec faculté de remboursement anticipé.
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ### Titre VI : Dispositions particulières aux ports des départements d'outre-mer
