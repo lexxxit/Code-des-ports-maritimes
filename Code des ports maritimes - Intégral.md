@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1999-06-26
+Version Consolidée au 1999-09-09
 
 # Partie législative
 
@@ -4891,6 +4891,41 @@ fonctions de commissaire du Gouvernement.
 	**Modifié par**:
 
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+
+
+###### Article R*114-6
+
+Lorsque les participations financières à céder, à prendre ou à étendre décidées en application de l'article R. 111-14 sont
+d'un montant inférieur à un seuil fixé par arrêté conjoint du ministre chargé des ports maritimes, du ministre de l'économie
+et des finances et du ministre chargé du budget, et qu'elles ont pour objet des sociétés, groupements ou des organismes dont
+le siège ou l'établissement principal est implanté dans un des départements de la région dans laquelle est situé le port
+autonome, leur approbation préalable est réputée acquise à défaut d'opposition du ministre chargé des ports maritimes, du
+ministre de l'économie et des finances ou du ministre chargé du budget notifiée dans un délai de deux mois à compter de la
+date la plus tardive de réception de la demande par les ministres concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Transféré par**:
+
+	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*111-14 (Ab)
+	  - Code des ports maritimes - art. R*114-1 (V)
+	  - Code des ports maritimes - art. R*141-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des ports maritimes - art. R*114-5 (M)
+
+	**Cite**:
+
+	  - Code des ports maritimes R111-14
 
 
 #### Chapitre V : Aménagement.
