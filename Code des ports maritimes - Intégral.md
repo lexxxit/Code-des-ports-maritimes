@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1990-09-06
+Version Consolidée au 1990-09-16
 
 # Partie législative
 
@@ -8356,24 +8356,22 @@ port.
 ###### Article R212-19
 
 Dans les ports maritimes de la France continentale, les taux de la taxe sur les passagers des navires de commerce perçue au
-titre du droit de port sont les suivants :
+titre du droit de port sont les suivants pour les passagers empruntant un aéroglisseur amphibie ou tout autre navire :
 
-Passagers empruntant un aéroglisseur amphibie ou tout autre navire :
+1. Passagers à destination d'un port de France continentale ou de la Corse : 7,88 F (avec réduction de 50 p. 100 pour les
+passagers de 4e classe). Les passagers d'aéroglisseur amphibie ou de navire à classe unique sont assimilés aux passagers de
+2e classe pour la perception de la taxe ;
 
-1. Passagers à destination d'un port de la France continentale ou de la Corse : 7,69 F (avec réduction de 50 p. 100 pour les
-passagers de 4e classe). Les passagers d'aéroglisseur amphibie ou de navires à classe unique sont assimilés aux passagers de
-2e classe pour la perception de la taxe.
-
-2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 16,26 F.
+2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 16,67 F ;
 
 3. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités aux 1 et 2 ci-dessus) ou
-en tout pays du bassin méditerranéen : 19,51 F.
+en tout pays du bassin méditerranéen : 20 F ;
 
-4. Passagers en provenance ou à destination de tous les autres ports : 69,47 F.
+4. Passagers en provenance ou à destination de tous les autres ports : 71,21 F.
 
-Les taux de la taxe sur les passagers sont réduits : 
+Les taux de la taxe sur les passagers sont réduits :
 
-- de 50 p. 100 en faveur des passagers transbordés ; 
+- de 50 p. 100 en faveur des passagers transbordés ;
 
 - de 50 p. 100 en faveur des excursionnistes munis de billets aller et retour utilisés dans un délai inférieur à soixante-
 douze heures.
@@ -8390,7 +8388,7 @@ douze heures.
 
 	**Modifié par**:
 
-	  - Décret n°89-323 du 26 avril 1989 - art. 1 () JORF 20 mai 1989 en vigueur le 30 mai 1989
+	  - Décret n°90-778 du 31 août 1990 - art. 1 () JORF 6 septembre 1990 en vigueur le 16 septembre 1990
 
 	**Cité par**:
 
