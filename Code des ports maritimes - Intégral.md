@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2001-01-17
+Version Consolidée au 2001-06-30
 
 # Partie législative
 
@@ -3944,9 +3944,11 @@ Des comptables secondaires peuvent être nommés dans les mêmes conditions.
 
 ###### Article R*112-21
 
-Un fonctionnaire, désigné par le ministre chargé des ports maritimes parmi les membres du conseil général des ponts et
-chaussées, en qualité de commissaire du Gouvernement auprès du port autonome, contrôle l'ensemble des opérations du conseil
-d'administration et vérifie le fonctionnement de tous les services.
+Un membre du Conseil général des ponts et chaussées est désigné par le ministre chargé des ports maritimes en qualité de
+commissaire du Gouvernement auprès du port autonome. Il s'assure de la compatibilité des orientations et des décisions
+adoptées par les autorités du port avec les intérêts dont l'Etat a la charge, notamment en matière de politique portuaire
+nationale, d'environnement et de développement économique. Il vérifie la régularité de l'ensemble des opérations du conseil
+d'administration et des instances auxquelles il délègue des compétences.
 
 Un contrôleur d'Etat, désigné par le ministre de l'économie et des finances, exerce le contrôle économique et financier du
 port autonome.
@@ -3961,7 +3963,7 @@ Tous deux sont convoqués aux séances du conseil d'administration et ont voix c
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
 
 
 #### Chapitre III : Fonctionnement du port autonome.
@@ -4050,13 +4052,13 @@ de l'économie et des finances ;
 
 - l'approbation des conditions des emprunts et des prêts ;
 
-- l'approbation du dossier relatif à la modification des limites de circonscription prévue à l'article R. 111-5-1 ;
+- l'approbation du dossier relatif à la modification des limites de circonscription prévue à l'article R. *111-5-1 ;
 
-- l'approbation des conventions ayant fait l'objet de la communication écrite mentionnée à l'article R. 112-10-1 ;
+- l'approbation des conventions ayant fait l'objet de la communication écrite mentionnée à l'article R. *112-10-1 ;
 
-- l'approbation des transactions prévue à l'article R. 113-8 ;
+- l'approbation des transactions prévue à l'article R. *113-8 lorsque leur montant est supérieur à 100 000 euros ;
 
-- l'examen des conventions d'exploitation de terminal prévues à l'article R. 115-7 ;
+- l'examen des conventions d'exploitation de terminal prévues à l'article R. *115-7.
 
 2° Ne peut être déléguée qu'au comité de direction, la fixation des traitements des personnels dont les échelles ne sont pas
 fixées par les conventions collectives.
@@ -4065,15 +4067,23 @@ fixées par les conventions collectives.
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 5 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 2 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-33 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R111-5-1, R112-10-1, R113-8, R115-7
+	  - Code des ports maritimes
 
 
 ###### Article R*113-4
@@ -4223,15 +4233,13 @@ vigueur, il nomme à tous les emplois du port, gère, révoque et licencie le pe
 administration d'origine les fonctionnaires placés dans la position de service détaché et fixe la rémunération du personnel
 dans les limites arrêtées par le conseil d'administration, sous réserve de l'observation des règles de tutelle.
 
-Il représente le port en justice et dans tous les actes de la vie civile. Il a la faculté de conclure des transactions, dans
-les conditions prévues par les articles 2044 et suivants du code civil, après accord du conseil d'administration, du
-commissaire du Gouvernement et du contrôleur d'Etat.
+Il représente le port autonome de plein droit devant toutes les juridictions et pour tous les actes de la vie civile. Il a la
+faculté de conclure des transactions dans les conditions prévues par les articles 2044 et suivants du code civil et par le
+règlement intérieur du conseil d'administration. Les transactions sont subordonnées à l'accord préalable du commissaire du
+Gouvernement et du contrôleur d'Etat. Lorsque leur montant est supérieur à 100 000 euros, elles sont également subordonnées à
+l'accord préalable du conseil d'administration.
 
 Il procède aux achats et passe les marchés ou traités.
-
-Il a la faculté de conclure des transactions, dans les conditions prévues par les articles 2044 et suivants du code civil,
-sous réserve de l'accord préalable du conseil d'administration, du ministre chargé des ports maritimes et du ministre chargé
-du budget.
 
 Il assure la gestion financière du port autonome ; il est ordonnateur principal du port. Des ordonnateurs secondaires peuvent
 être institués, sur sa proposition, par décision conjointe du ministre chargé des ports maritimes et du ministre de
@@ -4249,7 +4257,7 @@ trésorerie et le placement des réserves.
 
 	**Modifié par**:
 
-	  - Décret n°2000-682 du 19 juillet 2000 - art. 2 () JORF 21 juillet 2000
+	  - Décret n°2001-566 du 29 juin 2001 - art. 2 () JORF 30 juin 2001
 
 	**Cite**:
 
@@ -4321,8 +4329,9 @@ Le directeur peut, sous sa responsabilité, déléguer sa signature à un ou plu
 
 ###### Article R*113-11
 
-En cas d'absence, le directeur est remplacé dans ses fonctions par un ingénieur du port désigné à l'avance par le ministre
-chargé des ports maritimes après avis du conseil d'administration.
+En cas d'absence, le directeur est remplacé dans ses fonctions par un ingénieur du port ou un autre cadre supérieur de
+l'établissement portuaire désigné à l'avance par le ministre chargé des ports maritimes après avis du conseil
+d'administration.
 
 Au cas où l'absence se prolongerait, un directeur intérimaire pourrait être désigné par décret pris sur le rapport du
 ministre chargé des ports maritimes soit sur l'initiative de ce dernier après avis du conseil d'administration, soit sur
@@ -4336,11 +4345,15 @@ l'initiative du conseil d'administration lui-même.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°2001-566 du 29 juin 2001 - art. 2 () JORF 30 juin 2001
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°65-934 1966-11-08 art. 11
+	  - Code des transports - art. R5313-41 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ##### Section 3 : Gestion financière et comptable.
@@ -4628,31 +4641,42 @@ régime d'autonomie défini au présent titre est substitué au régime précéd
 
 ###### Article R*113-18
 
-Les marchés des ports autonomes maritimes donnant lieu à une participation financière de l'Etat sont soumis au code des
-marchés publics.
+Les marchés des ports autonomes sont soumis au code des marchés publics, à l'exception des articles 126 à 130 pour les
+marchés ne donnant pas lieu à une participation financière de l'Etat.
 
-Les marchés des ports autonomes maritimes ne donnant pas lieu à une participation financière de l'Etat et dont le montant,
-pour toute l'opération, est supérieur à 700000 F (TTC) sont soumis aux dispositions des livres Ier, II, IV et V du code des
-marchés publics à l'exception des articles 202 à 238. Le régime relatif aux commissions spécialisées compétentes pour ces
-marchés est déterminé, après avis des conseils d'administration, par le ministre chargé des ports maritimes et le ministre
-chargé de l'économie et des finances.
+Par dérogation aux dispositions de la dernière phrase de l'article 119 du code des marchés publics, le régime relatif aux
+commissions spécialisées compétentes pour les marchés des ports autonomes est déterminé, après avis des conseils
+d'administration, par le ministre chargé des ports maritimes et le ministre chargé des finances.
 
-Les autres marchés, achats ou commandes sont soumis à des règles fixées par le conseil d'administration et approuvées par le
-ministre chargé des ports autonomes et le ministre chargé de l'économie et des finances.
+Les marchés, achats ou commandes inférieurs au seuil mentionné à l'article 28 du code des marchés publics sont soumis à des
+règles fixées par le conseil d'administration et approuvées par le ministre chargé des ports maritimes et le ministre chargé
+des finances.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des marchés publics 202 à 238
+	  - Code des marchés publics 119, 28, 126 à 130
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-566 du 29 juin 2001 - art. 13 (V)
+
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 8 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 2 () JORF 30 juin 2001 en vigueur le 8 septembre 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-48 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-19
@@ -4938,45 +4962,44 @@ d'administration.
 
 ###### Article R*114-3
 
-Pour l'application de l'article R. 112-21, le commissaire du Gouvernement correspond directement pour les besoins du service
+Pour l'application de l'article R. *112-21, le commissaire du Gouvernement correspond directement pour les besoins du service
 avec le président du conseil d'administration et avec le directeur du port.
 
-Il vérifie sur place, au moins une fois par an, le fonctionnement de tous les services du port autonome ; il inspecte le
-personnel du ministère chargé des ports maritimes attaché au port, visite les bureaux des ingénieurs et les chantiers de
-travaux. Il prend connaissance des projets en préparation ou en cours d'exécution.
-
-Il a le droit de prendre connaissance à toute époque de tous les documents qu'il juge nécessaires pour constater la situation
-active et passive du port.
+Il prend connaissance des projets en préparation et de tous les documents qu'il juge nécessaires à l'exercice de ses
+missions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-59 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R112-21
+	  - Code des ports maritimes
 
 
 ###### Article R*114-4
 
-Le commissaire du Gouvernement, établit chaque année un rapport d'ensemble ayant pour objet de rendre compte de la situation
-du port à la fin de l'exercice précédent, au point de vue technique, économique et financier.
-
-Ce rapport indique notamment les améliorations susceptibles d'être introduites dans le fonctionnement des différents
-services.
-
-Il est transmis au ministre chargé des ports maritimes et adressé pour information au préfet de région.
+Le commissaire du Gouvernement fait connaître au ministre chargé des ports maritimes ses observations sur le rapport annuel
+d'activité présenté au conseil d'administration.
 
 Le contrôleur d'Etat établit un rapport sur la gestion économique et financière du port pendant l'année précédente ainsi que
 sur les comptes de la même année. Ce rapport est adressé au ministre de l'économie et des finances.
 
-Le commissaire du Gouvernement et le controleur d'état se communiquent leur rapports respectifs avant la transmission à
+Le commissaire du Gouvernement et le controleur d'Etat se communiquent leur rapports respectifs avant la transmission à
 l'administration supérieure.
 
 **Liens relatifs à cet article**
@@ -4987,36 +5010,12 @@ l'administration supérieure.
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
 
 
 ###### Article R*114-5
 
-Les projets d'exécution des travaux pour lesquels le conseil d'administration ne peut statuer définitivement sont soumis à
-l'approbation du ministre chargé des ports maritimes qui statue sur le rapport du commissaire du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes - art. R114-6 (T)
-
-
-###### Article R*114-6
-
-Lorsque les participations financières à céder, à prendre ou à étendre décidées en application de l'article R. 111-14 sont
+Lorsque les participations financières à céder, à prendre ou à étendre décidées en application de l'article R. *111-14 sont
 d'un montant inférieur à un seuil fixé par arrêté conjoint du ministre chargé des ports maritimes, du ministre de l'économie
 et des finances et du ministre chargé du budget, et qu'elles ont pour objet des sociétés, groupements ou des organismes dont
 le siège ou l'établissement principal est implanté dans un des départements de la région dans laquelle est situé le port
@@ -5026,27 +5025,34 @@ date la plus tardive de réception de la demande par les ministres concernés.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2001-06-25
+	  - SPEC_APPLI: Décret n°99-781 du 9 septembre 1999 - art. 3 (V)
+
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
 
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*111-14 (Ab)
-	  - Code des ports maritimes - art. R*114-1 (V)
-	  - Code des ports maritimes - art. R*141-1 (Ab)
-
 	**Nouveaux textes**:
 
-	  - Code des ports maritimes - art. R*114-5 (M)
+	  - Code des transports - art. R5313-61 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R111-14
+	  - Code des ports maritimes
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes - art. R114-6 (T)
 
 
 #### Chapitre V : Aménagement.
@@ -6102,8 +6108,8 @@ R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 ###### Article R*122-4
 
 I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 modifié
-pris pour l'application de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature lorsque
-le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
+pris pour l'application des articles L. 122-1 à L. 122-3 du code de l'environnement lorsque le coût total des travaux de
+construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
 
 Le dossier d'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
 pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
@@ -6113,10 +6119,10 @@ En outre, lorsqu'il y a lieu, le dossier :
 
 - mentionne la ou les rubriques de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des
 opérations soumises à autorisation ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur
-l'eau, dont relèvent les travaux ;
+l'eau (1), dont relèvent les travaux ;
 
 - comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation
-et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau. Si l'étude d'impact fournit les
+et de déclaration prévues par les articles L. 214-1 à L. 214-6 du code de l'environnement. Si l'étude d'impact fournit les
 informations requises, elle tient lieu de ce document.
 
 II. - L'instruction, menée par le directeur du port, comprend les formalités ci-après qui sont effectuées simultanément :
@@ -6134,8 +6140,8 @@ conjoint du ministre chargé de la marine nationale, du ministre chargé des por
 marchande. La grande commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs
 du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ;
 
-6° Consultation de la commission régionale pour l'amélioration des conditions de débarquement des produits de la pêche
-(CORECODE) ;
+6° Consultation le cas échéant de la commission régionale pour l'amélioration des conditions de débarquement des produits de
+la pêche (CORECODE) ;
 
 7° Instruction mixte, conformément à la réglementation en vigueur ;
 
@@ -6148,11 +6154,14 @@ III. - Le délai imparti aux collectivités, établissements publics, commission
 2°, 3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
 invités. L'absence de réponse dans ce délai vaut avis favorable.
 
+**Nota:**
+
+NOTA : (1) L'article 10 de la loi n° 92-3 a été codifié aux articles L. 214-1 à L. 214-6 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
 	  - Loi n°82-1153 1982-12-30 art. 14
@@ -6161,6 +6170,7 @@ invités. L'absence de réponse dans ce délai vaut avis favorable.
 	  - Loi n°92-3 1992-01-03 art. 10
 	  - Décret n°93-743 1993-03-29 annexe
 	  - Décret n°93-742 1993-03-29 art. 2
+	  - Code de l'environnement L122-1 à L122-3, L214-1 à L214-6
 
 	**Codifié par**:
 
@@ -6168,7 +6178,7 @@ invités. L'absence de réponse dans ce délai vaut avis favorable.
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 14 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
 
 
 ###### Article R*122-6
@@ -6489,18 +6499,28 @@ R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 ###### Article R*122-16
 
-Dans les ports de pêche, les taxes d'usage des installations d'outillage concédé peuvent être fixées en pourcentage de la
-valeur du poisson et autres produits pêchés, d'origine animale, débarqués dans le port.
+Dans les ports de pêche, les redevances d'usage des installations d'outillage concédé peuvent être fixées en pourcentage de
+la valeur du poisson et autres produits pêchés, d'origine animale, débarqués dans le port.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*122-17
@@ -6892,24 +6912,41 @@ Le fonctionnement du conseil portuaire obéit aux règles suivantes :
 toute personne qu'il juge utile ;
 
 2° Il est convoqué par son président quinze jours au moins avant la date prévue pour sa réunion. Il peut être convoqué sans
-condition de délai à la demande du préfet, ou d'un concessionnaire ou des deux tiers des membres du conseil ; dans ce cas la
+condition de délai à la demande du préfet, ou d'un concessionnaire ou des deux tiers des membres du conseil ; dans ce cas, la
 convocation doit intervenir dans les cinq jours suivant la réception de la demande par le président.
 
 Les questions dont l'inscription à été demandée par le préfet, l'un des concessionnaires ou la moitié des membres du conseil
 sont portées à l'ordre du jour.
 
 L'ordre du jour est annexé à la convocation. Les documents correspondants sont communiqués au plus tard huit jours avant la
-réunion du conseil portuaire.
+réunion du conseil portuaire ;
 
-3° Le conseil portuaire ne peut délibérer valablement que si deux tiers au moins de ses membres sont présents ou
-représentés ; les avis sont pris à la majorité absolue des voix des membres présents ou représentés ; en cas d'égalité, la
-voix du président est prépondérante ;
+3° Le conseil portuaire ne peut délibérer valablement que si deux tiers au moins de ses membres sont présents ou représentés.
+En l'absence dûment constatée du quorum, le conseil portuaire est à nouveau convoqué et peut délibérer valablement quel que
+soit le nombre des membres présents. Les avis sont pris à la majorité absolue des voix des membres présents ou représentés.
+En cas de partage égal des voix, celle du président est prépondérante ;
 
 4° Un membre du conseil peut se faire représenter soit par un suppléant désigné dans les mêmes conditions et en même temps
 que les membres titulaires, soit, à défaut, par un autre membre du conseil appartenant à la même catégorie. Chacun ne peut
 recevoir qu'un seul mandat ;
 
-5° Lorsque l'avis n'est pas émis dans un délai d'un mois à compter de la saisine du conseil, il est réputé favorable.
+5° Lorsque l'avis n'est pas émis dans un délai de deux mois à compter de la saisine du conseil, il est réputé favorable.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+portuaire - ports non autonomes des départements d'outre-mer relevant de l'Etat).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil portuaire - ports d'intérêt national relevant de la compétence de l'Etat).
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.  
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil portuaire (ports d'intérêt national relevant de la
+compétence de l'Etat) est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -6919,8 +6956,16 @@ recevoir qu'un seul mandat ;
 
 	**Modifié par**:
 
-	  - Décret n°99-782 1999-09-09 art. 17 I, II JORF 11 septembre 1999
-	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+	  - Décret n°2001-566 2001-06-29 art. 3 III, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5314-23 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*141-4
@@ -6934,16 +6979,43 @@ Le mandat des membres du conseil portuaire est renouvelable.
 
 Les fonctions de membre du conseil portuaire sont gratuites.
 
+Lorsqu'un membre du conseil portuaire, autre que les représentants élus des personnels, s'abstient sans motif légitime de se
+rendre à trois réunions consécutives, il peut être déclaré démissionnaire par le préfet. Il est remplacé, pour la durée du
+mandat restant à courir, par un membre désigné selon les modalités prévues à l'article R. 142-1.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+portuaire - ports non autonomes des départements d'outre-mer relevant de l'Etat).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil portuaire - ports d'intérêt national relevant de la compétence de l'Etat).
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.  
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil portuaire (ports d'intérêt national relevant de la
+compétence de l'Etat) est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°99-782 1999-09-09 art. 17 I, III JORF 11 septembre 1999
-	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5314-24 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 #### Chapitre II : Composition du conseil portuaire.
@@ -7196,7 +7268,10 @@ Le comité de pilotage stratégique est composé de :
 
 - le trésorier-payeur général ou son représentant ;
 
-- le directeur du port ou son représentant ;
+- le directeur du port ou son représentant.
+
+Dans les ports contigus à un port militaire, le préfet maritime ou son représentant assiste de droit aux séances du comité de
+pilotage stratégique.
 
 2° Trois membres représentant l'exécutif des collectivités territoriales et de leur groupement :
 
@@ -7230,9 +7305,13 @@ Les fonctions de membre du comité de pilotage stratégique ne donnent pas lieu 
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article R*143-3
@@ -7629,27 +7708,26 @@ Le conseil d'administration se réunit au moins trois fois par an sur la convoca
 
 #### Chapitre Ier : Dispositions communes.
 
-##### Section 1 : Taxes et redevances comprises dans le droit de port.
+##### Section 1 : Redevances comprises dans le droit de port.
 
 ###### Article R*211-1
 
-Le droit de port comprend :
+Le droit de port est dû à raison des opérations commerciales ou des séjours des navires effectués dans le port. Les éléments
+constitutifs du droit de port comprennent, dans les conditions définies au présent code, les redevances suivantes :
 
-Pour les navires de commerce :
+1° Pour les navires de commerce :
 
-- une taxe sur le navire et, le cas échéant, une taxe de stationnement ;
+a) Une redevance sur le navire ;
 
-- une taxe sur les marchandises ;
+b) Une redevance de stationnement ;
 
-- la taxe sur les passagers, mentionnée à l'article L. 211-2.
+c) Une redevance sur les marchandises ;
 
-Pour les navires de pêche :
+d) Une redevance sur les passagers ;
 
-- une redevance d'équipement des ports de pêche.
+2° Pour les navires de pêche, une redevance d'équipement des ports de pêche ;
 
-Pour les navires de plaisance ou de sport :
-
-- une redevance d'équipement des ports de plaisance.
+3° Pour les navires de plaisance ou de sport, une redevance d'équipement des ports de plaisance.
 
 **Liens relatifs à cet article**
 
@@ -7657,9 +7735,10 @@ Pour les navires de plaisance ou de sport :
 
 	  - Décret n°78-488 1978-03-22
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L211-2 (Ab)
+	  - Décret n°2001-566 2001-06-29 art. 4 I, II JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 4 () JORF 30 juin 2001
 
 	**Cité par**:
 
@@ -7670,18 +7749,21 @@ Pour les navires de plaisance ou de sport :
 
 ###### Article R*211-2
 
-Dans les ports maritimes de la France métropolitaine (France continentale et Corse) relevant de la compétence de l'Etat, les
-taux des taxes et redevances énumérées à l'article R. 211-1, à l'exclusion du taux de la taxe sur les passagers, sont fixés
-par le conseil d'administration pour les ports autonomes, par l'organe délibérant de la collectivité publique ou de
-l'établissement public bénéficiaire pour les autres ports.
+Les taux des redevances mentionnées à l'article R. *211-1 sont fixés dans les ports autonomes par le conseil d'administration
+et dans les ports d'intérêt national par le concessionnaire ou, en l'absence de concessionnaire, par le préfet.
 
 A la diligence du directeur du port, les projets concernant ces taux font l'objet d'une instruction comportant un affichage
 pendant quinze jours dans les endroits du port principalement fréquentés par les usagers et la consultation du service des
 douanes, du service des affaires maritimes et de la commission permanente d'enquête du port ou du conseil portuaire. Ces
-formalités peuvent être accomplies simultanément.
+formalités peuvent être accomplies simultanément et, le cas échéant, au moyen des technologies de télécommunication
+informatiques ou électroniques.
 
 Les commissions et services consultés doivent faire parvenir leur avis dans le délai d'un mois à compter du jour où ils y ont
 été invités. Le silence gardé équivaut à un avis favorable.
+
+En cas d'urgence, lorsque les tarifs ne sont pas adaptés aux conditions d'un trafic nouveau, le conseil d'administration du
+port autonome ou le concessionnaire dans les ports d'intérêt national peut décider de nouveaux taux qui sont approuvés sans
+instruction et sous réserve des dispositions des articles R. *211-6 à R. *211-8.
 
 **Liens relatifs à cet article**
 
@@ -7691,7 +7773,8 @@ Les commissions et services consultés doivent faire parvenir leur avis dans le 
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 19 () JORF 11 septembre 1999
+	  - Décret n°2001-566 2001-06-29 art. 5 I, II, III JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 5 () JORF 30 juin 2001
 
 	**Cité par**:
 
@@ -7699,9 +7782,17 @@ Les commissions et services consultés doivent faire parvenir leur avis dans le 
 	  - Code des transports - art. R4323-3 (V)
 	  - Code des transports - art. R4323-38 (V)
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 	**Cite**:
 
-	  - Code des ports maritimes R211-1
+	  - Code des ports maritimes
 
 
 ###### Article R*211-3
@@ -7839,31 +7930,39 @@ ports maritimes.
 
 ###### Article R*211-7
 
-Si le commissaire du Gouvernement auprès du port autonome ou le préfet, selon le cas, est amené à faire jouer son droit
-d'opposition, il adresse le dossier dans les quarante-huit heures au ministre chargé des ports maritimes, au ministre de
-l'économie et des finances, au ministre chargé des transports, ainsi que le cas échéant, au ministre de tutelle de la
-collectivité publique ou de l'établissement public intéressé. Le ministre chargé des ports maritimes prend sa décision après
-avis des ministres précités. Ces avis doivent être fournis huit jours avant la fin du délai imparti au ministre chargé des
-ports maritimes, pour confirmer l'opposition. Le silence gardé par les ministres consultés équivaut à un avis favorable à la
-levée de l'opposition.
+Si le commissaire du Gouvernement auprès du port autonome ou le préfet, suivant le cas, exerce son pouvoir d'opposition, il
+transmet le dossier dans les quarante-huit heures au ministre chargé des ports maritimes et au ministre chargé des finances.
+Le ministre chargé des ports maritimes statue après avis du ministre chargé des finances. Le silence gardé par ce dernier
+huit jours avant l'expiration du délai imparti au ministre chargé des ports maritimes pour se prononcer équivaut à un avis
+favorable à la levée de l'opposition.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
+	  - Décret n°2001-566 du 29 juin 2001 - art. 5 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-8 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*211-8
 
-Après avoir reçu un numéro, les tarifs fixant dans chaque port les taux des droits de port sont affichés dans les locaux du
-port ouverts au public où ils peuvent être consultés par tout usager.
+Les taux des droits de port sont portés à la connaissance des usagers par un affichage dans les locaux du port ouverts au
+public ainsi que, le cas échéant, au moyen des technologies de télécommunication informatiques ou électroniques.
 
 Ils sont publiés au recueil des actes administratifs de la préfecture.
+
+Ils entrent en vigueur dix jours francs à compter du premier jour de leur affichage.
 
 **Liens relatifs à cet article**
 
@@ -7873,45 +7972,63 @@ Ils sont publiés au recueil des actes administratifs de la préfecture.
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 19 () JORF 11 septembre 1999
+	  - Décret n°2001-566 du 29 juin 2001 - art. 5 () JORF 30 juin 2001
 
 	**Cité par**:
 
 	  - Code des transports - art. R4323-41 (M)
 	  - Code des transports - art. R4323-7 (M)
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 
 ###### Article R*211-9
 
-Les tarifs des droits de port visés à l'article R. 211-1 sont présentés suivant un cadre type uniforme, fixé par arrêté
-conjoint du ministre de l'économie et des finances et du ministre chargé des ports maritimes.
+Les tarifs des droits de port visés à l'article R. *211-1 sont présentés suivant un cadre type uniforme, fixé par arrêté
+conjoint du ministre chargé des finances et du ministre chargé des ports maritimes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
+	  - Décret n°2001-566 du 29 juin 2001 - art. 5 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-10 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-1
+	  - Code des ports maritimes
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*212-3 (Ab)
 
 
-##### Section 3 : Fixation des taux des droits de port dans les ports maritimes de la compétence du département et de la commune.
+##### Section 3 : Fixation des taux des droits de port dans les ports maritimes ne relevant pas de la compétence de l'Etat.
 
 ###### Article R*211-9-1
 
-Dans les ports maritimes de la France métropolitaine (France continentale et Corse) relevant de la compétence du département
-ou de la commune, les taux des taxes et redevances énumérées à l'article R. 211-1, à l'exclusion du taux de la taxe sur les
-passagers, sont fixés par l'organe délibérant de la collectivité publique ou de l'établissement public bénéficiaire sous
-réserve des dispositions de l'article R. 211-9-2.
+Les taux des redevances mentionnées à l'article R. *211-1 sont fixés, dans les ports maritimes ne relevant pas de la
+compétence de l'Etat, par la personne publique dont relève le port, le cas échéant, sur proposition du concessionnaire.
 
-Les projets concernant ces taux font l'objet d'une instruction diligentée par le président du conseil général pour les ports
-relevant de la compétence du département, par le maire pour les ports relevant de la compétence de la commune.
+Les projets de fixation des taux font l'objet d'une instruction diligentée par le responsable de l'exécutif de la personne
+publique dont relève le port.
 
 L'instruction comporte un affichage pendant quinze jours dans les endroits du port principalement fréquentés par les usagers,
 ainsi que la consultation du préfet, du service des douanes et du conseil portuaire.
@@ -7919,30 +8036,37 @@ ainsi que la consultation du préfet, du service des douanes et du conseil portu
 Les avis demandés doivent être fournis dans le délai d'un mois à compter du jour où ils ont été sollicités. Le silence gardé
 vaut avis favorable.
 
+En cas d'urgence, lorsque les redevances ne sont pas adaptées aux conditions d'un trafic nouveau, la personne publique dont
+relève le port peut décider de nouveaux taux qui sont approuvés sans instruction.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
-
-	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2001-566 2001-06-29 art. 6 I, II, III JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 6 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-11 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-1, R211-9-2
+	  - Code des ports maritimes
 
 
 ###### Article R*211-9-2
 
-Lorsque le bénéficiaire des droits de port n'est pas la collectivité territoriale compétente en vertu de l'article 6 de la
-loi n° 83-663 du 22 juillet 1983, la collectivité ou l'établissement public bénéficiaire transmet sa délibération, avec le
-dossier nécessaire à l'instruction, au président du conseil général ou au maire selon le cas.
+Lorsque l'exploitation du port est confiée à un concessionnaire, celui-ci transmet sa proposition portant fixation des taux,
+assortie du dossier nécessaire à l'instruction, à la personne publique dont relève le port.
 
 L'instruction doit être ouverte dans un délai de quinze jours compter de cette transmission.
 
@@ -7953,51 +8077,63 @@ expresse et motivée de l'autorité mentionnée au premier alinéa.
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°83-663 1983-07-22 art. 6
+	  - Décret n°2001-566 2001-06-29 art. 6 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 6 () JORF 30 juin 2001
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+	  - Code des transports - art. R5321-12 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*211-9-3
 
 Lorsque la fixation ou la modification des droits de port sont prévues comme conséquence d'un projet concernant des travaux
 d'aménagement soumis à une instruction ou à une enquête publique en vertu du titre Ier du livre VI du présent code, ladite
-enquête ou instruction peut être confondue avec l'instruction prévue à l'article R. 211-9-1.
+enquête ou instruction peut être confondue avec l'instruction prévue à l'article R. *211-9-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+	  - Décret n°2001-566 du 29 juin 2001 - art. 6 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-13 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-9-1
+	  - Code des ports maritimes
 
 
 ###### Article R*211-9-4
 
-Après avoir reçu un numéro, les tarifs fixant dans chaque port les taux des droits de port sont affichés dans les locaux du
-port ouverts au public où ils peuvent être consultés par tout usager.
+Les taux des droits de port sont portés à la connaissance des usagers par un affichage dans les locaux du port ouverts au
+public ainsi que, le cas échéant, au moyen des technologies de télécommunication informatiques ou électroniques.
 
 Ils font l'objet d'un avis publié dans deux journaux locaux au moins et sont publiés au recueil des actes administratifs du
 département, les frais de publication étant à la charge du bénéficiaire des droits de port.
 
-Sans préjudice des dispositions des articles 2 I. (premier alinéa) 45 I. (premier alinéa) et 69 I. (premier alinéa) de la loi
-n° 82-213 du 2 mars 1982, ils sont transmis pour information au préfet.
+Sans préjudice des dispositions des articles L. 2131-1, L. 3131-1 du code général des collectivités territoriales et 69 I.
+(premier alinéa) de la loi n° 82-213 du 2 mars 1982, ils sont transmis pour information au préfet.
 
-Au cas où le bénéficiaire est une chambre de commerce et d'industrie, les tarifs entrent en vigueur à une date postérieure
-d'au moins dix jours à la publication de l'avis dans les journaux locaux.
+Après cette transmission, ils entrent en vigueur dix jours francs à compter du premier jour de leur affichage.
 
 **Liens relatifs à cet article**
 
@@ -8007,54 +8143,66 @@ d'au moins dix jours à la publication de l'avis dans les journaux locaux.
 
 	**Cite**:
 
-	  - Loi n°82-213 1982-03-02 art. 2, art. 45, art. 69
-	  - Loi n°82-213 du 2 mars 1982 - art. 69, v. init.
-
-	**Créé par**:
-
-	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+	  - Loi n°82-213 du 2 mars 1982
+	  - Code général des collectivités territoriales - art. L2131-1
+	  - Code général des collectivités territoriales - art. L3131-1
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2001-566 2001-06-29 art. 6 I, V, VI JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 6 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-14 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*211-9-5
 
-Les tarifs des droits de port applicables dans les ports relevant de la compétence des départements et des communes sont
-présentés suivant le cadre type uniforme mentionné à l'article R. 211-9.
+Les tarifs des droits de port applicables dans les ports relevant de la compétence d'une personne publique autre que l'Etat
+sont présentés suivant le cadre type uniforme mentionné à l'article R. *211-9.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+	  - Décret n°2001-566 2001-06-29 art. 6 I, VII JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 6 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-15 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-9
+	  - Code des ports maritimes
 
 
 ##### Section 4 : Affectation du produit du droit de port.
 
 ###### Article R*211-10
 
-Les taux des redevances mentionnées à l'article R. 211-1, à l'exclusion de la taxe sur les passagers sont perçus au profit
-des collectivités ou des établissements publics participant au financement des travaux du port, sous réserve des dispositions
-de l'article R. 213-4 pour les ports de pêche.
+Les redevances mentionnées à l'article R. 211-1 sont versées à l'organisme assurant la prestation qui est, suivant les cas :
 
-L'affectation du produit de la taxe sur les passagers est régie par le second alinéa de l'article L. 211-3 du présent code.
+a) Le port autonome ;
+
+b) Dans les ports d'intérêt national, le concessionnaire ou, en l'absence de concessionnaire, l'Etat ;
+
+c) Dans les autres ports, le concessionnaire ou, en l'absence de concessionnaire, la personne publique dont relève le port.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 14 (V)
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 15 (Ab)
 
 	**Codifié par**:
 
@@ -8062,12 +8210,11 @@ L'affectation du produit de la taxe sur les passagers est régie par le second a
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 4 JORF 27 décembre 1983
+	  - Décret n°2001-566 du 29 juin 2001 - art. 7 () JORF 30 juin 2001
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L211-3 (M)
-	  - Code des ports maritimes R211-1, R213-4, L211-3
+	  - Code des ports maritimes R211-1
 
 
 ###### Article R*211-11
@@ -8100,42 +8247,6 @@ chenaux et bassins.
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-###### Article R*211-12
-
-Le produit des droits de port perçus dans les ports non autonomes constitue pour les collectivités, établissements publics et
-autres organismes gestionnaires, une recette ordinaire affectée à l'ensemble des dépenses du port, à l'exclusion de toute
-autre dépense.
-
-L'excédent de ce produit par rapport aux dépenses portuaires est versé chaque année à un fonds spécial de réserve ouvert dans
-la comptabilité de ces collectivités, établissements publics ou organismes.
-
-Pour les ports relevant de la compétence de l'Etat, lorsque ce fonds spécial de réserve atteint le maximum fixé par arrêté
-conjoint du ministre chargé de l'économie, du ministre chargé des ports maritimes et du ministre chargé de la tutelle des
-collectivités, établissements publics ou organismes considérés, ces collectivités, établissements publics ou organismes
-entendus, il peut être décidé, dans la même forme, de l'affecter soit au remboursement anticipé d'emprunts contractés à des
-fins d'investissements portuaires, soit à la réduction des taux du droit de port. Pour les ports relevant de la compétence
-des départements ou des communes, les décisions mentionnées à l'alinéa précédent sont prises par le conseil général ou le
-conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°67-1175 1967-12-28 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1147 1983-12-23 art. 4, art. 5 JORF 27 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 7 () JORF 30 juin 2001
-
-
 #### Chapitre II : Dispositions propres aux navires de commerce.
 
 ###### Article R*212-1
@@ -8157,11 +8268,11 @@ dans les ports, sont considérés comme navires de commerce pour l'application d
 	  - Décret n°78-488 1978-03-22
 
 
-##### Section 1 : Taxes sur le navire et sur son stationnement.
+##### Section 1 : Redevance sur le navire et redevance de stationnement.
 
 ###### Article R*212-2
 
-La taxe sur le navire et, le cas échéant, la taxe de stationnement sont à la charge de l'armateur.
+La redevance sur le navire et, le cas échéant, la redevance de stationnement sont à la charge de l'armateur.
 
 **Liens relatifs à cet article**
 
@@ -8169,11 +8280,24 @@ La taxe sur le navire et, le cas échéant, la taxe de stationnement sont à la 
 
 	  - Décret n°78-488 1978-03-22
 
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 8 I, II JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-19 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 
 ###### Article R*212-3
 
-L'assiette de la taxe sur le navire est le volume V établi, en fonction de ses caractéristiques physiques, par la formule ci-
-après :
+L'assiette de la redevance sur le navire est le volume V établi, en fonction de ses caractéristiques physiques, par la
+formule ci-après :
 
 V = L x b x Te
 
@@ -8184,54 +8308,17 @@ La valeur du tirant d'eau maximal du navire prise en compte pour l'application d
 être inférieure à une valeur théorique égale à 0,14 x VL x b (L et b étant respectivement la longueur hors tout et la largeur
 maximale du navire).
 
-Pour les aéroglisseurs, l'assiette de la taxe sur le navire est le volume V établi selon la formule de l'alinéa 1er en
+Pour les aéroglisseurs, l'assiette de la redevance sur le navire est le volume V établi selon la formule de l'alinéa 1er en
 prenant forfaitairement un tirant d'eau égal à un mètre.
 
-La taxe sur le navire est fixée dans chaque port par mètre cube ou fraction de mètre cube. Elle comprend un taux pour les
-navires n'effectuant au port que des opérations de soutage ou d'avitaillement et, pour les autres navires, des taux variant
-selon les types de navires et les genres de navigation énumérés ci-après :
+Le taux de la redevance sur le navire est fixé dans chaque port par mètre cube ou multiple de mètres cubes. Il peut varier
+selon les types de navires déterminés par l'arrêté mentionné à l'article R. *212-9 en fonction de leur aménagement ou de
+l'usage pour lequel ils sont conçus.
 
-1° Types de navires
+Un taux particulier est prévu pour les navires n'effectuant que des opérations de soutage ou d'avitaillement ou de
+déchargement de déchets d'exploitation ou de résidus de cargaison.
 
-1. Paquebots ;
-
-2. Navires transbordeurs ;
-
-3. Navires transportant des hydrocarbures liquides ;
-
-4. Navires transportant des gaz liquéfiés ;
-
-5. Navires transportant principalement des marchandises liquides en vrac autres qu'hydrocarbures ;
-
-6. Navires transportant des marchandises solides en vrac ;
-
-7. Navires réfrigérés ou polythermes ;
-
-8. Navires de charge à manutention horizontale ;
-
-9. Navires porte-conteneurs ;
-
-10. Navires porte-barges ;
-
-11. Aéroglisseurs ;
-
-12. Hydroglisseurs ;
-
-13. Navires autres que ceux désignés ci-dessus.
-
-2° Genre de navigation
-
-(selon la zone de provenance ou de destination)
-
-1. France métropolitaine ;
-
-2. Cabotage international ;
-
-3. Long cours.
-
-Les tarifs fixés pour chaque port peuvent prévoir des réductions de ces taux pour des catégories de navires appartenant à un
-même type afin de tenir compte de leurs caractéristiques particulières de taille, de structure et d'équipement et du coût du
-service rendu par le port qui en découle.
+Les taux peuvent être différents selon les secteurs du port considérés.
 
 **Liens relatifs à cet article**
 
@@ -8241,8 +8328,16 @@ service rendu par le port qui en découle.
 
 	**Modifié par**:
 
-	  - Décret n°80-192 1980-02-29 art. 1 JORF 11 mars 1980
-	  - Décret n°83-753 1983-08-11 art. 1 JORF 17 août 1983
+	  - Décret n°2001-566 2001-06-29 art. 8 I, II, III JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des ports maritimes R212-11 : dérogation
+
+	**Cite**:
+
+	  - Code des ports maritimes R212-9
 
 
 ###### Article R*212-4
@@ -8256,54 +8351,70 @@ aménagement indépendamment de leur chargement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 6 II
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
 
 
 ###### Article R*212-5
 
-Pour les navires de moins de 500 tonneaux de jauge brute en provenance ou à destination de la France métropolitaine, les taux
-de la taxe sont réduits de moitié.
+La redevance sur le navire n'est pas applicable aux :
+
+1° Navires affectés à l'assistance aux navires, notamment aux missions de pilotage, de remorquage, de lamanage et de
+sauvetage ;
+
+2° Navires affectés à la récupération des déchets et à la lutte contre la pollution ;
+
+3° Navires affectés aux dragages d'entretien, à la signalisation maritime, à la lutte contre l'incendie et aux services
+administratifs ;
+
+4° Navires en relâche forcée qui n'effectuent aucune opération commerciale ;
+
+5° Navires qui, ne pouvant avoir accès à une installation portuaire, sont contraints d'effectuer leurs opérations de
+débarquement, d'embarquement ou de transbordement en dehors du port.
+
+L'acte fixant dans chaque port la redevance sur le navire peut prévoir une exonération en faveur des navires affectés à des
+missions culturelles ou humanitaires ou présentant un intérêt général pour le patrimoine maritime.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 6 II
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-22 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*212-6
 
-La taxe sur le navire n'est pas due pour les navires énumérés ci-après :
+La redevance sur le navire est liquidée distinctement à raison des opérations d'entrée et de sortie du navire.
 
-Navires câbliers ;
+Toutefois, lorsqu'un navire ne débarque ou ne transborde ni passagers ni marchandises, la redevance sur le navire n'est
+liquidée qu'une fois à l'entrée. Lorsqu'un navire n'embarque ni passagers ni marchandises, la redevance sur le navire n'est
+liquidée qu'une fois à la sortie.
 
-Navires affectés au pilotage, au sauvetage et au remorquage ;
+Lorsqu'un navire n'effectue que des opérations de soutage ou d'avitaillement ou de déchargement de déchets d'exploitation ou
+de résidus de cargaison ou n'effectue aucune opération commerciale, la redevance sur le navire n'est liquidée qu'une fois à
+la sortie.
 
-Bâtiments de servitude ;
-
-Navires en relâche forcée qui n'effectuent aucune opération commerciale ;
-
-Navires qui n'embarquent, ne débarquent ou ne transbordent ni passagers ni marchandises autres que le fret postal ou les
-colis postaux et qui n'effectuent aucune opération de soutage ou d'avitaillement ;
-
-Navires qui, ne pouvant avoir accès à une installation portuaire, se trouvent obligés d'effectuer leurs opérations de
-débarquement ou d'embarquement ou de transbordement en dehors du port.
+La redevance sur le navire est acquittée ou doit être garantie avant le départ du navire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 6 III
 
 	**Codifié par**:
 
@@ -8311,35 +8422,34 @@ débarquement ou d'embarquement ou de transbordement en dehors du port.
 
 	**Modifié par**:
 
-	  - Décret n°80-192 art. 1 1980-02-29 JORF 11 mars 1980
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
 
 
 ###### Article R*212-7
 
-La taxe sur le navire est liquidée distinctement à raison des opérations d'entrée et de sortie en fonction de la provenance
-et de la destination du navire. L'ensemble des droits ainsi calculés fait l'objet d'une perception unique par touchée du
-navire au port.
+La redevance sur le navire fixée dans chaque port peut être modulée dans les conditions suivantes :
 
-Lorsqu'un navire, à l'entrée ou à la sortie, ne débarque, n'embarque ou ne transborde ni passagers, ni marchandises, la taxe
-sur le navire n'est liquidée et perçue qu'une fois, à la sortie ou à l'entrée, selon le cas. Lorsque le navire n'effectue que
-des opérations de soutage ou d'avitaillement, la taxe sur le navire n'est liquidée et perçue qu'une fois à la sortie.
+I. - Les modulations applicables aux navires transportant des passagers sont déterminées en fonction du rapport existant
+entre le nombre de passagers débarqués, embarqués ou transbordés et la capacité d'accueil du navire en passagers.
 
-Pour la détermination des zones de provenance ou de destination, il est tenu compte :
+II. - Les modulations applicables aux navires transportant des marchandises sont déterminées en fonction du rapport existant
+entre le tonnage de marchandises débarquées, embarquées ou transbordées et le volume V du navire calculé en application de
+l'article R. *212-3.
 
-à l'entrée : du port d'embarquement des marchandises ou des passagers débarqués ou transbordés ;
+III. - Lorsque le navire est affecté à plusieurs usages, sont appliquées les modulations afférentes à son utilisation
+dominante.
 
-à la sortie : du port déclaré comme celui du débarquement des marchandises ou des passagers embarqués ou transbordés.
+IV. - Sont exclus du bénéfice des modulations les navires n'effectuant que des opérations de soutage ou d'avitaillement ou de
+déchargement de déchets d'exploitation ou de résidus de cargaison.
 
-Lorsque les marchandises et les passagers d'un même navire sont embarqués ou débarqués dans plusieurs ports n'appartenant pas
-à la même zone, il est tenu compte, pour le calcul de la taxe sur le navire, de la zone la plus éloignée.
+V. - Les navires des lignes régulières ouvertes au public selon un itinéraire et un horaire fixés à l'avance peuvent
+bénéficier d'abattements en fonction de la fréquence des départs de la ligne.
 
-La taxe sur le navire doit être payée ou garantie avant le départ du navire.
+Les autres navires peuvent bénéficier d'abattements, dans la limite de 30 % du taux de base, en fonction de la fréquence des
+départs.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 8
 
 	**Codifié par**:
 
@@ -8347,61 +8457,34 @@ La taxe sur le navire doit être payée ou garantie avant le départ du navire.
 
 	**Modifié par**:
 
-	  - Décret n°80-192 1980-02-29 art. 2 JORF 11 mars 1980
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-24 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des ports maritimes R21-11 : dérogation
 
 
 ###### Article R*212-8
 
-Lorsque, pour les navires qui transportent des passagers, le rapport existant entre le nombre de passagers débarqués,
-embarqués, ou transbordés et la capacité du navire en passagers est égal ou inférieur aux taux ci-après, le tarif d'entrée ou
-le tarif de sortie est réduit dans les proportions suivantes :
-
-Rapport inférieur ou égal à :
-
-2/3 réduction 10 % ;
-
-1/2 réduction 30 % ;
-
-1/4 réduction 50 % ;
-
-1/8 réduction 60 % ;
-
-1/20 réduction 70 % ;
-
-1/50 réduction 80 % ;
-
-1/100 réduction 95 %.
-
-Lorsque, pour les navires qui transportent des marchandises, le rapport existant entre le nombre de tonnes de marchandises
-débarquées, embarquées ou transbordées et le volume V, calculé comme indiqué à l'article R. 212-3 est égal ou inférieur aux
-taux ci-après, le tarif d'entrée ou le tarif de sortie est réduit dans les proportions suivantes :
-
-Rapport inférieur ou égal à :
-
-2/15 réduction 10 % ;
-
-1/10 réduction 30 % ;
-
-1/20 réduction 50 % ;
-
-1/40 réduction 60 % ;
-
-1/100 réduction 70 % ;
-
-1/250 réduction 80 % ;
-
-1/500 réduction 95 %.
-
-Les tarifs fixés pour chaque port peuvent prévoir des réductions plus élevées et définir des rapports différents tenant
-compte du type de navire et de la nature de la marchandise qu'il transporte.
-
-Ces réductions ne s'appliquent pas pour les navires n'effectuant que des opérations de soutage ou d'avitaillement.
+Les modulations et abattements prévus à l'article R. *212-7 peuvent être assortis d'un abattement supplémentaire en faveur
+des trafics nouveaux ainsi qu'en faveur des lignes nouvelles intracommunautaires de passagers, de marchandises sur remorques
+(dites RO-RO) ou de conteneurs. L'abattement supplémentaire ne peut être appliqué pour une durée supérieure à deux ans. Son
+montant ne peut excéder 50 % de la base sur laquelle il s'applique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 9
 
 	**Codifié par**:
 
@@ -8409,89 +8492,30 @@ Ces réductions ne s'appliquent pas pour les navires n'effectuant que des opéra
 
 	**Modifié par**:
 
-	  - Décret n°80-192 1980-02-29 art. 1 JORF 11 mars 1980
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-25 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R212-3
+	  - Code des ports maritimes
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des ports maritimes R212-11 : dérogation
 
 
 ###### Article R*212-9
 
-Pour les navires des lignes régulières ouvertes au public selon un itinéraire et un horaire fixés à l'avance, les taux de la
-taxe sur le navire peuvent être réduits en fonction du nombre de départs de la ligne, par le tarif qui fixe les taux de la
-taxe.
-
-Une réduction peut être également accordée aux autres navires, dans la limite de 30 %, en fonction du nombre de départs, par
-le tarif qui fixe le droit de port.
-
-Les navires assurant les liaisons maritimes de caractère local peuvent être soumis à des tarifs particuliers qui sont
-déterminés dans chaque port par le tarif qui fixe les taux du droit de port.
-
-Les liaisons maritimes de caractère local sont celles dont les têtes de lignes sont situées dans la circonscription d'un même
-port ou bien éloignées l'une de l'autre de moins de trente milles marins.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-
-###### Article R*212-10
-
-Les réductions prévues aux articles R. 212-8 et R. 212-9 ne peuvent pas être cumulées ; seule est appliquée la plus
-avantageuse pour le navire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Cite**:
-
-	  - Code des ports maritimes R212-8, R212-9
-
-
-###### Article R*212-11
-
-Des réductions de la taxe sur le navire peuvent également être accordées par les tarifs pris pour chaque port :
-
-- à la sortie, aux navires de certains types, cette réduction pouvant être limitée aux navires de lignes régulières ;
-
-- aux navires de lignes régulières effectuant, au cours d'un même voyage, des escales successives dans plusieurs ports
-français de la métropole ;
-
-- aux navires en provenance ou à destination de la Corse ou des départements ou territoires d'outre-mer ;
-
-- aux navires qui opèrent dans certaines parties de la circonscription portuaire ;
-
-- aux navires de croisière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-
-###### Article R*212-12
-
-La taxe de stationnement est applicable aux navires dont le séjour au port dépasse un délai déterminé en fonction des
-conditions d'exploitation et du trafic qui sont propres à ce port.
+Les modulations et abattements prévus à l'article R. *212-7 ne peuvent se cumuler. Lorsque le redevable satisfait aux
+conditions de plusieurs modulations et abattements, il bénéficie du traitement le plus favorable.
 
 **Liens relatifs à cet article**
 
@@ -8501,82 +8525,201 @@ conditions d'exploitation et du trafic qui sont propres à ce port.
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 6 JORF 27 décembre 1983
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des ports maritimes R212-11 : dérogation
 
 
-##### Section 2 : Taxe sur les marchandises.
+###### Article R*212-10
 
-###### Article R*212-13
-
-La taxe sur les marchandises est à la charge suivant le cas, de l'expéditeur ou du destinataire.
+La redevance peut être assortie d'abattements ou de majorations, dans la limite de 30 % du taux de base, en fonction de la
+période de la journée, de la semaine ou de l'année où s'effectuent les touchées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 6 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-27 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code des ports maritimes R212-11 : dérogation
+
+
+###### Article R*212-11
+
+Par dérogation aux articles R. 211-1, R. 212-3, R. 212-7 à R. 212-10, l'acte fixant dans chaque port la redevance sur le
+navire peut prévoir, en cas d'ouverture de relations nouvelles, que les navires effectuant un transport maritime de
+passagers, de marchandises sur remorques (dites RO-RO) ou de conteneurs entre les Etats membres de l'Union européenne ou des
+Parties à l'accord de l'Espace économique européen sont soumis pendant une durée n'excédant pas trois ans :
+
+1° Soit à un forfait de redevance fixé pour l'ensemble de leur activité pour une période déterminée et liquidé pro rata
+temporis par échéances au plus de trois mois ;
+
+2° Soit à un forfait de redevance fixé à l'unité par passager, remorque, tonne ou multiples de tonnes, ou conteneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-1, R212-3, R212-7 à R212-10
+
+
+###### Article R*212-12
+
+La redevance de stationnement est applicable aux navires dont le séjour au port dépasse un délai déterminé en fonction des
+conditions d'exploitation et du trafic qui sont propres à ce port.
+
+Les navires en relâche forcée mentionnés au 4° de l'article R. *212-5 peuvent être soumis à la redevance de stationnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 8 I, II, VI JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-29 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
+
+
+##### Section 2 : Redevance sur les marchandises.
+
+###### Article R*212-13
+
+La redevance sur les marchandises est à la charge suivant le cas, de l'expéditeur ou du destinataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 9 I, II JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 9 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-30 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 5 février 2014 - art. 5 (M)
 	  - Arrêté du 5 février 2014 - art. 6 (M)
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 
 ###### Article R*212-14
 
-Les taux de la taxe sur les marchandises débarquées, embarquées ou transbordées dans un port métropolitain sont fixés dans
-chaque port soit au poids, soit à l'unité.
+Les taux de la redevance sur les marchandises débarquées, embarquées ou transbordées dans un port métropolitain sont fixés
+dans chaque port soit au poids, soit à l'unité.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 14
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 2001-06-29 art. 9 I, II JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 9 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-31 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*212-15
 
-Des réductions peuvent être accordées par le tarif qui fixe les taux de la taxe sur les marchandises :
+L'acte fixant dans chaque port la redevance sur les marchandises peut prévoir des taux différents applicables :
 
-- aux marchandises embarquées ou réembarquées ;
+1° Aux marchandises transbordées ;
 
-- aux marchandises transbordées, celles-ci ne payant qu'une seule fois la taxe ;
-
-- aux marchandises débarquées, puis acheminées en transit douanier à destination de l'étranger ;
-
-- aux marchandises embarquées qui sont arrivées directement de l'étranger en transit douanier ;
-
-- aux marchandises débarquées, embarquées ou transbordées dans certaines parties de la circonscription portuaire.
-
-Les marchandises transportées par des navires assurant les liaisons maritimes de caractère local au sens de l'article R.
-212-9 peuvent être soumises à un tarif particulier.
+2° Aux marchandises débarquées, embarquées ou transbordées dans certaines parties du port.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 15
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des ports maritimes R212-9
+	  - Décret n°2001-566 2001-06-29 art. 9 I, III JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 9 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-32 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*212-16
 
-La taxe sur les marchandises n'est pas due pour :
+La redevance sur les marchandises n'est pas due pour :
 
 - les matériaux employés au lestage ou provenant du délestage des navires s'ils sont effectivement débarqués et ne donnent
 lieu à aucune opération commerciale ;
@@ -8593,95 +8736,75 @@ rechargées sur le même navire en continuation de transport ;
 
 - le matériel débarqué des navires pour réparation ou nettoyage ;
 
-- les sacs de dépêches, les sacs postaux et les colis postaux ;
-
 - les bagages accompagnant les passagers ;
 
 - la tare des cadres, conteneurs, palettes, remorques ou semi-remorques transportés en charge ou à vide.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 16
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
+	**Modifié par**:
 
-##### Section 3 : Taxe sur les passagers.
+	  - Décret n°2001-566 2001-06-29 art. 9 I, II, IV JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 9 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-33 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Section 3 : Redevances sur les passagers.
 
 ###### Article R*212-17
 
-La taxe sur les passagers est perçue sur chaque passager débarqué, embarqué ou transbordé dans les ports maritimes de la
-France métropolitaine. Cette taxe, à la charge de l'armateur, ainsi qu'il est dit à l'article L. 211-2, peut être récupérée
-par celui-ci sur les passagers. Elle est payée en même temps que la taxe sur le navire.
+Sous réserve de l'article R. *212-18, la redevance sur les passagers est due à raison de chaque passager débarqué, embarqué
+ou transbordé dans les ports maritimes français.
+
+La redevance est à la charge de l'armateur. Elle est acquittée en même temps que la redevance sur le navire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 17
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-34 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L211-2 (Ab)
+	  - Code des ports maritimes
 
 
 ###### Article R*212-18
 
-La taxe sur les passagers n'est pas perçue pour :
+La redevance sur les passagers n'est pas applicable :
 
-- les enfants âgés de moins de quatre ans ;
+1° Aux enfants âgés de moins de quatre ans ;
 
-- les militaires voyageant en formations constituées ;
+2° Aux militaires voyageant en formations constituées ;
 
-- le personnel de bord, les agents de l'armateur voyageant pour les besoins du service et munis d'un titre de transport
-gratuit ;
+3° Au personnel de bord ;
 
-- les fonctionnaires chargés d'assurer à bord un service administratif ;
+4° Aux agents de l'armateur voyageant pour les besoins du service et munis d'un titre de transport gratuit ;
 
-- les passagers des navires de croisière qui ne débarquent que temporairement au cours de l'escale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-
-###### Article R*212-20
-
-Dans les ports maritimes de la France situés sur la Méditerranée, les taux de la taxe sur les passagers des navires de
-commerce perçue au titre du droit de port sont les suivants pour les passagers empruntant un aéroglisseur amphibie ou tout
-autre navire :
-
-1. Passagers en provenance ou à destination d'un port français ou d'un port situé dans un autre Etat membre de l'Union
-européenne :
-
-4,25 F.
-
-2. Passagers en provenance ou à destination d'un port situé en Afrique du Nord : 21,54 F.
-
-3. Passagers en provenance ou à destination de tous les autres ports : 51,13 F.
-
-Toutefois, la partie de cette taxe qui, en application de l'article L. 211-3, est perçue au profit des collectivités ou des
-établissement publics participant au financement des travaux du port peut, pour les passagers considérés à l'alinéa 1 ci-
-dessus, faire l'objet d'ajustements propres à chaque port, qui sont déterminés par le tarif qui fixe les taux des droits de
-port.
-
-Les taux de la taxe sur les passagers sont réduits de 50 p. 100 en faveur des passagers transbordés.
-
-Ils peuvent également être réduits en faveur des excursionnistes par le tarif qui fixe les droits de port.
+5° Aux agents publics dans l'exercice de leurs missions à bord.
 
 **Liens relatifs à cet article**
 
@@ -8691,84 +8814,23 @@ Ils peuvent également être réduits en faveur des excursionnistes par le tarif
 
 	**Modifié par**:
 
-	  - Décret n°94-420 du 18 mai 1994 - art. 2 () JORF 28 mai 1994 en vigueur le 7 juin 1994
+	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-35 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L211-3 (M)
-
-
-###### Article R*212-21
-
-Les liaisons maritimes de caractère local au sens de l'article R. 212-9 peuvent donner lieu à des tarifs particuliers fixés
-dans chaque port, en fonction du prix du billet, par le tarif qui fixe les droits de port.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°68-804 1968-09-10 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
-
-	**Cité par**:
-
-	  - Arrêté du 5 juillet 2004 - art. 2 (M)
-
-	**Cite**:
-
-	  - Code des ports maritimes R212-9
-
-
-###### Article R*212-22
-
-La taxe sur les passagers entre en application dans chaque port à la date d'entrée en vigueur du tarif qui fixe les droits de
-port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1147 1983-12-23 art. 7 JORF 27 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R212-19
 
-Dans les ports maritimes de la France continentale situés sur la Manche, la mer du Nord et l'Atlantique, les taux de la taxe
-sur les passagers des navires de commerce perçue au titre du droit de port sont les suivants pour les passagers empruntant un
-aéroglisseur amphibie ou tout autre navire :
-
-1. Passagers en provenance ou à destination d'un port français ou d'un port situé dans un autre Etat membre de l'Union
-européenne :
-
-17,96 F.
-
-2. Passagers en provenance ou à destination de tous les autres ports : 76,68 F.
-
-Les taux de la taxe sur les passagers sont réduits :
-
-- de 50 p. 100 en faveur des passagers transbordés ;
-
-- de 50 p. 100 en faveur des excursionnistes munis de billets aller et retour utilisés dans un délai inférieur à soixante-
-douze heures.
+L'acte fixant dans chaque port la redevance sur les passagers peut prévoir des abattements, qui ne peuvent excéder 50 % de la
+redevance de base, en faveur des passagers transbordés, des passagers qui ne débarquent que temporairement au cours de
+l'escale ou des excursionnistes munis de billets aller et retour utilisés au cours d'une période inférieure à soixante-douze
+heures.
 
 **Liens relatifs à cet article**
 
@@ -8782,12 +8844,20 @@ douze heures.
 
 	**Modifié par**:
 
-	  - Décret n°94-420 du 18 mai 1994 - art. 1 () JORF 28 mai 1994 en vigueur le 7 juin 1994
+	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
 
 	**Cité par**:
 
 	  - Code des transports - art. D4323-36 (M)
 	  - Code des ports maritimes - art. R*231-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-36 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 #### Chapitre III : Dispositions propres aux navires de pêche.
@@ -8910,17 +8980,13 @@ La partie de la redevance mise à la charge de l'acheteur reste acquise au port 
 
 ###### Article R*213-5
 
-L'institution de la redevance sur les produits de la pêche exclut l'application, à ces mêmes produits, de la taxe sur les
-marchandises telle qu'elle est prévue à l'article R. 211-1.
+L'institution de la redevance sur les produits de la pêche exclut l'application, à ces mêmes produits, de la redevance sur
+les marchandises telle qu'elle est prévue à l'article R. *211-1.
 
-Toutefois, cette redevance peut être remplacée soit par la taxe sur les marchandises, soit par une taxe perçue en fonction du
-volume V défini à l'article R. 212-3 ci-dessus et de la durée de son séjour dans le port.
+Toutefois, cette redevance peut être remplacée soit par la redevance sur les marchandises, soit par une redevance perçue en
+fonction du volume V défini à l'article R. *212-3 ci-dessus et de la durée de son séjour dans le port.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 10 (Ab)
 
 	**Codifié par**:
 
@@ -8928,11 +8994,20 @@ volume V défini à l'article R. 212-3 ci-dessus et de la durée de son séjour 
 
 	**Modifié par**:
 
-	  - Décret n°80-192 1980-02-29 art. 1 JORF 11 mars 1980
+	  - Décret n°2001-566 2001-06-29 art. 8 I, II JORF 30 juin 2001
+	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-44 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-1, R212-3
+	  - Code des ports maritimes
 
 
 #### Chapitre IV : Dispositions propres aux navires de plaisance ou de sport.
@@ -9123,142 +9198,6 @@ ministre chargé des ports maritimes dans les mêmes conditions que les autres m
 	**Cite**:
 
 	  - Code des ports maritimes
-
-
-###### Article R*231-3
-
-La réduction de moitié des taux de la taxe sur le navire prévue par l'article R. 212-5 pour les navires de moins de 500
-tonneaux de jauge brute s'applique aux navires naviguant en cabotage national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-116 1969-01-27 art. 5 III
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
-
-	**Cite**:
-
-	  - Code des ports maritimes R212-5
-
-
-###### Article R*231-4
-
-Les dispositions de l'article R. 212-10 ne sont pas applicables dans les ports des départements d'outre-mer.
-
-Dans ces ports, outre les réductions prévues aux articles R. 212-8 et R. 212-9, des réductions de la taxe sur le navire
-peuvent être accordées par les tarifs pris pour chaque port :
-
-- à la sortie, aux navires de certains types, cette réduction pouvant être limitée aux navires de lignes régulières ;
-
-- aux navires de lignes régulières effectuant au cours d'un même voyage des escales successives dans plusieurs ports français
-d'un même département d'outre-mer ;
-
-- aux navires en provenance ou à destination de la France métropolitaine ou des départements ou territoires d'outre-mer ;
-
-- aux navires qui opèrent dans certaines parties de la circonscription portuaire ;
-
-- aux navires de croisière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-116 1969-01-27 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
-
-	**Cite**:
-
-	  - Code des ports maritimes R212-10, R212-8, R212-9
-
-
-###### Article R*231-5
-
-Les dispositions des articles R. 212-19 et R. 212-20 ne sont pas applicables dans les ports des départements d'outre-mer.
-
-Dans ces ports, les taux de la taxe sur les passagers de navires de commerce perçue au titre du droit de port sont les
-suivants :
-
-1° Département de la Guadeloupe.
-
-Passagers en provenance ou à destination :
-
-D'un autre port de la Guadeloupe et de ses dépendances ou d'un port de Saint-Martin, d'un port de la Martinique : 10 F ; des
-îles Caraïbes, des Guyanes ou de Caracas : 20 F ; de tous les autres ports : 50 F.
-
-2° Département de la Martinique.
-
-Passagers en provenance ou à destination :
-
-D'un autre port de la Martinique : 3 F ; d'un port de la Guadeloupe et de ses dépendances ou de Saint-Martin : 6 F ; des îles
-Caraïbes, des Guyanes ou de Caracas : 10,50 F ; de tous les autres ports : 37,50 F.
-
-3° Département de la Guyane.
-
-Passagers en provenance ou à destination :
-
-D'un autre port de la Guyane : 2 F ; d'un port des Guyanes étrangères ou de Caracas : 5 F ; des îles Caraïbes, de la
-Martinique, de la Guadeloupe et de ses dépendances ou de Saint-Martin : 10 F ; de tous les autres ports : 25 F.
-
-4° Départements de la Réunion
-
-Passagers en provenance ou à destination :
-
-D'un autre port de la Réunion et de ses dépendances ou d'un port de l'île Maurice ou de Mayotte : 4 F ; d'un port de l'île de
-Madagascar : 7 F ; de tous les autres ports : 25 F.
-
-Les taux de la taxe sur les passagers sont réduits de 50 % en faveur des passagers transbordés.
-
-Ils peuvent également être réduits en faveur des excursionnistes par le tarif qui fixe les droits de port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. R212-19 (M)
-	  - Code des ports maritimes R212-19, R212-20
-
-
-###### Article R*231-6
-
-L'arrêté interministériel conjoint prévu à l'article R. 211-12 et relatif soit à la fixation du maximum du fonds spécial de
-réserve, soit à son affectation, est contresigné également par le ministre chargé des départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 7 () JORF 30 juin 2001
-
-	**Cite**:
-
-	  - Code des ports maritimes R211-12
 
 
 ## Livre III : Police des ports maritimes.
@@ -12149,13 +12088,16 @@ travail et du ministre chargé du budget.
 
 Le conseil d'administration de la Caisse nationale de garantie des ouvriers dockers comprend :
 
-1° Trois représentants de l'Etat : le président, désigné par le ministre chargé des ports maritimes ; le vice-président,
-désigné par le ministre chargé du travail ; le directeur financier, désigné par le ministre chargé du budget ;
+1° Trois représentants de l'Etat : le président désigné par le ministre chargé des ports maritimes, un vice-président désigné
+par le ministre chargé du travail et un administrateur désigné par le ministre chargé du budget ;
 
 2° Trois représentants des employeurs et trois représentants des ouvriers dockers intermittents, désignés par arrêté du
 ministre chargé des ports maritimes dans les conditions prévues par le dernier alinéa de l'article L. 521-5.
 
 Le mandat des membres du conseil d'administration est de deux ans ; il est renouvelable.
+
+Le directeur financier de la Caisse nationale de garantie des ouvriers dockers est désigné par le ministre chargé du budget,
+sur proposition du conseil d'administration. Sa fonction est incompatible avec celle de membre du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -12165,7 +12107,7 @@ Le mandat des membres du conseil d'administration est de deux ans ; il est renou
 
 	**Modifié par**:
 
-	  - Décret n°92-1130 du 12 octobre 1992 - art. 1 () JORF 13 octobre 1992
+	  - Décret n°2001-566 du 29 juin 2001 - art. 11 () JORF 30 juin 2001
 
 	**Cite**:
 
@@ -12468,7 +12410,7 @@ communaux sont soumis, avant décision de la collectivité compétente, à une i
 celles prévues à l'article R. 122-4.
 
 Les concessions et leurs avenants sont accordés après instruction comportant les mêmes formalités que celles prévues à
-l'article R. 122-10. Lorsque la convention comporte la réalisation de travaux, il n'est procédé qu'à une seule instruction.
+l'article R. 122-9. Lorsque la convention comporte la réalisation de travaux, il n'est procédé qu'à une seule instruction.
 
 **Liens relatifs à cet article**
 
@@ -12476,13 +12418,13 @@ l'article R. 122-10. Lorsque la convention comporte la réalisation de travaux, 
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 10 () JORF 3 janvier 1984
+	  - Décret n°2001-566 du 29 juin 2001 - art. 12 () JORF 30 juin 2001
 
 	**Cite**:
 
-	  - Code des ports maritimes R122-4, R122-10
+	  - Code des ports maritimes R122-4, R122-9
 
 
 ###### Article R*611-3
