@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1984-04-06
+Version Consolidée au 1984-07-01
 
 # Partie législative
 
@@ -2655,6 +2655,60 @@ port autonome agit pour le compte de l'Etat.
 
 ##### Section 1 : Conseil d'administration.
 
+###### Article R*112-2
+
+Les catégories d'usagers parmi lesquelles doivent être désignés par les chambres de commerce et d'industrie ou nommés par
+décret certains membres du conseil d'administration sont les suivantes :
+
+principales entreprises industrielles, commerciales et agricoles des régions desservies par le port, armements français,
+agences françaises des compagnies de navigation, professionnels de la marine marchande tels que capitaines de navire, pilotes
+et marins de la marine marchande, entreprises de transports terrestres, sociétés concessionnaires d'outillage public,
+entreprises de services portuaires, et notamment entreprises de manutention maritime, de transit, de consignation,
+d'exploitation d'entrepôt public des douanes, courtiers maritimes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°65-491 1965-06-29 art. 10
+	  - Décret n°65-933 1965-11-08 art. 1, art. 2
+	  - Décret n°65-934 1965-11-08 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+
+
+###### Article R*112-3
+
+Les représentants des salariés doivent remplir les conditions prévues par l'article 15 de la loi n° 83-675 du 26 juillet
+1983. Les autres membres du conseil d'administration doivent être de nationalité française et jouir de leurs droits civils et
+politiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-933 1965-11-08 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°84-533 1984-06-28 art. 1 JORF 1er juillet 1984
+
+
 ###### Article R*112-4
 
 Les mandats des membres du conseil d'administration désignés en application du I (2°), de l'article R. 112-1 prennent fin
@@ -2736,6 +2790,46 @@ fait selon les mêmes procédures.
 	  - Code des ports maritimes - art. R*112-1 (V)
 
 
+###### Article R*112-6
+
+I. - Les représentants des salariés du port sont élus conformément aux dispositions du chapitre II du titre II de la loi n°
+83-675 du 26 juillet 1983 et du décret du 26 décembre 1983.
+
+II. - Préalablement à la désignation du représentant des ouvriers dockers du port, le directeur du port invite chacune des
+organisations syndicales les plus représentatives désignées pour chaque port par le ministre chargé des ports maritimes, en
+accord avec le ministre chargé du travail, à proposer dans le délai de quinze jours une liste de candidats comportant au
+moins trois noms. Ne peuvent être présentés comme candidats que les ouvriers, chefs d'équipe ou contremaîtres employés à des
+opérations de manutention sur les quais des ports de la circonscription depuis trois ans au moins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-934 1965-11-08 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°83-675 du 26 juillet 1983
+	  - Décret n°83-1160 du 26 décembre 1983
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°84-533 1984-06-28 art. 1 JORF 1er juillet 1984
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-14 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
 ###### Article R*112-7
 
 Le conseil d'administration élit un vice-président choisi parmi ses membres.
@@ -2756,6 +2850,79 @@ lorsque le titulaire atteint l'âge de soixante-cinq ans.
 	**Modifié par**:
 
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+
+
+###### Article R*112-8
+
+Les membres du conseil d'administration, autres que les représentants élus des salariés de l'établissement public, qui se
+sont abstenus sans motif légitime de se rendre à trois réunions consécutives sont déclarés démissionnaires par le conseil
+d'administration. 
+
+Les vacances de sièges de membres du conseil pour décès, démission, expiration du mandat ou pour toute autre cause sont
+portées d'urgence par le président du conseil d'administration à la connaissance du ministre chargé des ports maritimes afin
+qu'il soit pourvu au remplacement de ces membres pendant le temps restant à courir de leur mandat, sans préjudice des
+dispositions des articles R. *112-4 et R. *112-5 ci-dessus et de l'article 16 de la loi du 26 juillet 1983.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-934 1965-11-08 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°84-533 1984-06-28 art. 2 JORF 1er Juillet 1984
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-17 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R*112-4 (Ab)
+
+
+###### Article R*112-9
+
+Les membres du conseil d'administration ont droit au remboursement des frais que nécessite l'exécution de leur mandat. Le
+remboursement de ces frais est effectué dans les conditions fixées par décision conjointe du ministre chargé des ports
+maritimes et du ministre chargé du budget.
+
+Chaque représentant des salariés du port au conseil d'administration dispose pour l'exercice de son mandat d'un crédit de
+vingt heures par mois. Ce crédit est porté à vingt-cinq heures pour les représentants des salariés qui sont membres du comité
+de direction.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-933 1965-11-08 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°84-533 1984-06-28 art. 3 JORF 1er juillet 1984
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-16 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*112-10
@@ -3224,6 +3391,39 @@ Tous deux sont convoqués aux séances du conseil d'administration et ont voix c
 #### Chapitre III : Fonctionnement du port autonome.
 
 ##### Section 1 : Fonctionnement et pouvoirs du conseil d'administration.
+
+###### Article R*113-1
+
+Dès sa formation, ou son renouvellement, le conseil d'administration se réunit sur la convocation et sous la présidence du
+commissaire de la République de région ou de son suppléant permanent assisté du directeur du port. Le conseil
+d'administration élit immédiatement un bureau composé d'un président, d'un vice-président et d'un secrétaire choisis parmi
+ses membres. Le mandat des membres du bureau prend fin en même temps que celui des administrateurs nommés par décret ; sauf
+application des dispositions du second alinéa de l'article R. 112-7, le mandat de ces membres expire avec leur mandat de
+membre du conseil. Les membres sortants du bureau sont rééligibles à celui-ci.
+
+Le conseil d'administration peut adjoindre au secrétaire des secrétaires auxiliaires pris dans le personnel du port autonome
+qui assistent aux séances sans participer aux délibérations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-934 1965-11-08 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°81-412 1981-04-24 art. 1 JORF du 29 avril 1981
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°84-533 1984-06-28 art. 4 JORF 1er juillet 1984
+
+	**Cite**:
+
+	  - Code des ports maritimes R112-7
+
 
 ###### Article R*113-2
 
@@ -6341,6 +6541,79 @@ Le conseil d'administration se réunit au moins trois fois par an sur la convoca
 ## Livre Ier : Création organisation et aménagement des ports maritimes
 
 ### Titre Ier : Ports autonomes
+
+#### Chapitre II : Organisation
+
+##### Section 1 : Conseil d'administration.
+
+###### Article R*112-1
+
+Le conseil d'administration d'un port autonome dont la composition est fixée par le décret en Conseil d'Etat qui en porte
+création comprend :
+
+I. - 1° Quatre membres désignés par les chambres de commerce et d'industrie de la circonscription du port, dont deux au moins
+doivent être choisis, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R. 112-2.
+
+2° a) Deux membres désignés par le conseil général du département dans lequel se trouve la principale ville de la
+circonscription du port, dont un présenté par le conseil régional.
+
+b) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port.
+
+c) Deux membres représentant soit des collectivités locales, soit des établissements publics locaux, soit une collectivité
+locale et un établissement public local intéressés au fonctionnement du port dont la désignation appartient aux assemblées
+délibérantes de ces collectivités ou établissements.
+
+3° Trois membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
+administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
+
+4° Un membre représentant les ouvriers dockers du port.
+
+II. - 1° Trois membres représentant l'Etat, dont :
+
+a) Un membre du Conseil d'Etat, présenté par le vice-président du Conseil d'Etat ;
+
+b) Un représentant du ministre chargé de l'économie et des finances, présenté par ce ministre et choisi parmi les
+fonctionnaires en activité de son département ;
+
+c) Le commissaire de la République de la région dans laquelle se trouve la ville principale de la circonscription du port
+autonome, ou son suppléant qu'il désigne à titre permanent ;
+
+2° a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
+112-2, établie conjointement par les chambres de commerce et d'industrie représentées au conseil ;
+
+b) Huit personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
+les transports, l'économie régionale ou l'économie nationale, dont quatre au moins doivent appartenir aux catégories
+d'usagers mentionnées à l'article R. 112-2.
+
+Les membres du conseil d'administration énumérés au I (4°) et au II ci-dessus sont nommés par décret pris sur le rapport du
+ministre chargé des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-934 1965-11-08 art. 1
+
+	**Cité par**:
+
+	  - Décret n°65-935 du 8 novembre 1965 - art. 2 (Ab)
+	  - Décret n°65-938 du 8 novembre 1965 - art. 2 (Ab)
+	  - Décret n°65-940 du 8 novembre 1965 - art. 2 (Ab)
+	  - Code des ports maritimes - art. R*112-4 (Ab)
+	  - Code des ports maritimes - art. R*112-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°84-533 1984-06-28 art. 1 JORF 1er juillet 1984
+
+	**Cite**:
+
+	  - Code des ports maritimes R112-2
+
 
 #### Chapitre III : Fonctionnement du port autonome
 
