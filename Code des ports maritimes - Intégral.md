@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1987-10-17
+Version Consolidée au 1988-03-02
 
 # Partie législative
 
@@ -2655,6 +2655,76 @@ port autonome agit pour le compte de l'Etat.
 
 ##### Section 1 : Conseil d'administration.
 
+###### Article R*112-1
+
+Le conseil d'administration d'un port autonome dont la composition est fixée par le décret en Conseil d'Etat qui en porte
+création comprend :
+
+I. - 1° Quatre membres désignés par les chambres de commerce et d'industrie de la circonscription du port, dont deux au moins
+doivent être choisis, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R. 112-2.
+
+2° a) Un membre désigné par le conseil général du département dans lequel se trouve la principale ville de la circonscription
+du port;
+
+b) Un membre désigné par le conseil général du département dans lequel se trouve la principale ville de la circonscription du
+port;
+
+C) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port;
+
+d) Deux membres représentant, soit des collectivités territoriales, soit des établissements publics territoriaux, soit une
+collectivité territoriale et un établissement public territorial intéressés au fonctionnement du port, dont la désignation
+appartient aux assemblées délibérantes de ces collectivités ou établissements.
+
+3° Trois membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
+administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
+
+4° Un membre représentant les ouvriers dockers du port.
+
+II. - 1° Trois membres représentant l'Etat, dont :
+
+a) Un membre du Conseil d'Etat, présenté par le vice-président du Conseil d'Etat ;
+
+b) Un représentant du ministre chargé de l'économie et des finances, présenté par ce ministre et choisi parmi les
+fonctionnaires en activité de son département ;
+
+c) Le préfet de la région dans laquelle se trouve la ville principale de la circonscription du port autonome, ou son
+suppléant qu'il désigne à titre permanent ;
+
+2° a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
+112-2, établie conjointement par les chambres de commerce et d'industrie représentées au conseil ;
+
+b) Huit personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
+les transports, l'économie régionale ou l'économie nationale, dont quatre au moins doivent appartenir aux catégories
+d'usagers mentionnées à l'article R. 112-2.
+
+Les membres du conseil d'administration énumérés au I (4°) et au II ci-dessus sont nommés par décret pris sur le rapport du
+ministre chargé des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-935 du 8 novembre 1965 - art. 2 (Ab)
+	  - Décret n°65-938 du 8 novembre 1965 - art. 2 (Ab)
+	  - Décret n°65-940 du 8 novembre 1965 - art. 2 (Ab)
+	  - Code des ports maritimes - art. R*112-4 (Ab)
+	  - Code des ports maritimes - art. R*112-5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°87-372 1987-06-04 art. 1 JORF 7 juin 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R112-2
+
+
 ###### Article R*112-2
 
 Les catégories d'usagers parmi lesquelles doivent être désignés par les chambres de commerce et d'industrie ou nommés par
@@ -5108,6 +5178,54 @@ du 8 juin 2014 (Commission permanente d'enquête).
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
+###### Article R*115-22
+
+Les membres de la commission permanente d'enquête sont nommés pour cinq ans par un arrêté du préfet du département sur le
+territoire duquel sont situées les principales installations du port.
+
+En cas de décès ou de démission de l'un des membres un remplaçant est nommé pour la durée du mandat restant à courir.
+
+La première séance de la commission a lieu sur convocation du directeur du port autonome. Dès le début de cette séance, la
+commission élit son président.
+
+Les séances suivantes ont lieu sur convocation du président, éventuellement à la demande du directeur du port. Ce dernier ou
+son représentant assiste de droit aux séances de la commission.
+
+La commission permanente d'enquête ne peut délibérer valablement que si les deux tiers au moins de ses membres sont présents
+ou représentés. Les délibérations sont prises à la majorité des voix. En cas de partage, la voix du président est
+prépondérante.
+
+Les fonctions de membre de la commission permanente d'enquête sont gratuites.
+
+**Nota:**
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission permanente d'enquête).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 3 () JORF 3 janvier 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-101 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
 ###### Article R*115-23
 
 La commission permanente d'enquête donne dans un délai d'un mois un avis motivé sur le dossier qui lui est soumis. Le délai
@@ -5145,6 +5263,45 @@ du 8 juin 2014 (Commission permanente d'enquête).
 
 
 #### Chapitre VI : Dispositions diverses.
+
+###### Article R*116-1
+
+Par dérogation à l'article R. *113-14 le premier exercice comptable du port autonome commence à la date fixée pour la
+substitution au régime précédemment en vigueur, du régime de l'autonomie défini par le présent titre. Il se termine au 31
+décembre de l'année pendant laquelle cette substitution a eu lieu.
+
+Les comptes des services portuaires des chambres de commerce et d'industrie de la circonscription du port autonome relatifs à
+l'exercice précédant la date de mise en vigueur de l'autonomie sont arrêtés par le préfet sur rapport du chef du service
+maritime.
+
+L'état prévisionnel visé à l'article R. *113-14 doit être fourni, sous forme sommaire, dans les six semaines suivant le début
+du premier exercice.
+
+Le produit des droits de port et recettes de toute nature perçus à dater du début du premier exercice est versé au port
+autonome.
+
+Des crédits provisionnels seront mis à la disposition de ce dernier par le ministre chargé des ports maritimes à partir de la
+même date.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°65-934 1965-11-08 art. 39
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°84-245 1984-04-03 art. 1 JORF 6 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R113-14
+
 
 ###### Article R*116-2
 
@@ -5564,6 +5721,45 @@ Ces concessions et autorisations peuvent être accordées tant à des collectivi
 
 
 ##### Sous-section 2 : Outillages publics concédés.
+
+###### Article R*122-8
+
+Les concessions d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat sont accordées :
+
+a) Par décret en Conseil d'Etat revêtu du contreseing du ministre chargé des ports maritimes et, le cas échéant, du ministre
+dont relève l'établissement public concessionnaire, s'il y a lieu à déclaration d'utilité publique prononcée par décret en
+Conseil d'Etat ;
+
+b) Par arrêté signé par le ministre chargé des ports maritimes et, le cas échéant, par le ministre dont relève
+l'établissement public concessionnaire pour les ports principaux figurant sur la liste mentionnée au deuxième alinéa de
+l'article R. 122-1, ou lorsqu'il y a lieu à déclaration d'utilité publique prononcée par arrêté ministériel ;
+
+c) Par arrêté du préfet dans les autre cas. Lorsque le cahier des charges de la concession comporte des dérogations au cahier
+des charges type, celles-ci doivent préalablement être autorisées par le ministre chargé des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-140 1969-02-06 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°84-245 1984-04-03 art. 1, art. 2 JORF 6 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code des transports - art. R5753-5 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes R122-1
+
 
 ###### Article R*122-9
 
@@ -6228,6 +6424,56 @@ port qui intéressent les personnes morales et physiques concernées par son adm
 	  - Code des transports - art. R5753-2 (V)
 
 
+###### Article R*141-2
+
+Le conseil portuaire est obligatoirement consulté sur les objets suivants :
+
+1° La délimitation administrative du port et ses modifications ;
+
+2° Le budget prévisionnel du port, les décisions de fonds de concours du concessionnaire ;
+
+3° Les tarifs et conditions d'usage des outillages, les droits de port ;
+
+4° Les avenants aux concessions et concessions nouvelles ;
+
+5° Les projets d'opérations de travaux neufs ;
+
+6° Les sous-traités d'exploitation ;
+
+7° Les règlements particuliers de police et les dispositions permanentes relatives à la police des surfaces encloses prévues
+à l'article R. 341-5 du présent code.
+
+Il est fait chaque année au conseil portuaire un rapport général sur la situation du port et son évolution sur le plan
+économique, financier, social, technique et administratif.
+
+Ce rapport, présenté par le préfet, est complété de toutes observations jugées utiles par le représentant du concessionnaire.
+
+A ce rapport sont annexés les comptes rendus d'exécution des budgets de l'exercice précédent et de l'exercice en cours.
+
+Le conseil portuaire reçoit régulièrement communication des statistiques portant sur le trafic du port établies par le préfet
+et le concessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1112 1970-12-03 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R341-5
+
+
 ###### Article R*141-3
 
 Le fonctionnement du conseil portuaire obéit aux règles suivantes :
@@ -6295,6 +6541,82 @@ Les fonctions de membre du conseil portuaire sont gratuites.
 
 #### Chapitre II : Composition.
 
+###### Article R*142-1
+
+Dans les ports non autonomes de commerce ou de pêche relevant de la compétence de l'Etat, le conseil portuaire est composé
+comme suit :
+
+1° Un représentant du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ;
+
+2° Trois membres désignés respectivement en leur sein par l'assemblée délibérante de la région, du département et de la
+commune où sont implantées les principales installations portuaires ;
+
+3° Un représentant désigné au sein du comité syndical par le syndicat intercommunal compétent en matière d'urbanisme pour la
+zone où est situé le port, lorsqu'il existe ;
+
+4° Un représentant désigné en son sein par chacun des conseils municipaux sur le territoire desquels s'étend le port, sans
+préjudice des dispositions du 2° ;
+
+5° Des membres représentant certains personnels concernés par la gestion du port, à savoir :
+
+a) Un membre du personnel du service maritime ;
+
+b) Un membre du personnel du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ;
+
+c) Un membre représentant les ouvriers dockers du port.
+
+Les représentants des personnels et des ouvriers dockers du port sont désignés par le préfet sur proposition des
+organisations syndicales les plus représentatives ;
+
+6° Dans les ports de commerce :
+
+Huit membres représentant les usagers du port, choisis parmi les catégories énumérées à l'article R. 142-5 (1°) et désignés
+comme suit :
+
+a) Quatre membres désignés par le préfet ;
+
+b) Quatre membres désignés par la chambre de commerce et d'industrie ;
+
+7° Dans les ports de pêche :
+
+Huit membres représentant les usagers du port, choisis parmi les catégories énumérées à l'article R. 142-5 (2°) et désignés
+comme suit :
+
+a) Trois membres désignés par le préfet ;
+
+b) Cinq membres désignés par le comité local des pêches.
+
+Les membres du conseil portuaire sont nommés par arrêté du préfet.
+
+Le préfet ou son représentant assiste de droit aux séances du conseil portuaire.
+
+La première séance du conseil portuaire a lieu sur convocation du préfet. Au cours de cette séance le conseil élit son
+président.
+
+Le secrétariat du conseil est assuré par le directeur du port. Le président du conseil portuaire peut lui déléguer sa
+signature pour la convocation aux réunions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1112 1970-12-03 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R142-5
+
+
 ###### Article R*142-2
 
 Lorsque la chambre de commerce et d'industrie n'est pas concessionnaire, le conseil portuaire est complété par un
@@ -6317,6 +6639,44 @@ mer, par l'officier général commandant supérieur des forces armées complète
 
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+
+
+###### Article R*142-3
+
+Dans les ports où se pratiquent simultanément au moins deux des trois activités de commerce, de pêche et de plaisance il peut
+être constitué un conseil portuaire unique composé dans les mêmes conditions que celles prévues aux articles R. 142-1 et R.
+142-2 sous réserve des dispositions suivantes :
+
+Le nombre des représentants des usagers est porté à dix dans les ports où se pratiquent deux activités et à douze dans ceux
+où se pratiquent trois activités.
+
+Le préfet détermine le nombre de sièges revenant à chaque catégorie d'usagers, compte tenu de l'importance respective de
+chaque activité.
+
+Les représentants des usagers sont choisis parmi les catégories mentionnées à l'article R. 142-5, à raison de :
+
+Un tiers au plus, désigné par le préfet ;
+
+Les autres membres désignés, selon l'activité représentée, par la chambre de commerce et d'industrie, le comité local des
+pêches et le comité local des usagers permanents des installations portuaires de plaisance constitué dans les mêmes
+conditions que celles prévues à l'article R. 622-3 ; ce dernier est réuni au moins une fois par an par le préfet ou son
+représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R142-1, R142-2, R142-5, R622-3
 
 
 ###### Article R*142-4
@@ -6690,6 +7050,65 @@ des finances et du ministre chargé des ports maritimes fixe les modalités de c
 	  - Décret n°99-782 du 9 septembre 1999 - art. 18 () JORF 11 septembre 1999
 
 
+###### Article R*162-6
+
+Le conseil d'administration du port autonome comprend :
+
+I. - 1° a) Deux membres désignés par la chambre de commerce et d'industrie de Pointe-à-Pitre ;
+
+b) Un membre désigné par la chambre de commerce et d'industrie de Basse-Terre ;
+
+2° a) Un membre désigné par le conseil régional de la Guadeloupe ;
+
+b) Un membre désigné par le conseil général de la Guadeloupe ;
+
+c) Un membre désigné par le conseil municipal de Pointe-à-pitre ;
+
+d) Un membre désigné par le conseil municipal de Baie-Mahaut ;
+
+3° Trois membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
+administratifs, commerciaux ou techniques assimilés sur le plan de la classification ;
+
+4° Un membre représentant les ouvriers dockers du port.
+
+II. - 1° Trois membres représentant l'Etat, dont :
+
+a) Un représentant du ministre chargé de l'économie et des finances choisi parmi les fonctionnaires en activité de son
+département ;
+
+b) Un représentant du ministre chargé de la marine marchande choisi parmi les fonctionnaires en activité de son département ;
+
+c) Le préfet de la région de la Guadeloupe ou son suppléant qu'il désigne à titre permanent ;
+
+2° a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
+112-2, établie conjointement par les chambres de commerce et d'industrie de Basse-terre et de pointe-à-pitre ;
+
+b) Une personnalité choisie sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
+112-2, établie par la chambre d'agriculture de la Guadeloupe ;
+
+c) Cinq personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation
+maritime,les transports, l'économie régionale ou l'économie nationale, dont deux au moins doivent appartenir aux catégories
+d'usagers mentionnées à l'article R. 112-2.
+
+Les membres du conseil d'administration énumérés au I 4 et au II ci-dessus sont nommés par décret pris sur le rapport du
+ministre chargé des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R112-2
+
+
 ###### Article R*162-7
 
 Le conseil d'administration se réunit au moins trois fois par an sur la convocation de son président.
@@ -7055,6 +7474,41 @@ conjoint du ministre de l'économie et des finances et du ministre chargé des p
 
 ##### Section 3 : Fixation des taux des droits de port dans les ports maritimes de la compétence du département et de la commune.
 
+###### Article R*211-9-1
+
+Dans les ports maritimes de la France métropolitaine (France continentale et Corse) relevant de la compétence du département
+ou de la commune, les taux des taxes et redevances énumérées à l'article R. 211-1, à l'exclusion du taux de la taxe sur les
+passagers, sont fixés par l'organe délibérant de la collectivité publique ou de l'établissement public bénéficiaire sous
+réserve des dispositions de l'article R. 211-9-2.
+
+Les projets concernant ces taux font l'objet d'une instruction diligentée par le président du conseil général pour les ports
+relevant de la compétence du département, par le maire pour les ports relevant de la compétence de la commune.
+
+L'instruction comporte un affichage pendant quinze jours dans les endroits du port principalement fréquentés par les usagers,
+ainsi que la consultation du préfet, du service des douanes et du conseil portuaire.
+
+Les avis demandés doivent être fournis dans le délai d'un mois à compter du jour où ils ont été sollicités. Le silence gardé
+vaut avis favorable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-1, R211-9-2
+
+
 ###### Article R*211-9-2
 
 Lorsque le bénéficiaire des droits de port n'est pas la collectivité territoriale compétente en vertu de l'article 6 de la
@@ -7100,6 +7554,40 @@ enquête ou instruction peut être confondue avec l'instruction prévue à l'art
 	**Cite**:
 
 	  - Code des ports maritimes R211-9-1
+
+
+###### Article R*211-9-4
+
+Après avoir reçu un numéro, les tarifs fixant dans chaque port les taux des droits de port sont affichés dans les locaux du
+port ouverts au public où ils peuvent être consultés par tout usager.
+
+Ils font l'objet d'un avis publié dans deux journaux locaux au moins et sont publiés au recueil des actes administratifs du
+département, les frais de publication étant à la charge du bénéficiaire des droits de port.
+
+Sans préjudice des dispositions des articles 2 I. (premier alinéa) 45 I. (premier alinéa) et 69 I. (premier alinéa) de la loi
+n° 82-213 du 2 mars 1982, ils sont transmis pour information au préfet.
+
+Au cas où le bénéficiaire est une chambre de commerce et d'industrie, les tarifs entrent en vigueur à une date postérieure
+d'au moins dix jours à la publication de l'avis dans les journaux locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 2, art. 45, art. 69
+	  - Loi n°82-213 du 2 mars 1982 - art. 69, v. init.
+
+	**Créé par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R*211-9-5
@@ -9270,6 +9758,125 @@ classées dans la voirie nationale, départementale ou communale.
 	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
 
 
+###### Article R*341-3
+
+L'établissement des clôtures peut être soit autorisé sur la demande faite par des collectivités ou des particuliers, soit
+prescrit par le préfet pour les ports relevant de la compétence de l'Etat, par le président du conseil général pour les ports
+départementaux, par le maire pour les ports communaux.
+
+Il est statué, tant sur l'établissement des clôtures que sur les mesures spéciales de police concernant les surfaces
+encloses, après avis de la chambre de commerce et d'industrie de la circonscription du lieu, de la commission permanente
+d'enquête du port ou du conseil portuaire et, si la circulation publique est intéressée, du maire.
+
+Les avis précités doivent être fournis dans le délai d'un mois suivant l'ouverture de l'instruction, faute de quoi il peut
+être passé outre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1929-02-26 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 3 JORF 21 décembre 1983
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+
+###### Article R*341-4
+
+Les projets de clôtures comprennent tous les plans, dessins et mémoires explicatifs nécessaires pour déterminer complètement
+le tracé et les dispositions de ces clôtures, les emplacements et les dimensions des portes.
+
+Le projet de clôture est approuvé par le conseil d'administration du port pour les ports autonomes, par le préfet pour les
+autres ports relevant de la compétence de l'Etat, par le président du conseil général pour les ports départementaux, par le
+maire pour les ports communaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1929-02-26 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 4 JORF 21 décembre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+
+###### Article R*341-5
+
+Les fonctionnaires et agents des services publics ont toujours accès dans les surfaces encloses pour les besoins de leurs
+services.
+
+L'accès des surfaces encloses est réservé, pendant les heures d'ouverture des portes, aux seules personnes appelées à y
+pénétrer pour les besoins de l'exploitation du port.
+
+Les dispositions qui précèdent ne font pas obstacle à ce que le préfet prenne, lorsque les circonstances l'exigent, toutes
+mesures nécessaires à la défense de l'ordre public et à la sûreté de l'Etat, ainsi que, dans les cas prévus à l'article 34 de
+la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions ou à l'article
+L. 2215-1 du code général des collectivités territoriales, les mesures nécessaires à la sécurité des personnes et des biens
+dans l'enceinte portuaire.
+
+En outre, l'accès est permis à toute personne munie d'une autorisation spéciale et temporaire délivrée par le directeur du
+port ou le chef du service maritime, sur avis conforme du commissaire des renseignements généraux chargé du contrôle des
+frontières.
+
+Sous les réserves ci-dessus, des arrêtés fixent dans chaque cas :
+
+1. Les heures d'ouverture et de fermeture des portes ;
+
+2. Les catégories de personnes auxquelles l'accès à l'intérieur de l'enceinte est permis ou interdit soit constamment, soit
+pendant certaines périodes ;
+
+3. Les mesures spéciales de police concernant les surfaces encloses.
+
+Les arrêtés mentionnés ci-dessus sont pris par le préfet pour les ports relevant de la compétence de l'Etat, sur avis
+conforme du conseil d'administration du port lorsqu'il s'agit d'un port autonome, par le président du conseil général pour
+les ports départementaux, par le maire pour les ports communaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1929-02-26 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 5 JORF 21 décembre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*141-2 (V)
+
+
 ###### Article R*341-6
 
 Sans préjudice de leur publication et affichage réglementaires, les arrêtés visés à l'article R. *341-5 sont portés à la
@@ -9357,6 +9964,36 @@ reproduit en annexe au présent code.
 	**Cite**:
 
 	  - Code des ports maritimes
+
+
+###### Article R*351-2
+
+Indépendamment des dispositions du règlement général, des règlements particuliers peuvent être établis pour chaque port en
+tant que de besoin.
+
+Les règlements particuliers sont pris par le préfet pour les ports relevant de la compétence de l'Etat, après avis du conseil
+d'administration du port en ce qui concerne les ports autonomes, du ou des concessionnaires en ce qui concerne les autres
+ports. Ils sont pris par le président du conseil général, après du ou des concessionnaires, pour les ports départementaux.
+Ils sont pris par le préfet maritime, pour la navigation dans les chenaux d'accès.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-884 1977-07-22 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 8 JORF 21 décembre 1983
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
 
 
 #### Chapitre II : Ports de plaisance.
@@ -10869,6 +11506,36 @@ et le ministre de l'économie et des finances.
 ### Titre Ier : Aménagement et exploitation des ports maritimes
 
 #### Chapitre Ier : Aménagement.
+
+###### Article R*611-1
+
+Pour l'application de l'article 6 de la loi n° 83-663 du 22 juillet 1983 et en l'absence de schéma de mise en valeur de la
+mer, sont considérés comme création ou extension de port, les projets comportant l'institution ou la modification d'un
+périmètre délimité en application de l'article R. 613-1 du code des ports maritimes ou, à l'intérieur d'un périmètre
+délimité, l'accroissement de la superficie du plan d'eau abrité.
+
+Lorsque la création ou l'extension d'un port comporte la réalisation de travaux, le dossier de proposition de création ou
+d'extension présenté au préfet est accompagné des résultats de l'instruction prévue par l'article R. 611-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°83-663 1983-07-22 art. 6
+	  - Code des ports maritimes R613-1, R611-2
+
+	**Créé par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 10 () JORF 3 janvier 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
 
 ###### Article R*611-2
 
