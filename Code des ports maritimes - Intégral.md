@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1996-02-27
+Version Consolidée au 1996-12-10
 
 # Partie législative
 
@@ -4679,31 +4679,34 @@ paragraphe, être procédé à un nouveau remploi de la part revenant à l'Etat.
 
 ###### Article R*113-25
 
-Les remises de biens au port autonome prévues par les articles R. 111-8 et R. 111-10 ne modifient pas le statut légal des
+Les remises de biens au port autonome prévues par les articles R. *111-8 et R. *111-10 ne modifient pas le statut légal des
 terrains, ouvrages et matériels en ce qui concerne la police de leur conservation. Sous réserve des dispositions du présent
 article, les pouvoirs du directeur du port autonome, en matière domaniale, sont ceux dévolus par les règlements en vigueur
 aux directeurs des ports à caractère national.
+
+Le port autonome a le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de
+l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de
+l'article 3 de la loi n° 94-631 du 25 juillet 1994.
 
 Les conditions techniques et financières des autorisations d'occupation du domaine public sont arrêtées par le conseil
 d'administration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 32
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
 	**Cite**:
 
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
 	  - Code des ports maritimes R111-8, R111-10
+
+	**Modifié par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
 
 
 #### Chapitre IV : Contrôle.
@@ -6294,6 +6297,34 @@ suivant le cas, peut, lors de la prise en considération du projet, réduire les
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
 
 
+###### Article R*122-11-1
+
+Les concessionnaires d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat ont le pouvoir de
+délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres d'occupation du
+domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi n° 94-631 du 25
+juillet 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+	**Créé par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+
+
 ##### Sous-section 3 : Outillages privés autorisés avec obligation de service public.
 
 ###### Article R*122-12
@@ -6653,6 +6684,30 @@ octobre 1977, le dossier comprend la notice prévue à l'article 4 du même déc
 
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 6 () JORF 3 janvier 1984
+
+
+###### Article R132-3
+
+Les concessionnaires d'installations portuaires de plaisance situées dans des ports relevant de la compétence de l'Etat ont
+le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres
+d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi
+n° 94-631 du 25 juillet 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+	**Créé par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
 
 
 #### Chapitre III : Autorisations d'outillages privés avec obligation de service public.
