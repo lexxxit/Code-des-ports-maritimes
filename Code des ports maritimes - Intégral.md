@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1984-01-03
+Version Consolidée au 1984-04-06
 
 # Partie législative
 
@@ -5088,6 +5088,39 @@ Pointe-des-Galets (Réunion).
 
 ##### Section 1 : Travaux.
 
+###### Article R*122-1
+
+La prise en considération des avant-projets des travaux de construction, d'extension et de modernisation des ports non
+autonomes de commerce et de pêche de l'Etat et l'autorisation desdits travaux sont prononcées :
+
+a) Par décision du ministre chargé des ports maritimes lorsqu'il s'agit d'investissements réalisés dans les ports principaux
+métropolitains ;
+
+b) Par décision du commissaire de la République dans les autres cas.
+
+Les ports principaux sont ceux figurant sur une liste établie par arrêté du ministre chargé des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°71-346 1971-05-06 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°84-245 1984-04-03 art. 2 JORF 6 avril 1984
+
+	**Cité par**:
+
+	  - Code des transports - art. R5753-3 (V)
+
+
 ###### Article R*122-2
 
 La décision prenant en considération l'avant-projet indique s'il y a lieu ou non de procéder à l'instruction et, dans la
@@ -5280,6 +5313,52 @@ Ces concessions et autorisations peuvent être accordées tant à des collectivi
 
 ##### Sous-section 2 : Outillages publics concédés.
 
+###### Article R*122-9
+
+Toute demande de concession d'outillage public dans un port non autonome de commerce ou de pêche de l'Etat est instruite par
+le directeur départemental de l'équipement ou par le chef du service maritime spécialisé.
+
+Le commissaire de la République transmet, dans les cas prévus aux a et b de l'article R. 122-8, la demande avec son rapport
+au ministre chargé des ports maritimes, qui décide si le projet doit être pris en considération. Dans les autres cas, la
+prise en considération est prononcée par le commissaire de la République. Si le projet est pris en considération, le
+commissaire de la République fait procéder à l'instruction dans les conditions prévues aux articles R. 122-10 et R. 122-11.
+L'indication du montant de la redevance pour occupation du domaine public national, fixé par le directeur des services
+fiscaux, doit figurer dans le dossier de l'instruction.
+
+Dès l'issue de l'instruction et lorsque la concession doit être accordée par un décret en Conseil d'Etat ou par un arrêté
+ministériel, le commissaire de la République transmet le dossier avec son rapport au ministre chargé des ports maritimes. Ce
+dernier, s'il estime devoir donner suite à l'affaire, soumet, le cas échéant, le projet au ministre de qui relève
+l'établissement public intéressé.
+
+Lorsque le commissaire de la République statue dans les conditions prévues à l'article R. 122-8 (paragraphe c), le dossier
+lui est transmis avec un rapport dès l'issue de l'instruction par le chef de service responsable de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°69-140 1969-02-06 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°84-245 1984-04-03 art. 2 JORF 6 avril 1984
+
+	**Cité par**:
+
+	  - Code des transports - art. R5753-5 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes R122-8, R122-10, R122-11
+
+
 ###### Article R*122-11
 
 Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
@@ -5304,6 +5383,54 @@ suivant le cas, peut, lors de la prise en considération du projet, réduire les
 	  - Décret n°81-412 1981-04-24 art. 7 JORF 29 avril 1981
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+
+
+##### Sous-section 3 : Outillages privés autorisés avec obligation de service public.
+
+###### Article R*122-12
+
+Les autorisations d'outillage privé avec obligation de service public sont accordées, après instruction, par un arrêté du
+commissaire de la République.
+
+Lorsque le cahier des charges doit comporter des dérogations au cahier des charges type, celles-ci doivent, préalablement à
+la mise à l'instruction, être autorisées par le ministre chargé des ports maritimes.
+
+La demande d'autorisation est instruite par le directeur départemental de l'équipement ou, le cas échéant, par l'ingénieur en
+chef du service maritime spécialisé ; celui-ci la communique au directeur des services fiscaux en vue de la fixation du
+montant de la redevance pour occupation du domaine public maritime.
+
+Dans les ports principaux, si les travaux envisagés doivent donner lieu à des modifications importantes aux installations
+existantes, la demande est soumise, préalablement à la mise à l'instruction, au commissaire de la République, qui décide si
+le projet doit être pris en considération.
+
+Sauf dans le cas où il est décidé de ne pas prendre le projet en considération, le commissaire de la République soumet la
+demande à l'instruction dans les conditions prévues à l'article R. 122-13. Le dossier comprend obligatoirement l'indication
+du montant de la redevance domaniale fixé par le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-703 1976-07-23 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°84-245 1984-04-03 art. 2 JORF 6 avril 1984
+
+	**Cité par**:
+
+	  - Code des transports - art. R5753-6 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes R122-13
 
 
 ##### Sous-section 4 : Dispositions communes relatives aux tarifs.
