@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1979-08-02
+Version Consolidée au 1980-03-11
 
 # Partie législative
 
@@ -2251,6 +2251,141 @@ de la taxe sont réduits de moitié.
 	  - Décret n°78-488 1978-03-22
 
 
+###### Article R*212-6
+
+La taxe sur le navire n'est pas due pour les navires énumérés ci-après :
+
+Navires câbliers ;
+
+Navires affectés au pilotage, au sauvetage et au remorquage ;
+
+Bâtiments de servitude ;
+
+Navires en relâche forcée qui n'effectuent aucune opération commerciale ;
+
+Navires qui n'embarquent, ne débarquent ou ne transbordent ni passagers ni marchandises autres que le fret postal ou les
+colis postaux et qui n'effectuent aucune opération de soutage ou d'avitaillement ;
+
+Navires qui, ne pouvant avoir accès à une installation portuaire, se trouvent obligés d'effectuer leurs opérations de
+débarquement ou d'embarquement ou de transbordement en dehors du port.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-803 1968-09-10 art. 6 III
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°80-192 art. 1 1980-02-29 JORF 11 mars 1980
+
+
+###### Article R*212-7
+
+La taxe sur le navire est liquidée distinctement à raison des opérations d'entrée et de sortie en fonction de la provenance
+et de la destination du navire. L'ensemble des droits ainsi calculés fait l'objet d'une perception unique par touchée du
+navire au port.
+
+Lorsqu'un navire, à l'entrée ou à la sortie, ne débarque, n'embarque ou ne transborde ni passagers, ni marchandises, la taxe
+sur le navire n'est liquidée et perçue qu'une fois, à la sortie ou à l'entrée, selon le cas. Lorsque le navire n'effectue que
+des opérations de soutage ou d'avitaillement, la taxe sur le navire n'est liquidée et perçue qu'une fois à la sortie.
+
+Pour la détermination des zones de provenance ou de destination, il est tenu compte :
+
+à l'entrée : du port d'embarquement des marchandises ou des passagers débarqués ou transbordés ;
+
+à la sortie : du port déclaré comme celui du débarquement des marchandises ou des passagers embarqués ou transbordés.
+
+Lorsque les marchandises et les passagers d'un même navire sont embarqués ou débarqués dans plusieurs ports n'appartenant pas
+à la même zone, il est tenu compte, pour le calcul de la taxe sur le navire, de la zone la plus éloignée.
+
+La taxe sur le navire doit être payée ou garantie avant le départ du navire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-803 1968-09-10 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°80-192 1980-02-29 art. 2 JORF 11 mars 1980
+
+
+###### Article R*212-8
+
+Lorsque, pour les navires qui transportent des passagers, le rapport existant entre le nombre de passagers débarqués,
+embarqués, ou transbordés et la capacité du navire en passagers est égal ou inférieur aux taux ci-après, le tarif d'entrée ou
+le tarif de sortie est réduit dans les proportions suivantes :
+
+Rapport inférieur ou égal à :
+
+2/3 réduction 10 % ;
+
+1/2 réduction 30 % ;
+
+1/4 réduction 50 % ;
+
+1/8 réduction 60 % ;
+
+1/20 réduction 70 % ;
+
+1/50 réduction 80 % ;
+
+1/100 réduction 95 %.
+
+Lorsque, pour les navires qui transportent des marchandises, le rapport existant entre le nombre de tonnes de marchandises
+débarquées, embarquées ou transbordées et le volume V, calculé comme indiqué à l'article R. 212-3 est égal ou inférieur aux
+taux ci-après, le tarif d'entrée ou le tarif de sortie est réduit dans les proportions suivantes :
+
+Rapport inférieur ou égal à :
+
+2/15 réduction 10 % ;
+
+1/10 réduction 30 % ;
+
+1/20 réduction 50 % ;
+
+1/40 réduction 60 % ;
+
+1/100 réduction 70 % ;
+
+1/250 réduction 80 % ;
+
+1/500 réduction 95 %.
+
+Les tarifs fixés pour chaque port peuvent prévoir des réductions plus élevées et définir des rapports différents tenant
+compte du type de navire et de la nature de la marchandise qu'il transporte.
+
+Ces réductions ne s'appliquent pas pour les navires n'effectuant que des opérations de soutage ou d'avitaillement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-803 1968-09-10 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°80-192 1980-02-29 art. 1 JORF 11 mars 1980
+
+	**Cite**:
+
+	  - Code des ports maritimes R212-3
+
+
 ###### Article R*212-9
 
 Pour les navires des lignes régulières ouvertes au public selon un itinéraire et un horaire fixés à l'avance, les taux de la
@@ -2624,6 +2759,33 @@ La partie de la redevance mise à la charge de l'acheteur reste acquise au port 
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
+###### Article R*213-5
+
+L'institution de la redevance sur les produits de la pêche exclut l'application, à ces mêmes produits, de la taxe sur les
+marchandises telle qu'elle est prévue à l'article R. 211-1.
+
+Toutefois, cette redevance peut être remplacée soit par la taxe sur les marchandises, soit par une taxe perçue en fonction du
+volume V défini à l'article R. 212-3 ci-dessus et de la durée de son séjour dans le port.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°80-192 1980-02-29 art. 1 JORF 11 mars 1980
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-1, R212-3
+
+
 #### Chapitre IV : Dispositions propres aux navires de plaisance ou de sport.
 
 ###### Article R*214-1
@@ -2646,6 +2808,34 @@ Cette redevance est à la charge du propriétaire du navire.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. R5321-45 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R*214-2
+
+La redevance d'équipement des ports de plaisance est perçue en fonction de la durée de stationnement dans le port considéré
+ainsi que de la longueur et de la largeur du navire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°68-803 1968-09-10 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°80-192 1980-02-29 art. 1 JORF 11 mars 1980
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-46 (V)
 
 	**Abrogé par**:
 
@@ -2745,17 +2935,6 @@ partir de ce seuil, un minimum de perception. Ce minimum ne peut excéder le dou
 	**Abrogé par**:
 
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
-
-
-###### Article R*215-2
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
 
 
 ### Titre III : Dispositions particulières aux ports des départements d'outre-mer.
@@ -2931,21 +3110,6 @@ réserve, soit à son affectation, est contresigné également par le ministre c
 	**Cite**:
 
 	  - Code des ports maritimes R211-12
-
-
-###### Article R*231-7
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-116 1969-01-27 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
 
 
 ## Livre III : Police des ports maritimes.
