@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1996-12-10
+Version Consolidée au 1997-05-22
 
 # Partie législative
 
@@ -9905,38 +9905,6 @@ pourraient en résulter.
 	**Anciens textes**:
 
 	  - Code des ports maritimes 59
-
-
-###### Article R*323-7
-
-Tout capitaine de navire entrant dans le port, en même temps qu'il se déclare aux officiers de port comme il est dit à
-l'article R. 323-1, est tenu de faire connaître la quantité de lest existant à bord de son navire, sous peine d'une amende de
-80 à 160 F.
-
-Le lest ne peut être déposé qu'aux points désignés par les officiers de port. Il doit être fait déclaration à ces officiers
-des quantités de lest chargées ou déchargées sous peine d'une amende de 40 F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°85-956 1985-09-11 art. 2 JORF 12 septembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°97-503 du 21 mai 1997 - art. 31 () JORF 22 mai 1997
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes 60
-
-	**Cite**:
-
-	  - Code des ports maritimes R323-1
 
 
 ###### Article R*323-8
