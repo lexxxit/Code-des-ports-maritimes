@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1983-12-23
+Version Consolidée au 1983-12-27
 
 # Partie législative
 
@@ -2452,6 +2452,220 @@ levée de l'opposition.
 	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
 
 
+###### Article R*211-8
+
+Après avoir reçu un numéro, les tarifs fixant dans chaque port les taux des droits de port sont affichés dans les locaux du
+port ouverts au public où ils peuvent être consultés par tout usager.
+
+Ils font l'objet d'un avis publié au Journal officiel et sont publiés par ailleurs au Bulletin officiel du ministère chargé
+des ports maritimes.
+
+Il entrent en vigueur à la date fixée suivant le cas, par le port autonome ou par la collectivité publique ou l'établissement
+public bénéficiaire ; cette date doit être postérieure de dix jours au moins à la date de publication de l'avis au Journal
+officiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
+
+	**Cité par**:
+
+	  - Code des transports - art. R4323-41 (M)
+	  - Code des transports - art. R4323-7 (M)
+
+
+###### Article R*211-9
+
+Les tarifs des droits de port visés à l'article R. 211-1 sont présentés suivant un cadre type uniforme, fixé par arrêté
+conjoint du ministre de l'économie et des finances et du ministre chargé des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-1
+
+
+##### Section 3 : Fixation des taux des droits de port dans les ports maritimes de la compétence du département et de la commune.
+
+###### Article R*211-9-2
+
+Lorsque le bénéficiaire des droits de port n'est pas la collectivité territoriale compétente en vertu de l'article 6 de la
+loi n° 83-663 du 22 juillet 1983, la collectivité ou l'établissement public bénéficiaire transmet sa délibération, avec le
+dossier nécessaire à l'instruction, au président du conseil général ou au maire selon le cas.
+
+L'instruction doit être ouverte dans un délai de quinze jours compter de cette transmission.
+
+Quinze jours au plus après la clôture de l'instruction, les projets de taux sont considérés comme approuvés, sauf opposition
+expresse et motivée de l'autorité mentionnée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°83-663 1983-07-22 art. 6
+
+	**Créé par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+
+
+###### Article R*211-9-3
+
+Lorsque la fixation ou la modification des droits de port sont prévues comme conséquence d'un projet concernant des travaux
+d'aménagement soumis à une instruction ou à une enquête publique en vertu du titre Ier du livre VI du présent code, ladite
+enquête ou instruction peut être confondue avec l'instruction prévue à l'article R. 211-9-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-9-1
+
+
+###### Article R*211-9-5
+
+Les tarifs des droits de port applicables dans les ports relevant de la compétence des départements et des communes sont
+présentés suivant le cadre type uniforme mentionné à l'article R. 211-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 3 JORF 27 décembre 1983
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-9
+
+
+##### Section 4 : Affectation du produit du droit de port.
+
+###### Article R*211-10
+
+Les taux des redevances mentionnées à l'article R. 211-1, à l'exclusion de la taxe sur les passagers sont perçus au profit
+des collectivités ou des établissements publics participant au financement des travaux du port, sous réserve des dispositions
+de l'article R. 213-4 pour les ports de pêche.
+
+L'affectation du produit de la taxe sur les passagers est régie par le second alinéa de l'article L. 211-3 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 14 (V)
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 4 JORF 27 décembre 1983
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L211-3 (M)
+	  - Code des ports maritimes R211-1, R213-4, L211-3
+
+
+###### Article R*211-11
+
+Le produit des redevances d'équipement des ports de pêche et des ports de plaisance ne peut être utilisé qu'à des dépenses
+effectuées respectivement dans l'intérêt de la pêche ou de la plaisance et relatives à l'établissement, à l'amélioration ou
+au renouvellement et à l'entretien de tous les équipements du port et à l'amélioration des profondeurs de ses rades, passes,
+chenaux et bassins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 4 JORF 27 décembre 1983
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-17 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R*211-12
+
+Le produit des droits de port perçus dans les ports non autonomes constitue pour les collectivités, établissements publics et
+autres organismes gestionnaires, une recette ordinaire affectée à l'ensemble des dépenses du port, à l'exclusion de toute
+autre dépense.
+
+L'excédent de ce produit par rapport aux dépenses portuaires est versé chaque année à un fonds spécial de réserve ouvert dans
+la comptabilité de ces collectivités, établissements publics ou organismes.
+
+Pour les ports relevant de la compétence de l'Etat, lorsque ce fonds spécial de réserve atteint le maximum fixé par arrêté
+conjoint du ministre chargé de l'économie, du ministre chargé des ports maritimes et du ministre chargé de la tutelle des
+collectivités, établissements publics ou organismes considérés, ces collectivités, établissements publics ou organismes
+entendus, il peut être décidé, dans la même forme, de l'affecter soit au remboursement anticipé d'emprunts contractés à des
+fins d'investissements portuaires, soit à la réduction des taux du droit de port. Pour les ports relevant de la compétence
+des départements ou des communes, les décisions mentionnées à l'alinéa précédent sont prises par le conseil général ou le
+conseil municipal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°67-1175 1967-12-28 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 4, art. 5 JORF 27 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-566 du 29 juin 2001 - art. 7 () JORF 30 juin 2001
+
+
 #### Chapitre II : Dispositions propres aux navires de commerce.
 
 ###### Article R*212-1
@@ -2804,6 +3018,22 @@ français de la métropole ;
 	  - Décret n°78-488 1978-03-22
 
 
+###### Article R*212-12
+
+La taxe de stationnement est applicable aux navires dont le séjour au port dépasse un délai déterminé en fonction des
+conditions d'exploitation et du trafic qui sont propres à ce port.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 6 JORF 27 décembre 1983
+
+
 ##### Section 2 : Taxe sur les marchandises.
 
 ###### Article R*212-13
@@ -2985,6 +3215,26 @@ dans chaque port, en fonction du prix du billet, par le tarif qui fixe les droit
 	**Cite**:
 
 	  - Code des ports maritimes R212-9
+
+
+###### Article R*212-22
+
+La taxe sur les passagers entre en application dans chaque port à la date d'entrée en vigueur du tarif qui fixe les droits de
+port.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1147 1983-12-23 art. 7 JORF 27 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
 
 
 #### Chapitre III : Dispositions propres aux navires de pêche.
