@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2002-01-23
+Version Consolidée au 2002-04-05
 
 # Partie législative
 
@@ -3562,14 +3562,7 @@ opérations de manutention sur les quais des ports de la circonscription depuis 
 
 Le conseil d'administration élit un vice-président choisi parmi ses membres.
 
-Les fonctions de président et de vice-président du conseil d'administration du port autonome prennent fin au plus tard
-lorsque le titulaire atteint l'âge de soixante-cinq ans.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-933 1965-11-08 art. 3
 
 	**Codifié par**:
 
@@ -3577,7 +3570,15 @@ lorsque le titulaire atteint l'âge de soixante-cinq ans.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°2002-457 du 3 avril 2002 - art. 1 () JORF 5 avril 2002
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-15 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*112-7-1
@@ -4167,14 +4168,14 @@ membres du conseil d'administration au moins dix jours ouvrables avant la date p
 Dès la première réunion du conseil, il est procédé à l'élection du bureau composé du président, du vice-président et du
 secrétaire choisis parmi les membres du conseil. Les candidats aux fonctions de membres du bureau doivent, au moins trois
 jours ouvrables avant la séance du conseil au cours de laquelle il doit être procédé à l'élection du bureau, se faire
-connaître auprès du commissaire du Gouvernement et lui transmettre la déclaration mentionnée à l'article R. 112-7-1. Faute
+connaître auprès du commissaire du Gouvernement et lui transmettre la déclaration mentionnée à l'article R. *112-7-1. Faute
 pour les candidats d'avoir observé ces formalités, leur candidature est irrecevable. Préalablement au vote, le commissaire du
 Gouvernement informe le conseil d'administration de ce qu'un candidat, s'il venait à être élu, lui paraîtrait susceptible de
 s'exposer, dans ses fonctions de membre du bureau, à l'application des dispositions de l'article 432-12 du code pénal.
 
 Le mandat des membres du bureau prend fin en même temps que celui des administrateurs nommés par décret ; sauf application
-des dispositions du second alinéa de l'article R. 112-7, le mandat de ces membres expire avec leur mandat de membre du
-conseil. Les membres sortants du bureau sont rééligibles à celui-ci.
+aux fonctions de président des règles relatives à la limite d'âge, le mandat de ces membres expire avec leur mandat de membre
+du conseil. Les membres sortants du bureau sont rééligibles à celui-ci.
 
 Le conseil d'administration peut adjoindre au secrétaire des secrétaires auxiliaires pris dans le personnel du port autonome
 qui assistent aux séances sans prendre part aux délibérations.
@@ -4183,16 +4184,24 @@ qui assistent aux séances sans prendre part aux délibérations.
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°99-76 du 5 février 1999 - art. 5 () JORF 7 février 1999
+	  - Décret n°2002-457 du 3 avril 2002 - art. 2 () JORF 5 avril 2002
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-31 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 432-12 (M)
-	  - Code des ports maritimes R112-7-1, R112-7
+	  - Code pénal - art. 432-12
+	  - Code des ports maritimes
 
 
 ###### Article R*113-2
