@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2002-04-30
+Version Consolidée au 2003-09-27
 
 # Partie législative
 
@@ -3311,6 +3311,46 @@ R. 114-1 et R. 114-5.
 	  - Code des ports maritimes - art. R*114-6
 
 
+###### Article R*111-15
+
+Le directeur du port autonome établit, pour des périodes successives de trois années, le cas échéant en concertation avec
+d'autres ports de la même façade maritime, un plan de réception et de traitement des déchets d'exploitation des navires et
+des résidus de cargaison permettant de répondre aux besoins des navires utilisant le port.
+
+Un arrêté conjoint du ministre chargé des ports maritimes et du ministre chargé de l'environnement définit le contenu et les
+modalités d'élaboration de ces plans, qui comportent notamment le recensement des besoins et des installations utilisables,
+les procédures de réception et le système de tarification.
+
+Le plan de réception et de traitement des déchets d'exploitation des navires et des résidus de cargaison est approuvé, après
+avis du conseil d'administration du port autonome, par le préfet du département où se situent les installations principales
+du port. En cas de modification significative des conditions d'exploitation du port ayant des répercussions sur les besoins
+en installations portuaires de réception des déchets d'exploitation et des résidus de cargaison, le plan est mis à jour et
+approuvé dans les mêmes conditions que le plan initial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 1 () JORF 27 septembre 2003
+
+	**Cité par**:
+
+	  - Arrêté du 21 juillet 2004 - art. 1 (M)
+	  - Arrêté du 7 juillet 2009 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-80 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
 #### Chapitre II : Organisation.
 
 ##### Section 1 : Conseil d'administration.
@@ -6091,6 +6131,52 @@ R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
+###### Article R*121-2
+
+Le directeur du port établit, pour des périodes successives de trois années, le cas échéant en concertation avec d'autres
+ports de la même façade maritime, un plan de réception et de traitement des déchets d'exploitation des navires et des résidus
+de cargaison permettant de répondre aux besoins des navires utilisant le port.
+
+Un arrêté conjoint du ministre chargé des ports maritimes et du ministre chargé de l'environnement définit le contenu et les
+modalités d'élaboration de ces plans, qui comportent notamment le recensement des besoins et des installations utilisables,
+les procédures de réception et le système de tarification.
+
+Le plan de réception et de traitement des déchets d'exploitation des navires et des résidus de cargaison est approuvé, après
+avis du conseil portuaire, par le préfet du département où se situent les installations principales du port. En cas de
+modification significative des conditions d'exploitation du port ayant des répercussions sur les besoins en installations
+portuaires de réception des déchets d'exploitation et des résidus de cargaison, le plan est mis à jour et approuvé dans les
+mêmes conditions que le plan initial.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 1 () JORF 27 septembre 2003
+
+	**Cité par**:
+
+	  - Arrêté du 21 juillet 2004 - art. 1 (M)
+	  - Arrêté du 7 juillet 2009 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5314-7 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
 ###### Article R*121-3
 
 Le directeur du port est chargé d'établir, en ce qui concerne la gestion et toutes les affaires intéressant la bonne
@@ -7059,32 +7145,51 @@ compétence de l'Etat) est renouvelé pour une durée de cinq ans à compter du 
 
 ###### Article R*141-2
 
-Le conseil portuaire est obligatoirement consulté sur les objets suivants :
+Le conseil portuaire est obligatoirement consulté sur les objets suivants : 
 
-1° La délimitation administrative du port et ses modifications ;
+1° La délimitation administrative du port et ses modifications ; 
 
-2° Le budget prévisionnel du port, les décisions de fonds de concours du concessionnaire ;
+2° Le budget prévisionnel du port, les décisions de fonds de concours du concessionnaire ; 
 
-3° Les tarifs et conditions d'usage des outillages, les droits de port ;
+3° Les tarifs et conditions d'usage des outillages, les droits de port ; 
 
-4° Les avenants aux concessions et concessions nouvelles ;
+4° Les avenants aux concessions et concessions nouvelles ; 
 
-5° Les projets d'opérations de travaux neufs ;
+5° Les projets d'opérations de travaux neufs ; 
 
-6° Les sous-traités d'exploitation ;
+6° Les sous-traités d'exploitation ; 
 
 7° Les règlements particuliers de police et les dispositions permanentes relatives à la police des surfaces encloses prévues
-à l'article R. 341-5 du présent code.
+à l'article R. *341-5 du présent code. 
+
+8° Le plan de réception et de traitement des déchets d'exploitation des navires et des résidus de cargaison. 
 
 Il est fait chaque année au conseil portuaire un rapport général sur la situation du port et son évolution sur le plan
-économique, financier, social, technique et administratif.
+économique, financier, social, technique et administratif. 
 
-Ce rapport, présenté par le préfet, est complété de toutes observations jugées utiles par le représentant du concessionnaire.
+Ce rapport, présenté par le préfet, est complété de toutes observations jugées utiles par le représentant du
+concessionnaire. 
 
-A ce rapport sont annexés les comptes rendus d'exécution des budgets de l'exercice précédent et de l'exercice en cours.
+A ce rapport sont annexés les comptes rendus d'exécution des budgets de l'exercice précédent et de l'exercice en cours. 
 
 Le conseil portuaire reçoit régulièrement communication des statistiques portant sur le trafic du port établies par le préfet
 et le concessionnaire.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+portuaire - ports non autonomes des départements d'outre-mer relevant de l'Etat).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil portuaire - ports d'intérêt national relevant de la compétence de l'Etat).
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.  
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil portuaire (ports d'intérêt national relevant de la
+compétence de l'Etat) est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
@@ -7094,11 +7199,15 @@ et le concessionnaire.
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 1 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R341-5
+	  - Code des ports maritimes - art. R*341-5 (Ab)
 
 
 ###### Article R*141-3
@@ -7922,9 +8031,13 @@ c) Une redevance sur les marchandises ;
 
 d) Une redevance sur les passagers ;
 
+e) Une redevance sur les déchets d'exploitation des navires ;
+
 2° Pour les navires de pêche, une redevance d'équipement des ports de pêche ;
 
-3° Pour les navires de plaisance ou de sport, une redevance d'équipement des ports de plaisance.
+3° Pour les navires de plaisance ou de sport, une redevance d'équipement des ports de plaisance et, pour ceux ayant un
+agrément délivré par l'autorité maritime pour le transport de plus de 12 passagers, une redevance sur les déchets
+d'exploitation des navires.
 
 **Liens relatifs à cet article**
 
@@ -7934,11 +8047,20 @@ d) Une redevance sur les passagers ;
 
 	**Modifié par**:
 
-	  - Décret n°2001-566 2001-06-29 art. 4 I, II JORF 30 juin 2001
-	  - Décret n°2001-566 du 29 juin 2001 - art. 4 () JORF 30 juin 2001
+	  - Décret n°2003-920 2003-09-22 art. 2 I, II JORF 27 septembre 2003
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cité par**:
 
+	  - Code des ports maritimes - art. R211-10 (Ab)
 	  - Code des ports maritimes - art. R211-2-1 (Ab)
 
 
@@ -8449,20 +8571,29 @@ chenaux et bassins.
 ###### Article R*212-1
 
 Le droit de port applicable aux navires de commerce est perçu tant à l'entrée qu'à la sortie, lors de chaque escale des
-navires de commerce de toute nationalité, dans les ports de France métropolitaine.
+navires de commerce de toute nationalité, dans les ports de France métropolitaine, à l'exception de la redevance sur les
+déchets d'exploitation des navires, qui est perçue à la sortie.
 
 Les aéroglisseurs et les hydroglisseurs qui effectuent une navigation maritime et des opérations commerciales ou des séjours
 dans les ports, sont considérés comme navires de commerce pour l'application du présent livre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-803 1968-09-10 art. 5
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-18 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ##### Section 1 : Redevance sur le navire et redevance de stationnement.
@@ -8773,7 +8904,7 @@ période de la journée, de la semaine ou de l'année où s'effectuent les touch
 
 ###### Article R*212-11
 
-Par dérogation aux articles R. 211-1, R. 212-3, R. 212-7 à R. 212-10, l'acte fixant dans chaque port la redevance sur le
+Par dérogation aux articles R. *211-1, R. *212-3, R. *212-7 à R. *212-10, l'acte fixant dans chaque port la redevance sur le
 navire peut prévoir, en cas d'ouverture de relations nouvelles, que les navires effectuant un transport maritime de
 passagers, de marchandises sur remorques (dites RO-RO) ou de conteneurs entre les Etats membres de l'Union européenne ou des
 Parties à l'accord de l'Espace économique européen sont soumis pendant une durée n'excédant pas trois ans :
@@ -8781,22 +8912,30 @@ Parties à l'accord de l'Espace économique européen sont soumis pendant une du
 1° Soit à un forfait de redevance fixé pour l'ensemble de leur activité pour une période déterminée et liquidé pro rata
 temporis par échéances au plus de trois mois ;
 
-2° Soit à un forfait de redevance fixé à l'unité par passager, remorque, tonne ou multiples de tonnes, ou conteneur.
+2° Soit à un forfait de redevance fixé à l'unité par passager, remorque, tonne ou multiples de tonnes, ou conteneur, cette
+redevance tenant lieu de redevance sur le navire et de redevance sur les déchets d'exploitation des navires.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°2001-566 2001-06-29 art. 8 I, IV JORF 30 juin 2001
-	  - Décret n°2001-566 du 29 juin 2001 - art. 8 () JORF 30 juin 2001
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-28 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-1, R212-3, R212-7 à R212-10
+	  - Code des ports maritimes
 
 
 ###### Article R*212-12
@@ -9055,6 +9194,85 @@ heures.
 	**Abrogé par**:
 
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Section 4 : Financement des coûts de réception et de traitement des déchets d'exploitation des navires.
+
+###### Article R*212-20
+
+Les coûts de réception et de traitement des déchets d'exploitation des navires dans les ports sont à la charge des armateurs,
+quel que soit le prestataire qui réalise ces opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-37 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R*212-21
+
+I. - Tout navire faisant escale dans un port est assujetti au paiement d'une redevance au titre des prestations de réception
+et de traitement des déchets d'exploitation du navire, lorsque celles-ci sont réalisées en tout ou en partie par les
+organismes mentionnés aux a, b et c de l'article R. *211-10. Cette redevance, qui est perçue au profit de ces organismes,
+constitue un droit de port qui doit être payé ou garanti avant le départ du navire.
+
+II. - Les tarifs de la redevance sur les déchets d'exploitation des navires, arrêtés par chaque port en fonction de la
+catégorie, du type et de la taille des navires, doivent refléter les coûts des prestations réalisées par les organismes
+mentionnés au I du présent article pour la réception et le traitement des déchets d'exploitation.
+
+III. - Dans le cas où un navire ne dépose pas ses déchets d'exploitation dans les installations figurant au plan de réception
+et de traitement des déchets d'exploitation et des résidus de cargaison du port, il est assujetti au versement d'une somme
+correspondant à 30 % du coût estimé par le port pour la réception et le traitement de ses déchets d'exploitation.
+
+Cette somme est perçue au profit d'un des organismes mentionnés au I et affectée au financement des installations de
+réception et de traitement de ces déchets mentionnées au plan de réception et de traitement des déchets d'exploitation et des
+résidus de cargaison du port.
+
+IV. - L'information des usagers prévue aux articles R. *211-8 et R. *211-9 comporte l'indication des bases de calcul de la
+redevance.
+
+V. - Le tarif arrêté par chaque port peut prévoir une exemption de la redevance pour les navires qui, effectuant des escales
+fréquentes et régulières, selon un itinéraire et un horaire fixés à l'avance, ne déposent pas leurs déchets d'exploitation
+dans le port, si le capitaine du navire peut justifier qu'il est titulaire soit d'un certificat de dépôt, soit d'un contrat
+de dépôt des déchets d'exploitation de son navire et du paiement de la redevance y afférente, passé dans un port d'un Etat
+membre de la Communauté européenne situé sur l'itinéraire effectif du navire. Cette attestation devra être validée par les
+autorités portuaires de ce port.
+
+VI. - Le tarif peut également prévoir une réduction du montant de la redevance, lorsque la gestion, la conception,
+l'équipement et l'exploitation d'un navire sont tels qu'il est établi que le navire produit des quantités réduites de déchets
+d'exploitation. Les conditions exigées pour l'octroi de cette réduction sont précisées par arrêté conjoint du ministre chargé
+des ports maritimes et du ministre chargé de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+
+	**Cité par**:
+
+	  - Arrêté du 5 juillet 2004 - art. 2 (M)
+
+	**Cite**:
+
+	  - Code des ports maritimes R211-10, R211-8, R211-9
 
 
 #### Chapitre III : Dispositions propres aux navires de pêche.
@@ -9334,6 +9552,34 @@ avant le départ du navire.
 	**Abrogé par**:
 
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R*214-6
+
+Les dispositions des articles R. *212-20 et R. *212-21 sont applicables aux navires de plaisance ayant un agrément délivré
+par l'autorité compétente pour le transport de plus de 12 passagers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-50 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
 
 
 #### Chapitre V : Dispositions diverses.
@@ -10205,7 +10451,9 @@ prévue pour la contravention de la 3ème classe.
 	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
-###### Article R*323-11
+#### Chapitre IV : Sûreté portuaire.
+
+###### Article R*324-1
 
 La sûreté des transports maritimes et des opérations portuaires qui s'y rattachent mentionnée à l'article L. 323-5 consiste à
 assurer la protection des passagers, des équipages, des personnels portuaires, des navires ou autres engins de navigation,
@@ -10219,22 +10467,22 @@ des véhicules, des marchandises et des installations portuaires.
 
 	**Créé par**:
 
-	  - Décret n°97-1162 du 17 décembre 1997 - art. 1 () JORF 21 décembre 1997
-
-	**Transféré par**:
-
 	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
 
 	**Cite**:
 
 	  - Code des ports maritimes - art. L323-5 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des ports maritimes R324-1
+	  - Code des ports maritimes R323-11
 
 
-###### Article R*323-12
+###### Article R*324-2
 
 Le périmètre des zones portuaires non librement accessibles au public, dans lesquelles peuvent s'exercer les prérogatives
 énoncées à l'article L. 323-5, est délimité par arrêté préfectoral, sur proposition du directeur du port ou de l'autorité
@@ -10253,22 +10501,22 @@ véhicules, ainsi que le chargement, déchargement, stockage ou dépôt de march
 
 	**Créé par**:
 
-	  - Décret n°97-1162 du 17 décembre 1997 - art. 1 () JORF 21 décembre 1997
-
-	**Transféré par**:
-
 	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
 
 	**Cite**:
 
 	  - Code des ports maritimes - art. L323-5 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des ports maritimes R324-2
+	  - Code des ports maritimes R323-12
 
 
-###### Article R*323-13
+###### Article R*324-3
 
 La désignation des personnes susceptibles d'être agréées, en application du b de l'article L. 323-5, est faite, selon le cas,
 par le directeur du port s'il s'agit d'un port autonome, par le chef du service maritime pour un port d'intérêt national, par
@@ -10282,22 +10530,22 @@ le président du conseil général ou par le maire pour les ports relevant de la
 
 	**Créé par**:
 
-	  - Décret n°97-1162 du 17 décembre 1997 - art. 1 () JORF 21 décembre 1997
-
-	**Transféré par**:
-
 	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
 
 	**Cite**:
 
 	  - Code des ports maritimes - art. L323-5 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des ports maritimes R324-3
+	  - Code des ports maritimes R323-13
 
 
-###### Article R*323-14
+###### Article R*324-4
 
 La personne publique gestionnaire du port constitue, pour chaque agent présenté en vue de l'agrément pour l'exercice des
 missions de sûreté prévues à l'article L. 323-5, un dossier de demande d'agrément dont la composition et les modalités de
@@ -10333,22 +10581,22 @@ l'autorité compétente notifie à l'intéressé en même temps le retrait envis
 
 	**Créé par**:
 
-	  - Décret n°97-1162 du 17 décembre 1997 - art. 1 () JORF 21 décembre 1997
-
-	**Transféré par**:
-
 	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
 
 	**Cite**:
 
 	  - Code des ports maritimes - art. L323-5 (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des ports maritimes R324-4
+	  - Code des ports maritimes R323-14
 
 
-###### Article R*323-15
+###### Article R*324-5
 
 L'agent agréé porte en permanence une carte professionnelle avec sa photographie d'identité ainsi qu'un signe distinctif de
 sa fonction.
@@ -10367,15 +10615,90 @@ confiées.
 
 	**Créé par**:
 
-	  - Décret n°97-1162 du 17 décembre 1997 - art. 1 () JORF 21 décembre 1997
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
 
-	**Transféré par**:
+	**Abrogé par**:
+
+	  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes R323-15
+
+
+#### Chapitre V : Déchets d'exploitation et résidus de cargaison des navires.
+
+###### Article R*325-1
+
+Les capitaines de navires ou leurs agents consignataires doivent, avant que le navire quitte le port, fournir à l'autorité
+portuaire une attestation délivrée par le ou les prestataires de service ayant procédé à la collecte des déchets
+d'exploitation et des résidus de cargaison du navire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
 
 	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
 
+
+###### Article R*325-2
+
+Lorsque, en application du troisième alinéa de l'article L. 325-1, l'autorité portuaire autorise un navire à prendre la mer
+sans avoir préalablement fait procéder à la collecte et au traitement de ses déchets d'exploitation et résidus de cargaison,
+elle en informe le prochain port d'escale déclaré par le capitaine du navire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L325-1
+
 	**Nouveaux textes**:
 
-	  - Code des ports maritimes R324-5
+	  - Code des ports maritimes - art. R343-2 (Ab)
+
+
+###### Article R*325-3
+
+Les capitaines de navires, autres que les navires de pêche et les bateaux de plaisance ayant un agrément pour 12 passagers au
+maximum, doivent fournir, au moins 24 heures avant l'arrivée dans le port, sauf cas d'urgence, au bureau des officiers de
+port, les informations sur les déchets d'exploitation et les résidus de cargaison de leurs navires.
+
+Un arrêté du ministre chargé des ports maritimes fixe le contenu du formulaire qui doit être rempli à cet effet.
+
+Le capitaine du navire doit présenter au bureau des officiers de port et à l'autorité maritime sur leur demande, les
+documents attestant du dépôt des déchets, d'exploitation et des résidus de cargaison, fournis au port d'escale précédent, si
+celui-ci est situé dans un Etat membre de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
 
 
 ### Titre III : Polices du balisage et des matières dangereuses ou infectes.
@@ -13371,7 +13694,8 @@ La date et l'heure de l'arrivée ;
 
 Le tirant d'eau maximum du bâtiment à son arrivée au port ;
 
-La nature et le tonnage des différentes matières et cargaisons dangereuses transportées (en transit ou à débarquer) ;
+La nature et le tonnage des différentes matières et cargaisons dangereuses transportées (en transit ou à débarquer) ainsi que
+la nature et le tonnage des déchets d'exploitation et résidus de cargaison du navire ;
 
 Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
 
@@ -13390,7 +13714,7 @@ L'accès au port peut être subordonné à la visite préalable d'un expert agr�
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 21 () JORF 11 septembre 1999
+	  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
 
 
 ### Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès.
