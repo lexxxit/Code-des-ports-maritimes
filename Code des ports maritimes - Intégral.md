@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1999-09-11
+Version Consolidée au 1999-09-19
 
 # Partie législative
 
@@ -2672,6 +2672,51 @@ ministre chargé des ports maritimes et au préfet de région.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. R5313-4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
+
+
+###### Article R*111-5-1
+
+Les limites de la circonscription d'un port autonome peuvent être modifiées sur proposition du conseil d'administration par
+décret en Conseil d'Etat dans les conditions prévues à l'article R. *111-3 et selon la procédure d'instruction définie ci-
+après.
+
+Le directeur du port autonome établit un dossier à soumettre à l'instruction qui comporte :
+
+1° La description des limites futures de circonscription du port et la justification des modifications envisagées ;
+
+2° Un plan sur lequel figure le périmètre de l'établissement autonome, tant du côté de la mer que du côté des terres, faisant
+apparaître les modifications qu'il est envisagé d'apporter aux limites existantes ;
+
+3° La liste des collectivités publiques, des services et établissements publics intéressés.
+
+Le dossier, après accord du conseil d'administration, est soumis sans délai à l'approbation du ministre chargé des ports
+maritimes. Celui-ci invite le directeur du port autonome à procéder à l'instruction dans les formes prévues par l'article R.
+*122-9, sans consultation de la commission nautique locale ni ouverture d'une instruction mixte.
+
+Dans le délai de quinze jours suivant la clôture de l'instruction, le directeur du port autonome adresse le dossier et le
+rapport d'instruction au ministre chargé des ports maritimes et au préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 1 () JORF 19 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-5 (V)
 
 	**Abrogé par**:
 
