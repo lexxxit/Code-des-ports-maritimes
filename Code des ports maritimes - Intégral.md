@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2001-01-01
 
 # Partie législative
 
@@ -801,9 +801,8 @@ dans les départements d'outre-mer.
 ###### Article L211-1
 
 Un droit de port peut être perçu dans les ports maritimes relevant de la compétence de l'Etat, des départements et des
-communes, à raison des opérations commerciales ou des séjours des navires qui y sont effectués. Sous réserve des dispositions
-de l'article L. 211-2, l'assiette de ce droit, qui peut comporter plusieurs éléments, et la procédure de fixation des taux de
-ce droit sont fixées par voie réglementaire.
+communes, à raison des opérations commerciales ou des séjours des navires qui y sont effectués. L'assiette de ce droit, qui
+peut comporter plusieurs éléments, et la procédure de fixation des taux de ce droit sont fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -813,7 +812,7 @@ ce droit sont fixées par voie réglementaire.
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 8 () JORF 23 juillet 1983
+	  - Loi - art. 24 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
@@ -825,52 +824,27 @@ ce droit sont fixées par voie réglementaire.
 	  - Code des douanes - art. 285 (M)
 
 
-###### Article L211-2
-
-Le droit de port applicable aux navires de commerce comprend notamment une taxe sur les passagers débarqués, embarqués ou
-transbordés, à la charge de l'armateur. L'assiette et les taux de cette taxe sont les mêmes dans tous les ports ; ils sont
-fixés par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°89-323 du 26 avril 1989
-	  - TXT_SOURCE: Décret n°89-323 du 26 avril 1989 - art. 3 (V)
-
-	**Abrogé par**:
-
-	  - Loi - art. 25 () JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. L211-3 (M)
-	  - Code des ports maritimes - art. R*211-1 (M)
-	  - Code des ports maritimes - art. R*212-17 (M)
-	  - Code général des collectivités territoriales - art. L2331-3 (M)
-	  - Code général des collectivités territoriales - art. L2331-4 (M)
-
-
 ###### Article L211-3
 
 L'affectation du produit des droits de port est fixée par voie réglementaire.
 
-Toutefois, la taxe sur les passagers visée à l'article L. 211-2 est perçue à concurrence de 75 % au profit des collectivités
-et des établissements publics participant au financement des travaux du port et à concurrence de 25 % au profit de l'Etat.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L211-2 (Ab)
+	  - Loi - art. 24 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5321-2 (V)
 
 	**Cité par**:
 
@@ -880,9 +854,9 @@ et des établissements publics participant au financement des travaux du port et
 
 ###### Article L211-4
 
-Conformément aux dispositions de l'article 280 du code des douanes, les droits, taxes et redevances institués par le présent
-titre sont perçus comme en matière de douane ; les infractions sont constatées et punies, les poursuites sont effectuées et
-les instances sont instruites et jugées comme en matière de douane.
+Conformément aux dispositions du sixième alinéa de l'article 285 du code des douanes, les droits, taxes et redevances
+institués par le présent titre sont perçus comme en matière de douane ; les infractions sont constatées et punies, les
+poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane.
 
 Les frais de perception et de procédure incombant à l'administration sont prélevés sur le produit des droits, taxes et
 redevances dans les conditions fixées par arrêté du ministre de l'économie et des finances.
@@ -893,9 +867,21 @@ redevances dans les conditions fixées par arrêté du ministre de l'économie e
 
 	  - Décret n°78-487 1978-03-22
 
+	**Modifié par**:
+
+	  - Loi - art. 24 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5321-3 (V)
+
 	**Cite**:
 
-	  - Code des douanes - art. 280 (Ab)
+	  - Code des douanes - art. 285
 
 
 ###### Article L211-5
