@@ -16,8 +16,8 @@ Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
 
 Un message rectificatif doit être envoyé en cas de changement.
 
-La capitainerie du port peut interdire l'accès du port aux bâtiments dont l'entrée serait susceptible de compromettre la
-sécurité, la santé, la conservation ou la bonne exploitation des ouvrages portuaires.
+Les officiers de port peuvent interdire l'accès du port aux bâtiments dont l'entrée serait susceptible de compromettre la
+sécurité, la santé ou l'environnement ainsi que la conservation ou la bonne exploitation des ouvrages portuaires.
 
 L'accès au port peut être subordonné à la visite préalable d'un expert agréé par le directeur du port.
 
@@ -27,6 +27,6 @@ L'accès au port peut être subordonné à la visite préalable d'un expert agr�
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22 JORF 2 avril 1978 rectificatif JORF 23 janvier 1979
+	  - Décret n°99-782 du 9 septembre 1999 - art. 21 () JORF 11 septembre 1999

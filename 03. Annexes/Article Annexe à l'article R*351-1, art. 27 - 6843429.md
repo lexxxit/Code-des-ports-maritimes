@@ -5,7 +5,7 @@ Il est interdit :
 De faire circuler ou stationner des véhicules sur les couronnements des quais et sur les caniveaux de grues et plus
 généralement sur tous les ouvrages non prévus pour cet usage ;
 
-De lancer à terre aucune marchandise depuis le bord d'un bâtiment, sans autorisation du directeur du port ;
+De lancer à terre toute marchandise que ce soit depuis le bord d'un navire ;
 
 D'embarquer ou de débarquer des marchandises susceptibles de dégrader les ouvrages portuaires, en particulier le couronnement
 des quais et le revêtement des terre-pleins, les rails, les ouvrages souterrains, sans avoir au préalable protégé ces
@@ -23,6 +23,10 @@ endommagé ces ouvrages est tenue de les remettre en état.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22 JORF 2 avril 1978 rectificatif JORF 23 janvier 1979
+	  - Décret n°99-782 du 9 septembre 1999 - art. 22 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-877 du 17 juillet 2009 (Ab)

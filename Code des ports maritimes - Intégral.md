@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1999-09-09
+Version Consolidée au 1999-09-11
 
 # Partie législative
 
@@ -2600,95 +2600,94 @@ finances et du ministre chargé de la marine marchande.
 
 ###### Article R*111-4
 
-Le ministre chargé des ports maritimes, en même temps qu'il soumet à l'avis des ministres visés à l'article R. 111-1 le
+Le ministre chargé des ports maritimes, en même temps qu'il soumet à l'avis des ministres visés à l'article R. *111-1 le
 projet de décret portant création du port autonome, engage la procédure d'instruction préalable à la détermination de la
 circonscription du port.
 
-Le préfet du département du port principal établit, sur proposition du directeur du port autonome existant ou de l'ingénieur
-en chef du service maritime intéressé, le dossier à soumettre à l'instruction.
+Le préfet du département du port principal établit, sur proposition du directeur du port autonome existant ou du directeur du
+port intéressé, le dossier à soumettre à l'instruction.
 
 Ce dossier comporte une notice indiquant :
 
-1° les limites de circonscription du futur port autonome ;
+1° Les limites de circonscription du futur port autonome ;
 
-2° s'il y a lieu, la date à laquelle le régime de l'autonomie défini par le présent titre sera substitué au régime
+2° S'il y a lieu, la date à laquelle le régime de l'autonomie défini par le présent titre sera substitué au régime
 d'autonomie précédemment en vigueur ;
 
-3° la liste des conseils portuaires qui doivent être consultés par application de l'article R. 111-5 ;
+3° La liste des conseils portuaires existants qui doivent être consultés par application de l'article R. *111-5 ;
 
-4° la liste des collectivités publiques, des services et établissements publics intéressés.
+4° La liste des collectivités publiques, des services et établissements publics intéressés.
 
 Le dossier comporte, en outre, un plan indiquant le périmètre de l'établissement autonome tant du côté de la mer que du côté
 des terres.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 2
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R111-1, R111-5
+	  - Code des ports maritimes
 
 
 ###### Article R*111-5
 
 Le dossier est soumis sans délai avec un rapport justificatif à l'approbation du ministre chargé des ports maritimes. Celui-
-ci invite le préfet à procéder à l'instruction dans les formes prévues par l'article R. 122-10 et le premier alinéa de
-l'article R. 122-11, sans consultation de la commission nautique locale et sans ouverture d'une instruction mixte.
+ci invite le préfet à procéder à l'instruction dans les formes prévues par l'article R. 122-9, sans consultation de la
+commission nautique locale ni ouverture d'une instruction mixte.
 
-Si la circonscription du port autonome à créer doit englober plusieurs ports, l'instruction doit comporter, le cas échéant,
-la consultation de chacun des conseils portuaires existant dans ces ports.
+Si la circonscription du port autonome à créer englobe un ou plusieurs ports, le conseil portuaire de ces ports est consulté.
 
-Les collectivités publiques qui doivent être consultées comprennent exclusivement les départements et les communes sur le
-territoire desquels s'étend la circonscription du port autonome. Dans l'intervalle des sessions du conseil général, l'avis du
-département est donné par la commission départementale.
-
-Le conseil municipal d'une commune intéressée doit être, s'il y a lieu, convoqué en séance extraordinaire pour faire
-connaître son avis.
+Les collectivités publiques intéressées à consulter sont les régions, les départements, les communes et les établissements de
+coopération intercommunale compétents en matière d'aménagement de l'espace sur le territoire desquels s'étend la
+circonscription du port autonome.
 
 Le préfet adresse, dans le délai maximum de quinze jours après clôture de l'instruction, son rapport avec le dossier au
 ministre chargé des ports maritimes et au préfet de région.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 1 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R122-10, R122-11
+	  - Code des ports maritimes
 
 
 ##### Section 3 : Régime financier.
 
 ###### Article R*111-6
 
-Pour l'application de l'article L. 111-4, le programme et le montant des dépenses prévues audit article sont arrêtés chaque
-année par le ministre chargé des ports maritimes et le ministre de l'économie et des finances, sur proposition du port
-autonome.
+Le programme et le montant des dépenses mentionnées à l'article L. 111-4 sont arrêtés chaque année par le ministre chargé des
+ports maritimes sur proposition du directeur du port autonome.
 
 Les dépenses relatives aux engins de dragage visées à l'article L. 111-4 que le port autonome assure aux frais de l'Etat
 comportent les dépenses d'acquisition, d'entretien, de grosses réparations, d'amélioration et de renouvellement du matériel
@@ -2699,22 +2698,21 @@ de dragage acquis dans les conditions fixées ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°65-491 1965-06-29 art. 4
-	  - Décret n°65-933 1965-11-08 art. 10
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 2 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-73 (V)
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L111-4 (V)
+	  - Code des ports maritimes - art. L111-4
 
 	**Cité par**:
 
@@ -2903,6 +2901,66 @@ maritimes et le ministre intéressé.
 
 ##### Section 5 : Services et activités connexes et annexes.
 
+###### Article R*111-12
+
+Le port autonome peut être chargé, sur la demande du conseil d'administration, de la gestion de certains services publics
+connexes à ceux du port, tels que remorquage, éclairage, balisage, dispositifs d'aide à la navigation à l'intérieur des
+limites du port autonome ou pour ses accès, services sanitaires, de sauvetage ou d'incendie, police et surveillance des
+quais.
+
+Des arrêtés conjoints du ministre chargé des ports maritimes et des ministres intéressés fixent les conditions de la remise
+de ces services au port autonome ainsi que les règles de leur fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 3 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-77 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R*111-13
+
+Le ministre chargé des ports maritimes peut, après avis du conseil d'administration, confier par arrêté au port autonome, au
+titre de services annexes, la gestion d'un service maritime ou d'un service de navigation dont il définit la consistance.
+
+Pour cette gestion, le directeur relève directement de l'autorité du ministre chargé des ports maritimes et le personnel du
+port autonome agit pour le compte de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 3 () JORF 11 septembre 1999
+
+	**Cité par**:
+
+	  - Code des transports - art. D4314-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-78 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
 ###### Article R*111-14
 
 Dans le respect de la législation en vigueur, un port autonome peut créer des filiales ou prendre des participations dans des
@@ -2940,60 +2998,6 @@ R. 114-1 et R. 114-5.
 
 	  - Code des ports maritimes
 	  - Code des ports maritimes - art. R*114-6
-
-
-##### Section 5 : Services connexes et services annexes.
-
-###### Article R*111-12
-
-Le port autonome peut être chargé, sur la demande du conseil d'administration, de la gestion de certains services publics
-connexes à ceux du port, tels que remorquage, éclairage, balisage, dispositifs d'aide à la navigation à l'intérieur des
-limites du port autonome ou pour ses accès, services sanitaires, de sauvetage ou d'incendie, police et surveillance des
-quais.
-
-Des arrêtés conjoints du ministre chargé des ports maritimes et des ministres intéressés fixent les conditions de la remise
-de ces services au port autonome ainsi que les règles de leur fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-
-###### Article R*111-13
-
-Le ministre chargé des ports maritimes peut, après avis du conseil d'administration, confier par arrêté au port autonome, au
-titre de services annexes, la gestion d'un service maritime ou d'un service de navigation dont il définit la consistance.
-
-Pour cette gestion, le directeur relève directement de l'autorité du ministre chargé des ports maritimes et le personnel du
-port autonome agit pour le compte de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Cité par**:
-
-	  - Code des transports - art. D4314-1 (V)
 
 
 #### Chapitre II : Organisation.
@@ -3725,10 +3729,10 @@ Le personnel des concessions d'outillage public des chambres de commerce et d'in
 existant est intégré dans les services du port autonome à la date fixée pour la substitution du nouveau régime au régime
 précédemment en vigueur.
 
-En vue de cette intégration et dès intervention du décret portant création du port autonome, l'ingénieur en chef du service
-maritime consulte les chambres de commerce et d'industrie intéressées, concessionnaires d'outillage public, en vue d'établir
-la liste nominative, par fonction, du personnel visé ci-dessus. Cette liste est communiquée aux représentants des personnels
-intéressés qui doivent faire connaître leurs observations dans un délai de quinze jours. L'ingénieur en chef transmet la
+En vue de cette intégration et dès intervention du décret portant création du port autonome, le directeur du port consulte
+les chambres de commerce et d'industrie intéressées, concessionnaires d'outillage public, en vue d'établir la liste
+nominative, par fonction, du personnel visé ci-dessus. Cette liste est communiquée aux représentants des personnels
+intéressés qui doivent faire connaître leurs observations dans un délai de quinze jours. Le directeur du port transmet la
 liste définitive, avec son rapport, dans le délai d'un mois au ministre chargé des ports maritimes et au ministre chargé de
 l'industrie. En cas de contestation concernant l'intégration de certains membres du personnel des chambres de commerce et
 d'industrie, il est statué par décision conjointe des deux ministres.
@@ -3759,6 +3763,11 @@ Le personnel ouvrier tributaire du régime de retraites défini par le décret n
 aux pensions des ouvriers des établissements industriels de l'Etat qui aura opté pour la conservation de son statut, n'est
 pas soumis à la convention collective précitée.
 
+**Nota:**
+
+Le décret n° 65-836, à l'exception de son titre Ier, est abrogé par le I de l'article 51 du décret n° 2004-1056 du 5 octobre
+2004.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -3767,17 +3776,13 @@ pas soumis à la convention collective précitée.
 	  - Décret n°62-152 1962-01-18
 	  - Décret n°65-836 1965-09-24
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 14
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 
 ###### Article R*112-20
@@ -3816,9 +3821,9 @@ Des comptables secondaires peuvent être nommés dans les mêmes conditions.
 
 ###### Article R*112-21
 
-Un ingénieur général des ponts et chaussées, désigné par le ministre chargé des ports maritimes, remplit les fonctions de
-commissaire du Gouvernement auprès du port autonome. Il contrôle l'ensemble des opérations du conseil d'administration et
-vérifie le fonctionnement de tous les services.
+Un fonctionnaire, désigné par le ministre chargé des ports maritimes parmi les membres du conseil général des ponts et
+chaussées, en qualité de commissaire du Gouvernement auprès du port autonome, contrôle l'ensemble des opérations du conseil
+d'administration et vérifie le fonctionnement de tous les services.
 
 Un contrôleur d'Etat, désigné par le ministre de l'économie et des finances, exerce le contrôle économique et financier du
 port autonome.
@@ -3827,17 +3832,13 @@ Tous deux sont convoqués aux séances du conseil d'administration et ont voix c
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-933 1965-11-08 art. 7
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 
 #### Chapitre III : Fonctionnement du port autonome.
@@ -3883,9 +3884,8 @@ qui assistent aux séances sans prendre part aux délibérations.
 
 ###### Article R*113-2
 
-Le conseil d'administration établit son règlement intérieur. Il peut constituer dans son sein un comité de direction.
-L'ingénieur général des ponts et chaussées, commissaire du Gouvernement, et le contrôleur d'Etat assistent aux séances de ce
-comité avec voix consultative.
+Le conseil d'administration établit son règlement intérieur. Il peut constituer dans son sein un comité de direction. Le
+commissaire du Gouvernement, et le contrôleur d'Etat assistent aux séances de ce comité avec voix consultative.
 
 La composition du comité de direction, la nomenclature des affaires qui sont de sa compétence et pour lesquelles sa décision
 engage le conseil, ainsi que toutes les dispositions utiles à son fonctionnement, sont fixées par le conseil
@@ -3893,17 +3893,13 @@ d'administration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 7
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 
 ###### Article R*113-3
@@ -3929,16 +3925,20 @@ de l'économie et des finances ;
 
 - l'approbation des prises, cessions ou extensions de participation financière ;
 
-- l'approbation des conditions des emprunts et des prêts.
+- l'approbation des conditions des emprunts et des prêts ;
+
+- l'approbation du dossier relatif à la modification des limites de circonscription prévue à l'article R. 111-5-1 ;
+
+- l'approbation des conventions ayant fait l'objet de la communication écrite mentionnée à l'article R. 112-10-1 ;
+
+- l'approbation des transactions prévue à l'article R. 113-8 ;
+
+- l'examen des conventions d'exploitation de terminal prévues à l'article R. 115-7 ;
 
 2° Ne peut être déléguée qu'au comité de direction, la fixation des traitements des personnels dont les échelles ne sont pas
 fixées par les conventions collectives.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 8
 
 	**Codifié par**:
 
@@ -3946,7 +3946,11 @@ fixées par les conventions collectives.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 5 () JORF 11 septembre 1999
+
+	**Cite**:
+
+	  - Code des ports maritimes R111-5-1, R112-10-1, R113-8, R115-7
 
 
 ###### Article R*113-4
@@ -3968,9 +3972,9 @@ Les procès-verbaux sont signés par le président et par le secrétaire. Ils fo
 
 Le directeur assiste avec voix consultative aux réunions du comité de direction et aux séances du conseil d'administration.
 
-Les convocations aux séances sont adressées en temps utile au préfet de région, à l'ingénieur général des ponts et chaussées,
-commissaire du Gouvernement, et au contrôleur d'Etat ; elles sont accompagnées des ordres du jour et des mêmes documents que
-ceux qui sont transmis aux membres du conseil d'administration.
+Les convocations aux séances sont adressées en temps utile au préfet de région, au commissaire du Gouvernement, et au
+contrôleur d'Etat ; elles sont accompagnées des ordres du jour et des mêmes documents que ceux qui sont transmis aux membres
+du conseil d'administration.
 
 Le contrôleur d'Etat peut demander au président du conseil d'administration l'inscription à l'ordre du jour des questions sur
 lesquelles il estime nécessaire de provoquer une délibération de cette assemblée.
@@ -3980,17 +3984,13 @@ Ils assistent à ces commissions s'ils le jugent utile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 9
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 
 ###### Article R*113-5
@@ -4100,7 +4100,9 @@ vigueur, il nomme à tous les emplois du port, gère, révoque et licencie le pe
 administration d'origine les fonctionnaires placés dans la position de service détaché et fixe la rémunération du personnel
 dans les limites arrêtées par le conseil d'administration, sous réserve de l'observation des règles de tutelle.
 
-Il représente le port en justice et dans tous les actes de la vie civile.
+Il représente le port en justice et dans tous les actes de la vie civile. Il a la faculté de conclure des transactions, dans
+les conditions prévues par les articles 2044 et suivants du code civil, sous réserve de l'accord préalable du conseil
+d'administration, du ministre chargé des ports maritimes et du ministre chargé du budget.
 
 Il procède aux achats et passe les marchés ou traités.
 
@@ -4114,17 +4116,17 @@ trésorerie et le placement des réserves.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-933 1965-11-08 art. 11, art. 23
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 6 () JORF 11 septembre 1999
+
+	**Cite**:
+
+	  - Code civil - art. 2044 (V)
 
 
 ###### Article R*113-9
@@ -4383,9 +4385,9 @@ Les opérations en capital peuvent donner lieu à des prévisions d'exécution �
 
 ###### Article R*113-15
 
-L'état prévisionnel est présenté par le directeur au conseil d'administration, qui l'arrête au plus tard le 1er octobre de
-l'année précédant celle pour laquelle il est établi. Il est soumis à l'approbation du ministre chargé des ports maritimes et
-du ministre de l'économie et des finances au plus tard le 1er novembre précédant l'ouverture de l'exercice.
+L'état prévisionnel des recettes et des dépenses est présenté par le directeur au conseil d'administration. Il est soumis à
+l'approbation du ministre chargé des ports maritimes et du ministre chargé du budget avant le 1er décembre de l'année
+précédant l'ouverture de l'exercice.
 
 Dans le cas prévu au deuxième alinéa, deuxième phrase, de l'article L. 113-2, la décision de créer d'office les ressources
 nécessaires pour couvrir la totalité des charges d'exploitation est prise par le ministre chargé des ports maritimes et par
@@ -4400,11 +4402,10 @@ d'Etat, les dépenses indispensables à la continuité de la gestion.
 Les modifications à l'état prévisionnel reconnues nécessaires en cours d'exercice sont arrêtées et approuvées dans les mêmes
 formes que cet état.
 
+En cours d'exercice, un suivi de l'exécution de l'état prévisionnel, incluant une analyse par poste des écarts avec la
+prévision, est communiqué au moins deux fois par an au conseil d'administration.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 19
 
 	**Codifié par**:
 
@@ -4412,7 +4413,7 @@ formes que cet état.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 7 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -4500,18 +4501,23 @@ régime d'autonomie défini au présent titre est substitué au régime précéd
 
 ###### Article R*113-18
 
-Les marchés relatifs à des opérations donnant lieu à participation financière de l'Etat sont soumis à la réglementation des
-marchés de l'Etat.
+Les marchés des ports autonomes maritimes donnant lieu à une participation financière de l'Etat sont soumis au code des
+marchés publics.
 
-Les marchés relatifs à d'autres opérations sont passés suivant les règles fixées par le conseil d'administration et
-approuvées par le ministre chargé des ports maritimes et le ministre de l'économie et des finances. Ces règles s'inspirent
-des règles applicables aux marchés de l'Etat.
+Les marchés des ports autonomes maritimes ne donnant pas lieu à une participation financière de l'Etat et dont le montant,
+pour toute l'opération, est supérieur à 700000 F (TTC) sont soumis aux dispositions des livres Ier, II, IV et V du code des
+marchés publics à l'exception des articles 202 à 238. Le régime relatif aux commissions spécialisées compétentes pour ces
+marchés est déterminé, après avis des conseils d'administration, par le ministre chargé des ports maritimes et le ministre
+chargé de l'économie et des finances.
+
+Les autres marchés, achats ou commandes sont soumis à des règles fixées par le conseil d'administration et approuvées par le
+ministre chargé des ports autonomes et le ministre chargé de l'économie et des finances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°65-934 1965-11-08 art. 23
+	  - Code des marchés publics 202 à 238
 
 	**Codifié par**:
 
@@ -4519,7 +4525,7 @@ des règles applicables aux marchés de l'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 8 () JORF 11 septembre 1999
 
 
 ###### Article R*113-19
@@ -4658,10 +4664,11 @@ port autonome et du directeur des services fiscaux dans les autres cas.
 
 ###### Article R*113-23
 
-L'aliénation des immeubles dont le port autonome est propriétaire ne peut avoir lieu qu'avec l'accord du ministre chargé des
-ports maritimes et du ministre chargé du domaine lorsque leur valeur vénale excède le montant fixé au quatrième alinéa de
-l'article R. 129 du code du domaine de l'Etat. Quel qu'en soit le montant, le produit de leur vente est acquis pour la
-totalité au port autonome.
+Le port autonome peut céder à l'amiable les immeubles dont il est propriétaire. Le produit de leur vente lui est totalement
+acquis. Les opérations de vente font l'objet d'une publicité préalable. Il acquiert à l'amiable ou par voie d'expropriation
+les immeubles utiles à son développement, après consultation du directeur des services fiscaux dans les conditions fixées par
+le décret n° 86-455 du 14 mars 1986 portant suppression des commissions des opérations immobilières et de l'architecture et
+fixant les modalités de consultation du service des domaines.
 
 **Liens relatifs à cet article**
 
@@ -4669,14 +4676,13 @@ totalité au port autonome.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°93-387 du 15 mars 1993 - art. 2 () JORF 20 mars 1993
-
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R129 (M)
+	  - Décret n°86-455 1986-03-14
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 9 () JORF 11 septembre 1999
 
 
 ###### Article R*113-24
@@ -4684,26 +4690,25 @@ totalité au port autonome.
 Sur proposition du conseil d'administration du port autonome, le ministre chargé des ports maritimes et le ministre de
 l'économie et des finances peuvent, par décision conjointe, définir, dans les limites de la circonscription du port autonome,
 un périmètre à l'intérieur duquel des immeubles affectés au port autonome et dépendant partiellement ou totalement du domaine
-privé de l'Etat peuvent être vendus à la charge de remploi. Le remploi, qui doit consister en acquisitions de nouveaux
-immeubles, doit intervenir dans un délai maximum de cinq ans et être approuvé dans les mêmes formes.
+privé de l'Etat peuvent être vendus à charge de remploi. Le recours au remploi, qui consiste en acquisitions de nouveaux
+immeubles, est décidé, à l'occasion de chaque vente, sur la demande du conseil d'administration. En cas de remploi,
+l'acquisition des nouveaux immeubles, dont le choix est proposé par le conseil d'administration, doit intervenir dans un
+délai maximum de cinq ans.
 
 La part du produit de la vente des immeubles qui serait advenue à l'Etat par application des règles définies à l'alinéa 2 de
-l'article R. 113-22 sera reversée au port autonome et comptabilisée par celui-ci à un compte d'attente jusqu'à la réalisation
-du remploi. Si celui-ci n'intervenait pas dans le délai précité de cinq ans, la somme serait définitivement acquise à l'Etat.
+l'article R. *113-22 sera reversée au port autonome et comptabilisée par celui-ci à un compte d'attente jusqu'à la
+réalisation du remploi. Si celui-ci n'intervenait pas dans le délai précité de cinq ans, la somme serait définitivement
+acquise à l'Etat.
 
 Les actes d'acquisition en remploi sont passés par le service des domaines. Les immeubles ainsi acquis sont réputés pour la
 totalité appartenir au domaine de l'Etat et soumis, quant à leur administration et à leur aliénation, aux règles définies au
-premier alinéa de l'article R. 113-22. En cas de revente ultérieure, le montant de la plus-value résultant des aménagements
+premier alinéa de l'article R. *113-22. En cas de revente ultérieure, le montant de la plus-value résultant des aménagements
 réalisés est réparti entre l'Etat et le port autonome, conformément aux dispositions du deuxième alinéa de l'article R.
-113-22, le surplus du prix de vente étant partagé entre l'Etat et le port autonome proportionnellement à la valeur des
+*113-22, le surplus du prix de vente étant partagé entre l'Etat et le port autonome proportionnellement à la valeur des
 contributions respectives qu'ils avaient apportées au remploi. Toutefois, il peut, dans les conditions fixées par le présent
 paragraphe, être procédé à un nouveau remploi de la part revenant à l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 32
 
 	**Codifié par**:
 
@@ -4711,11 +4716,7 @@ paragraphe, être procédé à un nouveau remploi de la part revenant à l'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Cite**:
-
-	  - Code des ports maritimes R113-22
+	  - Décret n°99-782 du 9 septembre 1999 - art. 9 () JORF 11 septembre 1999
 
 
 ###### Article R*113-25
@@ -4754,10 +4755,10 @@ d'administration.
 
 ###### Article R*114-1
 
-Le port autonome est soumis de plein droit aux règles de la tutelle financière prévues par le décret n° 53-707 du 9 août 1953
-modifié relatif au contrôle de l'Etat sur les entreprises publiques nationales et au contrôle économique et financier de
-l'Etat prévu par le décret n° 55-733 du 26 mai 1955 modifié portant codification et aménagement des textes relatifs au
-contrôle économique et financier de l'Etat.
+Sous réserve des dispositions de l'article R. *114-6, le port autonome est soumis de plein droit aux règles de la tutelle
+financière prévues par le décret n° 53-707 du 9 août 1953 modifié relatif au contrôle de l'Etat sur les entreprises publiques
+nationales et au contrôle économique et financier de l'Etat prévu par le décret n° 55-733 du 26 mai 1955 modifié portant
+codification et aménagement des textes relatifs au contrôle économique et financier de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4765,10 +4766,7 @@ contrôle économique et financier de l'Etat.
 
 	  - Décret n°53-707 1953-08-09
 	  - Décret n°55-733 1955-05-26
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 35
+	  - Code des ports maritimes - art. R114-6 (T)
 
 	**Codifié par**:
 
@@ -4776,7 +4774,11 @@ contrôle économique et financier de l'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 3 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*114-2
@@ -4809,9 +4811,8 @@ d'administration.
 
 ###### Article R*114-3
 
-Pour l'application de l'article R. 112-21, l'ingénieur général des ponts et chaussées remplissant les fonctions de
-commissaire du Gouvernement correspond directement pour les besoins du service avec le président du conseil d'administration
-et avec le directeur du port.
+Pour l'application de l'article R. 112-21, le commissaire du Gouvernement correspond directement pour les besoins du service
+avec le président du conseil d'administration et avec le directeur du port.
 
 Il vérifie sur place, au moins une fois par an, le fonctionnement de tous les services du port autonome ; il inspecte le
 personnel du ministère chargé des ports maritimes attaché au port, visite les bureaux des ingénieurs et les chantiers de
@@ -4822,17 +4823,13 @@ active et passive du port.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 36
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -4841,9 +4838,8 @@ active et passive du port.
 
 ###### Article R*114-4
 
-L'ingénieur général, remplissant les fonctions de commissaire du Gouvernement, établit chaque année un rapport d'ensemble
-ayant pour objet de rendre compte de la situation du port à la fin de l'exercice précédent, au point de vue technique,
-économique et financier.
+Le commissaire du Gouvernement, établit chaque année un rapport d'ensemble ayant pour objet de rendre compte de la situation
+du port à la fin de l'exercice précédent, au point de vue technique, économique et financier.
 
 Ce rapport indique notamment les améliorations susceptibles d'être introduites dans le fonctionnement des différents
 services.
@@ -4853,14 +4849,10 @@ Il est transmis au ministre chargé des ports maritimes et adressé pour informa
 Le contrôleur d'Etat établit un rapport sur la gestion économique et financière du port pendant l'année précédente ainsi que
 sur les comptes de la même année. Ce rapport est adressé au ministre de l'économie et des finances.
 
-L'ingénieur général et le contrôleur d'Etat se communiquent leurs rapports respectifs avant la transmission à
+Le commissaire du Gouvernement et le controleur d'état se communiquent leur rapports respectifs avant la transmission à
 l'administration supérieure.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 37
 
 	**Codifié par**:
 
@@ -4868,21 +4860,15 @@ l'administration supérieure.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 
 ###### Article R*114-5
 
 Les projets d'exécution des travaux pour lesquels le conseil d'administration ne peut statuer définitivement sont soumis à
-l'approbation du ministre chargé des ports maritimes qui statue sur le rapport de l'ingénieur général remplissant les
-fonctions de commissaire du Gouvernement.
+l'approbation du ministre chargé des ports maritimes qui statue sur le rapport du commissaire du Gouvernement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 38
-	  - Code des ports maritimes - art. R114-6 (T)
 
 	**Codifié par**:
 
@@ -4890,7 +4876,15 @@ fonctions de commissaire du Gouvernement.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes - art. R114-6 (T)
 
 
 ###### Article R*114-6
@@ -5034,57 +5028,65 @@ L'instruction est effectuée à la diligence du directeur du port.
 
 ###### Article R*115-4
 
-Le dossier soumis à l'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977
-lorsque le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
+I. Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 modifié,
+pris pour l'application de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, lorsque
+le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
 
-Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
-1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
-intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+Il comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de
+l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux
+constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
 
-L'instruction comporte exclusivement les formalités ci-après qui sont effectuées simultanément :
+En outre, lorsqu'il y a lieu, le dossier :
 
-1° consultation de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté conjoint du ministre
-chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine marchande. La grande
-commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs du port ou des
-chenaux d'accès ; dans les autres cas la consultation est faite auprès de la commission nautique locale ;
+mentionne la ou les rubriques de la nomenclature, annexée au décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des
+opérations soumises à autorisation ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur
+l'eau, dont relèvent les travaux ;
 
-2° instruction mixte, conformément à la réglementation en vigueur ;
+comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation et
+de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau. Lorsque l'étude d'impact fournit les
+informations requises, elle tient lieu de ce document.
 
-3° consultation de la commission permanente d'enquête du port considéré ;
+II. L'instruction, menée par le directeur du port autonome, comprend, outre la consultation du conseil d'administration, les
+formalités ci-après qui sont effectuées simultanément :
 
-4° consultation de la chambre de commerce et d'industrie ;
+1° Consultation de la commission permanente d'enquête ;
 
-5° consultation des collectivités et des services locaux intéressés ;
+2° Consultation des collectivités et des services locaux intéressés ;
 
-6° enquête publique s'il y a lieu.
+3° Consultation de la ou des chambres de commerce et d'industrie concernées ;
+
+4° Consultation, s'il y a lieu, de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté
+conjoint du ministre chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine
+marchande. La grande commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs
+du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ;
+
+5° Consultation, s'il y a lieu, de la commission régionale pour l'amélioration des conditions de débarquement des produits de
+la pêche (CORECODE) ;
+
+6° Instruction mixte, conformément à la réglementation en vigueur ;
+
+7° Enquête publique s'il y a lieu.
+
+Dans le cas où les travaux envisagés sont soumis aux procédures prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992
+sur l'eau, l'instruction est menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993 susmentionné.
+
+III. - Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°,
+2°, 3° et 4° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités. L'absence de réponse dans ce délai vaut avis favorable.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
 	  - Loi n°82-1153 1982-12-30 art. 14
 	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
 	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-
-###### Article R*115-5
-
-Les assemblées, commissions, collectivités et services consultés en application des 1, 3, 4 et 5 de l'article R. 115-4
-doivent émettre leur avis dans le délai d'un mois à compter du jour où ils y auront été invités.
-
-L'absence d'avis dans ce délai vaut avis favorable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-346 1971-05-06 art. 4
+	  - Loi n°92-3 1992-01-03 art. 10
+	  - Décret n°93-743 1993-03-29 annexe
+	  - Décret n°93-742 1993-03-29 art. 2
 
 	**Codifié par**:
 
@@ -5092,16 +5094,7 @@ L'absence d'avis dans ce délai vaut avis favorable.
 
 	**Modifié par**:
 
-	  - Décret n°81-412 1981-04-24 art. 3 JORF 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Abrogé par**:
-
 	  - Décret n°99-782 du 9 septembre 1999 - art. 10 () JORF 11 septembre 1999
-
-	**Cite**:
-
-	  - Code des ports maritimes R115-4
 
 
 ###### Article R*115-6
@@ -5127,27 +5120,27 @@ d'utilité publique.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
 
 
-##### Section 2 : Outillages
+##### Section 2 : Outillages et terminaux.
 
 ##### Sous-Section 1 : Dispositions générales.
 
 ###### Article R*115-7
 
-L'installation et l'exploitation d'outillages mis à la disposition du public peuvent :
+I. - La réalisation et l'exploitation d'outillages mis à disposition du public sont assurées par le port autonome lui-même ou
+font l'objet d'une concession ou d'un contrat d'affermage qui peuvent être conclus avec des collectivités publiques, des
+établissements publics ou des entreprises privées.
 
-- soit être assurées par le port autonome lui-même ;
+II. - Des outillages mis en place par une entreprise et nécessaires à ses propres besoins font l'objet d'une autorisation
+d'outillage privé avec obligation de service public.
 
-- soit faire l'objet d'une concession d'outillage public ou d'une autorisation d'outillage privé avec l'obligation de service
-public.
-
-Ces concessions et autorisations peuvent être accordées tant à des collectivités publiques qu'à des établissements publics ou
-à des entreprises privées.
+III. - Le port autonome peut également conclure avec une entreprise une convention d'exploitation de terminal. Cette
+convention porte exclusivement sur la gestion et, le cas échéant, la réalisation d'un terminal spécifique à certains types de
+trafics et comprenant les terre-pleins, les outillages et les aménagements nécessaires aux opérations de débarquement,
+d'embarquement, de manutention et de stockage liées aux navires. Le recours à ce mode de gestion, qui ne peut concerner
+qu'une partie du domaine portuaire, doit être compatible avec le maintien en nombre suffisant d'outillages publics ou
+d'outillages privés avec obligation de service public.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes art. 35
 
 	**Codifié par**:
 
@@ -5155,11 +5148,20 @@ Ces concessions et autorisations peuvent être accordées tant à des collectivi
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
 
 	**Cité par**:
 
 	  - Décret n°2008-1032 du 9 octobre 2008 - art. 9 (Ab)
+	  - Code des ports maritimes - art. R163-13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-81 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ##### Sous-section 2 : Outillages publics gérés par le port autonome lui-même.
@@ -5172,68 +5174,67 @@ endroits du port principalement fréquentés par les usagers.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-82 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ##### Sous-section 3 : Outillages publics concédés.
 
 ###### Article R*115-9
 
-Toute concession d'outillage public donne lieu à une convention avec cahier des charges passée entre le port autonome et le
-pétitionnaire.
+La concession ou l'affermage d'outillages donne lieu à une convention avec cahier des charges passée entre le port autonome
+et le pétitionnaire, après accord du conseil d'administration.
 
-Ces documents sont, après instruction effectuée dans les formes prévues aux articles R. 115-11 et R. 115-12, approuvés :
+Le cahier des charges est conforme à un cahier des charges type approuvé par décret en Conseil d'Etat pris sur la proposition
+conjointe des ministres chargés des ports maritimes, du budget et du domaine. Toutefois, le cahier des charges peut déroger
+au cahier des charges type, à la condition que ces dérogations aient été préalablement approuvées par le ministre chargé des
+ports maritimes et le ministre chargé du domaine ainsi que, le cas échéant, le ministre de qui relève la collectivité
+publique ou l'établissement public intéressé ; l'absence de réponse des ministres dans le délai de deux mois suivant la
+réception la plus tardive de la demande vaut approbation.
 
-a) par décret en Conseil d'Etat, revêtu du contreseing du ministre chargé des ports maritimes et, le cas échéant, du ministre
-de qui relève la collectivité ou l'établissement public intéressé, s'il y a lieu à déclaration d'utilité publique prononcée
-par décret en Conseil d'Etat ;
+La convention et le cahier des charges sont soumis à instruction effectuée dans les conditions prévues par l'article R.
+115-4.
 
-b) par le ministre chargé des ports maritimes et le cas échéant par le ministre de qui relève la collectivité publique ou
-l'établissement public intéressé, dans les autres cas.
-
-Toutefois, si la déclaration d'utilité publique est prononcée par arrêté préfectoral, ou s'il n'y a pas lieu à déclaration
-d'utilité publique, si tous les organismes ou services consultés ont donné leur accord et si le cahier des charges ne
-comporte pas de dérogation au cahier des charges type, la convention n'est pas soumise à approbation.
+S'il y a lieu à déclaration d'utilité publique prononcée par décret en Conseil d'Etat, la convention est approuvée par décret
+en Conseil d'Etat, revêtu du contreseing du ministre chargé des ports maritimes et, le cas échéant, du ministre de qui relève
+la collectivité publique ou l'établissement public intéressé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 32
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Modifié par**:
-
-	  - Décret n°81-412 1981-04-24 art. 4 JORF 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-
 	**Cité par**:
 
 	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
 
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
 	**Cite**:
 
-	  - Code des ports maritimes R115-11, R115-12
+	  - Code des ports maritimes R115-4
 
 
 ###### Article R*115-10
 
 Le directeur du port autonome, dûment autorisé par le conseil d'administration, soumet la convention et le cahier des charges
-à l'instruction dans les formes prévues aux articles R. 115-11 et R. 115-12.
+à l'instruction dans les formes prévues à l'article R. 115-4.
 
 Lorsque la convention doit être approuvée par un décret en Conseil d'Etat ou par un arrêté ministériel, le directeur du port
 autonome transmet, dès l'issue de l'instruction, le dossier avec son rapport au ministre chargé des ports maritimes pour
@@ -5241,130 +5242,38 @@ approbation de ces documents.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 3 II
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-
-	**Cite**:
-
-	  - Code des ports maritimes R115-11, R115-12
-
-
-###### Article R*115-11
-
-L'instruction prévue à l'article R. 115-10 est effectuée à la diligence du directeur du port autonome.
-
-Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
-coût total des travaux excède le montant fixé au C de l'article 3 du même décret.
-
-Le dossier d'instruction comprend également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
-pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque
-les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
-
-Cette instruction comporte les formalités ci-après :
-
-1° consultation du conseil d'administration ;
-
-2° consultation de la commission permanente d'enquête ;
-
-3° consultation des collectivités publiques et des services publics intéressés ;
-
-4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions offertes
-à la navigation. Dans le cas contraire, ou sur décision du ministre chargé des ports maritimes, consultation de la grande
-commission nautique ;
-
-5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
-
-6° Enquête publique s'il y a lieu.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°52-1265 1952-11-29
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
-	  - Loi n°82-1153 1982-12-30 art. 14
-	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-	  - Code des ports maritimes R115-10
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 2 () JORF 3 janvier 1984
-	  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
-
-	**Abrogé par**:
 
 	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
 
+	**Nouveaux textes**:
 
-###### Article R*115-12
-
-Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
-connaître leur avis est d'un mois. L'absence d'avis dans ledit délai vaut avis favorable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°81-412 1981-04-24 art. 5 JORF 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Code des transports - art. R5313-84 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
 
 
-##### Sous-section 4 : Outillages privés autorisés avec obligation de service public.
+##### Sous-section 4 : Autorisations d'outillages privés et d'exploitation de terminal.
 
 ###### Article R*115-13
 
-Les autorisations d'outillage privé avec obligation de service public donnent lieu à une convention, avec cahier des charges,
-passée entre le port autonome et le pétitionnaire.
+L'autorisation d'outillage privé avec obligation de service public donne lieu à une convention passée entre le port autonome
+et le pétitionnaire.
 
-Le directeur du port autonome soumet le projet de convention et le cahier des charges à l'instruction, dans les conditions
-prévues à l'article R. 115-14.
-
-Ces documents sont, après instruction, soumis à l'approbation du ministre chargé des ports maritimes, sauf si tous les
-organismes ou services consultés, en application de l'article R. 115-14, ont donné leur accord et si le cahier des charges ne
-comporte pas dérogation au cahier des charges type.
-
-Lorsque la convention est soumise à approbation, le directeur du port autonome transmet au ministre, dès l'issue de
-l'instruction, le dossier de cette dernière, accompagné de son rapport.
+Dans le cas où l'autorisation comprend la réalisation de travaux, le directeur du port autonome soumet le projet de travaux à
+l'instruction dans les conditions prévues par l'article R. *115-4.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-703 1976-07-23 art. 3
 
 	**Codifié par**:
 
@@ -5372,60 +5281,33 @@ l'instruction, le dossier de cette dernière, accompagné de son rapport.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-85 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R115-14
+	  - Code des ports maritimes
 
 
 ###### Article R*115-14
 
-L'instruction prévue à l'article R. 115-13 est effectuée à la diligence du directeur du port autonome.
+L'autorisation d'exploitation de terminal donne lieu à une convention passée entre le port autonome et le pétitionnaire.
 
-Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
-coût total des travaux de création ou d'extension des installations excède le montant fixé au C de l'article 3 du même
-décret.
+Cette convention est conforme à une convention type approuvée par décret en Conseil d'Etat. Elle fixe notamment les objectifs
+de trafic du terminal et les sanctions pouvant aller jusqu'à la résiliation sans indemnité de la convention, au cas où ces
+objectifs ne seraient pas atteints.
 
-Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
-1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
-intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
-
-Cette instruction comporte les formalités ci-après :
-
-1° consultation du conseil d'administration du port autonome ;
-
-2° consultation de la commission permanente d'enquête ;
-
-3° consultation des collectivités locales et des services publics intéressés ;
-
-4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions
-apportées à la navigation. Dans le cas contraire, ou sur décision du ministre chargé des ports maritimes, consultation de la
-grande commission nautique ;
-
-5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
-
-6° enquête publique s'il y a lieu.
-
-Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
-connaître leur avis est de un mois. L'absence d'avis dans ce délai vaut avis favorable.
+La convention est soumise au conseil d'administration et approuvée par arrêté du ministre chargé des ports maritimes et du
+ministre chargé du budget.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°52-1265 1952-11-29
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
-	  - Loi n°82-1153 1982-12-30
-	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-	  - Code des ports maritimes R115-13
-
-	**Anciens textes**:
-
-	  - Décret n°76-703 1976-07-23 art. 4
 
 	**Codifié par**:
 
@@ -5433,22 +5315,23 @@ connaître leur avis est de un mois. L'absence d'avis dans ce délai vaut avis f
 
 	**Modifié par**:
 
-	  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-682 2000-07-19
 
 
 ##### Sous-section 5 : Dispositions communes relatives aux tarifs.
 
 ###### Article R*115-15
 
-Les tarifs et conditions d'usage des outillages publics concédés et les outillages privés autorisés avec obligation de
-service public sont institués selon la procédure définie par les articles R. 115-9 à R. 115-14. Ils figurent en annexe au
-cahier des charges qui doit prévoir que leur modification est opérée selon la procédure fixée par l'article R. 115-6.
+Les tarifs et conditions d'usage des outillages publics concédés ou affermés et des outillages privés, lorsqu'ils sont
+utilisés dans le cadre de l'obligation de service public, sont institués selon la procédure définie par les articles R.
+*115-9 à R. *115-13. Ils figurent en annexe au cahier des charges qui doit prévoir que leur modification est opérée selon la
+procédure fixée par l'article R. *115-16.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 1
 
 	**Codifié par**:
 
@@ -5456,22 +5339,30 @@ cahier des charges qui doit prévoir que leur modification est opérée selon la
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-95 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R115-9 à R115-14, R115-6
+	  - Code des ports maritimes
 
 
 ###### Article R*115-16
 
 La modification est précédée de l'affichage des tarifs et conditions d'usage projetés à la diligence du directeur du port
-autonome. Cet affichage a lieu comme il est dit à l'article R. 115-8.
+autonome. Cet affichage a lieu comme il est dit à l'article R. *115-8.
 
 Les tarifs et conditions d'usage projetés sont applicables un mois après la fin de l'affichage si, dans ce délai, le conseil
 d'administration du port autonome n'a pas fait connaître son opposition.
 
-Sauf confirmation, par le ministre chargé des ports maritimes, dans le délai d'un mois suivant l'opposition du conseil
+Sauf confirmation, par le ministre chargé des ports maritimes dans le délai d'un mois suivant l'opposition du conseil
 d'administration, cette opposition est levée de plein droit à l'expiration dudit délai.
 
 Aucune proposition de modification des tarifs et conditions d'usage n'est recevable avant l'expiration du délai de trois mois
@@ -5479,34 +5370,35 @@ suivant la mise en application des tarifs et conditions précédents.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 1
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-96 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R115-8
+	  - Code des ports maritimes
 
 
 ###### Article R*115-17
 
-Les procédures prévues aux articles R. 115-15 et R. 115-16 ne sont pas applicables aux tarifs spéciaux dits "tarifs
-d'abonnement" ou "tarifs contractuels" lorsque le cahier des charges contient la clause du cahier des charges type concernant
-l'homologation de ces tarifs.
+Lorsque le cahier des charges ou l'autorisation d'outillage privé le prévoit, les procédures prévues aux articles R. *115-15
+et R. *115-16 ne sont pas applicables aux tarifs spéciaux dits "tarifs d'abonnement" ou "tarifs contractuels". Les projets de
+tarifs spéciaux sont alors communiqués au directeur du port autonome et sont réputés homologués à l'expiration d'un délai de
+quinze jours en l'absence d'opposition de sa part.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 3
 
 	**Codifié par**:
 
@@ -5514,29 +5406,33 @@ l'homologation de ces tarifs.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-97 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R115-15, R115-16
+	  - Code des ports maritimes
 
 
 ###### Article R*115-18
 
-Les dispositions des articles R. 115-15 et R. 115-16 sont applicables aux contrats en cours à la date d'entrée en vigueur du
-décret n° 70-1114 du 3 décembre 1970 à la condition que le concessionnaire ou le bénéficiaire de l'autorisation en fasse la
-demande.
+Les dispositions des articles R. *115-15 et R. *115-16 sont applicables aux contrats en cours à la date d'entrée en vigueur
+du décret n° 70-1114 du 3 décembre 1970 à la condition que le concessionnaire ou le bénéficiaire de l'autorisation en fasse
+la demande.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°70-1114 1970-12-03
-	  - Code des ports maritimes R115-15, R115-16
-
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 5
+	  - Décret n°70-1114 du 3 décembre 1970
+	  - Code des ports maritimes
 
 	**Codifié par**:
 
@@ -5544,7 +5440,11 @@ demande.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ##### Section 3 : Commissions permanentes d'enquête.
@@ -5820,62 +5720,51 @@ ministre chargé de l'industrie, du ministre de l'économie et des finances et d
 
 ###### Article R*121-1
 
-La gestion des ports non autonomes de commerce et des ports de pêche est assurée par un chef de service extérieur du
-ministère chargé des ports maritimes dans la circonscription duquel sont situés ces ports.
+La gestion des ports non autonomes de commerce ou de pêche relevant de la compétence de l'Etat est assurée par le directeur
+du port, dont les fonctions sont exercées par le directeur départemental de l'équipement ou le directeur du service
+spécialisé du ministère chargé des ports maritimes dans le département où sont situées les principales installations de ces
+ports.
 
-Dans ces circonscriptions, les tâches maritimes relèvent, soit d'un chef de service spécialisé du ministère chargé des ports
-maritimes, soit d'un directeur départemental de l'équipement, soit d'un directeur de port autonome désigné dans le présent
-titre par l'expression "chef du service maritime".
+**Nota:**
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Cité par**:
-
-	  - Code des transports - art. R5753-2 (V)
-
-
-###### Article R*121-2
-
-Dans les ports dont l'importance le justifie et qui sont désignés par arrêté du ministre chargé des ports maritimes, le chef
-du service maritime porte le titre de directeur du port.
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Abrogé par**:
 
 	  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
 
 	**Cité par**:
 
-	  - Arrêté du 21 juillet 2004 - art. 1 (M)
-	  - Arrêté du 7 juillet 2009 (V)
+	  - Code des transports - art. R5753-2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*121-3
 
-Le chef du service maritime est chargé d'établir, en ce qui concerne la gestion et toutes les affaires intéressant la bonne
+Le directeur du port est chargé d'établir, en ce qui concerne la gestion et toutes les affaires intéressant la bonne
 exploitation du port, la coordination nécessaire avec tous les services et organismes publics locaux dépendant du ministère
 chargé des ports maritimes ou d'autres départements ministériels, ou placés sous leur tutelle.
 
 Les conditions dans lesquelles s'exerce cette coordination sont précisées par des arrêtés conjoints du ministre chargé des
 ports maritimes et de chacun des ministres intéressés.
 
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5884,13 +5773,17 @@ ports maritimes et de chacun des ministres intéressés.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*121-4
 
-Le chef du service maritime réunit en tant que de besoin, dans des conférences dont il leur communique à l'avance l'ordre du
-jour, selon le cas : des représentants les services publics, des chambres de commerce et d'industrie, les concessionnaires
+Le directeur du port réunit en tant que de besoin, dans des conférences dont il leur communique à l'avance l'ordre du jour,
+selon le cas : des représentants des services publics, des chambres de commerce et d'industrie, des concessionnaires
 d'outillage public, des organisations professionnelles participant à l'exploitation du port, ou des usagers du port.
 
 **Liens relatifs à cet article**
@@ -5901,48 +5794,64 @@ d'outillage public, des organisations professionnelles participant à l'exploita
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
 
 
 ###### Article R*121-5
 
-Le chef du service maritime est consulté par l'administration des affaires maritimes et, s'il y a lieu, par celle de la
-marine nationale, sur les instructions générales ou particulières qui concernent les services de pilotage et de remorquage
-exerçant leur activité dans le port, ses accès ou ses rades et qui sont susceptibles d'avoir une incidence sur l'économie
-portuaire (qualité et coût des services), ou sur la gestion du port (sécurité générale, police et accidents), même lorsque
-cette consultation n'a pas été prévue par un texte particulier.
+Le directeur du port est consulté par l'administration des affaires maritimes et, s'il y a lieu, par celle de la marine
+nationale, sur les instructions générales ou particulières qui concernent les services de pilotage et de remorquage exerçant
+leur activité dans le port, ses accès ou ses rades et qui sont susceptibles d'avoir une incidence sur l'économie portuaire
+(qualité et coût des services), ou sur la gestion du port (sécurité générale, police et accidents), même lorsque cette
+consultation n'a pas été prévue par un texte particulier.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*121-6
 
-Le chef du service maritime dresse chaque année un relevé de la situation financière du port présentant, dans la forme
-arrêtée conjointement par le ministre de l'économie et des finances, le ministre chargé des ports maritimes et le ministre
-chargé du commerce, les résultats de l'exercice précédent et les prévisions pour l'exercice suivant en ce qui concerne :
+Le directeur du port dresse chaque année un relevé de la situation financière du port présentant, dans la forme arrêtée
+conjointement par le ministre de l'économie et des finances, le ministre chargé des ports maritimes et le ministre chargé du
+commerce, les résultats de l'exercice précédent et les prévisions pour l'exercice suivant en ce qui concerne :
 
 - d'une part, les dépenses de toute nature relatives à l'établissement, l'entretien et l'exploitation du port ;
 
-- d'autre part, les recettes fournies par chacune des taxes et redevances fappant les navires, les marchandises et les
+- d'autre part, les recettes fournies par chacune des taxes et redevances frappant les navires, les marchandises et les
 outillages divers installés dans le port pour les besoins du trafic.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
 
 
 ###### Article R*121-7
@@ -5954,12 +5863,12 @@ suivante :
 a) Métropole :
 
 Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Le Fret, Roscanvel, Concarneau, Lorient, La
-Rochelle, à l'exception du port de plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
+Rochelle (La Pallice et Chef de Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
 
-b) Départements d'outre-mer :
+b) Outre-mer :
 
 Fort-de-France (Martinique), Degrad-des-Cannes et Larivot (Guyane), Saint-Pierre-et-Miquelon (Saint-Pierre et Miquelon),
-Pointe-des-Galets (Réunion).
+Port-Réunion (Réunion).
 
 **Liens relatifs à cet article**
 
@@ -5969,7 +5878,7 @@ Pointe-des-Galets (Réunion).
 
 	**Modifié par**:
 
-	  - Décret n°86-1132 1986-10-15 art. 1 JORF 22 octobre 1986
+	  - Décret n°99-782 du 9 septembre 1999 - art. 13 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -5983,30 +5892,39 @@ Pointe-des-Galets (Réunion).
 ###### Article R*122-1
 
 La prise en considération des avant-projets des travaux de construction, d'extension et de modernisation des ports non
-autonomes de commerce et de pêche de l'Etat et l'autorisation desdits travaux sont prononcées :
+autonomes de commerce et de pêche de l'Etat et l'autorisation de ces travaux sont prononcées par décision du préfet.
 
-a) Par décision du ministre chargé des ports maritimes lorsqu'il s'agit d'investissements réalisés dans les ports principaux
-métropolitains ;
+Toutefois, les décisions mentionnées au premier alinéa sont prises par le ministre chargé des ports maritimes lorsqu'elles
+portent sur des travaux réalisés dans les ports principaux métropolitains, entraînant une modification substantielle dans les
+accès ou ouvrages du port ou dont le coût total est supérieur à 15 millions de francs, ce montant (valeur 1999) étant indexé
+sur un indice fixé par arrêté ministériel. Les ports principaux sont ceux figurant sur une liste établie par arrêté du
+ministre chargé des ports maritimes.
 
-b) Par décision du commissaire de la République dans les autres cas.
+L'autorisation vaut, s'il y a lieu, autorisation au titre des articles L. 214-1 à L. 214-6 du code de l'environnement ; dans
+ce cas, elle doit respecter les règles de fond prévues par cette loi (1) et fixer les prescriptions nécessaires à la
+protection des intérêts mentionnés à l'article L. 211-1 dudit code. L'autorisation peut donner lieu à des arrêtés
+complémentaires pris dans les formes prévues par les articles 14 et 15 du décret n° 93-742 du 29 mars 1993 relatif aux
+procédures d'autorisation et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
 
-Les ports principaux sont ceux figurant sur une liste établie par arrêté du ministre chargé des ports maritimes.
+**Nota:**
+
+Lire "ce code".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-346 1971-05-06 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
+	**Cite**:
+
+	  - Décret n°93-742 1993-03-29 art. 14, art. 15
+	  - Code de l'environnement - art. L211-1 (M)
+	  - Code de l'environnement L214-1 à L214-6, L211-1
+
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-	  - Décret n°84-245 1984-04-03 art. 2 JORF 6 avril 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 14 () JORF 11 septembre 1999
 
 	**Cité par**:
 
@@ -6016,14 +5934,15 @@ Les ports principaux sont ceux figurant sur une liste établie par arrêté du m
 ###### Article R*122-2
 
 La décision prenant en considération l'avant-projet indique s'il y a lieu ou non de procéder à l'instruction et, dans la
-négative, s'il y a lieu ou non à consultation du conseil portuaire. La commission nautique est toujours consultée suivant les
-modalités précisées au 1° de l'article R. 122-4.
+négative, s'il y a lieu ou non à consultation du conseil portuaire.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-346 1971-05-06 art. 3
 
 	**Codifié par**:
 
@@ -6031,121 +5950,87 @@ modalités précisées au 1° de l'article R. 122-4.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 14 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cité par**:
 
 	  - Code des ports maritimes - art. R*122-6 (V)
 
-	**Cite**:
-
-	  - Code des ports maritimes R122-4
-
-
-###### Article R*122-3
-
-L'instruction est effectuée à la diligence du directeur du port ou du chef du service maritime.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-346 1971-05-06 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°81-412 1981-04-24 art. 6 JORF 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°99-782 du 9 septembre 1999 - art. 14 () JORF 11 septembre 1999
-
 
 ###### Article R*122-4
 
-Le dossier soumis à l'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977
-lorsque le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
+I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 modifié
+pris pour l'application de l'article 2 de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature lorsque
+le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
 
-Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
-1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
-intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+Le dossier d'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
+pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
+les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
 
-L'instruction comporte exclusivement les formalités ci-après qui sont effectuées simultanément :
+En outre, lorsqu'il y a lieu, le dossier :
 
-1° consultation de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté conjoint du ministre
-chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine marchande. La grande
-commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs du port ou des
-chenaux d'accès dans les autres cas, la consultation est faite auprès de la commission nautique locale ;
+- mentionne la ou les rubriques de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des
+opérations soumises à autorisation ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur
+l'eau, dont relèvent les travaux ;
 
-2° instruction mixte, conformément à la réglementation en vigueur ;
+- comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation
+et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau. Si l'étude d'impact fournit les
+informations requises, elle tient lieu de ce document.
 
-3° consultation du conseil portuaire du port considéré ;
+II. - L'instruction, menée par le directeur du port, comprend les formalités ci-après qui sont effectuées simultanément :
 
-4° consultation de la chambre de commerce et d'industrie ;
+1° Consultation du conseil portuaire ;
 
-5° consultation des collectivités et des services locaux intéressés ;
+2° Consultation des collectivités et des services locaux intéressés ;
 
-6° enquête publique s'il y a lieu.
+3° Consultation du concessionnaire, lorsqu'il n'est pas maître d'ouvrage ;
+
+4° Consultation de la chambre de commerce et d'industrie compétente, lorsqu'elle n'est pas le concessionnaire ;
+
+5° Consultation, s'il y a lieu, de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté
+conjoint du ministre chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine
+marchande. La grande commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs
+du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ;
+
+6° Consultation de la commission régionale pour l'amélioration des conditions de débarquement des produits de la pêche
+(CORECODE) ;
+
+7° Instruction mixte, conformément à la réglementation en vigueur ;
+
+8° Enquête publique s'il y a lieu.
+
+Dans le cas où les travaux envisagés sont soumis aux procédures prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992
+sur l'eau, l'instruction est menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993 susmentionné.
+
+III. - Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°,
+2°, 3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités. L'absence de réponse dans ce délai vaut avis favorable.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
 	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
 	  - Loi n°82-1153 1982-12-30 art. 14
 	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
 	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
+	  - Loi n°92-3 1992-01-03 art. 10
+	  - Décret n°93-743 1993-03-29 annexe
+	  - Décret n°93-742 1993-03-29 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
-
-	  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
-
-
-###### Article R*122-5
-
-Les assemblées, commissions, collectivités et services consultés en application des 1, 3, 4 et 5 de l'article R. 122-4
-devront émettre leur avis dans le délai d'un mois à compter du jour où ils y auront été invités.
-
-L'absence d'avis dans ce délai vaut avis favorable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-346 1971-05-06 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°81-412 1981-04-24 art. 7 JORF du 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-
-	**Abrogé par**:
 
 	  - Décret n°99-782 du 9 septembre 1999 - art. 14 () JORF 11 septembre 1999
-
-	**Cite**:
-
-	  - Code des ports maritimes R122-4
 
 
 ###### Article R*122-6
@@ -6171,27 +6056,23 @@ d'utilité publique.
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
 
 
-##### Section 2 : Outillages
+##### Section 2 : Exploitation.
 
-##### Sous-section 1 : Dispositions générales.
+##### Sous-section 1 : Concession.
 
 ###### Article R*122-7
 
-L'installation et l'exploitation d'outillages mis à la disposition du public dans les ports non autonomes de commerce ou les
-ports de pêche peuvent faire l'objet :
+La réalisation, totale ou partielle, et l'exploitation d'outillages mis à la disposition du public dans les ports non
+autonomes de commerce ou de pêche de l'Etat peuvent faire l'objet de concessions accordées à des collectivités publiques, à
+des établissements publics ou à des entreprises privées.
 
-- d'une concession d'outillage public ;
+**Nota:**
 
-- d'une autorisation d'outillage privé avec obligation de service public.
-
-Ces concessions et autorisations peuvent être accordées tant à des collectivités publiques qu'à des établissements publics ou
-à des entreprises privées.
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes art. 35
 
 	**Codifié par**:
 
@@ -6199,13 +6080,18 @@ Ces concessions et autorisations peuvent être accordées tant à des collectivi
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
+	**Abrogé par**:
 
-##### Sous-section 2 : Outillages publics concédés.
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 
 ###### Article R*122-8
+
+La concession d'outillage public donne lieu à une convention assortie d'un cahier des charges, qui doit respecter un cahier
+des charges type approuvé par décret en Conseil d'Etat pris sur la proposition conjointe des ministres chargés des ports
+maritimes, du budget et du domaine.
 
 Les concessions d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat sont accordées :
 
@@ -6215,16 +6101,20 @@ Conseil d'Etat ;
 
 b) Par arrêté signé par le ministre chargé des ports maritimes et, le cas échéant, par le ministre dont relève
 l'établissement public concessionnaire pour les ports principaux figurant sur la liste mentionnée au deuxième alinéa de
-l'article R. 122-1, ou lorsqu'il y a lieu à déclaration d'utilité publique prononcée par arrêté ministériel ;
+l'article R. *122-1, ou lorsqu'il y a lieu à déclaration d'utilité publique prononcée par arrêté ministériel ;
 
-c) Par arrêté du préfet dans les autre cas. Lorsque le cahier des charges de la concession comporte des dérogations au cahier
-des charges type, celles-ci doivent préalablement être autorisées par le ministre chargé des ports maritimes.
+c) Par arrêté du préfet dans les autres cas. Lorsque le cahier de charges de la concession comporte des dérogations au cahier
+des charges type, celles-ci doivent préalablement être autorisées par le ministre chargé des ports maritimes et, le cas
+échéant, par le ministre dont relève l'établissement public concessionnaire ; l'absence de réponse des ministres dans le
+délai de deux mois suivant la réception la plus tardive de la demande vaut autorisation.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-140 1969-02-06 art. 2
 
 	**Codifié par**:
 
@@ -6232,43 +6122,48 @@ des charges type, celles-ci doivent préalablement être autorisées par le mini
 
 	**Modifié par**:
 
-	  - Décret n°84-245 1984-04-03 art. 1, art. 2 JORF 6 avril 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 	**Cité par**:
 
 	  - Code des transports - art. R5753-5 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 	**Cite**:
 
-	  - Code des ports maritimes R122-1
+	  - Code des ports maritimes
 
 
 ###### Article R*122-9
 
-Toute demande de concession d'outillage public dans un port non autonome de commerce ou de pêche de l'Etat est instruite par
-le directeur départemental de l'équipement ou par le chef du service maritime spécialisé.
+La demande de concession d'outillage public dans un port non autonome de commerce ou de pêche de l'Etat est instruite par le
+directeur du port.
 
-Le commissaire de la République transmet, dans les cas prévus aux a et b de l'article R. 122-8, la demande avec son rapport
-au ministre chargé des ports maritimes, qui décide si le projet doit être pris en considération. Dans les autres cas, la
-prise en considération est prononcée par le commissaire de la République. Si le projet est pris en considération, le
-commissaire de la République fait procéder à l'instruction dans les conditions prévues aux articles R. 122-10 et R. 122-11.
-L'indication du montant de la redevance pour occupation du domaine public national, fixé par le directeur des services
-fiscaux, doit figurer dans le dossier de l'instruction.
+Le préfet transmet, dans les cas prévus aux a et b de l'article R. *122-8, la demande accompagnée de son rapport au ministre
+chargé des ports maritimes, qui décide si le projet doit être pris en considération. Dans les autres cas, la décision de
+prendre en considération le projet est prise par le préfet.
 
-Dès l'issue de l'instruction et lorsque la concession doit être accordée par un décret en Conseil d'Etat ou par un arrêté
-ministériel, le commissaire de la République transmet le dossier avec son rapport au ministre chargé des ports maritimes. Ce
-dernier, s'il estime devoir donner suite à l'affaire, soumet, le cas échéant, le projet au ministre de qui relève
-l'établissement public intéressé.
+Si le projet est pris en considération, le directeur du port mène l'instruction dans les conditions prévues aux II et III de
+l'article R. *122-4. Le montant de la redevance pour occupation du domaine public de l'Etat fixé par le directeur des
+services fiscaux est mentionné dans le dossier d'instruction.
 
-Lorsque le commissaire de la République statue dans les conditions prévues à l'article R. 122-8 (paragraphe c), le dossier
-lui est transmis avec un rapport dès l'issue de l'instruction par le chef de service responsable de celle-ci.
+Lorsque la concession doit être accordée par un décret en Conseil d'Etat ou par un arrêté ministériel, le préfet transmet,
+dès l'issue de l'instruction, le dossier accompagné de son rapport au ministre chargé des ports maritimes. Ce dernier, s'il
+estime devoir donner une suite au projet, le soumet, le cas échéant, au ministre de qui relève la collectivité publique ou
+l'établissement intéressé.
+
+Dans les cas prévus au c de l'article R. *122-8, le directeur du port transmet, dès l'issue de l'instruction, le dossier
+accompagné d'un rapport au préfet pour qu'il statue.
+
+Lorsque la concession n'est pas accordée par un décret en Conseil d'Etat, le ministre chargé des ports maritimes, ou le
+préfet dans les cas prévus au c de l'article R. *122-8, peut, par sa décision de prendre en considération le projet, limiter
+les consultations à celles des collectivités publiques et services locaux intéressés, du conseil portuaire et de la
+commission nautique s'il y a lieu.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-140 1969-02-06 art. 3
 
 	**Codifié par**:
 
@@ -6276,10 +6171,7 @@ lui est transmis avec un rapport dès l'issue de l'instruction par le chef de se
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-	  - Décret n°84-245 1984-04-03 art. 2 JORF 6 avril 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 	**Cité par**:
 
@@ -6287,98 +6179,15 @@ lui est transmis avec un rapport dès l'issue de l'instruction par le chef de se
 
 	**Cite**:
 
-	  - Code des ports maritimes R122-8, R122-10, R122-11
+	  - Code des ports maritimes R122-8, R122-4
 
 
 ###### Article R*122-10
 
-L'instruction prévue à l'article R. 122-9 est effectuée à la diligence du directeur du port ou du chef du service maritime.
-
-Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
-coût total des travaux excède le montant fixé au C de l'article 3 du même décret.
-
-Le dossier d'instruction comprend également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
-pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
-les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
-
-Cette instruction comporte les formalités ci-après :
-
-1° consultation de la ou des chambres de commerce et d'industrie intéressées ;
-
-2° consultation du conseil portuaire ;
-
-3° consultation des collectivités publiques et des services publics intéressés ;
-
-4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions offertes
-à la navigation. Dans le cas contraire ou sur décision du ministre chargé des ports maritimes, consultation de la grande
-commission nautique ;
-
-5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
-
-6° enquête publique s'il y a lieu.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - 84-617 1984-07-17 art. 29 III JORF 18 juillet 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 5 () JORF 3 janvier 1984
-
-	**Cite**:
-
-	  - Loi n°52-1265 1952-11-29
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
-	  - Loi n°82-1153 1982-12-30 art. 14
-	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-	  - Code des ports maritimes R122-9
-
-	**Anciens textes**:
-
-	  - Décret n°69-140 1969-02-06 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-
-###### Article R*122-11
-
-Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
-connaître leur avis est d'un mois. L'absence d'avis dans ledit délai vaut avis favorable.
-
-Lorsque la concession n'est pas accordée par décret en Conseil d'Etat, le ministre chargé des ports maritimes ou le préfet,
-suivant le cas, peut, lors de la prise en considération du projet, réduire les consultations à celles des collectivités ou
-établissements publics et services publics intéressés, du conseil portuaire et de la commission nautique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-140 1969-02-06 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°81-412 1981-04-24 art. 7 JORF 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-
-
-###### Article R*122-11-1
-
 Les concessionnaires d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat ont le pouvoir de
 délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres d'occupation du
-domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi n° 94-631 du 25
-juillet 1994.
+domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 du même code et de l'article 3 de la loi n° 94-631 du
+25 juillet 1994.
 
 **Liens relatifs à cet article**
 
@@ -6392,42 +6201,51 @@ juillet 1994.
 	  - Code du domaine de l'Etat - art. R57-4 (M)
 	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
 
-	**Créé par**:
-
-	  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 
-##### Sous-section 3 : Outillages privés autorisés avec obligation de service public.
+##### Sous-section 2 : Outillages privés.
+
+###### Article R*122-11
+
+Les outillages qu'une entreprise entend mettre en place et qui sont nécessaires à ses propres besoins font l'objet d'une
+autorisation d'outillage privé avec obligation de service public.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 
 ###### Article R*122-12
 
 Les autorisations d'outillage privé avec obligation de service public sont accordées, après instruction, par un arrêté du
-commissaire de la République.
+préfet ou, si l'outillage est compris dans les limites d'une concession, par le concessionnaire après accord du préfet qui
+est réputé acquis en l'absence de réponse dans le délai de deux mois suivant la réception de la demande.
 
-Lorsque le cahier des charges doit comporter des dérogations au cahier des charges type, celles-ci doivent, préalablement à
-la mise à l'instruction, être autorisées par le ministre chargé des ports maritimes.
-
-La demande d'autorisation est instruite par le directeur départemental de l'équipement ou, le cas échéant, par l'ingénieur en
-chef du service maritime spécialisé ; celui-ci la communique au directeur des services fiscaux en vue de la fixation du
-montant de la redevance pour occupation du domaine public maritime.
-
-Dans les ports principaux, si les travaux envisagés doivent donner lieu à des modifications importantes aux installations
-existantes, la demande est soumise, préalablement à la mise à l'instruction, au commissaire de la République, qui décide si
-le projet doit être pris en considération.
-
-Sauf dans le cas où il est décidé de ne pas prendre le projet en considération, le commissaire de la République soumet la
-demande à l'instruction dans les conditions prévues à l'article R. 122-13. Le dossier comprend obligatoirement l'indication
-du montant de la redevance domaniale fixé par le directeur des services fiscaux.
+La demande d'autorisation est instruite, selon le cas, soit par le directeur du port qui la communique au directeur des
+services fiscaux en vue de la fixation du montant de la redevance pour occupation du domaine public de l'Etat, soit par le
+concessionnaire. En cas de travaux, l'instruction est menée dans les conditions prévues par les articles R. *122-4 et R.
+*122-9.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-703 1976-07-23 art. 2
 
 	**Codifié par**:
 
@@ -6435,10 +6253,7 @@ du montant de la redevance domaniale fixé par le directeur des services fiscaux
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-	  - Décret n°84-245 1984-04-03 art. 2 JORF 6 avril 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 	**Cité par**:
 
@@ -6446,88 +6261,25 @@ du montant de la redevance domaniale fixé par le directeur des services fiscaux
 
 	**Cite**:
 
-	  - Code des ports maritimes R122-13
+	  - Code des ports maritimes R122-4, R122-9
 
 
-###### Article R*122-13
-
-L'instruction prévue à l'article R. 122-12 est effectuée à la diligence du directeur départemental de l'équipement ou, le cas
-échéant, de l'ingénieur en chef du service maritime spécialisé.
-
-Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
-coût total des travaux de création ou d'extension des installations excède le montant fixé au C de l'article 3 du même
-décret.
-
-Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
-1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
-intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
-
-Cette instruction comporte les formalités ci-après :
-
-1° consultation de la ou des chambres de commerce et d'industrie intéressées ;
-
-2° consultation du conseil portuaire ;
-
-3° consultation des collectivités locales et des services publics intéressés ;
-
-4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions
-apportées à la navigation. Dans le cas contraire ou sur décision du ministre chargé des ports maritimes, consultation de la
-grande commission nautique ;
-
-5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
-
-6° enquête publique s'il y a lieu.
-
-Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
-connaître leur avis est de un mois. L'absence d'avis dans ce délai vaut avis favorable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°52-1265 1952-11-29
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
-	  - Loi n°82-1153 1982-12-30 art. 14
-	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-	  - Code des ports maritimes R122-12
-
-	**Anciens textes**:
-
-	  - Décret n°76-703 1976-07-23 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 5 () JORF 3 janvier 1984
-	  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
-
-	**Abrogé par**:
-
-	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
-
-
-##### Sous-section 4 : Dispositions communes relatives aux tarifs.
+##### Sous-section 3 : Dispositions relatives aux tarifs.
 
 ###### Article R*122-14
 
-Les tarifs et les conditions d'usage des outillages publics concédés et des outillages privés autorisés avec obligation de
-service public sont institués selon la procédure définie par les articles R. 122-8 à R. 122-13. Ils figurent en annexe au
-cahier des charges qui doit prévoir que leur modification est opérée selon la procédure prévue à l'article R. 122-15.
+Les tarifs et conditions d'usage des outillages publics concédés ou affermés et des outillages privés lorsqu'ils sont
+utilisés dans le cadre de l'obligation de service public sont institués selon la procédure définie par les articles R. *122-8
+à R. *122-12. Ils figurent en annexe au cahier des charges qui doit prévoir que leur modification est opérée selon la
+procédure prévue à l'article R. *122-15.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 1
 
 	**Codifié par**:
 
@@ -6535,16 +6287,19 @@ cahier des charges qui doit prévoir que leur modification est opérée selon la
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 	**Cité par**:
 
 	  - Code des transports - art. R5753-7 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 	**Cite**:
 
-	  - Code des ports maritimes R122-8 à R122-13, R122-15
+	  - Code des ports maritimes
 
 
 ###### Article R*122-15
@@ -6556,12 +6311,13 @@ usagers ;
 
 - de la consultation du conseil portuaire.
 
-Ces opérations sont effectuées à la diligence du chef du service maritime.
+Ces opérations sont effectuées à la diligence du directeur du port, simultanément ou successivement.
 
-Le conseil portuaire doit faire connaître son avis dans le délai de quinze jours.
+Le conseil portuaire fait connaître son avis dans le délai d'un mois à compter de la saisine.
 
-Le chef du service maritime dispose d'un délai de huit jours après la clôture de l'instruction pour en transmettre les
-résultats accompagnés de son avis au préfet du département.
+Dans le délai de quinze jours suivant la date la plus tardive    d'achèvement des formalités de l'affichage ou de la
+consultation    du conseil portuaire, le directeur du port transmet au préfet les projets de tarifs et les résultats de
+l'instruction accompagnés de son avis.
 
 Les tarifs et conditions d'usage projetés sont applicables quinze jours après leur transmission au préfet si, dans ce délai,
 le préfet n'a pas fait connaître son opposition.
@@ -6570,13 +6326,15 @@ Sauf confirmation, par le ministre chargé des ports maritimes, dans le délai d
 opposition est levée de plein droit à l'expiration dudit délai.
 
 Aucune proposition de modification des tarifs et conditions d'usage n'est recevable avant l'expiration du délai de trois mois
-suivant la mise en application des tarifs et conditions précédents;
+suivant la mise en application des tarifs et conditions précédents.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 1
 
 	**Codifié par**:
 
@@ -6584,9 +6342,11 @@ suivant la mise en application des tarifs et conditions précédents;
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*122-16
@@ -6596,75 +6356,45 @@ valeur du poisson et autres produits pêchés, d'origine animale, débarqués da
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 2
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 
 ###### Article R*122-17
 
-Les procédures prévues aux articles R. 122-14 et R. 122-15 ne sont pas applicables aux tarifs spéciaux dits tarifs
-d'abonnement ou tarifs contractuels, lorsque le cahier des charges contient la clause du cahier des charges type concernant
-l'homologation de ces tarifs.
+Lorsque le cahier des charges ou l'autorisation d'outillage privé le prévoit, les procédures prévues aux articles R. *122-15
+et R. *122-16 ne sont pas applicables aux tarifs spéciaux dits "tarifs d'abonnement" ou "tarifs contractuels". Les projets de
+tarifs spéciaux sont alors communiqués au préfet et sont réputés homologués à l'expiration d'un délai de quinze jours en
+l'absence d'opposition de sa part.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-
-	**Cite**:
-
-	  - Code des ports maritimes R122-14, R122-15
-
-
-###### Article R*122-18
-
-Les dispositions des articles R. 122-14 à R. 122-16 sont applicables aux contrats en cours à la date d'entrée en vigueur du
-décret n° 70-1114 du 3 décembre 1970 à la condition que le concessionnaire ou le bénéficiaire de l'autorisation en fasse la
-demande.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°70-1114 1970-12-03
-	  - Code des ports maritimes R122-14 à R122-16
-
-	**Anciens textes**:
-
-	  - Décret n°70-1114 1970-12-03 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 	**Abrogé par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
 
 
 ### Titre III : Installations portuaires de plaisance.
@@ -6702,17 +6432,11 @@ un port autonome, tant à des collectivités publiques qu'à des établissements
 
 ###### Article R*132-1
 
-Les concessions portant sur des installations portuaires de plaisance sont accordées dans les conditions fixées :
-
-- par l'article R. 122-8, lorsque l'autorité concédante est l'Etat ;
-
-- par l'article R. 115-9, lorsque l'autorité concédante est un port autonome.
+Les concessions portant sur des installations portuaires de plaisance sont accordées dans les conditions fixées par le c de
+l'article R. 122-8, lorsque l'autorité concédante est l'Etat, et par l'article R. 115-9, lorsque l'autorité concédante est un
+port autonome.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-140 1969-02-06 art. 2 III
 
 	**Codifié par**:
 
@@ -6720,37 +6444,27 @@ Les concessions portant sur des installations portuaires de plaisance sont accor
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 6 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 7 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 16 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-88 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R122-8, R115-9
+	  - Code des ports maritimes
 
 
 ###### Article R*132-2
 
-La demande est instruite dans les conditions fixées :
-
-- par les articles R. 122-9 à R. 122-11, lorsque l'autorité concédante est l'Etat ;
-
-- par les articles R. 115-10 à R. 115-12, lorsque l'autorité concédante est un port autonome.
-
-Toutefois, en ce qui concerne les travaux n'atteignant pas le montant fixé au C de l'article 3 du décret n° 77-1141 du 12
-octobre 1977, le dossier comprend la notice prévue à l'article 4 du même décret.
+La demande est instruite dans les conditions fixées par les articles R. 122-9 et R. 122-10, lorsque l'autorité concédante est
+l'Etat, et par les articles R. 115-9 à R. 115-11, lorsque l'autorité concédante est un port autonome.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°69-140 1969-02-06 art. 3 III
-
-	**Cite**:
-
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 4 (Ab)
-	  - Code des ports maritimes R122-9 à R122-11, R115-10 à R115-12
 
 	**Codifié par**:
 
@@ -6758,8 +6472,19 @@ octobre 1977, le dossier comprend la notice prévue à l'article 4 du même déc
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 6 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 16 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-89 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
 
 
 ###### Article R132-3
@@ -6830,15 +6555,11 @@ sont accordées dans les conditions fixées :
 
 La demande est instruite dans les conditions fixées :
 
-- par les articles R. 122-12 et R. 122-13, lorsque l'autorisation est accordée par l'Etat ;
+- par l'article R. *122-12, lorsque l'autorisation est accordée par l'Etat ;
 
-- par l'article R. 115-13 et R. 115-14, lorsque l'autorisation est accordée par un port autonome.
+- par l'article R. *115-13, lorsque l'autorisation est accordée par un port autonome.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-703 1976-07-23 art. 4
 
 	**Codifié par**:
 
@@ -6846,12 +6567,19 @@ La demande est instruite dans les conditions fixées :
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 6 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 16 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-92 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R122-12, R122-13, R115-13, R115-14
+	  - Code des ports maritimes
 
 
 #### Chapitre IV : Dispositions communes relatives aux tarifs.
@@ -6861,35 +6589,31 @@ La demande est instruite dans les conditions fixées :
 Les tarifs et conditions d'usage des installations portuaires de plaisance sont institués et modifiés selon la procèdure
 fixée :
 
-- aux articles R. 122-14, lorsque la concession ou l'autorisation est accordée par l'Etat ;
+- aux articles R. *122-14 et R. *122-15, lorsque la concession ou l'autorisation est accordée par l'Etat ;
 
-- aux articles R. 115-15 et R. 115-16, lorsque la concession ou l'autorisation est accordée par un port autonome.
-
-Ces dispositions sont applicables aux contrats en cours à la date d'entrée en vigueur du décret n° 70-1114 du 3 décembre
-1970, à la condition que le concessionnaire ou le bénéficiaire de l'autorisation en fasse la demande.
+- aux articles R. *115-15 et R. *115-16, lorsque la concession ou l'autorisation est accordée par un port autonome.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°70-1114 1970-12-03
-	  - Code des ports maritimes R122-14, R115-15, R115-16
-
-	**Anciens textes**:
-
-	  - Décret n°76-703 1976-07-23 art. 4
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
-
-	**Créé par**:
-
-	  - Décret n°79-404 1979-05-09 art. 3 JORF 22 mai 1979
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 7 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 16 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-93 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes
 
 
 ###### Article R*134-2
@@ -6926,9 +6650,9 @@ tarifs.
 	  - Code des ports maritimes
 
 
-### Titre IV : Conseils portuaires
+### Titre IV : Conseil portuaire et comité de pilotage stratégique.
 
-#### Chapitre Ier : Dispositions générales.
+#### Chapitre Ier : Rôle et fonctionnement du conseil portuaire.
 
 ###### Article R*141-1
 
@@ -6937,11 +6661,23 @@ Un conseil portuaire est institué dans les ports non autonomes relevant de la c
 Le conseil portuaire est compétent pour émettre un avis, dans les conditions prévues au présent code, sur les affaires du
 port qui intéressent les personnes morales et physiques concernées par son administration, et notamment les usagers.
 
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
+portuaire - ports non autonomes des départements d'outre-mer relevant de l'Etat).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Conseil portuaire - ports d'intérêt national relevant de la compétence de l'Etat).
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.  
+
+Conformément à l'annexe 1 du décret n° 2015-622 du 5 juin 2015, le Conseil portuaire (ports d'intérêt national relevant de la
+compétence de l'Etat) est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-1112 1970-12-03 art. 1
 
 	**Codifié par**:
 
@@ -6949,14 +6685,21 @@ port qui intéressent les personnes morales et physiques concernées par son adm
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 	**Cité par**:
 
 	  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
 	  - Décret n°2015-622 du 5 juin 2015 - art. Annexe 1 (V)
 	  - Code des transports - art. R5753-2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R*114-6
 
 
 ###### Article R*141-2
@@ -6990,19 +6733,13 @@ et le concessionnaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1112 1970-12-03 art. 2
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -7016,10 +6753,15 @@ Le fonctionnement du conseil portuaire obéit aux règles suivantes :
 1° Le conseil portuaire se réunit au moins deux fois par an ; ses séances ne sont pas publiques ; toutefois, il peut entendre
 toute personne qu'il juge utile ;
 
-2° Il est convoqué par son président quinze jours au moins avant la date prévue pour sa réunion ; l'ordre du jour est annexé
-à la convocation ; il peut être convoqué sans condition de délai à la demande du concessionnaire ou des deux tiers des
-membres du conseil ; dans ce cas la convocation doit intervenir dans les cinq jours suivant la réception de la demande par le
-président ;
+2° Il est convoqué par son président quinze jours au moins avant la date prévue pour sa réunion. Il peut être convoqué sans
+condition de délai à la demande du préfet, ou d'un concessionnaire ou des deux tiers des membres du conseil ; dans ce cas la
+convocation doit intervenir dans les cinq jours suivant la réception de la demande par le président.
+
+Les questions dont l'inscription à été demandée par le préfet, l'un des concessionnaires ou la moitié des membres du conseil
+sont portées à l'ordre du jour.
+
+L'ordre du jour est annexé à la convocation. Les documents correspondants sont communiqués au plus tard huit jours avant la
+réunion du conseil portuaire.
 
 3° Le conseil portuaire ne peut délibérer valablement que si deux tiers au moins de ses membres sont présents ou
 représentés ; les avis sont pris à la majorité absolue des voix des membres présents ou représentés ; en cas d'égalité, la
@@ -7033,26 +6775,22 @@ recevoir qu'un seul mandat ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1112 1970-12-03 art. 3
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°99-782 1999-09-09 art. 17 I, II JORF 11 septembre 1999
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 
 ###### Article R*141-4
 
 La durée des mandats des membres du conseil portuaire est de cinq ans.
 
-En cas de décès ou de démission d'un membre titulaire, le membre qui cesse ainsi d'exercer ses fonctions est remplacé pour la
-durée du mandat restant à courir par un membre désigné dans les mêmes conditions.
+Lorsqu'un membre titulaire décède, démissionne ou perd la qualité en raison de laquelle il était désigné, il est remplacé
+pour la durée du mandat restant à courir par un membre désigné dans les mêmes conditions.
 
 Le mandat des membres du conseil portuaire est renouvelable.
 
@@ -7060,21 +6798,17 @@ Les fonctions de membre du conseil portuaire sont gratuites.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1112 1970-12-03 art. 7 bis
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°99-782 1999-09-09 art. 17 I, III JORF 11 septembre 1999
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 
-#### Chapitre II : Composition.
+#### Chapitre II : Composition du conseil portuaire.
 
 ###### Article R*142-1
 
@@ -7083,8 +6817,8 @@ comme suit :
 
 1° Un représentant du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ;
 
-2° Trois membres désignés respectivement en leur sein par l'assemblée délibérante de la région, du département et de la
-commune où sont implantées les principales installations portuaires ;
+2° Un membre désigné en son sein par chacune des assemblées délibérantes de la région, du ou des départements, de la ou des
+communes où sont implantées les principales installations portuaires ;
 
 3° Un représentant désigné au sein du comité syndical par le syndicat intercommunal compétent en matière d'urbanisme pour la
 zone où est situé le port, lorsqu'il existe ;
@@ -7133,19 +6867,13 @@ signature pour la convocation aux réunions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1112 1970-12-03 art. 8
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -7162,25 +6890,20 @@ mer, par l'officier général commandant supérieur des forces armées complète
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-1112 1970-12-03 art. 8 bis
-
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 
 ###### Article R*142-3
 
 Dans les ports où se pratiquent simultanément au moins deux des trois activités de commerce, de pêche et de plaisance il peut
-être constitué un conseil portuaire unique composé dans les mêmes conditions que celles prévues aux articles R. 142-1 et R.
-142-2 sous réserve des dispositions suivantes :
+être constitué un conseil portuaire unique composé dans les mêmes conditions que celles prévues aux articles R. *142-1 et R.
+*142-2 sous réserve des dispositions suivantes :
 
 Le nombre des représentants des usagers est porté à dix dans les ports où se pratiquent deux activités et à douze dans ceux
 où se pratiquent trois activités.
@@ -7188,13 +6911,13 @@ où se pratiquent trois activités.
 Le préfet détermine le nombre de sièges revenant à chaque catégorie d'usagers, compte tenu de l'importance respective de
 chaque activité.
 
-Les représentants des usagers sont choisis parmi les catégories mentionnées à l'article R. 142-5, à raison de :
+Les représentants des usagers sont choisis parmi les catégories mentionnées à l'article R. *142-5, à raison de :
 
 Un tiers au plus, désigné par le préfet ;
 
 Les autres membres désignés, selon l'activité représentée, par la chambre de commerce et d'industrie, le comité local des
 pêches et le comité local des usagers permanents des installations portuaires de plaisance constitué dans les mêmes
-conditions que celles prévues à l'article R. 622-3 ; ce dernier est réuni au moins une fois par an par le préfet ou son
+conditions que celles prévues à l'article R. *622-3 ; ce dernier est réuni au moins une fois par an par le préfet ou son
 représentant.
 
 **Liens relatifs à cet article**
@@ -7205,9 +6928,7 @@ représentant.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -7217,7 +6938,7 @@ représentant.
 ###### Article R*142-4
 
 Des sections permanentes peuvent être créées au sein des conseils portuaires constitués en vertu des dispositions de
-l'article R. 142-3 pour chacune des activités de pêche, de commerce et de plaisance.
+l'article R. *142-3 pour chacune des activités de pêche, de commerce et de plaisance.
 
 Les sections permanentes instruisent, en vue de leur examen par le conseil portuaire, les affaires propres à une activité
 particulière ainsi que celles qui leur sont confiées par le conseil ou par le président.
@@ -7227,6 +6948,12 @@ Les sections sont présidées par le président du conseil portuaire ou par un m
 Les sections permanentes comportent tous les usagers désignés au titre de l'activité concernée, et en nombre au plus égal,
 des membres choisis par le président parmi les autres catégories de membres.
 
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7235,19 +6962,22 @@ des membres choisis par le président parmi les autres catégories de membres.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R142-3
+	  - Code des ports maritimes
 
 
 ###### Article R*142-5
 
 1° Les catégories d'usagers, au titre des activités de commerce, parmi lesquelles doivent être désignés certains membres du
 conseil portuaire sont les suivantes : principales entreprises industrielles, commerciales et agricoles des régions
-desservies par le port, armements, agences des compagnies de navigation, professionnels de la marine marchande, tels que
+desservies par le port, armements, agences des compagnies de navigation, professionnels de la marine marchande tels que
 capitaines de navires, pilotes et marins de la marine marchande, entreprises de transports terrestres, sociétés
 concessionnaires d'outillages publics, entreprises de services portuaires, et notamment entreprises de manutention maritime,
 de transit, de consignation, d'exploitation d'entrepôt public des douanes, courtiers maritimes.
@@ -7261,16 +6991,138 @@ maritimes ainsi que les consommateurs.
 conseil portuaire sont les suivantes : navigateurs de plaisance, services nautiques, construction, réparation, associations
 sportives et touristiques liées à la plaisance.
 
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5314-25 (V)
+	  - Code des transports - art. R5314-26 (V)
+	  - Code des transports - art. R5314-27 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+#### Chapitre III : Comité de pilotage stratégique.
+
+###### Article R*143-1
+
+Un comité de pilotage stratégique est institué dans les ports non autonomes de commerce et de pêche relevant de la compétence
+de l'Etat.
+
+Le comité de pilotage stratégique donne son avis sur les orientations de développement de la place portuaire. Il étudie et
+propose toutes mesures de nature à favoriser le développement des activités portuaires ; il peut être notamment consulté sur
+le programme d'investissement du port.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 8 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
+
+
+###### Article R*143-2
+
+Le comité de pilotage stratégique est composé de :
+
+1° Trois membres représentant l'Etat :
+
+- le préfet ou son représentant ;
+
+- le trésorier-payeur général ou son représentant ;
+
+- le directeur du port ou son représentant ;
+
+2° Trois membres représentant l'exécutif des collectivités territoriales et de leur groupement :
+
+- le président du conseil régional ou son représentant ;
+
+- le président du conseil général ou son représentant ;
+
+- le maire de la commune où est situé le port ou, s'il y a lieu, le président de l'établissement de coopération intercommunal
+ou leur représentant.
+
+Lorsque les principales installations portuaires sont implantées sur une commune autre que celle du siège, le maire de cette
+commune est également membre du comité de pilotage stratégique.
+
+Lorsque les principales installations portuaires sont implantées sur un département autre que celui du siège, le président du
+conseil général de ce département est également membre du comité de pilotage stratégique ; le préfet de ce département et le
+trésorier payeur-général sont tenus informés des travaux du comité.
+
+3° Trois membres représentant les concessionnaires d'outillages portuaires des ports de commerce et de pêche, désignés par
+l'organe délibérant de ces concessionnaires.
+
+Les membres du comité de pilotage stratégique mentionnés au 3° sont nommés pour cinq ans par arrêté du préfet.
+
+Lorsqu'un membre décède, démissionne ou perd la qualité en raison de laquelle il était désigné, il est remplacé par un membre
+désigné dans les mêmes conditions. Les remplaçants des membres visés au 3° siègent pour la durée du mandat restant à courir.
+
+Les fonctions de membre du comité de pilotage stratégique ne donnent pas lieu à rémunération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+
+
+###### Article R*143-3
+
+Le comité de pilotage stratégique est présidé par le préfet. Un vice-président est élu parmi les membres visés au 2° de
+l'article R. *143-2.
+
+Le comité de pilotage stratégique se réunit au moins deux fois par an sur convocation du président. Il peut entendre toute
+personne qu'il juge utile. Les autres modalités de fonctionnement du comité de pilotage stratégique sont fixées par le
+règlement intérieur qu'il établit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes R143-2
 
 
 ### Titre V : Dispositions communes à tous les ports relevant de la compétence de l'Etat.
@@ -7556,35 +7408,6 @@ fin à ses fonctions dans les mêmes formes.
 	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
 
 
-###### Article R*162-5
-
-Le directeur du port autonome est chargé du service maritime dans le département de la Guadeloupe.
-
-En cette qualité, il ne relève pas du conseil d'administration du port autonome. Il est assisté par le personnel du port
-autonome qui, à ce titre, agit pour le compte de l'Etat.
-
-L'Etat verse en compensation une participation financière au port autonome. Un arrêté conjoint du ministre de l'économie et
-des finances et du ministre chargé des ports maritimes fixe les modalités de cette participation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-373 1974-05-06 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°99-782 du 9 septembre 1999 - art. 18 () JORF 11 septembre 1999
-
-
 ###### Article R*162-6
 
 Le conseil d'administration du port autonome comprend :
@@ -7714,11 +7537,10 @@ taux des taxes et redevances énumérées à l'article R. 211-1, à l'exclusion 
 par le conseil d'administration pour les ports autonomes, par l'organe délibérant de la collectivité publique ou de
 l'établissement public bénéficiaire pour les autres ports.
 
-A la diligence du directeur du port ou de l'ingénieur en chef du service maritime ou du directeur départemental de
-l'équipement chargé du service maritime, les projets concernant ces taux font l'objet d'une part, d'une instruction
-comportant un affichage pendant quinze jours dans les endroits du port principalement fréquentés par les usagers et, d'autre
-part, d'une consultation du service des douanes, du service des affaires maritimes et de la commission permanente d'enquête
-du port ou du conseil portuaire.
+A la diligence du directeur du port, les projets concernant ces taux font l'objet d'une instruction comportant un affichage
+pendant quinze jours dans les endroits du port principalement fréquentés par les usagers et la consultation du service des
+douanes, du service des affaires maritimes et de la commission permanente d'enquête du port ou du conseil portuaire. Ces
+formalités peuvent être accomplies simultanément.
 
 Les commissions et services consultés doivent faire parvenir leur avis dans le délai d'un mois à compter du jour où ils y ont
 été invités. Le silence gardé équivaut à un avis favorable.
@@ -7731,9 +7553,7 @@ Les commissions et services consultés doivent faire parvenir leur avis dans le 
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 1, art. 2 JORF 27 décembre 1983
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 19 () JORF 11 septembre 1999
 
 	**Cité par**:
 
@@ -7782,30 +7602,32 @@ l'instruction prévue à l'article R. *211-2.
 
 ###### Article R*211-4
 
-Dans les ports non autonomes, huit jours au plus tard après l'expiration du délai d'un mois prévu à l'article R. 211-2,
-l'ingénieur en chef du service maritime ou le directeur départemental de l'équipement chargé du service maritime, transmet au
-préfet, avec son avis, la délibération de l'établissement public ou de la collectivité publique bénéficiaire accompagnée des
-résultats de l'instruction et des consultations.
+Dans les ports non autonomes, huit jours au plus tard après l'expiration du délai d'un mois prévu à l'article R. *211-2, le
+directeur du port transmet au préfet, avec son avis, la délibération de l'organisme bénéficiaire accompagnée des résultats de
+l'instruction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°99-782 du 9 septembre 1999 - art. 19 () JORF 11 septembre 1999
 
 	**Cité par**:
 
 	  - Code des transports - art. R4323-2 (V)
 	  - Code des transports - art. R4323-3 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 	**Cite**:
 
-	  - Code des ports maritimes R211-2
+	  - Code des ports maritimes
 
 
 ###### Article R*211-5
@@ -7903,12 +7725,7 @@ levée de l'opposition.
 Après avoir reçu un numéro, les tarifs fixant dans chaque port les taux des droits de port sont affichés dans les locaux du
 port ouverts au public où ils peuvent être consultés par tout usager.
 
-Ils font l'objet d'un avis publié au Journal officiel et sont publiés par ailleurs au Bulletin officiel du ministère chargé
-des ports maritimes.
-
-Il entrent en vigueur à la date fixée suivant le cas, par le port autonome ou par la collectivité publique ou l'établissement
-public bénéficiaire ; cette date doit être postérieure de dix jours au moins à la date de publication de l'avis au Journal
-officiel.
+Ils sont publiés au recueil des actes administratifs de la préfecture.
 
 **Liens relatifs à cet article**
 
@@ -7918,7 +7735,7 @@ officiel.
 
 	**Modifié par**:
 
-	  - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
+	  - Décret n°99-782 du 9 septembre 1999 - art. 19 () JORF 11 septembre 1999
 
 	**Cité par**:
 
@@ -9318,20 +9135,24 @@ articles L. 311-4, L. 321-2, L. 323-1, L. 323-4, L. 331-4 et L. 331-6, les attri
 matérielle.
 
 Dans les ports non autonomes, ils sont placés, pour l'exercice de leurs fonctions, sous l'autorité du ministre chargé des
-ports maritimes et sous les ordres immédiats des ingénieurs des ponts et chaussées, sauf en ce qui concerne les attributions
-visées aux articles R. 311-10 et R. 311-11, R. 311-13 à R. 311-15 et R. 311-17, pour lesquelles ils relèvent du ministre
-chargé de la marine nationale ou du ministre chargé de la marine marchande.
+ports maritimes et des directeurs de port, sauf en ce qui concerne les attributions visées aux articles R. 311-10 et R.
+311-11, R. 311-13 à R. 311-15 et R. 311-17, pour lesquelles ils relèvent du ministre chargé de la marine nationale ou du
+ministre chargé de la marine marchande.
 
 Dans les ports autonomes, les officiers de port sont pris dans le personnel du ministère chargé des ports maritimes ; ils
-exercent leurs fonctions sous les ordres du directeur et des ingénieurs des ponts et chaussées, sauf en ce qui concerne les
+exercent leurs fonctions sous les ordres du directeur et des responsables qu'il désigne, sauf en ce qui concerne les
 attributions visées aux articles R. 311-10 et R. 311-11, R. 311-13 à R. 311-15 et R. 311-17, pour lesquelles ils relèvent du
-ministre chargé de la marin nationale ou du ministre chargé de la marine marchande.
+ministre chargé de la marine nationale ou du ministre chargé de la marine marchande.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
 
 	**Cite**:
 
@@ -9342,10 +9163,6 @@ ministre chargé de la marin nationale ou du ministre chargé de la marine march
 	  - Code des ports maritimes - art. L331-4 (Ab)
 	  - Code des ports maritimes - art. L331-6 (Ab)
 	  - Code des ports maritimes L311-4, L321-2, L323-1, L323-4, L331-4, L331-6, R311-3 à R311-11, R311-13 à R311-19, R311-10, R311-13 à R311-15, R311-17
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 1
 
 
 ###### Article R*311-2
@@ -9553,85 +9370,100 @@ sauvegarde de l'intérêt général.
 ###### Article R*311-10
 
 Quand un navire ou bâtiment de mer est en détresse dans un port, une rade ou une passe navigable, les officiers de port
-donnent les premiers ordres en vue du sauvetage et rendent compte immédiatement aux ingénieurs des ponts et chaussées du
-service maritime ou du port autonome dont ils relèvent, qui avisent aussitôt les services des affaires maritimes et de la
-marine nationale.
+donnent les premiers ordres en vue du sauvetage et rendent compte immédiatement aux autorités portuaires dont ils relèvent,
+qui avisent aussitôt les services des affaires maritimes et de la marine nationale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 7
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 2
 
 
 ###### Article R*311-11
 
 Lorsque le navire ou le bâtiment en détresse est susceptible de former écueil ou obstacle dans le port, à l'entrée du port,
-dans les passes d'accès ou dans la rade, l'officier de port constate cette situation et en informe aussitôt les ingénieurs.
-Il leur adresse un rapport écrit dont il fait parvenir une copie d'une part aux services de la marine nationale, d'autre part
-au service des affaires maritimes.
+dans les passes d'accès ou dans la rade, l'officier de port constate cette situation et en informe aussitôt les autorités
+donts ils relèvent. Il leur adresse un rapport écrit dont il fait parvenir une copie d'une part aux services de la marine
+nationale, d'autre part au service des affaires maritimes.
 
-Les opérations sont alors poursuivies, selon le cas, par le service des ponts et chaussées (service maritime) ou par le port
-autonome conformément aux instructions concertées entre les ministres compétents.
+Les opérations sont alors poursuivies, selon le cas, par le service déconcentré du ministère chargé des ports maritimes ou
+par le port autonome conformément aux instructions concertées entre les ministres compétents.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 7
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 2
 
 
 ###### Article R*311-12
 
 Si le navire ou bâtiment en détresse n'est pas susceptible de former écueil ou obstacle dans le port, à l'entrée du port,
-dans les passes d'accès ou dans la rade, les ingénieurs en informent les services des affaires maritimes et de la marine
-nationale. Les services des affaires maritimes prennent la direction des opérations de sauvetage ; ils font appel, s'ils le
-jugent convenable, aux services de la marine nationale qui font alors connaître, sans le moindre délai, s'ils prennent ou non
-la direction des opérations.
+dans les passes d'accès ou dans la rade, les autorités portuaires en informent les services des affaires maritimes et de la
+marine nationale. Les services des affaires maritimes prennent la direction des opérations de sauvetage ; ils font appel,
+s'ils le jugent convenable, aux services de la marine nationale qui font alors connaître, dans le moindre délai, s'ils
+prennent ou non la direction des opérations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 7
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 2
 
 
 ###### Article R*311-13
 
 Dans les ports de commerce attenant à un port militaire et dans les passes d'accès ou rades dépendant de ce port, les
 officiers de port avisent de la situation du navire en détresse, que celui-ci soit ou non susceptible de former écueil ou
-obstacle, en même temps que les ingénieurs, les services de la marine nationale et ceux des affaires maritimes.
+obstacle, en même temps que les autorités portuaires, les services de la marine nationale et ceux des affaires maritimes.
 
-Les services de la marine nationale font connaître, sans le moindre délai, s'ils prennent la direction des opérations ou
-s'ils en laissent la charge aux services des ponts et chaussées ou des affaires maritimes selon les cas prévus aux articles
-R. 311-11 et R. 311-12. En temps de guerre, le régime du présent article est applicable dans tous les ports où il existe un
-commandant de la marine ainsi que dans les rades ou passes navigables de ces ports.
+Les services de la marine nationale font connaître, dans le moindre délai, s'ils prennent la direction des opérations ou
+s'ils en laissent la charge aux services déconcentrés du ministère chargé des ports maritimes ou des affaires maritimes selon
+les cas prévus aux articles R. *311-11 et R. *311-12. En temps de guerre, le régime du présent article est applicable dans
+tous les ports où il existe un commandant de la marine ainsi que dans les rades ou passes navigables de ces ports.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 7
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 2
+
 	**Cite**:
 
-	  - Code des ports maritimes R311-11, R311-12
+	  - Code des ports maritimes
 
 
 ###### Article R*311-14
@@ -9738,21 +9570,30 @@ nationale.
 
 ###### Article R*311-18
 
-Les officiers de port doivent aviser par les voies les plus rapides les services des affaires maritimes de tous les faits
-parvenus à leur connaissance et donnant à penser qu'un navire ne peut prendre la mer sans danger pour l'équipage et les
-passagers.
+I. - Les officiers de port avisent par les voies les plus rapides le service des affaires maritimes de tout fait dont ils ont
+connaissance, dans l'exercice normal de leurs fonctions, donnant à penser qu'un navire ne peut prendre la mer sans danger
+pour l'équipage, les passagers, la sécurité de la navigation, la santé ou l'environnement.
 
-Ils peuvent interdire le départ de ce navire jusqu'à l'intervention du service compétent.
+Ils peuvent interdire le départ du navire jusqu'à ce que le service compétent ait déclaré le navire en état de prendre la
+mer.
+
+II. - A la demande du service des affaires maritimes qui a constaté des anomalies présentant un risque manifeste pour la
+sécurité, la santé ou l'environnement, les officiers de port interdisent le départ du navire en cause ou arrêtent l'opération
+portuaire concernée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-02-27 art. 10
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°99-782 du 9 septembre 1999 - art. 21 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 2
 
 
 ###### Article R*311-19
@@ -13490,8 +13331,8 @@ Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
 
 Un message rectificatif doit être envoyé en cas de changement.
 
-La capitainerie du port peut interdire l'accès du port aux bâtiments dont l'entrée serait susceptible de compromettre la
-sécurité, la santé, la conservation ou la bonne exploitation des ouvrages portuaires.
+Les officiers de port peuvent interdire l'accès du port aux bâtiments dont l'entrée serait susceptible de compromettre la
+sécurité, la santé ou l'environnement ainsi que la conservation ou la bonne exploitation des ouvrages portuaires.
 
 L'accès au port peut être subordonné à la visite préalable d'un expert agréé par le directeur du port.
 
@@ -13501,9 +13342,9 @@ L'accès au port peut être subordonné à la visite préalable d'un expert agr�
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22 JORF 2 avril 1978 rectificatif JORF 23 janvier 1979
+	  - Décret n°99-782 du 9 septembre 1999 - art. 21 () JORF 11 septembre 1999
 
 
 ### Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès.
@@ -14185,7 +14026,7 @@ Il est interdit :
 De faire circuler ou stationner des véhicules sur les couronnements des quais et sur les caniveaux de grues et plus
 généralement sur tous les ouvrages non prévus pour cet usage ;
 
-De lancer à terre aucune marchandise depuis le bord d'un bâtiment, sans autorisation du directeur du port ;
+De lancer à terre toute marchandise que ce soit depuis le bord d'un navire ;
 
 D'embarquer ou de débarquer des marchandises susceptibles de dégrader les ouvrages portuaires, en particulier le couronnement
 des quais et le revêtement des terre-pleins, les rails, les ouvrages souterrains, sans avoir au préalable protégé ces
@@ -14203,9 +14044,13 @@ endommagé ces ouvrages est tenue de les remettre en état.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22 JORF 2 avril 1978 rectificatif JORF 23 janvier 1979
+	  - Décret n°99-782 du 9 septembre 1999 - art. 22 () JORF 11 septembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
 ### Accès des personnes sur le port.
