@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1992-10-17
+Version Consolidée au 1993-03-20
 
 # Partie législative
 
@@ -4517,6 +4517,65 @@ justifications produites, le directeur émet un titre de régularisation au nom 
 
 ##### Section 4 : Régime domanial.
 
+###### Article R*113-22
+
+Les immeubles remis en jouissance aux ports autonomes par application des articles R. 111-8 et R. 111-10 ne peuvent faire
+l'objet d'un déclassement, d'une affectation ou d'un transfert de gestion à une collectivité autre que le port autonome,
+d'une aliénation, que dans les conditions et suivant la procédure par la réglementation applicable aux biens de l'Etat.
+
+Toutefois, les aliénations peuvent dans tous les cas être faites à l'amiable et, lorsque la valeur vénale excède le montant
+fixé au quatrième alinéa de l'article R. 129 du code du domaine de l'Etat, après autorisation du ministre chargé des ports
+maritimes et du ministre chargé du domaine.
+
+Le produit de la vente ou éventuellement l'indemnité de changement d'affectation est encaissé par l'Etat. Toutefois, la
+fraction du prix ou de l'indemnité correspondant à la plus-value apportée à l'immeuble par les aménagements réalisés depuis
+sa remise au port autonome, instituée en vertu du présent titre, ou au port autonome ancien auquel il est substitué, est
+répartie entre l'Etat et le port proportionnellement à leur participation respective au financement de ces aménagements. La
+valeur de la plus-value est calculée au jour de la vente et la répartition est fixée par décision conjointe du ministre
+chargé du domaine et du ministre chargé des ports maritimes pour les cessions d'immeubles dont la valeur vénale excède le
+montant défini au quatrième alinéa de l'article R. 129 du code du domaine de l'Etat, par décision conjointe du directeur du
+port autonome et du directeur des services fiscaux dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°93-387 du 15 mars 1993 - art. 1 () JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R129 (M)
+	  - Code des ports maritimes R111-8, R111-10
+
+
+###### Article R*113-23
+
+L'aliénation des immeubles dont le port autonome est propriétaire ne peut avoir lieu qu'avec l'accord du ministre chargé des
+ports maritimes et du ministre chargé du domaine lorsque leur valeur vénale excède le montant fixé au quatrième alinéa de
+l'article R. 129 du code du domaine de l'Etat. Quel qu'en soit le montant, le produit de leur vente est acquis pour la
+totalité au port autonome.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°93-387 du 15 mars 1993 - art. 2 () JORF 20 mars 1993
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R129 (M)
+
+
 ###### Article R*113-24
 
 Sur proposition du conseil d'administration du port autonome, le ministre chargé des ports maritimes et le ministre de
@@ -7413,62 +7472,6 @@ Le conseil d'administration se réunit au moins trois fois par an sur la convoca
 	**Abrogé par**:
 
 	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
-
-
-## Livre Ier : Création organisation et aménagement des ports maritimes
-
-### Titre Ier : Ports autonomes
-
-#### Chapitre III : Fonctionnement du port autonome
-
-##### Section 4 : Régime domanial.
-
-###### Article R*113-22
-
-Les immeubles remis en jouissance aux ports autonomes par application des articles R. 111-8 et R. 111-10 ne peuvent faire
-l'objet d'un déclassement, d'une affectation ou d'un transfert de gestion à une collectivité autre que le port autonome,
-d'une aliénation, que dans les conditions et suivant la procédure par la réglementation applicable aux biens de l'Etat.
-Toutefois, par dérogation aux dispositions de l'article R. 129 du code du domaine de l'Etat, les aliénations peuvent, dans
-tous les cas, être effectuées de gré à gré sans autorisation particulière, quelle que soit la valeur vénale des immeubles.
-
-Le produit de la vente ou éventuellement l'indemnité de changement d'affectation est encaissé par l'Etat. Toutefois, la
-fraction du prix ou de l'indemnité correspondant à la plus-value apportée à l'immeuble par les aménagements réalisés depuis
-sa remise au port autonome, instituée en vertu du présent titre, ou au port autonome ancien auquel il est substitué, est
-répartie entre l'Etat et le port proportionnellement à leur participation respective au financement de ces aménagements. La
-valeur de la plus-value est calculée au jour de la vente et de la répartition fixée en chaque cas par décision conjointe du
-ministre de l'économie et des finances et du ministre chargé des ports maritimes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R129 (M)
-	  - Code des ports maritimes R111-8, R111-10
-
-
-###### Article R*113-23
-
-L'aliénation des immeubles dont le port autonome est propriétaire ne peut avoir lieu qu'avec l'accord du ministre chargé des
-ports maritimes et du ministre de l'économie et des finances. Le produit de leur vente est acquis pour la totalité au port
-autonome.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
 
 
 ## Livre II : Droits de port et de navigation.
