@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1986-03-15
+Version Consolidée au 1986-10-22
 
 # Partie législative
 
@@ -5313,8 +5313,8 @@ suivante :
 
 a) Métropole :
 
-Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Concarneau, Lorient, La Rochelle, à
-l'exception du port de plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
+Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Le Fret, Roscanvel, Concarneau, Lorient, La
+Rochelle, à l'exception du port de plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
 
 b) Départements d'outre-mer :
 
@@ -5327,13 +5327,9 @@ Pointe-des-Galets (Réunion).
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
-
-	  - Décret n°83-1149 1983-12-23 art. 1 JORF 27 décembre 1983
-
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+	  - Décret n°86-1132 1986-10-15 art. 1 JORF 22 octobre 1986
 
 	**Cite**:
 
