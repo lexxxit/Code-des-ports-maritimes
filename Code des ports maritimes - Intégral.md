@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1984-07-18
+Version Consolidée au 1984-10-25
 
 # Partie législative
 
@@ -11486,6 +11486,120 @@ Le mandat des membres du conseil portuaire est soumis aux dispositions prévues 
 	**Cite**:
 
 	  - Code des ports maritimes R141-4
+
+
+### Titre III : Domaine public portuaire
+
+#### Chapitre unique.
+
+###### Article R*631-1
+
+Les dispositions du présent chapitre sont applicables aux dépendances du domaine public naturel ou artificiel, maritime ou
+fluvial, mises à la disposition des départements ou des communes en application de l'article 9 de la loi n° 83-663 du 22
+juillet 1983.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°83-663 1983-07-22 art. 9
+
+
+###### Article R*631-2
+
+Il ne peut être établi, sur les dépendances du domaine public mentionnées à l'article R. 631-1, que des ouvrages, bâtiments
+ou équipements ayant un rapport avec l'exploitation du port ou de nature à contribuer à l'animation et au développement de
+celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Code des ports maritimes R631-1
+
+
+###### Article R*631-3
+
+Les concessions d'établissement ou d'exploitation d'infrastructures ou de superstructures portuaires ne peuvent être
+consenties pour une durée supérieure à cinquante ans. Les autres concessions, conventions et autorisations d'occupation de
+toute nature du domaine public ne peuvent être consenties pour une durée supérieure à trente-cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+
+###### Article R*631-4
+
+La disposition privative de postes à quai destinés à des navires de plaisance ne peut être consentie pour une durée
+supérieure à un an, renouvelable chaque année dans les conditions définies par l'autorité compétente.
+
+La collectivité compétente fixe par délibération la proportion de postes à quai réservés à des navires de passage.
+
+Lorsque la disposition privative de postes à quai est consentie à des entreprises exerçant des activités de commerce et de
+réparation nautiques ou à des associations sportives et de loisirs, la durée fixée au premier alinéa est portée à cinq ans.
+
+Il peut être accordé des garanties d'usage de postes d'amarrage ou de mouillage pour une durée maximale de trente-cinq ans,
+en contrepartie d'une participation au financement d'ouvrages portuaires nouveaux constituant une dépendance du domaine
+public de l'Etat.
+
+Le contrat accordant la garantie d'usage mentionnée ci-dessus doit prévoir que le droit attaché à cette garantie ne peut
+faire l'objet d'une location que par l'entremise du gestionnaire du port ou avec son accord.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+
+###### Article R*631-5
+
+Le président du conseil général ou le maire, selon le cas, informent l'autorité administrative compétente pour procéder à
+leur constatation et en poursuivre la répression, des empiètements, occupations irrégulières ou infractions de toutes natures
+aux dispositions du présent chapitre dont ils ont connaissance dans l'exercice de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+
+###### Article R*631-6
+
+Dans les ports départementaux et communaux, l'autorisation d'occupation des dépendances du domaine public qui est nécessaire
+pour l'exploitation de cultures marines est consentie, selon le cas, par le président du conseil général ou le maire qui en
+détermine les conditions financières en application des règles définies par le conseil général ou le conseil municipal.
+
+Cette autorisation ne peut être délivrée qu'aux bénéficiaires d'une autorisation d'exploitation accordée dans les conditions
+prévues par le décret n° 83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines.
+
+La redevance domaniale est perçue par la collectivité compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Cite**:
+
+	  - Décret n°83-228 1983-03-22
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R2124-63 (M)
 
 
 # Annexes
