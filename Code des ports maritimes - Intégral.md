@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1997-12-21
+Version Consolidée au 1999-02-07
 
 # Partie législative
 
@@ -3005,22 +3005,22 @@ port autonome agit pour le compte de l'Etat.
 Le conseil d'administration d'un port autonome dont la composition est fixée par le décret en Conseil d'Etat qui en porte
 création comprend :
 
-I. - 1° Quatre membres désignés par les chambres de commerce et d'industrie de la circonscription du port, dont deux au moins
-doivent être choisis, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R. 112-2.
+I. - 1° Deux membres désignés par les chambres de commerce et d'industrie de la circonscription du port, dont un au moins
+doit être choisi, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R. *112-2.
 
-2° a) Un membre désigné par le conseil général du département dans lequel se trouve la principale ville de la circonscription
-du port;
+2° a) Un membre désigné par le conseil régional de la région dans laquelle se trouve la principale ville de la
+circonscription du port ;
 
 b) Un membre désigné par le conseil général du département dans lequel se trouve la principale ville de la circonscription du
-port;
+port ;
 
-C) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port;
+c) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port ;
 
 d) Deux membres représentant, soit des collectivités territoriales, soit des établissements publics territoriaux, soit une
 collectivité territoriale et un établissement public territorial intéressés au fonctionnement du port, dont la désignation
 appartient aux assemblées délibérantes de ces collectivités ou établissements.
 
-3° Trois membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
+3° Cinq membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
 administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
 
 4° Un membre représentant les ouvriers dockers du port.
@@ -3033,14 +3033,14 @@ b) Un représentant du ministre chargé de l'économie et des finances, présent
 fonctionnaires en activité de son département ;
 
 c) Le préfet de la région dans laquelle se trouve la ville principale de la circonscription du port autonome, ou son
-suppléant qu'il désigne à titre permanent ;
+suppléant qu'il désigne à titre permanent.
 
-2° a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
-112-2, établie conjointement par les chambres de commerce et d'industrie représentées au conseil ;
+2° a) Trois personnalités choisies sur une liste de cinq usagers du port appartenant aux catégories énumérées à l'article R.
+*112-2, établie conjointement par les chambres de commerce et d'industrie représentées au conseil ;
 
-b) Huit personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
+b) Sept personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
 les transports, l'économie régionale ou l'économie nationale, dont quatre au moins doivent appartenir aux catégories
-d'usagers mentionnées à l'article R. 112-2.
+d'usagers mentionnées à l'article R. *112-2.
 
 Les membres du conseil d'administration énumérés au I (4°) et au II ci-dessus sont nommés par décret pris sur le rapport du
 ministre chargé des ports maritimes.
@@ -3061,9 +3061,8 @@ ministre chargé des ports maritimes.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°87-372 1987-06-04 art. 1 JORF 7 juin 1987
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°99-76 1999-02-05 art. 1 I, II, III, IV JORF 7 février 1999
+	  - Décret n°99-76 du 5 février 1999 - art. 1 () JORF 7 février 1999
 
 	**Cite**:
 
@@ -3101,73 +3100,72 @@ d'exploitation d'entrepôt public des douanes, courtiers maritimes.
 ###### Article R*112-3
 
 Les représentants des salariés doivent remplir les conditions prévues par l'article 15 de la loi n° 83-675 du 26 juillet
-1983. Les autres membres du conseil d'administration doivent être de nationalité française et jouir de leurs droits civils et
-politiques.
+1983. Les autres membres du conseil d'administration doivent être de nationalité française ou ressortissants d'un des Etats
+membres de la Communauté européenne et jouir de leurs droits civils et politiques.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°65-933 1965-11-08 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Cite**:
 
-	  - Loi n°83-675 du 26 juillet 1983 - art. 15 (V)
+	  - Loi n°83-675 du 26 juillet 1983 - art. 15
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°84-533 1984-06-28 art. 1 JORF 1er juillet 1984
+	  - Décret n°99-76 du 5 février 1999 - art. 2 () JORF 7 février 1999
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-11 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*112-4
 
-Les mandats des membres du conseil d'administration désignés en application du I (2°), de l'article R. 112-1 prennent fin
-lors du renouvellement de l'assemblée qui les a désignés.
+Les mandats des membres du conseil d'administration désignés en application du I (1° et 2°) de l'article R. *112-1 prennent
+fin lors du renouvellement de l'assemblée qui les a désignés. 
 
-Le mandat des autres membres du conseil d'administration est de cinq ans. Il peut être renouvelé.
+Le mandat des autres membres du conseil d'administration est de cinq ans. Il peut être renouvelé. Lorsque les circonstances
+l'exigent, ce mandat peut, en outre, être prorogé par décret pour une durée n'excédant pas trois mois. 
 
 Les dates de début et de fin de mandat sont fixées par le décret portant renouvellement général des représentants de l'Etat,
-des personnalités qualifiées et du représentant des ouvriers du port.
+des personnalités qualifiées et du représentant des ouvriers du port. 
 
-Les dates de début et de fin de mandat des membres désignés en application du I (1° et 3°), de l'article R. 112-1 sont les
-mêmes que celles fixées par le décret mentionné à l'alinéa précédent.
+Les dates de début et de fin de mandat des membres désignés en application du I (3°) de l'article R. *112-1 sont les mêmes
+que celles fixées par le décret mentionné à l'alinéa précédent. 
 
 Cessent de plein droit de faire partie du conseil les membres qui ont perdu la qualité en laquelle ils étaient désignés ou
 nommés. Sous réserve des dispositions de l'article 16 de la loi du 26 juillet 1983, il est pourvu à leur remplacement jusqu'à
-l'expiration normale de leur mandat.
+l'expiration normale de leur mandat. 
 
 Dans le cas où une chambre de commerce et d'industrie n'a pas désigné son ou ses représentants dans un délai d'un mois à
 dater du jour où elle y a été invitée par le ministre chargé des ports maritimes, il est pourvu à cette désignation par un
-décret pris sur le rapport conjoint de ce ministre et du ministre chargé des chambres de commerce.
+décret pris sur le rapport conjoint de ce ministre et du ministre chargé des chambres de commerce. 
 
 Le nombre des membres du conseil d'administration nommés par décret qui ont dépassé l'âge de soixante-cinq ans ne peut
-excéder le tiers du nombre total de ces membres. Lorsque cette proportion est dépassé, le plus âgé des membres nommés par
+excéder le tiers du nombre total de ces membres. Lorsque cette proportion est dépassée, le plus âgé des membres nommés par
 décret est réputé démissionnaire d'office.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-933 1965-11-08 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°78-488 1978-03-22
 
-	**Cite**:
-
-	  - Loi n°83-675 1983-07-26 art. 16
-	  - Code des ports maritimes R112-1
-
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°84-533 1984-06-28 art. 1, art. 5 JORF 1er juillet 1984
+	  - Décret n°99-76 1999-02-05 art. 3 I, II, III JORF 7 février 1999
+	  - Décret n°99-76 du 5 février 1999 - art. 3 () JORF 7 février 1999
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R*112-1 (V)
 
 
 ###### Article R*112-5
@@ -3265,6 +3263,45 @@ lorsque le titulaire atteint l'âge de soixante-cinq ans.
 	**Modifié par**:
 
 	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+
+
+###### Article R*112-7-1
+
+Les membres du conseil d'administration adressent au commissaire du Gouvernement auprès du port autonome, dans les quinze
+jours suivant leur nomination ou désignation, une déclaration mentionnant :
+
+- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps dans les sociétés ou organismes susceptibles,
+du fait de leur secteur d'activité, de conclure des conventions avec le port autonome ;
+
+- la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
+possédés par eux-mêmes, leurs conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou organismes.
+
+La liste des secteurs d'activités mentionnés ci-dessus est fixée par arrêté conjoint des ministres chargés des ports
+maritimes et du budget.
+
+Tout membre n'ayant pas souscrit cette déclaration dans le délai prescrit auprès du commissaire du Gouvernement fait l'objet,
+de la part de celui-ci, d'une demande écrite l'invitant à la produire dans un délai de quinze jours. Faute d'avoir produit sa
+déclaration dans ce nouveau délai, ce membre est déclaré démissionnaire par le conseil d'administration.
+
+Toute modification dans les éléments figurant dans la déclaration mentionnée au premier alinéa du présent article est
+transmise au commissaire du Gouvernement.
+
+Le commissaire du Gouvernement communique au contrôleur d'Etat les déclarations remplies par les membres du conseil ainsi que
+les modifications qui y sont apportées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°99-76 du 5 février 1999 - art. 4 () JORF 7 février 1999
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*112-10-1 (V)
 
 
 ###### Article R*112-8
@@ -3809,21 +3846,26 @@ Tous deux sont convoqués aux séances du conseil d'administration et ont voix c
 
 ###### Article R*113-1
 
-Dès sa formation, ou son renouvellement, le conseil d'administration se réunit sur la convocation et sous la présidence du
-commissaire de la République de région ou de son suppléant permanent assisté du directeur du port. Le conseil
-d'administration élit immédiatement un bureau composé d'un président, d'un vice-président et d'un secrétaire choisis parmi
-ses membres. Le mandat des membres du bureau prend fin en même temps que celui des administrateurs nommés par décret ; sauf
-application des dispositions du second alinéa de l'article R. 112-7, le mandat de ces membres expire avec leur mandat de
-membre du conseil. Les membres sortants du bureau sont rééligibles à celui-ci.
+Dès sa formation ou son renouvellement, le conseil d'administration se réunit sur la convocation et sous la présidence du
+préfet ou du suppléant qu'il désigne à titre permanent assisté du directeur du port, cette convocation étant adressée aux
+membres du conseil d'administration au moins dix jours ouvrables avant la date prévue.
+
+Dès la première réunion du conseil, il est procédé à l'élection du bureau composé du président, du vice-président et du
+secrétaire choisis parmi les membres du conseil. Les candidats aux fonctions de membres du bureau doivent, au moins trois
+jours ouvrables avant la séance du conseil au cours de laquelle il doit être procédé à l'élection du bureau, se faire
+connaître auprès du commissaire du Gouvernement et lui transmettre la déclaration mentionnée à l'article R. 112-7-1. Faute
+pour les candidats d'avoir observé ces formalités, leur candidature est irrecevable. Préalablement au vote, le commissaire du
+Gouvernement informe le conseil d'administration de ce qu'un candidat, s'il venait à être élu, lui paraîtrait susceptible de
+s'exposer, dans ses fonctions de membre du bureau, à l'application des dispositions de l'article 432-12 du code pénal.
+
+Le mandat des membres du bureau prend fin en même temps que celui des administrateurs nommés par décret ; sauf application
+des dispositions du second alinéa de l'article R. 112-7, le mandat de ces membres expire avec leur mandat de membre du
+conseil. Les membres sortants du bureau sont rééligibles à celui-ci.
 
 Le conseil d'administration peut adjoindre au secrétaire des secrétaires auxiliaires pris dans le personnel du port autonome
-qui assistent aux séances sans participer aux délibérations.
+qui assistent aux séances sans prendre part aux délibérations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 6
 
 	**Codifié par**:
 
@@ -3831,13 +3873,12 @@ qui assistent aux séances sans participer aux délibérations.
 
 	**Modifié par**:
 
-	  - Décret n°81-412 1981-04-24 art. 1 JORF du 29 avril 1981
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-	  - Décret n°84-533 1984-06-28 art. 4 JORF 1er juillet 1984
+	  - Décret n°99-76 du 5 février 1999 - art. 5 () JORF 7 février 1999
 
 	**Cite**:
 
-	  - Code des ports maritimes R112-7
+	  - Code pénal - art. 432-12 (M)
+	  - Code des ports maritimes R112-7-1, R112-7
 
 
 ###### Article R*113-2
