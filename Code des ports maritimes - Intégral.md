@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-05-08
 
 # Partie législative
 
@@ -8235,25 +8235,15 @@ gratuit ;
 Dans les ports maritimes de la Corse, les taux de la taxe sur les passagers de navires de commerce perçue au titre du droit
 de port sont les suivants :
 
-a) Passagers empruntant un aéroglisseur amphibie :
+Passagers empruntant un aéroglisseur amphibie ou tout autre navire :
 
-1. Passagers à destination d'un port de la Corse, de la France continentale ou de la Sardaigne : 7,32 F (avec réduction de 50
-% pour les passagers de 4e classe) ;
-
-2. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités au 1 ci-dessus) ou en
-Afrique du Nord : 7,32 F ;
-
-3. Passagers en provenance ou à destination de tous les autres ports : 44,08 F ;
-
-b) Passagers empruntant un navire non visé au paragraphe a :
-
-1. Passagers à destination d'un port de la Corse, de la France continentale ou de la Sardaigne : 7,32 F (avec réduction de 50
-% pour les passagers de 4e classe) ;
+1. Passagers à destination d'un port de la Corse, de la France continentale ou de la Sardaigne : 7,50 F (avec réduction de 50
+p. 100 pour les passagers de 4e classe).
 
 2. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités au 1 ci-dessus) ou en
-Afrique du Nord : 7,32 F ;
+Afrique du Nord : 7,50 F.
 
-3. Passagers en provenance ou à destination de tous les autres ports : 44,08 F.
+3. Passagers en provenance ou à destination de tous les autres ports : 45,18 F.
 
 **Liens relatifs à cet article**
 
@@ -8261,9 +8251,9 @@ Afrique du Nord : 7,32 F ;
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-95 1987-02-09 art. 2 JORF 13 février 1987 en vigueur le 23 février 1987
+	  - Décret n°88-462 du 26 avril 1988 - art. 2 () JORF 29 avril 1988 en vigueur le 8 mai 1988
 
 
 ###### Article R*212-21
@@ -8319,31 +8309,18 @@ port.
 Dans les ports maritimes de la France continentale, les taux de la taxe sur les passagers des navires de commerce perçue au
 titre du droit de port sont les suivants :
 
-a) Passagers empruntant un aéroglisseur amphibie :
+Passagers empruntant un aéroglisseur amphibie ou tout autre navire :
 
-1. Passagers à destination d'un port de France continentale ou de la Corse : 7,32 F (avec réduction de 50 % pour les
-passagers de 4e classe). Les passagers de navires à classe unique sont assimilés aux passagers de 2e classe pour la
-perception de la taxe ;
+1. Passagers à destination d'un port de la France continentale ou de la Corse : 7,50 F (avec réduction de 50 p. 100 pour les
+passagers de 4e classe). Les passagers d'aéroglisseur amphibie ou de navires à classe unique sont assimilés aux passagers de
+2e classe pour la perception de la taxe.
 
-2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 15,47 F ;
+2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 15,86 F.
 
-3. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux situés aux 1 et 2 ci-dessus) ou
-en tout pays du bassin méditerranéen : 18,57 F ;
+3. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités aux 1 et 2 ci-dessus) ou
+en tout pays du bassin méditerranéen : 19,03 F.
 
-4. Passagers en provenance ou à destination de tous les autres ports : 66,13 F.
-
-b) Passagers empruntant un navire non visé au paragraphe a :
-
-1. Passagers à destination d'un port de France continentale ou de la Corse : 7,32 F (avec réduction de 50 % pour les
-passagers de 4e classe). Les passagers de navires à classe unique sont assimilés aux passagers de 2e classe pour la
-perception de la taxe ;
-
-2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 15,47 F ;
-
-3. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux situés aux 1 et 2 ci-dessus) ou
-en tout pays du bassin méditerranéen : 18,57 F ;
-
-4. Passagers en provenance ou à destination de tous les autres ports : 66,13 F.
+4. Passagers en provenance ou à destination de tous les autres ports : 67,78 F.
 
 Les taux de la taxe sur les passagers sont réduits : 
 
@@ -8364,7 +8341,7 @@ douze heures.
 
 	**Modifié par**:
 
-	  - Décret n°87-95 1987-02-09 art. 1 JORF 13 février 1987 en vigueur le 23 février 1987
+	  - Décret n°88-462 du 26 avril 1988 - art. 1 () JORF 29 avril 1988 en vigueur le 8 mai 1988
 
 	**Cité par**:
 
