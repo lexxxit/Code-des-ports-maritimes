@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2002-01-04
+Version Consolidée au 2002-01-23
 
 # Partie législative
 
@@ -862,9 +862,10 @@ dans les départements d'outre-mer.
 
 ###### Article L211-1
 
-Un droit de port peut être perçu dans les ports maritimes relevant de la compétence de l'Etat, des départements et des
-communes, à raison des opérations commerciales ou des séjours des navires qui y sont effectués. L'assiette de ce droit, qui
-peut comporter plusieurs éléments, et la procédure de fixation des taux de ce droit sont fixées par voie réglementaire.
+Un droit de port peut être perçu dans les ports maritimes relevant de la compétence de l'Etat, des collectivités
+territoriales ou de leurs groupements, à raison des opérations commerciales ou des séjours des navires qui y sont effectués.
+L'assiette de ce droit, qui peut comporter plusieurs éléments, et la procédure de fixation des taux de ce droit sont fixées
+par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -874,7 +875,11 @@ peut comporter plusieurs éléments, et la procédure de fixation des taux de ce
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 15 () JORF 23 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -884,6 +889,11 @@ peut comporter plusieurs éléments, et la procédure de fixation des taux de ce
 	**Nouveaux textes**:
 
 	  - Code des douanes - art. 285 (M)
+	  - Code des transports - art. L5321-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil constitutionnel DC 2002-01-17
 
 
 ###### Article L211-3
