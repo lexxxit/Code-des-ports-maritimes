@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1983-08-17
+Version Consolidée au 1983-12-21
 
 # Partie législative
 
@@ -3957,6 +3957,73 @@ Ils peuvent notamment constater les contraventions dans les conditions prévues 
 
 #### Chapitre II : Conservation du port proprement dit.
 
+###### Article R*322-1
+
+I. - Dans le cas d'épaves de navires, aéronefs, engins ou plates-formes, prévu à l'article 16 de la loi n° 76-599 du 7
+juillet 1976, se trouvant dans les eaux territoriales, il peut être procédé à la récupération, l'enlèvement, la destruction
+et toutes autres opérations en vue de supprimer le caractère dangereux de tout ou partie de l'épave coulée, échouée ou
+dérivante, notamment quand elle constitue ou menace de constituer une cause de pollution pour l'environnement.
+
+Dans le cas d'épaves autres que celles qui sont mentionnées à l'article 16 de la loi n° 76-599 du 7 juillet 1976 et se
+trouvant dans les eaux territoriales, il peut être procédé en cas d'urgence motivée par un péril imminent à la récupération
+ou l'enlèvement de tout ou partie de l'épave, quand celle-ci constitue ou menace de constituer un obstacle ou un danger pour
+la navigation ou la pêche, un écueil ou un obstacle dans un port, une passe d'accès ou une rade.
+
+II. - Dans les deux cas prévus au I., le directeur pour les ports autonomes, le commissaire de la République pour les autres
+ports relevant de la compétence de l'Etat, le président du conseil général pour les ports départementaux, le maire pour les
+ports communaux, met en demeure le propriétaire de l'épave de dégager le plan d'eau en procédant aux opérations nécessaires.
+
+Un délai déterminé est imparti au propriétaire pour l'accomplissement des opérations indispensables, en tenant compte de la
+situation de l'épave ou de la difficulté des opérations à entreprendre.
+
+Si l'injonction ainsi faite au propriétaire reste dépourvue d'effet, les autorités visées ci-dessus peuvent alors faire
+procéder aux opérations prescrites.
+
+Elles peuvent procéder d'office à ces opérations dans le cas où le propriétaire est inconnu ou ne peut être avisé à bref
+délai.
+
+Elles peuvent également intervenir à la demande du propriétaire.
+
+Dans tous les cas, les opérations se font aux frais et risques du propriétaire.
+
+S'il s'agit d'une épave de navire, le propriétaire ne peut limiter sa responsabilité que dans les cas et conditions prévus au
+chapitre VII de la loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer et à la convention de
+Bruxelles du 29 novembre 1969 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures.
+
+III. - Dans le cas prévu au premier alinéa du I. et lorsque l'épave constitue un danger grave et imminent pour la navigation,
+la pêche ou l'environnement, le directeur pour les ports autonomes, le commissaire de la République pour les autres ports
+relevant de la compétence de l'Etat, le président du conseil général pour les ports départementaux, le maire pour les ports
+communaux, peut faire procéder immédiatement aux frais et risques du propriétaire à la récupération, l'enlèvement, la
+destruction ou à diverses opérations nécessaires en vue de supprimer le caractère dangereux de tout ou partie de l'épave.
+
+S'il s'agit d'une épave de navire, le propriétaire ne peut limiter sa responsabilité que dans les cas et conditions fixés par
+le chapitre VII de la loi du 3 janvier 1967.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-5 1967-01-03
+	  - Loi n°76-599 du 7 juillet 1976 - art. 16 (V)
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Anciens textes**:
+
+	  - Décret n°78-847 1978-08-03 art. 6, art. 7, art. 8
+
+	**Modifié par**:
+
+	  - Décret n°79-404 1979-05-09 art. 5 JORF 22 mai 1979
+	  - Décret n°83-1104 1983-12-20 art. 1 JORF 21 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°85-632 1985-06-21 art. 8 JORF 23 juin 1985
+
+
 ###### Article R*322-2
 
 Nul ne peut porter atteinte au bon état des ports et havres tant dans leur profondeur et netteté que dans leurs
@@ -4145,6 +4212,35 @@ règlements établis à ce sujet et des ordres des officiers de port.
 	  - Code des ports maritimes 79
 
 
+###### Article R*323-9
+
+Les arrêtés prévus au 2e alinéa de l'article L. 323-4 sont pris par le ministre chargé des ports maritimes après consultation
+du ministre chargé de la marine marchande pour les ports relevant de la compétence de l'Etat, par le président du conseil
+général pour les ports départementaux, par le maire pour les ports communaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes art. 53
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 2 JORF 21 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L323-4
+
+
 ###### Article R*323-10
 
 Tout capitaine, maître ou patron d'un bâtiment de commerce, de pêche ou de plaisance, d'un engin de servitude ou d'un bateau
@@ -4286,6 +4382,121 @@ classées dans la voirie nationale, départementale ou communale.
 	**Abrogé par**:
 
 	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+
+###### Article R*341-6
+
+Sans préjudice de leur publication et affichage réglementaires, les arrêtés visés à l'article R. *341-5 sont portés à la
+connaissance du public au moyen d'affiches apposées d'une manière très apparente aux endroits fixés par le directeur du port
+ou le chef du service maritime.
+
+La charge de l'apposition de ces affiches, la responsabilité de leur conservation et l'obligation de les remplacer, toutes
+les fois qu'il y a lieu, incombent à celui qui a établi les clôtures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1929-02-26 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 6 JORF 21 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+	**Cite**:
+
+	  - Code des ports maritimes
+
+
+###### Article R*341-7
+
+Les agents que des collectivités ou des particuliers emploient pour le gardiennage des portes ou la surveillance des surfaces
+encloses peuvent être commissionnés et assermentés devant le tribunal de grande instance, dans les conditions prévues pour
+les gardes particuliers.
+
+Ils portent des signes distinctifs de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1929-02-26 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 5
+
+
+### Titre V : Règlements de police.
+
+#### Chapitre Ier : Ports de commerce et ports de pêche.
+
+###### Article R*351-1
+
+Sans préjudice de l'application des dispositions des titres Ier, II et III du présent livre, la police des ports qui relèvent
+de la compétence de l'Etat ou des ports départementaux est régie, à l'intérieur des limites des ports définies dans les
+conditions prévues à l'article R. *151-1, par le règlement général de police des ports maritimes de commerce et de pêche
+reproduit en annexe au présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-884 1977-07-22 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 7 JORF 21 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
+
+	**Cite**:
+
+	  - Code des ports maritimes
+
+
+#### Chapitre II : Ports de plaisance.
+
+###### Article R*352-1
+
+Dans les ports qui relèvent de la compétence des communes le règlement particulier de police est pris par le maire après avis
+du concessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-1113 1970-12-03 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°83-1104 1983-12-20 art. 9 JORF 21 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2009-876 du 17 juillet 2009 - art. 6
 
 
 ## Livre III : Police des ports
