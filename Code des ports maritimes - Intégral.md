@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1978-04-02 00:00:01 +0100
+Version Consolidée au 1979-05-22
 
 # Partie législative
 
@@ -1063,6 +1063,46 @@ tribunaux, nonobstant tout recours, et emportent hypothèque.
 	  - Décret n°78-487 1978-03-22
 
 
+#### Chapitre II : Conservation du port proprement dit.
+
+###### Article L322-1
+
+Nul ne peut porter atteinte au bon état des ports et havres tant dans leur profondeur et netteté que dans leurs
+installations.
+
+Il est défendu, sous peine d'une amende de 40 à 80 F :
+
+De jeter des terres ou immondices dans les eaux des ports et de leurs dépendances ;
+
+De faire aucun dépôt des mêmes matières sur les quais et terre-pleins des ports.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°79-403 1979-05-09 art. 1 JORF 22 mai 1979
+
+
+###### Article L322-2
+
+Les propriétaires de vieux bâtiments hors d'état de naviguer sont tenus de les démolir et d'en enlever les débris sans délai
+sous peine de confiscation et d'une amende de 160 à 600 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°79-403 1979-05-09 art. 2 JORF 22 mai 1979
+
+
 #### Chapitre III : Exploitation du port.
 
 ###### Article L323-2
@@ -1088,6 +1128,25 @@ en consignant le montant de la condamnation et de tous les frais.
 	**Cité par**:
 
 	  - Code des ports maritimes - art. R*323-5 (Ab)
+
+
+###### Article L323-3
+
+Il est défendu à tout capitaine de jeter du lest dans les ports, canaux, bassins et rades sous peine d'une amende de 1000 à
+2000 F pour la première infraction et de saisie et confiscation de son bâtiment en cas de récidive.
+
+Il est défendu, sous les mêmes peines, aux capitaines de navires et aux entrepreneurs de procéder aux opérations de lestage
+et de délestage pendant la nuit, sauf autorisation des officiers de port.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°79-403 1979-05-09 art. 4 JORF 22 mai 1979
 
 
 ###### Article L323-4
@@ -1118,6 +1177,40 @@ et 10800 F.
 ### Titre III : Polices du balisage et des matières dangereuses ou infectes
 
 #### Chapitre Ier : Balisage.
+
+###### Article L331-1
+
+Le capitaine ou patron de tout navire, bateau ou embarcation qui, même en danger de perdition et par suite d'un amarrage,
+d'un abordage ou de toute autre cause accidentelle, a coulé, déplacé ou détérioré un feu flottant, une bouée ou une balise,
+est tenu de signaler le fait par les moyens les plus rapides dont il dispose et doit, au plus tard, en faire la déclaration
+dans les vingt-quatre heures de son arrivée au premier port où il aborde.
+
+Cette déclaration est faite en France à l'officier de port ou, à défaut, au syndic des gens de mer et, en pays étranger, à
+l'agent consulaire français le plus rapproché du port d'arrivée.
+
+Faute de cette déclaration et indépendamment de la réparation du dommage causé à l'ouvrage, il est puni d'un emprisonnement
+de dix jours à trois mois et d'une amende de 160 à 15000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°79-403 1979-05-09 art. 5 JORF 22 mai 1979
+
+	**Cité par**:
+
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 17 (Ab)
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 30 (Ab)
+	  - Code de l'environnement - art. L331-19 (V)
+	  - Code de l'environnement - art. L332-22 (V)
+	  - Code des ports maritimes - art. L331-3 (M)
+	  - Code rural - art. L241-15 (Ab)
+	  - Code rural - art. L242-26 (Ab)
+
 
 ###### Article L331-3
 
@@ -1229,6 +1322,32 @@ Les conditions de manutention dans les ports maritimes des matières dangereuses
 
 	  - Code des ports maritimes - art. L332-3 (Ab)
 	  - Code des ports maritimes - art. R*332-1 (Ab)
+
+
+###### Article L332-2
+
+Quiconque a embarqué ou fait embarquer sur un navire de commerce employé à la navigation maritime ou à la navigation sur les
+rivières ou canaux, expédié ou fait expédier par voie de terre des matières pouvant être une cause d'explosion ou d'incendie,
+sans en avoir déclaré la nature au capitaine, maître ou patron, au commissionnaire expéditeur ou au voiturier, et sans avoir
+apposé des marques apparentes sur les emballages est puni d'une amende de 60 à 20000 F.
+
+Cette disposition est applicable à l'embarquement sur navire étranger dans un port français ou sur un point quelconque des
+eaux françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°79-403 1979-05-09 art. 7 JORF 22 mai 1979
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L332-3 (Ab)
+	  - Code des ports maritimes - art. L332-4 (Ab)
 
 
 ###### Article L332-3
@@ -4723,6 +4842,35 @@ maritimes dans un délai maximum d'un mois.
 	**Anciens textes**:
 
 	  - Code des ports maritimes 102
+
+
+###### Article R521-7
+
+Toute radiation effectuée sur la liste des ouvriers dockers professionnels exécutée par application des dispositions prévues
+à l'article L. 521-8 ne prend effet contre celui qui en est l'objet que dans le délai d'un mois après l'affichage, au bureau
+central de la main-d'oeuvre, de la décision prise.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°59-136 1959-01-07 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Modifié par**:
+
+	  - Décret n°79-404 1979-05-09 art. 6 JORF du 22 mai 1979
+
+	**Abrogé par**:
+
+	  - Décret n°92-1130 du 12 octobre 1992 - art. 1 () JORF 13 octobre 1992
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L521-8 (M)
 
 
 ### Titre III : Sanctions et dispositions diverses.
