@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1983-03-10
+Version Consolidée au 1983-07-23
 
 # Partie législative
 
@@ -784,6 +784,33 @@ dans les départements d'outre-mer.
 ### Titre Ier : Droits de port.
 
 #### Chapitre Ier : Dispositions communes.
+
+###### Article L211-1
+
+Un droit de port peut être perçu dans les ports maritimes relevant de la compétence de l'Etat, des départements et des
+communes, à raison des opérations commerciales ou des séjours des navires qui y sont effectués. Sous réserve des dispositions
+de l'article L. 211-2, l'assiette de ce droit, qui peut comporter plusieurs éléments, et la procédure de fixation des taux de
+ce droit sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 8 () JORF 23 juillet 1983
+
+	**Cité par**:
+
+	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
+	  - Code des douanes - art. 285 (M)
+
+	**Nouveaux textes**:
+
+	  - Code des douanes - art. 285 (M)
+
 
 ###### Article L211-2
 
