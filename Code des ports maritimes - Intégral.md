@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1988-05-08
+Version Consolidée au 1989-01-14
 
 # Partie législative
 
@@ -487,12 +487,12 @@ Le directeur du port est nommé par décret en conseil des ministres.
 
 ###### Article L112-4
 
-Les fonctionnaires des différentes administrations publiques mis à la disposition de l'administration du port pour occuper
-des emplois dans ses services sont placés dans la position de "détachement" prévue au titre VI, chapitre II, articles 38 à
-41, de l'ordonnance n. 59-244 du 4 février 1959 modifiée relative au statut général des fonctionnaires, mais ne peuvent être
-placés dans la position "hors cadre" prévue au titre VI, chapitre III, articles 42 et 43, de la même ordonnance.
+Les fonctionnaires mis à la disposition de l'administration du port pour occuper des emplois dans ses services peuvent être
+placés dans la position de détachement ou, à leur demande, dans la position hors cadres prévue par le chapitre V de la loi n°
+84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et de la loi n° 84-53 du
+26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
 
-Tout membre du personnel ouvrier tributaire du régime de retraite défini par le décret n. 65-836 du 24 septembre 1965 modifié
+Tout membre du personnel ouvrier tributaire du régime de retraite défini par le décret n° 65-836 du 24 septembre 1965 modifié
 relatif aux pensions des ouvriers des établissements industriels de l'Etat, qui passe au service du port autonome, a la
 faculté d'opter pour la conservation de son statut ou pour son rattachement au régime du personnel du port autonome.
 
@@ -502,12 +502,25 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Cite**:
 
-	  - Ordonnance 59-244 1959-02-04 art. 38 à 41
-	  - Décret n°65-836 1965-09-24
+	  - Décret n°65-836 du 24 septembre 1965
+	  - Loi n°84-16 du 11 janvier 1984
+	  - Loi n°84-53 du 26 janvier 1984
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Loi n°89-18 du 13 janvier 1989 - art. 78 () JORF 14 janvier 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5313-12 (V)
 
 	**Cité par**:
 
