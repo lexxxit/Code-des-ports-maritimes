@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1992-01-15
+Version Consolidée au 1992-06-10
 
 # Partie législative
 
@@ -1681,15 +1681,24 @@ décrets en Conseil d'Etat prévus au 2° et au 3° de l'article L. 411-2.
 
 ###### Article L511-1
 
-Les ports maritimes de commerce de la métropole dont le trafic est suffisant pour justifier la présence d'une main-d'oeuvre
-permanente d'ouvriers dockers sont désignés par un arrêté interministériel, après avis des organisations professionnelles les
-plus représentatives.
+Les ports maritimes de commerce de la métropole dans lesquels l'organisation de la manutention portuaire comporte la présence
+d'une main-d'oeuvre d'ouvriers dockers professionnels intermittents au sens de l'article L. 511-2 sont désignés par arrêté
+interministériel pris après avis des organisations professionnelles les plus représentatives qui doivent se prononcer dans un
+délai d'un mois à compter de leur saisine.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1992-09-25
+
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 	**Cité par**:
 
@@ -1703,27 +1712,67 @@ plus représentatives.
 	  - Code des ports maritimes - art. R511-1 (Ab)
 	  - Code des ports maritimes - art. R511-2 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-1 (M)
+
 
 ###### Article L511-2
 
-Dans les ports définis à l'article L. 511-1, les ouvriers dockers sont rangés en deux catégories :
+I. - Dans les ports désignés par l'arrêté ministériel mentionné à l'article L. 511-1, les ouvriers dockers sont rangés en :
 
-- les ouvriers dockers professionnels ;
+- ouvriers dockers professionnels ;
 
-- les ouvriers dockers occasionnels.
+- ouvriers dockers occasionnels.
 
-Les ouvriers dockers professionnels bénéficient, pour le travail à la vacation, d'une priorité absolue d'embauche sur les
-ouvriers dockers occasionnels.
+Les ouvriers dockers professionnels sont soit mensualisés, soit intermittents.
 
-Un arrêté interministériel fixe, pour chaque port, après avis du bureau central de la main-d'oeuvre du port institué par
-l'article L. 511-3, le nombre maximum d'ouvriers dockers professionnels ainsi que les conditions générales d'attribution
-d'une carte professionnelle.
+II. - Relèvent de la catégorie des dockers professionnels mensualisés les ouvriers qui concluent avec un employeur un contrat
+de travail à durée indéterminée. Les entreprises de manutention portuaire ou leurs groupements ont l'obligation de recruter
+les ouvriers dockers professionnels mensualisés en priorité et dans l'ordre parmi les ouvriers dockers professionnels
+intermittents puis parmi les ouvriers dockers occasionnels qui ont régulièrement travaillé sur le port au cours des douze
+mois précédents. Les ouvriers ainsi mensualisés conservent leur carte professionnelle et restent immatriculés au registre
+mentionné au a de l'article L. 521-4 tant qu'ils demeurent liés par leur contrat de travail à durée indéterminée ; ils
+conservent également leur carte professionnelle lorsque ce contrat de travail est rompu à l'issue de la période d'essai ou du
+fait d'un licenciement pour motif économique, si ce licenciement n'est pas suivi d'un reclassement ou s'il est suivi d'un
+reclassement dans un emploi d'ouvrier docker professionnel. Lorsque le licenciement intervient pour une autre cause, le
+bureau central de la main-d'oeuvre décide, dans des conditions définies par décret, si l'intéressé conserve sa carte
+professionnelle.
+
+Une convention collective nationale de la manutention devra être négociée et signée par les partenaires sociaux au plus tard
+au 31 décembre 1993, qui concernera toutes les catégories de dockers mentionnées au présent article.
+
+Aucune mensualisation ne pourra être effectuée en dehors des ouvriers dockers professionnels intermittents durant une période
+de soixante jours à compter de la publication de la loi n° 92-496 du 9 juin 1992 modifiant le régime du travail dans les
+ports maritimes, dans le port où a été conclu un accord relatif à l'organisation du travail de la manutention entre les
+organisations syndicales et patronales représentatives de la profession.
+
+III. - Relèvent de la catégorie des dockers professionnels intermittents les ouvriers dockers qui étaient titulaires de la
+carte professionnelle au 1er janvier 1992 et qui n'ont pas conclu de contrat de travail à durée indéterminée. Le contrat de
+travail qui lie le docker professionnel intermittent à son employeur est conclu pour la durée d'une vacation, ou pour une
+durée plus longue ; il est renouvelable.
+
+Pour les travaux de manutention définis par décret, les employeurs, lorsqu'ils n'utilisent pas uniquement des dockers
+professionnels mensualisés, ont recours en priorité aux dockers professionnels intermittents puis, à défaut, aux dockers
+occasionnels.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Cite**:
+
+	  - Loi n°92-496 du 9 juin 1992
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 	**Cité par**:
 
@@ -1741,32 +1790,51 @@ d'une carte professionnelle.
 	  - Code des ports maritimes - art. R511-4 (Ab)
 	  - Code du travail - art. D743-1 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code des ports maritimes - art. L511-3 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-2 (M)
+	  - Code des transports - art. L5343-3 (M)
+	  - Code des transports - art. L5343-4 (M)
+	  - Code des transports - art. L5343-7 (M)
 
 
 ###### Article L511-3
 
-Il est institué par un arrêté interministériel, dans chacun des ports définis à l'article L. 511-1, un organisme paritaire
+Il est institué par arrêté interministériel, dans chacun des ports définis à l'article L. 511-1, un organisme paritaire
 dénommé "bureau central de la main-d'oeuvre du port".
 
-Le bureau central de la main-d'oeuvre est constitué dans chaque port ainsi qu'il suit :
+Le bureau central de la main-d'oeuvre est constitué ainsi qu'il suit :
 
-- le directeur du port ou le chef du service maritime, président ;
+- dans les ports relevant de la compétence de l'Etat, le directeur du port, ou, à défaut, le chef du service maritime ; dans
+les autres ports, le chef du service maritime ;
 
-- deux ou trois représentants des entreprises de manutention ;
+- trois représentants des ouvriers dockers professionnels intermittents, dont un représentant de la maîtrise, élus en leur
+sein par ces ouvriers ;
 
-- deux ou trois représentants des ouvriers dockers.
+- un nombre égal de représentants des entreprises de manutention ;
 
-Dans le cas où le nombre des représentants des ouvriers dockers est fixé à trois, ce nombre doit comprendre deux
-représentants des ouvriers et un représentant de la maîtrise.
+- en outre, à titre consultatif, deux représentants élus par les ouvriers dockers professionnels mensualisés immatriculés au
+registre mentionné au a de l'article L. 521-4.
+
+Le directeur du port ou le chef du service maritime assure la présidence du bureau central de la main-d'oeuvre.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1992-09-25
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 	**Cité par**:
 
@@ -1774,36 +1842,49 @@ représentants des ouvriers et un représentant de la maîtrise.
 	  - Code des ports maritimes - art. L511-2 (M)
 	  - Code des ports maritimes - art. R511-1 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-8 (M)
+
 	**Cite**:
 
-	  - Code des ports maritimes - art. L511-1 (M)
+	  - Code des ports maritimes - art. L511-1
+	  - Code des ports maritimes - art. L521-4
 
 
 ###### Article L511-4
 
-Tout ouvrier docker professionnel est tenu de se présenter régulièrement à l'embauche et de se faire pointer dans les
-conditions qui seront fixées par le bureau central de la main-d'oeuvre. Il est également tenu d'accepter le travail qui lui
-est proposé, sauf motif reconnu valable par le bureau central de la main-d'oeuvre, sous peine des sanctions prévues à
-l'article L. 531-1, ces sanctions pouvant aller jusqu'au retrait de la carte professionnelle.
-
-Le retrait est prononcé à titre temporaire ou définitif par le directeur du port ou par le chef du service maritime, après
-avis du bureau central de la main-d'oeuvre.
+Tout ouvrier docker professionnel intermittent est tenu de se présenter régulièrement à l'embauche et de se faire pointer
+dans les conditions fixées par le bureau central de la main-d'oeuvre. Il est également tenu d'accepter le travail qui lui est
+proposé, sauf motif reconnu valable par le bureau central de la main-d'oeuvre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L531-1 (M)
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-5 (V)
 
 
 ###### Article L511-5
 
 Les ouvriers dockers occasionnels constituent une main-d'oeuvre d'appoint à laquelle il n'est fait appel qu'en cas
-d'insuffisance du nombre des dockers professionnels.
+d'insuffisance du nombre des dockers professionnels intermittents.
 
 En conséquence, ces ouvriers ne sont pas tenus de se présenter à l'embauche et peuvent aller travailler ailleurs que sur le
 port sans autorisation spéciale.
@@ -1812,16 +1893,28 @@ port sans autorisation spéciale.
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-6 (M)
 
 
 ### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.
 
 ###### Article L521-1
 
-Un ouvrier docker professionnel n'ayant pas été embauché après s'être présenté régulièrement à l'embauche reçoit, après
-pointage, pour chaque vacation chômée, une indemnité dite "indemnité de garantie", dont le montant est fixé par un arrêté
-interministériel.
+Un ouvrier docker professionnel intermittent n'ayant pas été embauché après s'être présenté régulièrement à l'embauche
+reçoit, après pointage, pour chaque vacation chômée, une indemnité dite "indemnité de garantie", dont le montant est fixé par
+un arrêté interministériel.
 
 L'indemnité de garantie ne se cumule ni avec les indemnités journalières pour accidents de travail, ni avec les indemnités
 journalières de maladie des assurances sociales, ni avec les indemnités de chômage et cesse d'être due lorsque l'intéressé
@@ -1831,7 +1924,7 @@ exerce une autre activité rémunérée pendant la journée considérée ou refu
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
 	**Cité par**:
 
@@ -1867,6 +1960,19 @@ exerce une autre activité rémunérée pendant la journée considérée ou refu
 	  - TXT_SOURCE: Arrêté du 30 avril 2002 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 24 novembre 1986
 	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-18 (V)
+	  - Code des transports - art. L5343-19 (V)
 
 
 ###### Article L521-2
@@ -1925,22 +2031,21 @@ versement de cotisation pour charges sociales sinon par application de l'article
 Il est institué une caisse nationale dénommée "caisse nationale de garantie des ouvriers dockers", jouissant de la
 personnalité morale, et dont les attributions sont les suivantes :
 
-a) immatriculer les ouvriers dockers professionnels et tenir registre, par port, de ces ouvriers ;
+a) Tenir registre, par bureau central de la main-d'oeuvre, des ouvriers dockers professionnels intermittents et de ceux des
+ouvriers dockers professionnels mensualisés qui sont habilités à conserver leur carte professionnelle en application du II de
+l'article L. 511-2 ;
 
-b) tenir à jour la liste, par port, des employeurs utilisant la main-d'oeuvre des dockers ;
+b) Tenir à jour la liste, par bureau central de la main-d'oeuvre, des employeurs utilisant la main-d'oeuvre des dockers
+professionnels intermittents ;
 
-c) proposer les modifications à apporter à la contribution imposée aux employeurs et assurer le recouvrement de cette
-contribution ;
+c) Assurer le recouvrement de la contribution prévue à l'article L. 521-6 ;
 
-d) assurer, par l'intermédiaire des caisses de congés payés ou de tout autre organisme local, le paiement dans chaque port de
-l'indemnité de garantie aux ouvriers dockers professionnels ;
+d) Assurer, par l'intermédiaire des bureaux centraux de la main-d'oeuvre, des caisses de congés payés ou de tout autre
+organisme local prévu, le cas échéant, par les conventions ou accords collectifs de travail en vigueur, le paiement dans
+chaque bureau central de la main-d'oeuvre de l'indemnité de garantie aux ouvriers dockers professionnels intermittents, ainsi
+que le paiement de l'indemnité compensatrice prévue à l'article L. 521-8 ;
 
-e) gérer les fonds disponibles et proposer toutes mesures devant permettre d'assurer l'équilibre financier ;
-
-f) fixer les conditions générales dans lesquelles les modifications d'effectifs seront réalisées, après avis des bureaux
-centraux de main-d'oeuvre intéressés ;
-
-g) statuer sur les appels formés contre les sanctions prévues à l'article L. 531-1.
+e) Gérer les fonds disponibles et proposer toutes mesures devant permettre d'assurer l'équilibre financier.
 
 **Liens relatifs à cet article**
 
@@ -1959,9 +2064,22 @@ g) statuer sur les appels formés contre les sanctions prévues à l'article L. 
 	  - Code des ports maritimes - art. L511-3 (VT)
 	  - Code des ports maritimes - art. R511-3-1 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-9 (V)
+
 	**Cite**:
 
-	  - Code des ports maritimes - art. L531-1 (M)
+	  - Code des ports maritimes - art. L521-6
+	  - Code des ports maritimes - art. L521-8
 
 
 ###### Article L521-5
@@ -1972,10 +2090,10 @@ Le conseil d'administration de la caisse nationale de garantie des ouvriers dock
 
 2° des représentants des employeurs ;
 
-3° des représentants des ouvriers dockers.
+3° des représentants des ouvriers dockers professionnels intermittents.
 
-Les représentants des deux dernières catégories sont désignés respectivement par les organisations professionnelles
-nationales les plus représentatives.
+Les représentants des deux dernières catégories sont désignés par arrêté ministériel pris sur proposition des organisations
+professionnelles et syndicales nationales les plus représentatives.
 
 **Liens relatifs à cet article**
 
@@ -1983,10 +2101,22 @@ nationales les plus représentatives.
 
 	  - Décret n°78-487 1978-03-22
 
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
 	**Cité par**:
 
 	  - Loi n°92-496 du 9 juin 1992 - art. 3 (P)
 	  - Code des ports maritimes - art. R521-3 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-10 (V)
 
 
 ###### Article L521-6
@@ -1994,7 +2124,7 @@ nationales les plus représentatives.
 La caisse nationale de garantie des ouvriers dockers dispose des ressources suivantes :
 
 1° produit de la contribution imposée à tous les employeurs de main-d'oeuvre dans les ports, en pourcentage des rémunérations
-totales brutes payées aux dockers professionnels et aux dockers occasionnels ;
+totales brutes payées aux dockers professionnels intermittents et aux dockers occasionnels ;
 
 2° produit de la gestion des biens constituant le fonds de réserve ;
 
@@ -2002,13 +2132,36 @@ totales brutes payées aux dockers professionnels et aux dockers occasionnels ;
 
 4° dons et legs.
 
-Un arrêté interministériel fixe le taux de la cotisation imposée aux employeurs dans les conditions indiquées à l'alinéa 1.
+Le taux de la cotisation imposée aux employeurs est fixé, pour chaque bureau central de la main-d'oeuvre, par arrêté
+interministériel pris après avis du conseil d'administration de la Caisse nationale de garantie des ouvriers dockers. Il est
+déterminé de façon à assurer l'équilibre financier annuel du compte ouvert par la caisse pour chaque bureau central de la
+main-d'oeuvre. Ce compte comporte en dépenses les indemnités prévues à l'article L. 521-7 et versées aux ouvriers dockers
+professionnels intermittents relevant de ce bureau, les charges propres dudit bureau, et une quote-part des dépenses
+générales de la caisse. Il comporte en recettes le produit de la contribution mentionnée au 1° ci-dessus dont l'assiette est
+constituée par les rémunérations payées aux dockers professionnels intermittents et aux dockers occasionnels relevant du
+bureau concerné, ainsi que la subvention éventuellement versée en application de l'alinéa suivant.
+
+Jusqu'au 31 décembre 1993, le conseil d'administration de la Caisse nationale de garantie des ouvriers dockers peut, à titre
+exceptionnel, attribuer des subventions d'équilibre à certains comptes mentionnés à l'alinéa précédent. Ces subventions,
+imputées sur les dépenses générales de la caisse, sont réservées à des bureaux centraux de la main-d'oeuvre dans lesquels les
+charges résultant de l'application de l'article L. 521-8 sont particulièrement élevées.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2003-03-11
+	  - TXT_ASSOCIE: Arrêté du 12 février 1999
+	  - TXT_ASSOCIE: Arrêté du 12 février 1999 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 12 février 1999 - art. 2 (V)
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 	**Cité par**:
 
@@ -2028,11 +2181,19 @@ Un arrêté interministériel fixe le taux de la cotisation imposée aux employe
 	  - Code des ports maritimes - art. R521-5 (Ab)
 	  - Code des ports maritimes - art. R521-6 (Ab)
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - TXT_ASSOCIE: Arrêté du 12 février 1999
-	  - TXT_ASSOCIE: Arrêté du 12 février 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 12 février 1999 - art. 2 (V)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-11 (V)
+	  - Code des transports - art. L5343-12 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L521-7
+	  - Code des ports maritimes - art. L521-8
 
 
 ###### Article L521-7
@@ -2041,29 +2202,84 @@ Les dépenses à la charge de la caisse nationale de garantie des ouvriers docke
 
 1° Dépenses de fonctionnement de l'organisation centrale et des bureaux centraux de la main-d'oeuvre ;
 
-2° Paiement de l'indemnité de garantie aux ouvriers dockers professionnels.
+2° Paiement de l'indemnité de garantie aux ouvriers dockers professionnels intermittents ;
+
+3° Paiement de l'indemnité compensatrice aux dockers professionnels intermittents, prévue à l'article L. 521-8.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-13 (V)
 
 	**Cité par**:
 
 	  - Code des ports maritimes - art. L521-6 (VT)
 
+	**Cite**:
+
+	  - Code des ports maritimes - art. L521-8
+
 
 ###### Article L521-8
 
-Toutes dispositions sont prises pour que, sur le total des vacations de chaque semestre, le nombre des vacations chômées des
-dockers professionnels ne dépasse pas 25 %.
+I. - Le nombre des ouvriers dockers professionnels intermittents de chaque bureau central de la main-d'oeuvre doit être tel
+qu'il respecte l'une et l'autre des limites ci-après définies :
+
+a) Le nombre des vacations chômées des dockers professionnels intermittents au cours des six derniers mois rapporté au nombre
+total des vacations travaillées et chômées de ces dockers au cours de la même période ne doit pas dépasser un pourcentage
+fixé par décret. Ce pourcentage peut varier en fonction de l'effectif des dockers professionnels intermittents relevant de
+chaque bureau central de la main-d'oeuvre et en fonction du caractère saisonnier de certains trafics ; il ne peut excéder 30
+%;
+
+b) Dans les bureaux centraux de la main-d'oeuvre des ports autonomes, l'effectif des dockers professionnels intermittents ne
+doit pas dépasser un pourcentage, fixé par décret, de l'effectif des dockers professionnels de ce bureau au 1er janvier 1992.
+Ce pourcentage, qui peut varier d'un bureau central de la main-d'oeuvre à un autre en fonction de cet effectif, ne peut être
+inférieur à 10 % ni excéder 40 %.
+
+II. - Il est procédé à la radiation du registre mentionné au a de l'article L. 521-4 du nombre des dockers professionnels
+intermittents nécessaire pour assurer le respect des limites définies au I du présent article. Ces radiations sont prononcées
+dans un délai de trois mois à compter du jour où l'une ou l'autre de ces limites est dépassée.
+
+III. - A défaut de convention ou accord collectif de travail applicable, le président du bureau central de la main-d'oeuvre
+définit, après consultation du bureau central de la main-d'oeuvre, les critères retenus pour fixer l'ordre des radiations.
+Ces critères prennent en compte l'ancienneté déterminée à partir de la date d'attribution de la carte professionnelle, les
+charges de famille, les perspectives de réinsertion professionnelle, l'aptitude professionnelle ainsi que le refus éventuel
+sans motif légitime d'une proposition d'embauche en contrat à durée indéterminée par une entreprise de manutention.
+
+IV. - Par application des critères retenus conformément au III ci-dessus, le président du bureau central de la main-d'oeuvre
+établit, après consultation du bureau, la liste des dockers radiés. Les radiations prennent effet deux mois après leur
+notification aux intéressés.
+
+V. - Les ouvriers dockers professionnels intermittents radiés du registre en application du présent article bénéficient d'une
+indemnité compensatrice dont le montant est compris entre trois cents fois et mille fois le montant de l'indemnité de
+garantie. Les modalités de calcul de l'indemnité compensatrice sont fixées par décret.
+
+VI. - Lorsque le nombre de radiations est au moins égal à dix dans une même période de trente jours, les employeurs doivent
+indiquer aux représentants des ouvriers dockers, dans le cadre du bureau central de la main-d'oeuvre, les mesures qu'ils
+envisagent pour faciliter le reclassement professionnel des dockers radiés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 	**Cité par**:
 
@@ -2074,54 +2290,51 @@ dockers professionnels ne dépasse pas 25 %.
 	  - Code des ports maritimes - art. R521-7 (Ab)
 	  - Code des ports maritimes - art. R521-8 (Ab)
 
-
-### Titre II : Indemnité de garantie, Caisse nationale de garantie des ouvriers dockers.
-
-###### Article L521-9
-
-Les projets de budget des bureaux centraux de la main-d'oeuvre sont soumis, avant le 1er décembre de chaque année, à
-l'approbation préalable de la caisse nationale de garantie des ouvriers dockers qui prescrit éventuellement toutes
-modifications utiles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
 	**Abrogé par**:
 
-	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-15 (V)
+	  - Code des transports - art. L5343-16 (V)
+
+	**Liens**:
+
+	  - CODIFIE: Code des transports - art. L5343-17 (V)
 
 
 ### Titre III : Sanctions et dispositions diverses.
 
 ###### Article L531-1
 
-Les contraventions aux dispositions du présent livre sont constatées par les agents assermentés désignés par le directeur du
-port ou par le chef du service maritime dans les conditions de l'article L. 611-4 du code du travail. Les contraventions sont
-passibles des sanctions suivantes :
+Les contraventions aux dispositions du présent livre sont constatées par les agents assermentés désignés par le président du
+bureau central de la main-d'oeuvre. Les contraventions sont passibles des sanctions suivantes :
 
 1° A l'égard des employeurs :
 
-- avertissement ou amende de 4 à 20 F ;
+a) Avertissement ;
 
-- en cas d'infractions répétées dans le délai d'un an, amende de 20 à 120 F, suppression temporaire d'emploi de l'outillage
-public ou l'une de ces deux peines seulement.
+b) Sanction pécuniaire dans la limite de 30000 F ;
 
-2° A l'égard des ouvriers :
+c) En cas de nouvelle infraction dans le délai d'un an, la sanction mentionnée à l'alinéa précédent et l'interdiction
+temporaire d'utilisation de l'outillage public ou l'une de ces deux sanctions seulement ;
 
-- avertissement ou amende de 0,40 à 2 F sans excéder le quart du salaire journalier ;
+2° A l'égard des dockers professionnels intermittents :
 
-- en cas d'infractions répétées dans le délai d'un an, retrait temporaire ou définitif de la carte professionnelle.
+a) Avertissement ;
 
-Les sanctions encourues dans le cas de contraventions aux dispositions du présent livre sont prononcées par le directeur du
-port ou par le chef du service maritime, après avis du bureau central de la main-d'oeuvre du port.
+b) En cas de nouvelle infraction dans le délai d'un an, retrait temporaire ou définitif de la carte professionnelle.
 
-Appel peut être formé dans le délai de quinzaine devant le conseil d'administration de la caisse nationale de garantie des
-ouvriers dockers.
+Ces sanctions sont prononcées par décision motivée du président du bureau central de la main-d'oeuvre du port, à l'issue
+d'une procédure contradictoire et après avis de ce bureau. Un décret en Conseil d'Etat précise les modalités selon lesquelles
+la personne susceptible de faire l'objet d'une sanction est informée des faits qui lui sont reprochés, le délai qui lui est
+imparti pour préparer sa défense et les conditions dans lesquelles elle peut être assistée ou représentée.
 
-Les amendes sont versées à une caisse de secours des ouvriers dockers ou affectées à des oeuvres sociales du port.
+Un recours hiérarchique peut être formé auprès du ministre chargé des ports maritimes, qui se prononce après avis du conseil
+d'administration de la Caisse nationale de garantie des ouvriers dockers.
+
+Les sommes recueillies à titre de sanctions pécuniaires sont affectées à des oeuvres sociales du port.
 
 **Liens relatifs à cet article**
 
@@ -2129,9 +2342,9 @@ Les amendes sont versées à une caisse de secours des ouvriers dockers ou affec
 
 	  - Décret n°78-487 1978-03-22
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du travail - art. L611-4 (M)
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 	**Cité par**:
 
@@ -2142,13 +2355,29 @@ Les amendes sont versées à une caisse de secours des ouvriers dockers ou affec
 
 ###### Article L531-2
 
-Des arrêtés interministériels fixent les conditions d'application du présent livre.
+Le Gouvernement dépose chaque année devant le Parlement un rapport sur l'application du livre V du présent code, sur la
+répercussion sur l'ensemble des acteurs de la filière portuaire et maritime des gains de productivités tarifaires des
+activités de la manutention et sur l'évolution de l'ensemble de la manutention dans les ports français.
+
+Ce rapport est communiqué au conseil d'administration de la Caisse nationale de garantie des ouvriers dockers.
+
+Pour chaque port, un rapport est préparé chaque année sur l'application du livre V et sur l'évolution de la manutention dans
+le port par le directeur du port ou le chef du service maritime et présenté, selon le cas, au conseil d'administration du
+port autonome ou au conseil portuaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -2157,8 +2386,8 @@ Des arrêtés interministériels fixent les conditions d'application du présent
 
 ###### Article L531-3
 
-La contribution patronale prévue à l'article L. 521-6 est due jusqu'à la promulgation d'un nouveau texte fixant
-définitivement les ressources de la Caisse nationale de garantie des ouvriers dockers.
+Les conditions d'application du présent livre, et notamment les modalités de recensement des ouvriers dockers occasionnels
+mentionnés au II de l'article L. 511-2, sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -2166,9 +2395,21 @@ définitivement les ressources de la Caisse nationale de garantie des ouvriers d
 
 	  - Décret n°78-487 1978-03-22
 
+	**Modifié par**:
+
+	  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5343-23 (V)
+
 	**Cite**:
 
-	  - Code des ports maritimes - art. L521-6 (M)
+	  - Code des ports maritimes - art. L511-2
 
 
 ### Titre IV : Dispositions particulières aux ports des départements d'outre-mer.
