@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2003-09-27
+Version Consolidée au 2003-10-26
 
 # Partie législative
 
@@ -6290,7 +6290,7 @@ suivante :
 a) Métropole :
 
 Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Le Fret, Roscanvel, Concarneau, Lorient, La
-Rochelle (La Pallice et Chef de Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
+Rochelle (La Pallice et Chef de Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice.
 
 b) Outre-mer :
 
@@ -6305,7 +6305,11 @@ Port-Réunion (Réunion).
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 13 () JORF 11 septembre 1999
+	  - Décret n°2003-1022 du 22 octobre 2003 - art. 2 (V) JORF 26 octobre 2003
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code général des collectivités territoriales - art. L4424-22 (T)
 
 	**Cite**:
 
