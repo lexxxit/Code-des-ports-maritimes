@@ -1,9 +1,43 @@
 # Code des ports maritimes  
-Version Consolidée au 2004-12-21
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
 ## Livre Ier : Création, organisation et aménagement des ports maritimes.
+
+### Titre préliminaire : Organisation portuaire.
+
+###### Article L101-1
+
+Les ports maritimes de commerce et de pêche sont classés selon les catégories suivantes :
+
+- les ports maritimes autonomes, relevant de l'Etat, définis au titre Ier du livre Ier ;
+
+- les ports maritimes relevant des collectivités territoriales et de leurs groupements ;
+
+- les ports maritimes de Saint-Pierre-et-Miquelon, relevant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Cité par**:
+
+	  - Loi n°83-675 du 26 juillet 1983 - art. Annexe II (M)
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 6
+	  - Arrêté du 1er mai 2009 (Ab)
+	  - Arrêté du 27 juillet 2009 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 30 VI JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 
 ### Titre Ier : Ports autonomes.
 
@@ -3251,6 +3285,87 @@ Les conditions d'application du présent livre aux départements d'outre-mer son
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L5713-3 (V)
+
+
+## Livre VI : Ports maritimes relevant des collectivités territoriales et de leurs groupements.
+
+### Titre unique : Compétences et dispositions générales.
+
+###### Article L601-1
+
+I. - La région ou la collectivité territoriale de Corse est compétente pour créer, aménager et exploiter les ports maritimes
+de commerce. Elle est compétente pour aménager et exploiter les ports maritimes de commerce et de pêche qui lui ont été
+transférés en application de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ou de la loi
+n° 2002-92 du 22 janvier 2002 relative à la Corse.
+
+II. - Le département est compétent pour créer, aménager et exploiter les ports maritimes de pêche. Il est compétent pour
+aménager et exploiter les ports maritimes de commerce et de pêche qui lui ont été transférés par la loi n° 83-663 du 22
+juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les
+départements, les régions et l'Etat et en application de la loi n° 2004-809 du 13 août 2004 précitée.
+
+III. - Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines ou les communautés
+d'agglomération, sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la
+plaisance. Elles sont également compétentes pour aménager et exploiter les ports de commerce et de pêche qui leur ont été
+transférés en application de la loi n° 2004-809 du 13 août 2004 précitée.
+
+Toutefois, les compétences exercées à la date de promulgation de la loi n° 2004-809 du 13 août 2004 précitée par d'autres
+collectivités territoriales ou groupements de collectivités territoriales sur les ports maritimes dont l'activité principale
+est la plaisance ne peuvent être transférées aux communes ou, le cas échéant, aux communautés de communes, aux communautés
+urbaines ou aux communautés d'agglomération sans l'accord exprès de ces autres collectivités territoriales ou groupements de
+collectivités territoriales.
+
+Le département ou un syndicat mixte peut également, à la demande d'une commune ou, le cas échéant, d'une communauté de
+communes, créer, aménager et exploiter un port maritime dont l'activité principale est la plaisance.
+
+IV. - Par dérogation aux dispositions précédentes, l'organisme chargé du parc national de Port-Cros est compétent pour
+aménager, entretenir et gérer les installations portuaires de Port-Cros, dans le respect des missions assignées au parc.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 30 VII JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2009-449 du 22 avril 2009 (V)
+	  - Code du tourisme. - art. L341-5 (M)
+
+
+###### Article L601-2
+
+L'Etat peut conclure avec la collectivité territoriale ou le groupement de collectivités territoriales compétent des contrats
+d'objectifs, portant notamment sur le financement d'infrastructures, la sûreté et la sécurité portuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 30 VII JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5314-10 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
