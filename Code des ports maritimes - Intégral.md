@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1987-06-07
+Version Consolidée au 1987-10-17
 
 # Partie législative
 
@@ -6717,79 +6717,6 @@ Le conseil d'administration se réunit au moins trois fois par an sur la convoca
 
 ### Titre Ier : Ports autonomes
 
-#### Chapitre II : Organisation
-
-##### Section 1 : Conseil d'administration.
-
-###### Article R*112-1
-
-Le conseil d'administration d'un port autonome dont la composition est fixée par le décret en Conseil d'Etat qui en porte
-création comprend :
-
-I. - 1° Quatre membres désignés par les chambres de commerce et d'industrie de la circonscription du port, dont deux au moins
-doivent être choisis, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R. 112-2.
-
-2° a) Deux membres désignés par le conseil général du département dans lequel se trouve la principale ville de la
-circonscription du port, dont un présenté par le conseil régional.
-
-b) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port.
-
-c) Deux membres représentant soit des collectivités locales, soit des établissements publics locaux, soit une collectivité
-locale et un établissement public local intéressés au fonctionnement du port dont la désignation appartient aux assemblées
-délibérantes de ces collectivités ou établissements.
-
-3° Trois membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
-administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
-
-4° Un membre représentant les ouvriers dockers du port.
-
-II. - 1° Trois membres représentant l'Etat, dont :
-
-a) Un membre du Conseil d'Etat, présenté par le vice-président du Conseil d'Etat ;
-
-b) Un représentant du ministre chargé de l'économie et des finances, présenté par ce ministre et choisi parmi les
-fonctionnaires en activité de son département ;
-
-c) Le commissaire de la République de la région dans laquelle se trouve la ville principale de la circonscription du port
-autonome, ou son suppléant qu'il désigne à titre permanent ;
-
-2° a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
-112-2, établie conjointement par les chambres de commerce et d'industrie représentées au conseil ;
-
-b) Huit personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
-les transports, l'économie régionale ou l'économie nationale, dont quatre au moins doivent appartenir aux catégories
-d'usagers mentionnées à l'article R. 112-2.
-
-Les membres du conseil d'administration énumérés au I (4°) et au II ci-dessus sont nommés par décret pris sur le rapport du
-ministre chargé des ports maritimes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°65-934 1965-11-08 art. 1
-
-	**Cité par**:
-
-	  - Décret n°65-935 du 8 novembre 1965 - art. 2 (Ab)
-	  - Décret n°65-938 du 8 novembre 1965 - art. 2 (Ab)
-	  - Décret n°65-940 du 8 novembre 1965 - art. 2 (Ab)
-	  - Code des ports maritimes - art. R*112-4 (Ab)
-	  - Code des ports maritimes - art. R*112-5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°84-533 1984-06-28 art. 1 JORF 1er juillet 1984
-
-	**Cite**:
-
-	  - Code des ports maritimes R112-2
-
-
 #### Chapitre III : Fonctionnement du port autonome
 
 ##### Section 4 : Régime domanial.
@@ -11592,6 +11519,265 @@ La redevance domaniale est perçue par la collectivité compétente.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2124-63 (M)
+
+
+## Livre VII : Conseil national des communautés portuaires
+
+### Titre Ier : Chapitre unique.
+
+###### Article R*711-1
+
+Un Conseil national des communautés portuaires est institué auprès du ministre chargé des ports maritimes et du ministre
+chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-2
+
+Le Conseil national des communautés portuaires donne son avis sur toutes les questions intéressant directement ou
+indirectement les ports maritimes, les activités portuaires, les transports terrestre et maritime à destination ou en
+provenance des ports qui lui sont soumises par le ministre chargé des ports maritimes ou par le ministre chargé des
+transports. Il peut étudier et proposer toutes mesures de nature à favoriser l'activité des ports français et améliorer leur
+compétitivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-3
+
+Le président du Conseil national des communautés portuaires est nommé, pour une période de trois ans renouvelable, par
+décret, sur proposition conjointe du ministre chargé des ports maritimes et du ministre chargé des transports.
+
+Il préside aux délibérations du conseil et arrête l'ordre du jour de ses séances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+
+###### Article R*711-4
+
+Outre son président, le Conseil national des communautés portuaires comprend cinquante et un membres :
+
+a) Cinq au titre de l'Etat, représentant :
+
+- le ministre chargé des ports maritimes ;
+
+- le ministre chargé des transports terrestres ;
+
+- le ministre chargé de la marine marchande ;
+
+- le ministre chargé des douanes et droits indirects ;
+
+- le ministre chargé du commerce extérieur ;
+
+b) Six au titre des collectivités locales, désignés respectivement deux par l'association des maires de France, deux par
+l'assemblée des présidents de conseils régionaux et deux par l'assemblée des présidents de conseils généraux ;
+
+c) Un représentant de chacun des ports maritimes autonomes et deux représentants des chambres de commerce et d'industrie
+concessionnaires d'outillage public dans les ports non autonomes ;
+
+d) Dix représentants des organisations syndicales les plus représentatives des personnels portuaires, dont deux représentants
+des dockers, et des personnels des transports ;
+
+e) Vingt-deux personnalités représentatives des intérêts des usagers des ports et des professions intervenant dans les ports,
+la navigation maritime, les transports, le commerce international, dont sept au moins au titre du secteur des transports
+terrestres et maritimes et sept au moins au titre du secteur des entreprises de services portuaires, notamment des
+entreprises de manutention maritimes, de transit, de consignation, de courtage maritime.
+
+Les services chargés des ports maritimes assurent le secrétariat du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-5
+
+Les membres du Conseil national des communautés portuaires sont nommés pour une période de trois ans renouvelable par arrêté
+conjoint du ministre chargé des ports maritimes et du ministre chargé des transports.
+
+Cessent de plein droit de faire partie du Conseil national des communautés portuaires les membres qui ont perdu la qualité en
+laquelle ils étaient désignés ou nommés. Il est pourvu à leur remplacement pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-6
+
+Le conseil comprend trois vice-présidents élus dans les conditions de l'article R. 711-9.
+
+Le président et les vice-présidents constituent le bureau du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Cite**:
+
+	  - Code des ports maritimes R711-9
+
+
+###### Article R*711-7
+
+Le président du Conseil supérieur de la marine marchande et le président du Conseil national des transports ont, à titre
+consultatif, accès de plein droit aux réunions du Conseil national des communautés portuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-8
+
+Le président du conseil peut appeler, à titre consultatif, toute personne dont il lui paraît utile de recueillir l'avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-9
+
+Le Conseil national des communautés portuaires ne peut valablement délibérer que si la majorité des membres en fonctions est
+présente.
+
+Lorsque le quorum n'est pas atteint sur un ordre du jour donné, le conseil délibère valablement sans condition de quorum
+après une nouvelle convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+###### Article R*711-10
+
+Le Conseil national des communautés portuaires établit un règlement intérieur ; celui-ci est soumis à l'approbation conjointe
+du ministre chargé des ports maritimes et du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
+
+
+### Titre II : Dispositions particulières aux départements d'outre-mer.
+
+###### Article R*721-1
+
+Les dispositions du titre Ier du présent livre ne sont pas applicables dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Créé par**:
+
+	  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
 
 
 # Annexes
