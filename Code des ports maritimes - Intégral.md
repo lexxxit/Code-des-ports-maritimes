@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1985-06-23
+Version Consolidée au 1985-09-12
 
 # Partie législative
 
@@ -9138,6 +9138,29 @@ pas au cas où le navire, bateau ou embarcation, serait en danger de perdition.
 	**Anciens textes**:
 
 	  - Code des ports maritimes 70
+
+
+###### Article R*331-2
+
+Les infractions aux dispositions de l'article R. 331-1 sont punies des peines prévues pour la contravention de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes 71
+
+	**Cite**:
+
+	  - Code des ports maritimes R331-1
+
+	**Modifié par**:
+
+	  - Décret n°83-170 1983-09-11 art. 2 JORF 12 septembre 1985
 
 
 ###### Article R*331-3
