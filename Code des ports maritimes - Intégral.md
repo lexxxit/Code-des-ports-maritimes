@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1980-03-11
+Version Consolidée au 1980-07-09
 
 # Partie législative
 
@@ -1063,6 +1063,49 @@ tribunaux, nonobstant tout recours, et emportent hypothèque.
 	  - Décret n°78-487 1978-03-22
 
 
+###### Article L321-5
+
+Si une infraction aux dispositions relatives à la police du port ou aux décrets et aux arrêtés préfectoraux pris pour leur
+application est constatée par un agent verbalisateur spécialement pourvu à cet effet d'un carnet de quittances à souches, le
+contrevenant aura la faculté d'effectuer immédiatement entre les mains de cet agent le paiement de l'amende. Ce versement
+aura pour effet d'arrêter toute poursuite, sauf si l'infraction constatée a exposé son auteur soit à une sanction autre que
+pécuniaire, soit à la réparation de dommages causés aux personnes ou aux biens, soit aux peines qui s'attachent à la
+récidive.
+
+Si un contrevenant se trouve hors d'état de justifier d'un domicile sur le territoire français, il peut être astreint à
+fournir caution ou à verser une somme déterminée en garantie du recouvrement éventuel des amendes pécuniaires qu'il a
+encourues. Au cas d'impossibilité ou de refus par lui de fournir cette garantie, l'objet ayant servi à commettre l'infraction
+pourra être séquestré.
+
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions précédentes, et notamment les catégories
+d'agents limitativement habilités à recevoir les versements prévus aux alinéas ci-dessus et les modalités de ces perceptions,
+les règles concernant les cautions et séquestres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (M)
+	  - Arrêté du 6 juin 2006 - art. 132-2 (M)
+	  - Arrêté du 6 juin 2006 - art. 263-8 (M)
+	  - Arrêté du 4 juin 2008 - art. 1 (M)
+	  - Arrêté du 4 juin 2008 - art. 11 (V)
+	  - Arrêté du 4 juin 2008 - art. 17 (M)
+	  - Code des ports maritimes - art. L321-3 (VT)
+	  - Code des ports maritimes - art. L321-7 (VT)
+	  - Code des ports maritimes - art. R321-31 (Ab)
+	  - Code des ports maritimes - art. R321-32 (Ab)
+	  - Code des ports maritimes - art. R321-43 (Ab)
+
+
 #### Chapitre II : Conservation du port proprement dit.
 
 ###### Article L322-1
@@ -1457,6 +1500,68 @@ l'article 39 de la loi du 31 juillet 1913 modifiée.
 	  - Code des ports maritimes - art. L411-2 (VT)
 
 
+###### Article L411-2
+
+Conformément à l'article 47 de la loi du 31 juillet 1913 modifiée, des décrets en Conseil d'Etat déterminent :
+
+1° Les conditions dans lesquelles sont fixées et payées les subventions dues par l'Etat, les départements ou les communes,
+ainsi que celles dans lesquelles la part des bénéfices revenant à l'Etat, aux départements et aux communes est fixée et
+recouvrée ;
+
+2° Les conditions spéciales auxquelles doivent satisfaire, tant pour la construction que pour l'exploitation, les voies
+ferrées établies sur les voies publiques ;
+
+3° Les rapports entre le service de ces voies et les autres services intéressés ;
+
+4° Les dispositions spéciales à prévoir en cas d'exploitation directe par les départements ou les communes ;
+
+5° D'une manière générale, toutes les dispositions nécessaires à l'application de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L451-1 (Ab)
+	  - Code des ports maritimes - art. R411-2 (Ab)
+
+	**Cite**:
+
+	  - Loi n°1913-07-31 art. 47
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+
+### Titre II : Etablissement, entretien et exploitation de la voie ferrée.
+
+###### Article L421-1
+
+Lorsque les voies ferrées établies sur les quais d'un port maritime ne constituent pas une dépendance des lignes aboutissant
+à ce port, elles sont établies ou concédées par l'Etat.
+
+Dans ce cas, leur établissement est déclaré d'utilité publique par décret en Conseil d'Etat, après enquête, dans les formes
+déterminées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+
 ### Titre IV : Perception des taxes et des frais accessoires.
 
 ###### Article L441-1
@@ -1471,6 +1576,30 @@ cahier des charges de la Société nationale des chemins de fer français.
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+
+### Titre V : Police et surveillance.
+
+###### Article L451-1
+
+Conformément à l'article 46 de la loi du 31 juillet 1913 modifiée, quel que soit leur caractère, les voies ferrées établies
+sur les quais d'un port maritime sont soumises, au point de vue de la police, aux dispositions spéciales édictées par les
+décrets en Conseil d'Etat prévus au 2° et au 3° de l'article L. 411-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L411-2 (M)
+	  - Loi n°1913-07-31 art. 46
 
 	**Abrogé par**:
 
