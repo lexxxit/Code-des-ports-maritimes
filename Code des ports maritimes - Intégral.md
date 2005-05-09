@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2005-03-19
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -4249,8 +4249,8 @@ déclaration dans ce nouveau délai, ce membre est déclaré démissionnaire par
 Toute modification dans les éléments figurant dans la déclaration mentionnée au premier alinéa du présent article est
 transmise au commissaire du Gouvernement.
 
-Le commissaire du Gouvernement communique au contrôleur d'Etat les déclarations remplies par les membres du conseil ainsi que
-les modifications qui y sont apportées.
+Le commissaire du Gouvernement communique au membre du corps du contrôle général économique et financier les déclarations
+remplies par les membres du conseil ainsi que les modifications qui y sont apportées.
 
 **Liens relatifs à cet article**
 
@@ -4258,13 +4258,21 @@ les modifications qui y sont apportées.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-76 du 5 février 1999 - art. 4 () JORF 7 février 1999
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cité par**:
 
 	  - Code des ports maritimes - art. R*112-10-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-18 (V)
 
 
 ###### Article R*112-8
@@ -4372,13 +4380,14 @@ par une délégation instituée par le même décret et chargée d'expédier les
 ###### Article R*112-10-1
 
 Dès qu'un membre du conseil d'administration a connaissance d'un projet de convention entre le port et une société ou un
-organisme mentionné dans la déclaration qu'il a souscrite conformément à l'article R. 112-7-1, il en avise, par lettre
-recommandée avec accusé de réception, le commissaire du Gouvernement et le contrôleur d'Etat. Il s'abstient de participer à
-tous les actes relatifs à la négociation et à la conclusion de cette convention.
+organisme mentionné dans la déclaration qu'il a souscrite conformément à l'article R. *112-7-1, il en avise, par lettre
+recommandée avec accusé de réception, le commissaire du Gouvernement et le membre du corps du contrôle général économique et
+financier. Il s'abstient de participer à tous les actes relatifs à la négociation et à la conclusion de cette convention. 
 
 Lorsqu'ils ont reçu un avis adressé en application du premier alinéa ou lorsqu'ils estiment qu'un membre du conseil
 d'administration est susceptible de s'exposer à l'application de l'article 432-12 du code pénal, le commissaire du
-Gouvernement et le contrôleur d'Etat en informent, par écrit, le conseil d'administration.
+Gouvernement et le membre du corps du contrôle général économique et financier en informent, par écrit, le conseil
+d'administration.
 
 L'approbation de toute convention ayant fait l'objet de la communication écrite mentionnée à l'alinéa précédent est soumise
 au conseil d'administration. Le membre du conseil d'administration concerné ne peut assister à la délibération ni participer
@@ -4390,9 +4399,22 @@ au vote relatifs à la convention.
 
 	  - Décret n°78-488 1978-03-22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 4
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code pénal - art. 432-12 (V)
+	  - Code des ports maritimes - art. R*112-7-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-19 (V)
 
 
 ##### Section 2 : Personnel.
@@ -4786,8 +4808,8 @@ adoptées par les autorités du port avec les intérêts dont l'Etat a la charge
 nationale, d'environnement et de développement économique. Il vérifie la régularité de l'ensemble des opérations du conseil
 d'administration et des instances auxquelles il délègue des compétences.
 
-Un contrôleur d'Etat, désigné par le ministre de l'économie et des finances, exerce le contrôle économique et financier du
-port autonome.
+Un membre du corps du contrôle général économique et financier, désigné par le ministre de l'économie et des finances, exerce
+le contrôle économique et financier du port autonome.
 
 Tous deux sont convoqués aux séances du conseil d'administration et ont voix consultative.
 
@@ -4799,7 +4821,15 @@ Tous deux sont convoqués aux séances du conseil d'administration et ont voix c
 
 	**Modifié par**:
 
-	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-30 (V)
 
 
 #### Chapitre III : Fonctionnement du port autonome.
@@ -4854,7 +4884,8 @@ qui assistent aux séances sans prendre part aux délibérations.
 ###### Article R*113-2
 
 Le conseil d'administration établit son règlement intérieur. Il peut constituer dans son sein un comité de direction. Le
-commissaire du Gouvernement, et le contrôleur d'Etat assistent aux séances de ce comité avec voix consultative.
+commissaire du Gouvernement, et le membre du corps du contrôle général économique et financier assistent aux séances de ce
+comité avec voix consultative.
 
 La composition du comité de direction, la nomenclature des affaires qui sont de sa compétence et pour lesquelles sa décision
 engage le conseil, ainsi que toutes les dispositions utiles à son fonctionnement, sont fixées par le conseil
@@ -4868,7 +4899,15 @@ d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-32 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-3
@@ -4949,32 +4988,41 @@ Les procès-verbaux sont signés par le président et par le secrétaire. Ils fo
 
 Le directeur assiste avec voix consultative aux réunions du comité de direction et aux séances du conseil d'administration.
 
-Les convocations aux séances sont adressées en temps utile au préfet de région, au commissaire du Gouvernement, et au
-contrôleur d'Etat ; elles sont accompagnées des ordres du jour et des mêmes documents que ceux qui sont transmis aux membres
-du conseil d'administration.
+Les convocations aux séances sont adressées en temps utile au préfet de région, au commissaire du Gouvernement, et au membre
+du corps du contrôle général économique et financier ; elles sont accompagnées des ordres du jour et des mêmes documents que
+ceux qui sont transmis aux membres du conseil d'administration.
 
-Le contrôleur d'Etat peut demander au président du conseil d'administration l'inscription à l'ordre du jour des questions sur
-lesquelles il estime nécessaire de provoquer une délibération de cette assemblée.
+Le membre du corps du contrôle général économique et financier peut demander au président du conseil d'administration
+l'inscription à l'ordre du jour des questions sur lesquelles il estime nécessaire de provoquer une délibération de cette
+assemblée.
 
-Le commissaire du Gouvernement et le contrôleur d'Etat sont convoqués aux commissions constituées dans le sein du conseil.
-Ils assistent à ces commissions s'ils le jugent utile.
+Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier sont convoqués aux
+commissions constituées dans le sein du conseil. Ils assistent à ces commissions s'ils le jugent utile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-34 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-5
 
 Les délibérations du conseil d'administration sont transmises au ministre chargé des ports maritimes et au ministre de
 l'économie et des finances. Elles sont communiquées en même temps, par les soins du président, au commissaire du Gouvernement
-et au contrôleur d'Etat.
+et au membre du corps du contrôle général économique et financier.
 
 Les délibérations relatives aux objets sur lesquels le conseil statue définitivement deviennent de plein droit exécutoires si
 le commissaire du Gouvernement n'y fait pas opposition dans les huit jours qui suivent, soit la réunion du conseil
@@ -4995,7 +5043,15 @@ du Gouvernement, celle-ci est levée de plein droit.
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-35 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-6
@@ -5080,8 +5136,8 @@ dans les limites arrêtées par le conseil d'administration, sous réserve de l'
 Il représente le port autonome de plein droit devant toutes les juridictions et pour tous les actes de la vie civile. Il a la
 faculté de conclure des transactions dans les conditions prévues par les articles 2044 et suivants du code civil et par le
 règlement intérieur du conseil d'administration. Les transactions sont subordonnées à l'accord préalable du commissaire du
-Gouvernement et du contrôleur d'Etat. Lorsque leur montant est supérieur à 100 000 euros, elles sont également subordonnées à
-l'accord préalable du conseil d'administration.
+Gouvernement et du membre du corps du contrôle général économique et financier. Lorsque leur montant est supérieur à 100 000
+euros, elles sont également subordonnées à l'accord préalable du conseil d'administration.
 
 Il procède aux achats et passe les marchés ou traités.
 
@@ -5097,15 +5153,23 @@ trésorerie et le placement des réserves.
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°2001-566 du 29 juin 2001 - art. 2 () JORF 30 juin 2001
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-38 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code civil - art. 2044 (V)
+	  - Code civil - art. 2044
 
 
 ###### Article R*113-9
@@ -5378,10 +5442,11 @@ nécessaires pour couvrir la totalité des charges d'exploitation est prise par 
 le ministre de l'économie et des finances.
 
 Si l'état prévisionnel n'est pas encore approuvé à l'ouverture de l'exercice, le directeur peut néanmoins engager, sauf
-opposition du contrôleur d'Etat, dans la limite des ressources disponibles à cet effet, les dépenses antérieurement
-autorisées et ordonner les paiements correspondants. Il peut en outre, dans la double limite des prévisions adoptées par le
-conseil d'administration et des crédits approuvés au titre de l'année précédente, engager, sauf opposition du contrôleur
-d'Etat, les dépenses indispensables à la continuité de la gestion.
+opposition du membre du corps du contrôle général économique et financier, dans la limite des ressources disponibles à cet
+effet, les dépenses antérieurement autorisées et ordonner les paiements correspondants. Il peut en outre, dans la double
+limite des prévisions adoptées par le conseil d'administration et des crédits approuvés au titre de l'année précédente,
+engager, sauf opposition du membre du corps du contrôle général économique et financier, les dépenses indispensables à la
+continuité de la gestion.
 
 Les modifications à l'état prévisionnel reconnues nécessaires en cours d'exercice sont arrêtées et approuvées dans les mêmes
 formes que cet état.
@@ -5397,7 +5462,7 @@ prévision, est communiqué au moins deux fois par an au conseil d'administratio
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 7 () JORF 11 septembre 1999
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 	**Cite**:
 
@@ -5838,11 +5903,12 @@ missions.
 Le commissaire du Gouvernement fait connaître au ministre chargé des ports maritimes ses observations sur le rapport annuel
 d'activité présenté au conseil d'administration.
 
-Le contrôleur d'Etat établit un rapport sur la gestion économique et financière du port pendant l'année précédente ainsi que
-sur les comptes de la même année. Ce rapport est adressé au ministre de l'économie et des finances.
+Le membre du corps du contrôle général économique et financier établit un rapport sur la gestion économique et financière du
+port pendant l'année précédente ainsi que sur les comptes de la même année. Ce rapport est adressé au ministre de l'économie
+et des finances.
 
-Le commissaire du Gouvernement et le controleur d'Etat se communiquent leur rapports respectifs avant la transmission à
-l'administration supérieure.
+Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier se communiquent leur
+rapports respectifs avant la transmission à l'administration supérieure.
 
 **Liens relatifs à cet article**
 
@@ -5852,7 +5918,15 @@ l'administration supérieure.
 
 	**Modifié par**:
 
-	  - Décret n°2001-566 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-60 (V)
 
 
 ###### Article R*114-5
