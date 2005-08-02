@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -1130,142 +1130,526 @@ Les conditions d'application du droit de port dans les départements d'outre-mer
 
 ## Livre III : Police des ports maritimes.
 
-### Titre Ier : Officiers, officiers adjoints et surveillants de port.
+### Titre préliminaire : Dispositions générales.
+
+#### Chapitre Ier : Champ d'application.
+
+###### Article L301-1
+
+Les dispositions du présent livre s'appliquent dans les limites administratives des ports maritimes à l'exclusion des ports
+militaires.
+
+Les dispositions relatives à la police du plan d'eau s'appliquent également à l'intérieur d'une zone maritime et fluviale de
+régulation comprenant, en dehors des limites administratives du port, les espaces nécessaires à l'approche et au départ du
+port. Ces espaces sont constitués des chenaux d'accès au port et des zones d'attente et de mouillage. La zone maritime et
+fluviale de régulation est délimitée dans les conditions fixées par un décret en Conseil d'Etat.
+
+Ce décret peut prévoir des dispositions particulières pour les ports civils attenants aux ports militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 1 (Ab)
+	  - Arrêté du 8 juillet 2009 (V)
+	  - Code des ports maritimes - art. L302-8 (VT)
+	  - Code des ports maritimes - art. L334-1 (VT)
+	  - Code des ports maritimes - art. R321-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-1 (V)
+
+
+#### Chapitre II : Compétences en matière de police dans les ports maritimes.
+
+##### Section 1 : Compétences de l'Etat.
+
+###### Article L302-1
+
+L'Etat fixe les règles relatives à la sécurité du transport maritime et des opérations portuaires. Les règlements généraux de
+police applicables aux ports de commerce, aux ports de pêche et aux ports de plaisance sont établis par décret.
+
+L'Etat fixe les règles relatives au transport et à la manutention des marchandises dangereuses. Le règlement général de
+transport et de manutention des marchandises dangereuses est établi par arrêté de l'autorité administrative.
+
+L'Etat est responsable de la définition des mesures de sûreté portuaire prises en application du titre II et du contrôle de
+leur application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-700 du 3 mai 2007 - art. 9 (Ab)
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-2 (V)
+
+
+###### Article L302-2
+
+L'Etat détermine les conditions d'accueil des navires en difficulté.
+
+Le ministre chargé des ports maritimes ou son représentant peut, pour assurer la sécurité des personnes ou des biens ou
+prévenir des atteintes à l'environnement, enjoindre à l'autorité portuaire d'accueillir un navire en difficulté. Il peut
+également, pour les mêmes motifs, autoriser ou ordonner son mouvement dans le port.
+
+La réparation des dommages causés par un navire en difficulté accueilli dans un port peut être demandée à l'armateur, au
+propriétaire ou à l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-3 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L311-1 (VT)
+
+
+###### Article L302-3
+
+L'Etat est responsable de la police des eaux et de la police de la signalisation maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-4 (V)
+
+
+##### Section 2 : Compétences respectives de l'autorité portuaire et de l'autorité investie du pouvoir de police portuaire.
+
+###### Article L302-4
+
+Au sens du présent livre, l'autorité portuaire est :
+
+a) Dans les ports maritimes autonomes, le directeur du port autonome ;
+
+b) Dans les autres ports maritimes relevant de l'Etat, le représentant de l'Etat ;
+
+c) Dans les ports maritimes de commerce, de pêche et de plaisance relevant des collectivités territoriales et de leurs
+groupements, l'exécutif de la collectivité territoriale ou du groupement compétent.
+
+L'autorité investie du pouvoir de police portuaire est :
+
+a) Dans les ports maritimes autonomes, le directeur du port autonome ;
+
+b) Dans les autres ports maritimes relevant de l'Etat, le représentant de l'Etat ;
+
+c) Dans les ports maritimes relevant des collectivités territoriales et de leurs groupements, dont l'activité dominante est
+le commerce ou qui accueillent des marchandises dangereuses et qui figurent sur une liste arrêtée par l'autorité
+administrative, le représentant de l'Etat ;
+
+d) Dans les autres ports maritimes relevant des collectivités territoriales et de leurs groupements, l'exécutif de la
+collectivité ou du groupement compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-1616 du 15 novembre 2007 - art. 1 (M)
+	  - Décret n°2007-1617 du 15 novembre 2007 - art. 1 (M)
+	  - Code des ports maritimes - art. R*301-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-5 (V)
+	  - Code des transports - art. L5331-6 (V)
+
+
+###### Article L302-5
+
+L'autorité portuaire exerce la police de l'exploitation du port, qui comprend notamment l'attribution des postes à quai et
+l'occupation des terre-pleins. Elle exerce également la police de la conservation du domaine public portuaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-7 (V)
+
+
+###### Article L302-6
+
+L'autorité investie du pouvoir de police portuaire exerce la police du plan d'eau qui comprend notamment l'organisation des
+entrées, sorties et mouvements des navires, bateaux ou engins flottants. Elle exerce également la police des marchandises
+dangereuses.
+
+Elle contribue au recueil, à la transmission et à la diffusion de l'information nautique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Arrêté du 10 janvier 2007 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-8 (V)
+
+
+###### Article L302-7
+
+Si l'urgence ou des circonstances graves l'exigent, l'autorité investie du pouvoir de police portuaire ou l'autorité
+portuaire peuvent, dans les limites de leurs attributions respectives, procéder à la réquisition des armateurs, capitaines,
+maîtres ou patrons de navires, marins, ouvriers-dockers, pilotes, lamaneurs et remorqueurs, pour qu'ils fournissent leur
+service et les moyens correspondants.
+
+La réquisition fait l'objet d'un ordre écrit et signé. Cet ordre mentionne la nature de la prestation imposée et, autant que
+possible, sa durée.
+
+L'autorité délivre au prestataire un reçu détaillé des prestations fournies. Celles-ci donnent droit à des indemnités
+représentatives de leur valeur dans les conditions prévues aux articles L. 2234-1 à L. 2234-7 du code de la défense. Le
+paiement des indemnités est à la charge de l'autorité qui a prononcé la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-9 (V)
+
+	**Cite**:
+
+	  - Code de la défense.
+
+
+###### Article L302-8
+
+Des règlements particuliers dans chaque port peuvent compléter les règlements généraux de police.
+
+Les dispositions applicables dans les limites administratives des ports autonomes sont arrêtées par le représentant de
+l'Etat.
+
+Les dispositions applicables dans les limites administratives des autres ports sont arrêtées conjointement par l'autorité
+portuaire et l'autorité investie du pouvoir de police portuaire et, à défaut d'accord, par l'autorité investie du pouvoir de
+police portuaire.
+
+Les dispositions applicables dans la partie maritime de la zone de régulation mentionnée à l'article L. 301-1 sont prises par
+le préfet maritime ou le délégué du Gouvernement outre-mer.
+
+Les dispositions applicables dans la partie fluviale de la zone de régulation mentionnée à l'article L. 301-1 sont prises par
+le représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-10 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L301-1
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R302-2 (Ab)
+
+
+#### Chapitre III : Agents chargés de la police dans les ports maritimes.
+
+##### Section 1 : Officiers de port et officiers de port adjoints.
+
+###### Article L303-1
+
+Les officiers de port et les officiers de port adjoints sont des fonctionnaires de l'Etat. Ils prêtent serment devant le
+tribunal de grande instance de leur résidence administrative.
+
+Ils veillent au respect des lois et règlements relatifs à la police des ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-11 (V)
+
+
+###### Article L303-2
+
+En cas de péril grave et imminent et lorsque leurs ordres n'ont pas été exécutés, les officiers de port et officiers de port
+adjoints peuvent monter à bord des navires, bateaux ou engins flottants pour prendre ou ordonner les mesures strictement
+nécessaires pour faire cesser ce péril.
+
+En cas de refus d'accès au navire, bateau ou engin flottant, les officiers de port et officiers de port adjoints en rendent
+compte immédiatement à l'officier de police judiciaire territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-12 (V)
+
+
+##### Section 2 : Surveillants de port et auxiliaires de surveillance.
+
+###### Article L303-3
+
+Dans les ports où il est investi du pouvoir de police portuaire, l'exécutif de la collectivité territoriale ou du groupement
+compétent peut désigner, en qualité de surveillants de port, des agents qui appartiennent à ses services.
+
+Ces surveillants de port exercent les pouvoirs attribués aux officiers de port et officiers de port adjoints par le présent
+livre et les règlements pris pour son application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-13 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L331-2 (VT)
+	  - Code des ports maritimes - art. L345-1 (VT)
+	  - Code des ports maritimes - art. L345-4 (VT)
+
+
+###### Article L303-4
+
+Pour l'exercice de la police de l'exploitation et de la conservation du domaine public portuaire, l'autorité portuaire peut
+désigner, en qualité d'auxiliaires de surveillance, des agents qui appartiennent à ses services.
+
+Dans les ports autonomes, ces auxiliaires de surveillance sont placés sous l'autorité fonctionnelle des officiers de port ou
+officiers de port adjoints.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-14 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L331-2 (VT)
+	  - Code des ports maritimes - art. L345-1 (VT)
+	  - Code des ports maritimes - art. L345-4 (VT)
+
+
+###### Article L303-5
+
+Les conditions d'aptitude professionnelle et les conditions d'honorabilité exigées pour l'attribution de la qualité de
+surveillant de port et d'auxiliaire de surveillance sont précisées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-16 (V)
+
+
+###### Article L303-6
+
+Les surveillants de port et les auxiliaires de surveillance sont agréés par le procureur de la République de leur résidence
+administrative. Ils prêtent serment devant le tribunal de grande instance.
+
+Lorsque la moralité de la personne ou son comportement se révèle incompatible avec l'exercice de ses missions, le procureur
+de la République, de sa propre initiative ou à la demande du représentant de l'Etat ou de l'employeur, peut retirer
+l'agrément après que l'intéressé a été mis en mesure de présenter ses observations. En cas d'urgence, il peut prononcer la
+suspension immédiate de l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5331-15 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R303-8 (Ab)
+
+
+### Titre Ier : Police du plan d'eau.
 
 ###### Article L311-1
 
-Les officiers de port prêtent serment devant le tribunal de grande instance de leur résidence.
+Sous réserve des dispositions de l'article L. 302-2, l'autorité investie du pouvoir de police portuaire qui n'a pas la
+qualité d'autorité portuaire ne peut autoriser l'entrée d'un navire, bateau ou engin flottant dans les limites
+administratives du port sans l'accord de l'autorité portuaire.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R311-1 (Ab)
-
-
-###### Article L311-2
-
-Les officiers de port peuvent, dans les cas où ils seraient injuriés, menacés ou maltraités dans l'exercice de leurs
-fonctions, requérir la force publique et ordonner l'arrestation provisoire des coupables, à la charge d'en rapporter procès-
-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*311-5 (Ab)
-
-
-###### Article L311-3
-
-Les navigateurs, pêcheurs, portefaix, ouvriers, dockers et autres personnes, dans les ports de commerce et sur les quais, ne
-peuvent refuser le service auquel ils sont propres sur les réquisitions des officiers de port qui, dans tous les cas de refus
-et de contravention aux lois de police, en rapportent procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-
-###### Article L311-4
-
-Les officiers de port peuvent couper, en cas de nécessité, les amarres que les capitaines, patrons ou autres étant dans les
-bâtiments refusent de larguer après injonctions verbales réitérées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*311-1 (V)
-
-
-### Titre II : Polices de la conservation et de l'exploitation
-
-#### Chapitre Ier : Répression des infractions.
-
-###### Article L321-1
-
-Les contraventions en matière de grande voirie, telles qu'anticipations, dépôts et toutes espèces de détériorations commises
-dans les ports maritimes sont constatées, réprimées et poursuivies par la voie administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cité par**:
-
-	  - Arrêté du 22 avril 2008 - art. Annexe 1 (M)
-	  - Code des ports maritimes - art. L321-5 (VT)
-	  - Code des ports maritimes - art. R321-16 (Ab)
-	  - Code des ports maritimes - art. R321-19 (Ab)
-	  - Code des ports maritimes - art. R321-5 (Ab)
-
-
-###### Article L321-2
-
-Les contraventions sont constatées concurremment par les ingénieurs des ponts et chaussées et des travaux publics de l'Etat,
-les techniciens des travaux publics de l'Etat, les officiers et surveillants de port, les conducteurs et agents des ports
-maritimes assermentés à cet effet ou par les maires et adjoints, les commissaires de police et la gendarmerie.
-
-Les fonctionnaires publics ci-dessus désignés qui n'ont pas prêté serment en justice le prêteront devant le préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*311-1 (V)
-	  - Code des ports maritimes - art. R*311-21 (Ab)
-
-
-###### Article L321-4
-
-Il est statué définitivement par le tribunal administratif ; les jugements sont exécutoires sans visa ni mandement des
-tribunaux, nonobstant tout recours, et emportent hypothèque.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-
-###### Article L321-5
-
-Si une infraction aux dispositions relatives à la police du port ou aux décrets et aux arrêtés préfectoraux pris pour leur
-application est constatée par un agent verbalisateur spécialement pourvu à cet effet d'un carnet de quittances à souches, le
-contrevenant aura la faculté d'effectuer immédiatement entre les mains de cet agent le paiement de l'amende. Ce versement
-aura pour effet d'arrêter toute poursuite, sauf si l'infraction constatée a exposé son auteur soit à une sanction autre que
-pécuniaire, soit à la réparation de dommages causés aux personnes ou aux biens, soit aux peines qui s'attachent à la
-récidive.
-
-Si un contrevenant se trouve hors d'état de justifier d'un domicile sur le territoire français, il peut être astreint à
-fournir caution ou à verser une somme déterminée en garantie du recouvrement éventuel des amendes pécuniaires qu'il a
-encourues. Au cas d'impossibilité ou de refus par lui de fournir cette garantie, l'objet ayant servi à commettre l'infraction
-pourra être séquestré.
-
-Un décret en Conseil d'Etat fixe les conditions d'application des dispositions précédentes, et notamment les catégories
-d'agents limitativement habilités à recevoir les versements prévus aux alinéas ci-dessus et les modalités de ces perceptions,
-les règles concernant les cautions et séquestres.
+Une convention précise les modalités de concertation entre l'autorité investie du pouvoir de police portuaire et l'autorité
+portuaire pour l'organisation des mouvements de navires. Cette convention fait l'objet d'un bilan annuel.
 
 **Liens relatifs à cet article**
 
@@ -1275,7 +1659,293 @@ les règles concernant les cautions et séquestres.
 
 	**Modifié par**:
 
-	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-1 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L302-2
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R311-1 (Ab)
+
+
+###### Article L311-2
+
+L'autorité portuaire fournit à l'autorité investie du pouvoir de police portuaire les informations nécessaires à l'exercice
+de ses pouvoirs, notamment les informations relatives à la situation des fonds dans le port et ses accès et à l'état des
+ouvrages du port.
+
+Pour la manoeuvre des écluses et ponts mobiles nécessitée par les mouvements de navires, les agents de l'autorité portuaire
+ou de son délégataire se conforment aux instructions données par les agents de l'autorité investie du pouvoir de police
+portuaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-2 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*311-5 (Ab)
+
+
+###### Article L311-3
+
+Indépendamment des pouvoirs dont elle dispose pour autoriser et régler l'entrée, la sortie et les mouvements des navires dans
+le port, l'autorité investie du pouvoir de police portuaire peut subordonner l'accès au port à une visite préalable du navire
+et exiger le dépôt d'un cautionnement. Il en va de même de l'autorité maritime qui exerce le contrôle pour l'Etat du port.
+Les coûts d'expertise entraînés par la visite sont à la charge de l'armateur ou de l'affréteur du navire.
+
+En cas d'accident, la réparation des dommages causés par un navire en mouvement peut être demandée à l'armateur, au
+propriétaire ou à l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-3 (V)
+
+
+###### Article L311-4
+
+L'accès au port est interdit aux navires présentant, en raison de leurs caractéristiques, définies par un arrêté de
+l'autorité administrative, un risque pour l'environnement.
+
+Toutefois, l'autorité investie du pouvoir de police portuaire peut autoriser l'accès d'un navire au port en cas de force
+majeure, pour des raisons de sécurité impératives, notamment pour supprimer ou réduire le risque de pollution ou pour
+permettre que soient faites des réparations urgentes sous réserve que des mesures appropriées aient été prises par le
+propriétaire, l'exploitant ou le capitaine du navire pour assurer la sécurité de son entrée au port.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-4 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*311-1 (V)
+
+
+### Titre II : Sûreté portuaire.
+
+###### Article L321-1
+
+La zone portuaire de sûreté, délimitée par l'autorité administrative, comprend le port dans ses limites administratives et
+les zones terrestres contiguës intéressant la sûreté des opérations portuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Arrêté du 22 avril 2008 - art. Annexe 1 (M)
+	  - Code des ports maritimes - art. L321-5 (VT)
+	  - Code des ports maritimes - art. R321-16 (Ab)
+	  - Code des ports maritimes - art. R321-19 (Ab)
+	  - Code des ports maritimes - art. R321-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5332-1 (M)
+
+
+###### Article L321-2
+
+Pour des raisons de sûreté, l'autorité administrative peut enjoindre à l'autorité investie du pouvoir de police portuaire
+d'interdire ou de restreindre l'accès et les mouvements des navires, bateaux ou engins flottants dans la zone portuaire de
+sûreté. Pour les mêmes raisons, elle peut enjoindre à l'autorité investie du pouvoir de police portuaire d'ordonner
+l'expulsion de la zone portuaire de sûreté des navires, bateaux ou engins flottants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5332-3 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*311-1 (V)
+	  - Code des ports maritimes - art. R*311-21 (Ab)
+
+
+###### Article L321-3
+
+Sauf dans les cas où des dispositions particulières justifient la mise en oeuvre par les services de l'Etat des mesures
+visant à assurer la sûreté du transport maritime et des opérations portuaires, ces mesures sont mises en oeuvre, sous
+l'autorité de l'Etat, par les exploitants d'installations portuaires, les compagnies de transport maritime, les prestataires
+de services portuaires, les organismes habilités au titre de l'article L. 321-6, les employeurs des agents mentionnés au
+troisième alinéa de l'article L. 321-5, les entreprises qui leur sont liées par contrat et les autres personnes autorisées à
+occuper ou utiliser les zones d'accès restreint, chacun agissant dans son domaine d'activité.
+
+Un décret en Conseil d'Etat précise les catégories de mesures qui incombent à chacune des personnes mentionnées au premier
+alinéa et les autorités administratives chargées d'en définir les modalités techniques et opérationnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5332-4 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L321-4 (VT)
+	  - Code des ports maritimes - art. L321-7 (VT)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L321-5
+	  - Code des ports maritimes - art. L321-6
+
+
+###### Article L321-4
+
+Un plan de sûreté portuaire est élaboré par l'autorité portuaire. Pour chacune des installations portuaires figurant sur une
+liste établie par l'autorité administrative, la personne responsable de l'installation élabore un plan de sûreté, qui doit
+être compatible avec le plan de sûreté portuaire. Après leur approbation par le représentant de l'Etat dans le département,
+ces plans s'imposent aux personnes énumérées à l'article L. 321-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5332-5 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L321-3
+
+
+###### Article L321-5
+
+En vue d'assurer préventivement la sûreté des transports maritimes et des opérations portuaires qui s'y rattachent, d'une
+part les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire
+et les agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale,
+et, d'autre part, les agents des douanes peuvent procéder à la visite des navires, à l'exception des parties à usage exclusif
+d'habitation et des locaux syndicaux, ainsi que des personnes, des bagages, des colis, des marchandises et des véhicules
+pénétrant ou se trouvant dans les zones d'accès restreint délimitées par arrêté préfectoral à l'intérieur de la zone
+portuaire de sûreté définie à l'article L. 321-1 ou embarqués à bord des navires.
+
+Les agents de l'Etat chargés des contrôles peuvent se faire communiquer tous documents nécessaires aux visites auxquelles ils
+procèdent.
+
+Sont également habilités à procéder à ces visites sous le contrôle des officiers de police judiciaire ou des agents des
+douanes, les agents de nationalité française ou ressortissants d'un Etat membre de la Communauté européenne, agréés par le
+représentant de l'Etat dans le département et par le procureur de la République, que les services de l'Etat, les exploitants
+d'installations portuaires, les compagnies de transport maritime, les prestataires de services portuaires désignent pour
+cette tâche. Ces agents ne procèdent à la fouille des bagages à main qu'avec le consentement de leur propriétaire et à des
+palpations de sécurité qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité doit être faite par une
+personne du même sexe que la personne qui en fait l'objet. Ils peuvent procéder à des contrôles des transports de
+marchandises visant à détecter une présence humaine sans pénétrer eux-mêmes à l'intérieur des véhicules ou de leur
+chargement.
+
+Les agréments prévus à l'alinéa précédent sont refusés ou retirés lorsque la moralité de la personne ou son comportement se
+révèle incompatible avec l'exercice des missions susmentionnées. L'agrément ne peut être retiré par le représentant de l'Etat
+dans le département ou par le procureur de la République qu'après que l'intéressé a été mis en mesure de présenter ses
+observations. Il peut faire l'objet d'une suspension immédiate en cas d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -1291,434 +1961,25 @@ les règles concernant les cautions et séquestres.
 	  - Code des ports maritimes - art. R321-32 (Ab)
 	  - Code des ports maritimes - art. R321-43 (Ab)
 
-
-#### Chapitre II : Conservation du port proprement dit.
-
-###### Article L322-1
-
-Nul ne peut porter atteinte au bon état des ports et havres tant dans leur profondeur et netteté que dans leurs
-installations.
-
-Il est défendu, sous peine d'une amende de 6 à 12 euros :
-
-De jeter des terres ou immondices dans les eaux des ports et de leurs dépendances ;
-
-De faire aucun dépôt des mêmes matières sur les quais et terre-pleins des ports.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L322-2
-
-Les propriétaires de vieux bâtiments hors d'état de naviguer sont tenus de les démolir et d'en enlever les débris sans délai
-sous peine de confiscation et d'une amende de 22 à 90 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-#### Chapitre III : Exploitation du port.
-
-###### Article L323-1
-
-Dans les limites d'un port maritime ou à l'intérieur de ses rades et chenaux d'accès, tout capitaine, maître ou patron d'un
-navire de commerce, de pêche ou de plaisance, d'un engin de servitude ou d'un bateau de navigation intérieure qui n'a pas
-obtempéré aux ordres donnés par le moyen des signaux réglementaires ou d'une manière quelconque par les officiers et
-surveillants de port concernant le mouvement de son bâtiment, est passible d'une amende calculée comme suit :
-
-1° Pour les navires de mer.
-
-Navires de moins de 25 tonneaux de jauge brute : 22 à 90 euros ;
-
-Navires de 25 à 250 tonneaux : 90 à 150 euros ;
-
-Navires de plus de 250 tonneaux : 150 à 300 euros.
-
-2° Pour tous les bâtiments autres que les navires de mer.
-
-Bâtiments de moins de 25 tonneaux de déplacement en charge : 22 à 90 euros ;
-
-Bâtiments de 25 à 250 tonneaux : 90 à 150 euros ;
-
-Bâtiments de plus de 250 tonneaux : 150 à 300 euros.
-
-En cas de récidive, l'amende peut être élevée au triple des chiffres fixés ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*311-1 (V)
-	  - Code des ports maritimes - art. R*323-5 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L323-2
-
-Afin de garantir le paiement éventuel de l'amende et des frais de procédure, l'intéressé doit consigner immédiatement, entre
-les mains de l'agent verbalisateur, un cautionnement égal au maximum de l'amende encourue.
-
-Faute par le délinquant de fournir ce cautionnement, le bâtiment est retenu au port.
-
-L'armateur condamné en première instance et qui interjette appel ou fait opposition peut obtenir la libre sortie du bâtiment
-en consignant le montant de la condamnation et de tous les frais.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*323-5 (Ab)
-
-
-###### Article L323-3
-
-Il est défendu à tout capitaine de jeter du lest dans les ports, canaux, bassins et rades sous peine d'une amende de 150 à
-300 euros pour la première infraction et de saisie et confiscation de son bâtiment en cas de récidive.
-
-Il est défendu, sous les mêmes peines, aux capitaines de navires et aux entrepreneurs de procéder aux opérations de lestage
-et de délestage pendant la nuit, sauf autorisation des officiers de port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L323-4
-
-Les marchandises ne peuvent séjourner sur les quais plus de trois jours ; passé ce délai, elles peuvent être enlevées
-d'office aux dépens des propriétaires, lesquels sont, en outre, condamnés à une amende 150 à 300 euros.
-
-Toutefois, en cas d'encombrement ou de risque d'encombrement dans un port maritime de commerce, des arrêtés ministériels
-peuvent fixer une durée maxima de stationnement sur les quais, terre-pleins et dépendances du port pour toutes les
-marchandises ou pour certaines catégories de marchandises.
-
-A l'expiration du délai fixé comme il est dit à l'alinéa précédent, les marchandises peuvent être enlevées à la diligence des
-officiers de port et aux dépens des propriétaires, lesquels sont, en outre, condamnés à une amende qui peut varier entre 450
-et 1 500 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*311-1 (V)
-	  - Code des ports maritimes - art. R*323-9 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L323-5
-
-Indépendamment des pouvoirs dont elle dispose pour autoriser et régler l'entrée, la sortie et les mouvements des navires dans
-le port, l'autorité investie du pouvoir de police portuaire peut subordonner l'accès au port à une visite préalable du navire
-et exiger le dépôt d'une caution. Il en va de même de l'autorité maritime qui exerce le contrôle au nom de l'Etat du port.
-Les coûts d'expertise sont à la charge de l'armateur.
-
-En cas d'accident, la réparation des dommages causés par un navire en mouvement peut être demandée à l'armateur, au
-propriétaire ou à l'exploitant.
-
-Est interdit l'accès au port des navires présentant, en raison de leurs caractéristiques, définies par un arrêté conjoint du
-ministre chargé des ports maritimes et du ministre chargé de la sécurité maritime, un risque pour l'environnement. Toutefois,
-l'autorité investie du pouvoir de police portuaire peut autoriser l'accès d'un navire au port en cas de force majeure, pour
-des raisons de sécurité impératives, notamment pour supprimer ou réduire le risque de pollution ou pour permettre que soient
-faites des réparations urgentes sous réserve que des mesures appropriées aient été prises par le propriétaire, l'exploitant
-ou le capitaine du navire pour assurer la sécurité de son entrée au port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 2 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*323-11 (T)
-	  - Code des ports maritimes - art. R*323-12 (T)
-	  - Code des ports maritimes - art. R*323-13 (T)
-	  - Code des ports maritimes - art. R*323-14 (T)
-	  - Code des ports maritimes - art. R*324-1 (Ab)
-	  - Code des ports maritimes - art. R*324-2 (Ab)
-	  - Code des ports maritimes - art. R*324-3 (Ab)
-	  - Code des ports maritimes - art. R*324-4 (Ab)
-
-
-###### Article L323-6
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 2 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-
-#### Chapitre IV : Sûreté portuaire.
-
-###### Article L324-1
-
-La zone portuaire de sûreté, délimitée par l'autorité administrative, comprend :
-
-- le port maritime, dans ses limites administratives ;
-
-- les zones terrestres contiguës intéressant la sûreté des opérations portuaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. L324-4 (Ab)
-	  - Code des ports maritimes - art. L324-5 (Ab)
-
-
-###### Article L324-2
-
-L'Etat est responsable de la définition et du contrôle de l'application des mesures de sûreté portuaire prises en application
-du présent livre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-
-###### Article L324-3
-
-L'autorité investie du pouvoir de police portuaire peut, pour des raisons de sûreté, interdire ou restreindre l'accès et les
-mouvements des navires, bateaux ou engins flottants dans la zone portuaire de sûreté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-
-###### Article L324-4
-
-Un plan de sûreté portuaire est élaboré par l'autorité portuaire et un plan de sûreté de chacune des installations portuaires
-figurant sur une liste établie par l'autorité administrative est élaboré par la personne responsable de cette installation.
-Les plans de sûreté des installations portuaires doivent être compatibles avec le plan de sûreté portuaire. Après leur
-approbation par le représentant de l'Etat dans le département, ces plans s'imposent aux exploitants du port, aux entreprises
-concourant à l'exploitation de ce port, aux navires et à toute personne autorisée à occuper ou à utiliser la zone portuaire
-de sûreté définie à l'article L. 324-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L324-1 (Ab)
+	  - Code de procédure pénale - art. 21
+	  - Code des ports maritimes - art. L321-1
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code des ports maritimes - art. L324-5 (Ab)
-	  - Code des ports maritimes - art. L324-7 (Ab)
-
-
-###### Article L324-5
-
-Les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et
-les agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale
-peuvent procéder au contrôle des navires, à l'exception des parties à usage exclusif d'habitation et des locaux syndicaux,
-ainsi que des personnes, des bagages, des colis, des marchandises et des véhicules pénétrant ou se trouvant dans les zones
-d'accès restreint délimitées par arrêté préfectoral à l'intérieur de la zone portuaire de sûreté définie à l'article L. 324-1
-ou embarqués à bord des navires.
-
-Les officiers de police judiciaire peuvent également faire procéder à ces opérations sous leur contrôle par des agents de
-nationalité française ou ressortissants d'un Etat membre de la Communauté européenne, agréés par le représentant de l'Etat
-dans le département et par le procureur de la République, que les personnes visées à l'article L. 324-4 désignent pour cette
-tâche. En ce qui concerne la visite des bagages à main, ces agents procèdent à leur inspection visuelle et, avec le
-consentement de leur propriétaire, à leur fouille. En ce qui concerne la visite des personnes, leur intervention porte sur la
-mise en oeuvre des dispositifs de contrôle. Avec le consentement de la personne, ils peuvent procéder à des palpations de
-sécurité. Dans ce cas, la palpation de sécurité doit être faite par une personne du même sexe que la personne qui en fait
-l'objet. En ce qui concerne les transports de marchandises, ils peuvent procéder à des contrôles visant à détecter une
-présence humaine sans pénétrer eux-mêmes à l'intérieur des véhicules ou de leur chargement.
-
-Les agréments prévus au précédent alinéa sont refusés ou retirés lorsque la moralité de la personne ou son comportement
-apparaît incompatible avec l'exercice des missions susmentionnées. L'agrément ne peut être retiré par le représentant de
-l'Etat dans le département ou par le procureur de la République qu'après que l'intéressé a été mis en mesure de présenter ses
-observations. Une suspension immédiate peut être prononcée en cas d'urgence.
-
-Dans les zones mentionnées au premier alinéa, les agents des douanes peuvent dans le même but et sous les mêmes conditions
-procéder au contrôle des personnes, des bagages, des colis, des marchandises, des véhicules et des navires, à l'exception des
-parties à usage exclusif d'habitation et des locaux syndicaux. Ils peuvent y faire procéder sous leur responsabilité par des
-agents désignés dans les conditions et selon les modalités fixées aux deux alinéas précédents.
-
-Les agents de l'Etat chargés des contrôles prévus ci-dessus peuvent se faire communiquer tous documents nécessaires aux
-visites auxquelles ils procèdent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
-	  - Code des ports maritimes - art. L324-1 (Ab)
-	  - Code des ports maritimes - art. L324-4 (Ab)
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. R153-5 (V)
+	  - Code des transports - art. L5332-2 (M)
+	  - Code des transports - art. L5332-6 (M)
 
 
-###### Article L324-6
+###### Article L321-6
 
-Des missions d'évaluation et de contrôle de la sûreté maritime peuvent être confiées par l'autorité administrative à des
-organismes habilités à cet effet.
+Des missions d'évaluation et de contrôle de la sûreté maritime et portuaire peuvent être confiées par l'autorité
+administrative à des organismes habilités à cet effet.
 
 Seules peuvent bénéficier de cette habilitation les personnes établies en France, dans un autre Etat membre de la Communauté
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, qui y exercent des activités
@@ -1732,30 +1993,74 @@ correspondant à ces missions.
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 2010 - art. 1 (M)
+	  - Code des ports maritimes - art. L321-3 (VT)
+	  - Code des ports maritimes - art. R321-7 (Ab)
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5332-7 (V)
 
 
-###### Article L324-7
+###### Article L321-7
 
 I. - Les infractions et les manquements aux prescriptions du présent chapitre et aux mesures prises pour son application sont
-constatés par les officiers et agents de police judiciaire, et par les fonctionnaires habilités à cet effet soit par le
-ministre compétent, soit par le représentant de l'Etat dans le département.
+constatés par les officiers et agents de police judiciaire, les agents mentionnés à l'article L. 345-1 et les fonctionnaires
+habilités à cet effet par l'autorité administrative.
 
-II. - Les personnes visées à l'article L. 324-4, les organismes de sûreté maritime habilités et les organismes agréés de
-formation à la sûreté maritime tiennent à la disposition des fonctionnaires mentionnés au I tous renseignements et
-justifications propres à l'accomplissement de la mission de ces derniers.
+II. - Les personnes mentionnées aux articles L. 321-3 et L. 321-5, les organismes de sûreté maritime et portuaire habilités
+et les organismes agréés de formation à la sûreté maritime et portuaire tiennent à la disposition des fonctionnaires
+mentionnés au I. tous renseignements et justifications propres à l'accomplissement de leur mission.
 
 Ils donnent accès, à tout moment, à leurs locaux et aux équipements en relation avec leur activité, à l'exception des locaux
 à usage exclusif d'habitation et des locaux syndicaux.
 
 III. - Sans préjudice des sanctions pénales encourues, les habilitations et agréments prévus par le présent chapitre peuvent
-être suspendus ou retirés par l'autorité qui les a délivrés en cas de méconnaissance des prescriptions de ce chapitre ou des
-mesures prises pour leur application. Dans les mêmes conditions, il peut être mis fin aux effets des décisions d'approbation
-prononcées.
+être suspendus ou retirés par l'autorité qui les a délivrés en cas de méconnaissance des prescriptions de ce titre ou des
+mesures prises pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-1 (V)
+	  - Code des transports - art. L5336-8 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L321-3
+	  - Code des ports maritimes - art. L321-5
+	  - Code des ports maritimes - art. L345-1
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R321-50 (Ab)
+
+
+###### Article L321-8
+
+Le fait de s'introduire ou tenter de s'introduire sans autorisation dans une zone d'accès restreint est puni d'une amende de
+3 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -1765,20 +2070,185 @@ prononcées.
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-10 (M)
+
+
+### Titre III : Police de la grande voirie.
+
+#### Chapitre Ier : Repression des atteintes au domaine public portuaire.
+
+###### Article L331-1
+
+Sans préjudice des sanctions pénales encourues, toute atteinte à la conservation du domaine public des ports maritimes
+constitue une contravention de grande voirie réprimée dans les conditions prévues au présent chapitre.
+
+Il en est de même des manquements aux dispositions du présent titre et aux règlements d'application pris pour assurer la
+bonne utilisation du domaine public, tels que les occupations sans titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 17 (Ab)
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 30 (Ab)
+	  - Code de l'environnement - art. L331-19 (V)
+	  - Code de l'environnement - art. L332-22 (V)
+	  - Code des ports maritimes - art. L331-3 (M)
+	  - Code rural - art. L241-15 (Ab)
+	  - Code rural - art. L242-26 (Ab)
+
+
+###### Article L331-2
+
+Ont compétence pour constater les contraventions en matière de grande voirie prévues par le présent livre et les textes pris
+pour son application :
+
+1° Les officiers de port et officiers de port adjoints ;
+
+2° Les surveillants de port mentionnés à l'article L. 303-3 ;
+
+3° Les auxiliaires de surveillance mentionnés à l'article L. 303-4 pour ce qui concerne la police de l'exploitation et de la
+conservation ;
+
+4° Les agents du ministère chargé des ports maritimes assermentés à cet effet devant le tribunal de grande instance ;
+
+5° Les agents des ports autonomes assermentés à cet effet devant le tribunal de grande instance ;
+
+6° Les agents des collectivités territoriales et de leurs groupements assermentés à cet effet devant le tribunal de grande
+instance ;
+
+7° Les officiers et agents de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L331-19 (V)
+	  - Code de l'environnement - art. L332-22 (V)
+	  - Code de procédure pénale - art. 689-5 (M)
+	  - Code des ports maritimes - art. L331-3 (M)
+	  - Code rural - art. L241-15 (Ab)
+	  - Code rural - art. L242-26 (Ab)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L303-3 (V)
+	  - Code des ports maritimes - art. L303-4 (V)
+
+
+###### Article L331-3
+
+Lorsqu'ils constatent une contravention en matière de grande voirie, les officiers de port, officiers de port adjoints,
+surveillants de port et auxiliaires de surveillance sont habilités à relever, dans les conditions définies à l'article L.
+345-6, l'identité de l'auteur de la contravention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
 
 	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L324-4 (Ab)
+	  - Code des ports maritimes - art. L345-6 (V)
 
 
-###### Article L324-8
+#### Chapitre II : Conservation du domaine public portuaire.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre.
+###### Article L332-1
+
+Les propriétaires et armateurs des navires, bateaux ou engins flottants qui se trouvent hors d'état de naviguer ou de faire
+mouvement sont tenus de procéder à leur remise en état ou à leur enlèvement.
+
+La méconnaissance des dispositions qui précèdent est punie d'une amende d'un montant égal à celui prévu pour les
+contraventions de la cinquième classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L332-3 (Ab)
+	  - Code des ports maritimes - art. R*332-1 (Ab)
+
+
+###### Article L332-2
+
+Nul ne peut porter atteinte au bon état et à la propreté du port et de ses installations.
+
+Le fait de jeter dans les eaux du port tous déchets, objets, terre, matériaux ou autres, est puni d'une amende d'un montant
+égal à celui prévu pour les contraventions de la cinquième classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L332-3 (Ab)
+	  - Code des ports maritimes - art. L332-4 (Ab)
+
+
+#### Chapitre III :Exploitation du port.
+
+###### Article L333-1
+
+Il est interdit de laisser les marchandises séjourner sur les quais, terre-pleins et dépendances d'un port maritime au-delà
+du délai prévu par le règlement général de police ou, si le délai prévu est plus long, par le règlement particulier. A
+l'expiration de ce délai, les marchandises peuvent être enlevées d'office aux frais et risques des propriétaires à la
+diligence des officiers de port, officiers de port adjoints et surveillants de port agissant au nom de l'autorité portuaire.
+
+Les marchandises dont le propriétaire ou le gardien n'est pas connu et qui, six mois après leur enlèvement d'office prévu au
+premier alinéa, n'ont pas été réclamées peuvent être détruites ou cédées par l'autorité portuaire.
+
+Le fait, pour le propriétaire ou la personne responsable de la garde des marchandises, de laisser séjourner des marchandises
+au-delà du délai mentionné au premier alinéa, est puni d'une amende de 3 750 euros. En cas de nouveau manquement commis moins
+de cinq ans après le prononcé d'une première condamnation, l'amende peut être portée au double.
+
+Les frais et redevances de toute nature engagés du fait du manquement, y compris les sommes dues pour l'occupation du domaine
+public, le déplacement ou l'entreposage des marchandises demeurent à la charge des propriétaires. Les marchandises peuvent
+être retenues jusqu'au règlement de ces frais ou le dépôt d'un cautionnement.
 
 **Liens relatifs à cet article**
 
@@ -1788,31 +2258,216 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent chapi
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 6 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5335-3 (V)
+	  - Code des transports - art. L5337-4 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L333-2 (VT)
+
+
+###### Article L333-2
+
+Les dispositions de l'article L. 333-1 sont également applicables aux véhicules, objets, matériaux ou autres dès lors qu'ils
+stationnent ou ont été déposés sans autorisation sur les quais, terre-pleins et dépendances d'un port maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
 	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
+	**Abrogé par**:
 
-#### Chapitre V : Des déchets d'exploitation et résidus de cargaison.
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-###### Article L325-1
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5335-4 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L333-1
+
+
+#### Chapitre IV : Usage du plan d'eau.
+
+###### Article L334-1
+
+Dans les limites administratives du port maritime et à l'intérieur de la zone maritime et fluviale de régulation mentionnée à
+l'article L. 301-1, tout capitaine, maître ou patron d'un navire de commerce, de pêche ou de plaisance, d'un engin de
+servitude, d'un engin flottant ou d'un bateau de navigation intérieure qui n'a pas obtempéré aux signaux réglementaires ou
+aux ordres donnés, par quelque moyen que ce soit, par les officiers de port, officiers de port adjoints ou surveillants de
+port concernant le mouvement de son navire, bateau ou engin flottant est passible d'une amende calculée comme suit :
+
+- pour les navires, bateaux ou engins flottants d'une longueur hors tout inférieure ou égale à 20 mètres : 500 Euros ;
+
+- pour les navires, bateaux ou engins flottants d'une longueur hors tout comprise entre 20 et 100 mètres : 8 000 Euros ;
+
+- pour les navires, bateaux ou engins flottants d'une longueur hors tout égale ou supérieure à 100 mètres : 20 000 Euros.
+
+En cas de nouveau manquement commis moins de cinq ans après le prononcé d'une première condamnation, l'amende peut être
+portée au double.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2009-877 du 17 juillet 2009 - art. 8 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-5 (V)
+	  - Code des transports - art. L5337-5 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L301-1
+
+
+### Titre IV : Dispositions pénales.
+
+#### Chapitre Ier : Police de la signalisation maritime.
+
+###### Article L341-1
+
+Le capitaine ou patron de tout navire, bateau ou embarcation qui, même en danger de perdition et par suite d'un amarrage,
+d'un abordage ou de toute autre cause accidentelle, a coulé, déplacé ou détérioré un feu flottant, une bouée ou une balise,
+est tenu de signaler le fait par les moyens les plus rapides et doit en faire la déclaration dans les vingt-quatre heures au
+plus tard de son arrivée au premier port où il aborde.
+
+Cette déclaration est faite en France à l'officier de port ou officier de port adjoint ou, à défaut, au syndic des gens de
+mer et, à l'étranger, à l'agent consulaire français le plus proche du port d'arrivée.
+
+Le fait de ne pas déclarer les destructions, déplacements ou dégradations prévus au présent article est puni de six mois
+d'emprisonnement et de 7 500 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5335-5 (V)
+	  - Code des transports - art. L5336-15 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L334-6 (VT)
+
+
+###### Article L341-2
+
+Indépendamment de la réparation du dommage causé, le fait de détruire, abattre ou dégrader une installation de signalisation
+maritime ou d'aide à la navigation ou de porter atteinte à son bon fonctionnement est puni de trois ans d'emprisonnement et
+de 45 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-16 (V)
+
+
+#### Chapitre II : Marchandises dangereuses.
+
+###### Article L342-1
+
+Sont punis de deux ans d'emprisonnement et de 30 000 euros d'amende :
+
+- le fait de ne pas respecter les règles de manutention, de transbordement, d'accès, de circulation, de stationnement, de
+dépôt ou d'entreposage applicables aux marchandises dangereuses, fixées par les règlements généraux ou les règlements locaux
+pris pour leur application ;
+
+- le fait d'embarquer ou de faire embarquer, d'expédier ou faire expédier par voie terrestre ou fluviale à partir d'un port
+des marchandises dangereuses sans en avoir déclaré la nature à l'armateur, au capitaine, maître ou patron, au gérant du
+navire, à l'agent du navire ou au commissionnaire expéditeur ou sans avoir apposé les plaques-étiquettes, étiquettes et
+marques réglementaires sur les emballages ou engins de transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-17 (V)
+
+
+#### Chapitre III : Déchets d'exploitation et résidus de cargaison.
+
+###### Article L343-1
 
 Les capitaines de navire faisant escale dans un port maritime sont tenus, avant de quitter le port, de déposer les déchets
 d'exploitation et résidus de cargaison de leur navire dans les installations de réception flottantes, fixes ou mobiles
-existantes.
-
-Les officiers de port peuvent interdire la sortie du navire qui n'aurait pas déposé ses déchets d'exploitation et résidus de
-cargaison dans une installation de réception adéquate, et subordonner leur autorisation à l'exécution de cette prescription.
+existantes. Les officiers de port, officiers de port adjoints ou surveillants de port agissant au nom de l'autorité investie
+du pouvoir de police portuaire peuvent interdire la sortie du navire qui n'aurait pas déposé ses déchets d'exploitation et
+résidus de cargaison dans une installation de réception adéquate, et subordonner leur autorisation à l'exécution de cette
+prescription.
 
 Toutefois, s'il s'avère que le navire dispose d'une capacité de stockage spécialisée suffisante pour tous les déchets
 d'exploitation qui ont été et seront accumulés pendant le trajet prévu jusqu'au port de dépôt, il peut être autorisé à
 prendre la mer.
 
-Les officiers de port, officiers de port adjoints et surveillants de port peuvent faire procéder au contrôle des conditions
-de stockage à bord par l'autorité maritime compétente, lorsqu'ils constatent ou sont informés de l'inobservation par un
-capitaine de navire de ses obligations en matière de dépôt des déchets d'exploitation et résidus de cargaison.
+Les officiers de port, officiers de port adjoints, surveillants de port ou auxiliaires de surveillance peuvent faire procéder
+au contrôle des conditions de stockage à bord par l'autorité maritime compétente, lorsqu'ils constatent ou sont informés de
+l'inobservation par un capitaine de navire de ses obligations en matière de dépôt des déchets d'exploitation et résidus de
+cargaison.
 
 Les frais d'immobilisation du navire résultant de ce contrôle sont à la charge de l'armateur, du propriétaire ou de
 l'exploitant.
@@ -1836,44 +2491,45 @@ mise en oeuvre de l'annexe V de cette convention ;
 les cales ou dans les citernes à cargaison après la fin des opérations de déchargement et de nettoyage, y compris les
 excédents et quantités déversés lors du chargement ou du déchargement.
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
-	**Cité par**:
-
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 14 (V)
-	  - Code des ports maritimes - art. L325-2 (Ab)
-	  - Code des ports maritimes - art. R*325-2 (T)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 3 () JORF 14 juillet 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
+	**Abrogé par**:
 
-###### Article L325-2
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-Lorsqu'un navire ne se conforme pas aux dispositions de l'article L. 325-1, son armateur et son capitaine sont passibles
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-7 (V)
+	  - Code des transports - art. L5334-8 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L343-2 (VT)
+	  - Code des ports maritimes - art. R343-2 (Ab)
+
+	**Cite**:
+
+	  - Protocole 1978-02-17
+
+
+###### Article L343-2
+
+Lorsqu'un navire ne se conforme pas aux dispositions de l'article L. 343-1, son armateur et son capitaine sont passibles
 d'une amende calculée comme suit :
 
-- pour les bâtiments d'une longueur hors tout inférieure ou égale à 20 mètres : 1 000 à 4 000 euros ;
+- pour les navires, bateaux ou engins flottants d'une longueur hors tout inférieure ou égale à 20 mètres : 4 000 euros ;
 
-- pour les bâtiments d'une longueur hors tout comprise entre 20 et 100 mètres : 4 000 à 8 000 euros ;
+- pour les navires, bateaux ou engins flottants d'une longueur hors tout comprise entre 20 et 100 mètres : 8 000 euros ;
 
-- pour les bâtiments d'une longueur hors tout supérieure à 100 mètres : 8 000 à 40 000 euros.
-
-**Nota:**
-
-Nota - Loi 2001-43 2001-01-16 art. 14 II : les dispositions prévues à l'article L. 325-2 entrent en vigueur le premier jour
-du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l'article L. 325-1.
+- pour les navires, bateaux ou engins flottants d'une longueur hors tout supérieure à 100 mètres : 40 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -1883,27 +2539,26 @@ du sixième mois suivant la publication du décret en Conseil d'Etat prévu à l
 
 	**Créé par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 14 (V) JORF 17 janvier 2001
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 14 (V)
-
-	**Cité par**:
-
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 14 (V)
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-11 (V)
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L325-1 (M)
+	  - Code des ports maritimes - art. L343-1
 
 
-###### Article L325-3
+###### Article L343-3
 
 Les prestataires qui assurent ou participent à la réception ou au dépôt des déchets d'exploitation et des résidus de
 cargaison des navires doivent fournir à l'autorité portuaire ainsi que, sur sa demande, au représentant de l'Etat dans le
-département, les éléments techniques et financiers permettant de connaître la nature et les conditions d'exécution de leur
+département les éléments techniques et financiers permettant de connaître la nature et les conditions d'exécution de leur
 activité.
 
 Ces prestataires doivent justifier auprès de l'autorité portuaire des agréments ou des autorisations nécessaires à l'exercice
@@ -1916,24 +2571,24 @@ traitement des déchets particuliers au port.
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 3 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code de l'environnement - art. L541-46 (V)
+	  - Code des transports - art. L5334-9 (V)
 
 
-#### Chapitre VI : Chargement et déchargement des navires vraquiers.
+#### Chapitre IV : Chargement et déchargement des navires vraquiers.
 
-###### Article L326-1
+###### Article L344-1
 
 Avant de procéder au chargement ou au déchargement d'une cargaison sèche en vrac, à l'exclusion des grains, le capitaine du
 navire et le responsable à terre de l'opération de chargement ou de déchargement conviennent par écrit des modalités du plan
@@ -1942,34 +2597,38 @@ de chargement ou de déchargement de la cargaison, selon une procédure permetta
 Les modifications apportées au plan initial sont approuvées selon les formalités prévues à l'alinéa précédent.
 
 Le capitaine d'un navire vraquier qui a procédé au chargement ou au déchargement de sa cargaison sèche en vrac doit pouvoir
-justifier auprès de l'autorité portuaire, avant de quitter le port, qu'il a exécuté ces opérations selon la procédure
-mentionnée au premier alinéa.
+justifier auprès de l'autorité investie du pouvoir de police portuaire, avant de quitter le port, qu'il a exécuté ces
+opérations selon la procédure mentionnée au premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 4 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-12 (V)
 
 	**Cité par**:
 
-	  - Code des ports maritimes - art. L326-2 (Ab)
-	  - Code des ports maritimes - art. R*326-2 (T)
-	  - Code des ports maritimes - art. R*326-3 (T)
+	  - Code des ports maritimes - art. L344-2 (VT)
+	  - Code des ports maritimes - art. R342-2 (Ab)
+	  - Code des ports maritimes - art. R342-3 (Ab)
 
 
-###### Article L326-2
+###### Article L344-2
 
-Sont punis d'une amende de 45 000 euros la méconnaissance par le capitaine du navire des dispositions de l'article L. 326-1
-et le fait, pour l'armateur ou l'exploitant du navire, de faire obstacle ou de tenter de faire obstacle à leur mise en
+Sont punis d'une amende de 45 000 euros le fait pour le capitaine du navire de méconnaître les dispositions de l'article L.
+344-1 et le fait, pour l'armateur ou l'exploitant du navire, de faire obstacle ou de tenter de faire obstacle à leur mise en
 oeuvre.
 
 **Liens relatifs à cet article**
@@ -1980,25 +2639,28 @@ oeuvre.
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 4 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-12 (V)
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L326-1 (Ab)
+	  - Code des ports maritimes - art. L344-1
 
 
-###### Article L326-3
+###### Article L344-3
 
 Le responsable à terre de l'opération de chargement ou de déchargement d'un navire vraquier est tenu de fournir au capitaine
 du navire, avant l'entrée au port, les informations relatives aux conditions d'accès à l'installation terminale du port ainsi
 qu'au chargement et au déchargement de la cargaison.
 
-L'autorité de police portuaire communique sur sa demande au responsable à terre de l'opération les informations dont elle
-dispose.
+L'autorité portuaire communique sur sa demande au responsable à terre de l'opération les informations dont elle dispose.
 
 Le responsable à terre de l'opération met en oeuvre le plan de chargement ou de déchargement de la cargaison en ce qui
 concerne l'ordre des cales, les quantités et les cadences.
@@ -2007,29 +2669,34 @@ Le responsable à terre de l'opération notifie sans délai au capitaine du navi
 contrôle pour l'Etat du port, les anomalies manifestes qu'il a constatées à bord du navire vraquier, qui pourraient menacer
 la sécurité du navire et des opérations de chargement ou de déchargement.
 
-En cas de méconnaissance des dispositions du présent article, le responsable à terre de l'opération est passible d'une amende
+Le fait pour le responsable à terre de l'opération de méconnaître les prescriptions du présent article est puni d'une amende
 de 45 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 4 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-13 (V)
+	  - Code des transports - art. L5336-13 (V)
 
 
-###### Article L326-4
+###### Article L344-4
 
-Lorsque la méconnaissance du plan de chargement ou de déchargement a entraîné un accident de mer ayant provoqué une pollution
+Lorsque le non-respect du plan de chargement ou de déchargement a entraîné un accident de mer ayant provoqué une pollution
 des eaux territoriales, des eaux intérieures ou du littoral, le capitaine du navire et le responsable à terre de l'opération
-de chargement ou de déchargement encourent une peine de deux ans d'emprisonnement et une amende de 180 000 euros.
+de chargement ou de déchargement encourent une peine de deux ans d'emprisonnement et de 180 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -2039,16 +2706,67 @@ de chargement ou de déchargement encourent une peine de deux ans d'emprisonneme
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 4 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-14 (V)
+
+
+#### Chapitre V : Constatation des infractions.
+
+###### Article L345-1
+
+Sans préjudice de la compétence générale des officiers et des agents de police judiciaire, ont compétence pour constater par
+procès-verbal les contraventions prévues par la partie réglementaire du présent code :
+
+1° Les officiers de port et officiers de port adjoints ;
+
+2° Les surveillants de port ayant la qualité de fonctionnaire mentionnés à l'article L. 303-3 ;
+
+3° Les auxiliaires de surveillance ayant la qualité de fonctionnaire mentionnés à l'article L. 303-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
 	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
+	**Abrogé par**:
 
-###### Article L326-5
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+	**Cité par**:
+
+	  - Code de l'environnement - art. L551-4 (VT)
+	  - Code des ports maritimes - art. L321-7 (VT)
+	  - Code des ports maritimes - art. L345-3 (VT)
+	  - Code des ports maritimes - art. L346-1 (VT)
+	  - Code des ports maritimes - art. L411-7 (VT)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L303-3
+	  - Code des ports maritimes - art. L303-4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-3 (M)
+
+
+###### Article L345-2
+
+Sans préjudice de la compétence générale des officiers et des agents de police judiciaire, les officiers de port et officiers
+de port adjoints ont également compétence pour constater par procès-verbal les délits prévus par la partie législative du
+présent code.
 
 **Liens relatifs à cet article**
 
@@ -2058,295 +2776,59 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 4 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-2 (V)
+
+
+###### Article L345-3
+
+Les agents mentionnés à l'article L. 345-1 informent sans délai le procureur de la République des contraventions et délits
+dont ils ont connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
 
 	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
+	**Abrogé par**:
 
-### Titre III : Polices du balisage et des matières dangereuses ou infectes
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-#### Chapitre Ier : Balisage.
+	**Nouveaux textes**:
 
-###### Article L331-1
-
-Le capitaine ou patron de tout navire, bateau ou embarcation qui, même en danger de perdition et par suite d'un amarrage,
-d'un abordage ou de toute autre cause accidentelle, a coulé, déplacé ou détérioré un feu flottant, une bouée ou une balise,
-est tenu de signaler le fait par les moyens les plus rapides dont il dispose et doit, au plus tard, en faire la déclaration
-dans les vingt-quatre heures de son arrivée au premier port où il aborde.
-
-Cette déclaration est faite en France à l'officier de port ou, à défaut, au syndic des gens de mer et, en pays étranger, à
-l'agent consulaire français le plus rapproché du port d'arrivée.
-
-Faute de cette déclaration et indépendamment de la réparation du dommage causé à l'ouvrage, il est puni d'un emprisonnement
-de trois mois et d'une amende de 3 750 euros.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Décret n°2009-877 du 17 juillet 2009 - art. 17 (Ab)
-	  - Décret n°2009-877 du 17 juillet 2009 - art. 30 (Ab)
-	  - Code de l'environnement - art. L331-19 (V)
-	  - Code de l'environnement - art. L332-22 (V)
-	  - Code des ports maritimes - art. L331-3 (M)
-	  - Code rural - art. L241-15 (Ab)
-	  - Code rural - art. L242-26 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L331-2
-
-Quiconque a intentionnellement, dans les zones portuaires ou en dehors d'elles, détruit, abattu ou dégradé un phare, feu,
-ouvrage ou d'une façon générale tout équipement ou installation de balisage ou d'aide à la navigation est puni d'un
-emprisonnement de trois ans et d'une amende de 15 000 euros, sans préjudice de la réparation du dommage causé.
-
-Les dispositions du premier alinéa sont également applicables aux atteintes portées au bon fonctionnement de ces équipements
-et installations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L331-19 (V)
-	  - Code de l'environnement - art. L332-22 (V)
-	  - Code de procédure pénale - art. 689-5 (M)
-	  - Code des ports maritimes - art. L331-3 (M)
-	  - Code rural - art. L241-15 (Ab)
-	  - Code rural - art. L242-26 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L331-3
-
-La peine d'emprisonnement telle qu'elle est prévue aux articles L. 331-1 et L. 331-2 peut être élevée jusqu'au double en cas
-de récidive.
-
-Il y a récidive lorsqu'il a été rendu contre le contrevenant ou le délinquant, dans les douze mois précédents, un premier
-jugement pour infraction aux dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
+	  - Code des transports - art. L5336-4 (V)
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L331-1 (M)
-	  - Code des ports maritimes - art. L331-2 (M)
+	  - Code des ports maritimes - art. L345-1
 
 
-###### Article L331-4
+###### Article L345-4
 
-Les infractions à la police du balisage sont constatées par les officiers commandant les bâtiments de l'Etat, les syndics des
-gens de mer, les officiers de port, les fonctionnaires et agents assermentés des ponts et chaussées, les officiers mariniers
-commandant les embarcations garde-pêche, les gendarmes maritimes, les guetteurs des postes sémaphoriques et les pilotes qui
-doivent spécialement être assermentés à cet effet, ainsi que par les agents des douanes.
+Les agents désignés ci-après rendent compte immédiatement à tout officier de police judiciaire de la police nationale ou de
+la gendarmerie territorialement compétent des délits prévus par la partie législative du présent code, dont ils ont
+connaissance dans l'exercice de leurs fonctions :
 
-**Liens relatifs à cet article**
+1° Les surveillants de port mentionnés à l'article L. 303-3 ;
 
-	**Codifié par**:
+2° Les auxiliaires de surveillance mentionnés à l'article L. 303-4 ;
 
-	  - Décret n°78-487 1978-03-22
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. L331-5 (Ab)
-	  - Code des ports maritimes - art. R*311-1 (V)
-	  - Code des ports maritimes - art. R*311-21 (Ab)
-
-
-###### Article L331-5
-
-Les procès-verbaux dressés en vertu de l'article L. 331-4 par des officiers et agents assermentés font foi jusqu'à preuve
-contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 9 () JORF 20 décembre 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L331-4 (Ab)
-
-
-###### Article L331-6
-
-Les procès-verbaux sont remis ou envoyés soit directement, soit par l'intermédiaire de l'officier de port le plus rapproché,
-à l'ingénieur chargé du service maritime.
-
-Les poursuites ont lieu soit à la diligence du ministère public, soit à la diligence de l'ingénieur du service maritime qui a
-le droit, dans ce dernier cas, d'exposer l'affaire devant le tribunal et d'être entendu à l'appui de ses conclusions.
-
-L'affaire est portée, suivant la nature de l'infraction poursuivie, devant le tribunal de police ou devant le tribunal
-correctionnel du port le plus voisin du lieu où l'infraction a été commise ou devant le tribunal du port français dans lequel
-le navire peut être trouvé ou enfin du port auquel appartient le navire français.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*311-1 (V)
-
-
-#### Chapitre II : Matières dangereuses ou infectes.
-
-###### Article L332-1
-
-Les conditions de manutention dans les ports maritimes des matières dangereuses ou infectes figurant dans la nomenclature
-établie par l'autorité compétente sont fixées par celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. L332-3 (Ab)
-	  - Code des ports maritimes - art. R*332-1 (Ab)
-
-
-###### Article L332-2
-
-Quiconque a embarqué ou fait embarquer sur un navire de commerce employé à la navigation maritime ou à la navigation sur les
-rivières ou canaux, expédié ou fait expédier par voie de terre des matières pouvant être une cause d'explosion ou d'incendie,
-sans en avoir déclaré la nature au capitaine, maître ou patron, au commissionnaire expéditeur ou au voiturier, et sans avoir
-apposé des marques apparentes sur les emballages est puni d'une amende de 3 750 euros.
-
-Cette disposition est applicable à l'embarquement sur navire étranger dans un port français ou sur un point quelconque des
-eaux françaises.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. L332-3 (Ab)
-	  - Code des ports maritimes - art. L332-4 (Ab)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
-
-###### Article L332-3
-
-Toute infraction aux règlements généraux visés à l'article L. 332-1 ou aux règlements locaux pris pour l'exécution desdits
-règlements généraux est punie de la peine prévue à l'article L. 332-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L332-1 (M)
-	  - Code des ports maritimes - art. L332-2 (M)
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. L332-4 (Ab)
-
-
-###### Article L332-4
-
-En cas de récidive dans l'année, les peines prévues aux articles L. 332-2 et L. 332-3 sont portées au double et le tribunal
-peut prononcer, en outre, un emprisonnement d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L332-2 (M)
-	  - Code des ports maritimes - art. L332-3 (Ab)
-
-
-### Titre VI : Dispositions relatives à l'accueil des navires en difficulté.
-
-###### Article L361-1
-
-Le ministre chargé des ports maritimes ou son représentant peut enjoindre à l'autorité portuaire d'accueillir un navire en
-difficulté, pour des motifs de sécurité des personnes ou des biens ou de risque d'atteinte à l'environnement. Il peut
-également, pour les mêmes motifs, autoriser ou ordonner son mouvement dans le port.
-
-La réparation des dommages causés par un navire en difficulté accueilli dans un port peut être demandée à l'armateur, au
-propriétaire ou à l'exploitant.
+3° Pour les infractions à la police de la signalisation maritime, les commandants des bâtiments et aéronefs de l'Etat, les
+agents de l'autorité maritime, les fonctionnaires et agents assermentés du ou des ministères chargés de la mer, les guetteurs
+des postes sémaphoriques ou les officiers de permanence des centres régionaux opérationnels de surveillance et de sauvetage,
+les commandants de navires baliseurs et les pilotes spécialement assermentés à cet effet, ainsi que les agents des douanes.
 
 **Liens relatifs à cet article**
 
@@ -2356,16 +2838,32 @@ propriétaire ou à l'exploitant.
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 5 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-5 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L303-3
+	  - Code des ports maritimes - art. L303-4
 
 
-###### Article L361-2
+###### Article L345-5
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent titre.
+Hors le cas où la contravention est constatée selon la procédure simplifiée de l'amende forfaitaire, les procès-verbaux
+constatant des contraventions ou des délits sont adressés au procureur de la République.
+
+Cet envoi doit avoir lieu dans les dix jours au plus tard, y compris celui où le fait, objet du procès-verbal, a été
+constaté.
+
+Copie en est adressée simultanément à l'autorité hiérarchique dont relève l'agent verbalisateur et à l'autorité portuaire.
+Ces autorités font connaître leurs observations au procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -2375,31 +2873,177 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent titre
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 5 () JORF 14 juillet 2004
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-6 (V)
 
 
-## Livre IV : Voies ferrées des quais
+###### Article L345-6
 
-### Titre Ier : Dispositions générales.
+Lorsqu'ils constatent une infraction, les officiers de port, officiers de port adjoints et surveillants de port ou
+auxiliaires de surveillance sont habilités à relever l'identité de la personne mise en cause. Si l'intéressé refuse ou se
+trouve dans l'impossibilité de justifier de son identité, ils en rendent compte immédiatement à tout officier de police
+judiciaire territorialement compétent, qui peut alors ordonner sans délai de lui présenter sur-le-champ le contrevenant.
+
+Lorsque l'officier de police judiciaire mentionné au présent alinéa décide de procéder à une vérification d'identité, dans
+les conditions prévues à l'article 78-3 du code de procédure pénale, le délai prévu au troisième alinéa de cet article court
+à compter du relevé d'identité. Il est mis fin immédiatement à la procédure prévue à l'alinéa précédent si le contrevenant
+procède au paiement de l'amende forfaitaire prévue à l'article L. 346-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5336-7 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 78-3
+	  - Code des ports maritimes - art. L346-2
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L331-3 (VT)
+
+
+#### Chapitre VI : Consignation et paiement immédiat de l'amende forfaitaire.
+
+###### Article L346-1
+
+Sauf en cas de paiement immédiat d'une amende forfaitaire, lorsque l'auteur d'une infraction se trouve hors d'état de
+justifier d'un domicile ou d'un emploi sur le territoire français ou d'une caution agréée par l'administration habilitée à
+percevoir les amendes garantissant le paiement éventuel des condamnations pécuniaires encourues, le navire, bateau ou engin
+flottant peut être retenu jusqu'à ce qu'ait été versée à un comptable du Trésor ou à un agent mentionné à l'article L. 345-1,
+porteur d'un carnet de quittances à souches, une consignation dont le montant est fixé par arrêté du garde des sceaux,
+ministre de la justice.
+
+La décision imposant le paiement d'une consignation est prise par le procureur de la République, qui est tenu de statuer dans
+le délai maximum de vingt-quatre heures après la constatation de l'infraction.
+
+Le navire, bateau ou engin flottant peut être retenu au port jusqu'à la décision du procureur de la République, et si aucune
+des garanties mentionnées au premier alinéa n'est fournie par l'auteur de l'infraction. Les frais en résultant sont mis à la
+charge de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L345-1 (V)
+
+
+###### Article L346-2
+
+Pour les contraventions des quatre premières classes à la réglementation de la police des ports maritimes, l'action publique
+est éteinte par le paiement d'une amende forfaitaire dans les conditions et selon les modalités prévues par les articles 529
+à 529-2 et 530 à 530-3 du code de procédure pénale.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+346-2.
+
+Le décret n° 2014-1670 du 30 décembre 2014 relatif aux dispositions du   livre III de la cinquième partie réglementaire du
+code des transports et   à leur adaptation à l'outre-mer est paru au JORF du 31 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure pénale
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L345-6 (VT)
+
+
+### Titre V : Mesures d'application.
+
+###### Article L351-1
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5338-1 (V)
+
+
+## Livre IV : Voies ferrées portuaires.
 
 ###### Article L411-1
 
-Conformément à l'article 46 de la loi du 31 juillet 1913 modifiée, les voies ferrées établies sur les quais des ports
-maritimes, lorsqu'elles n'ont pas le caractère d'embranchements particuliers, sont soumises, au point de vue de la concession
-et du régime financier, aux mêmes règles que les lignes d'intérêt général ou d'intérêt local dont elles sont les annexes.
+L'autorité portuaire est habilitée à construire et gérer des voies ferrées à l'intérieur de la circonscription du port pour
+les ports autonomes ou à l'intérieur de leurs limites administratives pour les autres ports. Ces voies sont dénommées voies
+ferrées portuaires.
 
-Elles peuvent toujours être rachetées indépendamment du réseau auquel elles se rattachent, dans les conditions prévues par
-l'article 39 de la loi du 31 juillet 1913 modifiée.
+Les voies ferrées portuaires peuvent donner accès à des installations terminales embranchées appartenant à des entreprises
+ayant conclu avec l'autorité portuaire une convention de raccordement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -2408,108 +3052,180 @@ l'article 39 de la loi du 31 juillet 1913 modifiée.
 
 ###### Article L411-2
 
-Conformément à l'article 47 de la loi du 31 juillet 1913 modifiée, des décrets en Conseil d'Etat déterminent :
-
-1° Les conditions dans lesquelles sont fixées et payées les subventions dues par l'Etat, les départements ou les communes,
-ainsi que celles dans lesquelles la part des bénéfices revenant à l'Etat, aux départements et aux communes est fixée et
-recouvrée ;
-
-2° Les conditions spéciales auxquelles doivent satisfaire, tant pour la construction que pour l'exploitation, les voies
-ferrées établies sur les voies publiques ;
-
-3° Les rapports entre le service de ces voies et les autres services intéressés ;
-
-4° Les dispositions spéciales à prévoir en cas d'exploitation directe par les départements ou les communes ;
-
-5° D'une manière générale, toutes les dispositions nécessaires à l'application de ladite loi.
+L'autorité portuaire peut également construire et exploiter, dans les limites territoriales définies à l'article L. 411-1,
+des installations terminales embranchées, soit sur le réseau ferré national, soit sur une voie ferrée portuaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°78-487 1978-03-22
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L411-1
 
 	**Cité par**:
 
 	  - Code des ports maritimes - art. L451-1 (Ab)
 	  - Code des ports maritimes - art. R411-2 (Ab)
 
+
+###### Article L411-3
+
+L'établissement public "Réseau ferré de France" est tenu d'assurer le raccordement des voies ferrées portuaires au réseau
+ferré national dans des conditions techniques et financières fixées par décret en Conseil d'Etat.
+
+Pour chaque port, une convention entre l'autorité portuaire et Réseau ferré de France, soumise à l'approbation ministérielle,
+fixe les conditions techniques et financières particulières de ce raccordement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Arrêté du 26 février 2008 - art. 2 (V)
+	  - Arrêté du 4 mars 2008 - art. 2 (V)
+	  - Arrêté du 7 mars 2008 - art. 2 (V)
+	  - Code des ports maritimes - art. R411-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L411-4
+
+Un décret en Conseil d'Etat fixe les exigences particulières de sécurité applicables à la conception, à la réalisation, à la
+maintenance et à l'utilisation des voies ferrées portuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article L411-5
+
+L'utilisation des voies ferrées portuaires peut donner lieu au versement de redevances à l'autorité portuaire ou à ses
+éventuels délégataires. Des tarifs d'abonnement et des tarifs contractuels peuvent être prévus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R411-5 (Ab)
+
+
+###### Article L411-6
+
+Le ministre chargé des transports qui délivre à une entreprise ferroviaire un certificat de sécurité permettant l'accès à un
+port peut étendre la validité de ce certificat à l'utilisation des voies ferrées portuaires de ce port.
+
+Les entreprises non titulaires d'un certificat de sécurité doivent, pour l'utilisation des voies ferrées portuaires, être
+agréées par le ministre chargé des transports dans des conditions fixées par décret en Conseil d'Etat.
+
+Ce décret précise notamment dans quels cas cet agrément vaut certificat de sécurité pour les services empruntant le réseau
+ferré national entre des voies ferrées relevant d'une même autorité portuaire ou dans les points d'échange entre le réseau
+ferré national et les voies ferrées portuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R411-8 (Ab)
+
+
+###### Article L411-7
+
+La police des voies ferrées portuaires est exercée par l'autorité portuaire.
+
+Le règlement général de police des voies ferrées portuaires est fixé par l'autorité administrative. Des règlements locaux
+d'application sont, en tant que de besoin, arrêtés pour chaque port par le préfet sur proposition de l'autorité portuaire.
+
+Les agents mentionnés à l'article L. 345-1 sont habilités à constater les infractions aux règlements de police des voies
+ferrées portuaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 1978-03-22
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
 	**Cite**:
 
-	  - Loi n°1913-07-31 art. 47
+	  - Code des ports maritimes - art. L345-1 (V)
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+	  - Code des ports maritimes - art. R411-9 (Ab)
 
 
-### Titre II : Etablissement, entretien et exploitation de la voie ferrée.
+###### Article L411-8
 
-###### Article L421-1
-
-Lorsque les voies ferrées établies sur les quais d'un port maritime ne constituent pas une dépendance des lignes aboutissant
-à ce port, elles sont établies ou concédées par l'Etat.
-
-Dans ce cas, leur établissement est déclaré d'utilité publique par décret en Conseil d'Etat, après enquête, dans les formes
-déterminées par un décret en Conseil d'Etat.
+Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'application du présent livre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
-	**Modifié par**:
-
-	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
 
-
-### Titre IV : Perception des taxes et des frais accessoires.
-
-###### Article L441-1
-
-Pour les voies ferrées des quais visées au cahier des charges de la Société nationale des chemins de fer français ainsi que
-pour celles que cette société exploite en vertu de concessions ou de conventions postérieures au 11 septembre 1947, les
-tarifs, nonobstant toutes conventions contraires, ne sont soumis, en ce qui concerne leur établissement, qu'au titre II du
-cahier des charges de la Société nationale des chemins de fer français.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
 	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
-
-
-### Titre V : Police et surveillance.
-
-###### Article L451-1
-
-Conformément à l'article 46 de la loi du 31 juillet 1913 modifiée, quel que soit leur caractère, les voies ferrées établies
-sur les quais d'un port maritime sont soumises, au point de vue de la police, aux dispositions spéciales édictées par les
-décrets en Conseil d'Etat prévus au 2° et au 3° de l'article L. 411-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 1978-03-22
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L411-2 (M)
-	  - Loi n°1913-07-31 art. 46
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ## Livre V : Régime du travail dans les ports maritimes.
