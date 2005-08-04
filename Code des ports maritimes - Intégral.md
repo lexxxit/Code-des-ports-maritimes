@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-08-05
 
 # Partie législative
 
@@ -6793,9 +6793,8 @@ L'instruction est effectuée à la diligence du directeur du port.
 
 ###### Article R*115-4
 
-I. Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 modifié,
-pris pour l'application des articles L. 122-1, L. 122-2 et L. 122-3 du code de l'environnement, lorsque le coût total des
-travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
+I. Le dossier d'instruction comporte l'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque le
+coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. 122-8 du même code.
 
 Il comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de
 l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux
@@ -6842,27 +6841,24 @@ invités. L'absence de réponse dans ce délai vaut avis favorable.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
+
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
 	  - Loi n°82-1153 1982-12-30 art. 14
 	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
 	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
 	  - Décret n°93-743 1993-03-29 annexe
 	  - Décret n°93-742 1993-03-29 art. 2
-	  - Code de l'environnement - art. L122-1 (M)
-	  - Code de l'environnement - art. L122-2 (M)
-	  - Code de l'environnement - art. L122-3 (M)
-	  - Code de l'environnement L122-1, L122-2, L122-3, L214-1 à L214-6
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
+	  - Code de l'environnement - art. R122-3 (V)
+	  - Code de l'environnement - art. R122-8 (M)
+	  - Code de l'environnement R122-3, R122-8, L214-1 à L214-6
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 
 ###### Article R*115-6
@@ -7789,9 +7785,8 @@ R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 ###### Article R*122-4
 
-I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 modifié
-pris pour l'application des articles L. 122-1 à L. 122-3 du code de l'environnement lorsque le coût total des travaux de
-construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
+I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article R. *122-3 du code de l'environnement lorsque le
+coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. *122-8 du même décret.
 
 Le dossier d'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
 pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
@@ -7800,8 +7795,8 @@ les travaux constituent un grand projet d'infrastructures tel que défini à l'a
 En outre, lorsqu'il y a lieu, le dossier :
 
 - mentionne la ou les rubriques de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des
-opérations soumises à autorisation ou à déclaration en application de l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur
-l'eau (1), dont relèvent les travaux ;
+opérations soumises à autorisation ou à déclaration en application des articles L. 214-1 à L. 214-6 du code de
+l'environnement, dont relèvent les travaux ;
 
 - comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation
 et de déclaration prévues par les articles L. 214-1 à L. 214-6 du code de l'environnement. Si l'étude d'impact fournit les
@@ -7829,38 +7824,34 @@ la pêche (CORECODE) ;
 
 8° Enquête publique s'il y a lieu.
 
-Dans le cas où les travaux envisagés sont soumis aux procédures prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992
-sur l'eau, l'instruction est menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993 susmentionné.
+Dans le cas où les travaux envisagés sont soumis aux procédures prévues les articles L. 214-1 à L. 214-6 du code de
+l'environnement, l'instruction est menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
+susmentionné.
 
 III. - Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°,
 2°, 3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
 invités. L'absence de réponse dans ce délai vaut avis favorable.
 
-**Nota:**
-
-NOTA : (1) L'article 10 de la loi n° 92-3 a été codifié aux articles L. 214-1 à L. 214-6 du code de l'environnement.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-488 1978-03-22
 
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
-	  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
 	  - Loi n°82-1153 1982-12-30 art. 14
 	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
 	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
 	  - Loi n°92-3 1992-01-03 art. 10
 	  - Décret n°93-743 1993-03-29 annexe
 	  - Décret n°93-742 1993-03-29 art. 2
-	  - Code de l'environnement L122-1 à L122-3, L214-1 à L214-6
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
+	  - Code de l'environnement - art. R122-3 (V)
+	  - Code de l'environnement R122-3, L214-1 à L214-6
 
 	**Modifié par**:
 
-	  - Décret n°2001-566 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
 
 
 ###### Article R*122-6
