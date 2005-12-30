@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -663,19 +663,28 @@ Les prévisions du compte d'exploitation doivent être présentées en équilibr
 existantes ne seraient pas suffisantes pour couvrir la totalité des charges d'exploitation, l'autorité compétente peut créer
 d'office les ressources nouvelles nécessaires.
 
-Après constitution des réserves et provisions, l'excédent net de chaque exercice est réservé à l'Etat dans la proportion de
-50 %.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 48 (V) JORF 31 décembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
 	  - Code des ports maritimes - art. L113-1 (VT)
 	  - Code des ports maritimes - art. R*113-15 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5313-10 (V)
 
 
 #### Chapitre VI : Dispositions diverses.
