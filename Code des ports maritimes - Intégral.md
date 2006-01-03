@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-04
 
 # Partie législative
 
@@ -7081,12 +7081,20 @@ l'instruction dans les conditions prévues par l'article R. *115-4.
 
 L'autorisation d'exploitation de terminal donne lieu à une convention passée entre le port autonome et le pétitionnaire.
 
-Cette convention est conforme à une convention type approuvée par décret en Conseil d'Etat. Elle fixe notamment les objectifs
-de trafic du terminal et les sanctions pouvant aller jusqu'à la résiliation sans indemnité de la convention, au cas où ces
-objectifs ne seraient pas atteints.
+Cette convention fixe notamment les objectifs de trafic du terminal et les sanctions, pouvant aller jusqu'à la résiliation
+sans indemnité de la convention, au cas où ces objectifs ne seraient pas atteints.
 
-La convention est soumise au conseil d'administration et approuvée par arrêté du ministre chargé des ports maritimes et du
-ministre chargé du budget.
+Elle est soumise au conseil d'administration.
+
+Lorsque la convention est conforme à une convention type approuvée par décret en Conseil d'Etat, elle est approuvée par
+décision du commissaire du Gouvernement et du membre du corps du contrôle général économique et financier. Cette approbation
+est réputée acquise à défaut d'opposition de l'un d'entre eux dans un délai de deux mois à compter de la date à laquelle ils
+l'ont reçue.
+
+Lorsque les conditions particulières d'exploitation d'un terminal le justifient, la convention peut déroger à la convention
+type, sauf en ce qui concerne les principes énoncés à l'article R. *115-7 et les stipulations relatives à la fixation
+d'objectifs. Dans ce cas, la convention est approuvée par arrêté des ministres chargés des ports maritimes, de l'économie et
+du budget.
 
 **Liens relatifs à cet article**
 
@@ -7096,11 +7104,19 @@ ministre chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+	  - Décret n°2005-1796 du 28 décembre 2005 - art. 1 () JORF 4 janvier 2006
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Décret n°2000-682 2000-07-19
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes R115-7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-86 (V)
 
 
 ##### Sous-section 5 : Dispositions communes relatives aux tarifs.
