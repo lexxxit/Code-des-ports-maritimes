@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2006-01-04
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -15,7 +15,9 @@ Les ports maritimes de commerce et de pêche sont classés selon les catégories
 
 - les ports maritimes relevant des collectivités territoriales et de leurs groupements ;
 
-- les ports maritimes de Saint-Pierre-et-Miquelon, relevant de l'Etat.
+- dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, les ports maritimes relevant de l'Etat ;
+
+- le port de Port-Cros, relevant, pour son aménagement, son entretien et sa gestion, du parc national de Port-Cros.
 
 **Liens relatifs à cet article**
 
@@ -30,13 +32,9 @@ Les ports maritimes de commerce et de pêche sont classés selon les catégories
 	  - Arrêté du 1er mai 2009 (Ab)
 	  - Arrêté du 27 juillet 2009 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-809 2004-08-13 art. 30 VI JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 36 () JORF 6 janvier 2006
 
 
 ### Titre Ier : Ports autonomes.
