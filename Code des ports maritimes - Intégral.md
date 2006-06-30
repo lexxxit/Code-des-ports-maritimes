@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -2090,7 +2090,7 @@ Le fait de s'introduire ou tenter de s'introduire sans autorisation dans une zon
 
 ### Titre III : Police de la grande voirie.
 
-#### Chapitre Ier : Repression des atteintes au domaine public portuaire.
+#### Chapitre Ier : Repression des atteintes au domaine public des ports maritimes.
 
 ###### Article L331-1
 
@@ -2104,11 +2104,11 @@ bonne utilisation du domaine public, tels que les occupations sans titre.
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -2119,6 +2119,14 @@ bonne utilisation du domaine public, tels que les occupations sans titre.
 	  - Code des ports maritimes - art. L331-3 (M)
 	  - Code rural - art. L241-15 (Ab)
 	  - Code rural - art. L242-26 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5337-1 (V)
 
 
 ###### Article L331-2
@@ -2150,7 +2158,15 @@ instance ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5337-2 (V)
 
 	**Cité par**:
 
@@ -2163,8 +2179,8 @@ instance ;
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L303-3 (V)
-	  - Code des ports maritimes - art. L303-4 (V)
+	  - Code des ports maritimes - art. L303-3
+	  - Code des ports maritimes - art. L303-4
 
 
 ###### Article L331-3
@@ -2181,14 +2197,22 @@ surveillants de port et auxiliaires de surveillance sont habilités à relever, 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5337-3 (V)
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L345-6 (V)
+	  - Code des ports maritimes - art. L345-6
 
 
-#### Chapitre II : Conservation du domaine public portuaire.
+#### Chapitre II : Conservation du domaine public des ports maritimes.
 
 ###### Article L332-1
 
@@ -2206,7 +2230,16 @@ contraventions de la cinquième classe.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5335-1 (V)
+	  - Code des transports - art. L5335-2 (V)
 
 	**Cité par**:
 
@@ -2225,11 +2258,15 @@ Le fait de jeter dans les eaux du port tous déchets, objets, terre, matériaux 
 
 	**Codifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Décret n°78-487 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
