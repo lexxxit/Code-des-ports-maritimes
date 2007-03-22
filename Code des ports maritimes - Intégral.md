@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2007-03-23
 
 # Partie législative
 
@@ -6542,31 +6542,34 @@ paragraphe, être procédé à un nouveau remploi de la part revenant à l'Etat.
 Les remises de biens au port autonome prévues par les articles R. *111-8 et R. *111-10 ne modifient pas le statut légal des
 terrains, ouvrages et matériels en ce qui concerne la police de leur conservation. Sous réserve des dispositions du présent
 article, les pouvoirs du directeur du port autonome, en matière domaniale, sont ceux dévolus par les règlements en vigueur
-aux directeurs des ports à caractère national.
+aux directeurs des ports à caractère national. 
 
 Le port autonome a le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de
-l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de
-l'article 3 de la loi n° 94-631 du 25 juillet 1994.
+l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 2122-1 à L. 2122-19 du code
+général de la propriété des personnes publiques. 
 
 Les conditions techniques et financières des autorisations d'occupation du domaine public sont arrêtées par le conseil
 d'administration.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°2007-397 du 22 mars 2007 - art. 2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-55 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-	  - Code du domaine de l'Etat - art. R57-4 (M)
-	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
-	  - Code des ports maritimes R111-8, R111-10
-
-	**Modifié par**:
-
-	  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
+	  - Code général de la propriété des personnes publiques. - art. L2122-1
+	  - Code des ports maritimes - art. R*111-8 (Ab)
+	  - Code des ports maritimes - art. R*122-1 (Ab)
 
 
 #### Chapitre IV : Contrôle.
@@ -7774,7 +7777,7 @@ Port-Réunion (Réunion).
 ###### Article R*122-1
 
 La prise en considération des avant-projets des travaux de construction, d'extension et de modernisation des ports non
-autonomes de commerce et de pêche de l'Etat et l'autorisation de ces travaux sont prononcées par décision du préfet.
+autonomes de commerce et de pêche de l'Etat et l'autorisation de ces travaux sont prononcées par décision du préfet. 
 
 Toutefois, les décisions mentionnées au premier alinéa sont prises par le ministre chargé des ports maritimes lorsqu'elles
 portent sur des travaux réalisés dans les ports principaux métropolitains, entraînant une modification substantielle dans les
@@ -7783,34 +7786,36 @@ sur un indice fixé par arrêté ministériel. Les ports principaux sont ceux fi
 ministre chargé des ports maritimes.
 
 L'autorisation vaut, s'il y a lieu, autorisation au titre des articles L. 214-1 à L. 214-6 du code de l'environnement ; dans
-ce cas, elle doit respecter les règles de fond prévues par cette loi (1) et fixer les prescriptions nécessaires à la
-protection des intérêts mentionnés à l'article L. 211-1 dudit code. L'autorisation peut donner lieu à des arrêtés
-complémentaires pris dans les formes prévues par les articles 14 et 15 du décret n° 93-742 du 29 mars 1993 relatif aux
-procédures d'autorisation et de déclaration prévues par l'article 10 de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+ce cas, elle doit respecter les règles de fond prévues par ce code et fixer les prescriptions nécessaires à la protection des
+intérêts mentionnés à l'article L. 211-1 dudit code.L'autorisation peut donner lieu à des arrêtés complémentaires pris dans
+les formes prévues par les articles R. 214-17 et R. 214-19 du code de l'environnement.
 
 **Nota:**
 
-Lire "ce code".
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Cite**:
-
-	  - Décret n°93-742 1993-03-29 art. 14, art. 15
-	  - Code de l'environnement - art. L211-1 (M)
-	  - Code de l'environnement L214-1 à L214-6, L211-1
-
 	**Modifié par**:
 
-	  - Décret n°99-782 du 9 septembre 1999 - art. 14 () JORF 11 septembre 1999
+	  - Décret n°2007-397 du 22 mars 2007 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. R5753-3 (V)
+	  - Code des ports maritimes - art. R*113-25 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L211-1
+	  - Code de l'environnement - art. L214-1
+	  - Code de l'environnement - art. L214-17
 
 
 ###### Article R*122-2
@@ -7845,58 +7850,51 @@ R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 ###### Article R*122-4
 
-I. - Le dossier d'instruction comporte l'étude d'impact définie à l'article R. *122-3 du code de l'environnement lorsque le
-coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. *122-8 du même décret.
+I.-Le dossier d'instruction comporte l'étude d'impact définie à l'article R. *122-3 du code de l'environnement lorsque le
+coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. *122-8 du même décret. 
 
 Le dossier d'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
 pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
-les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret. 
 
 En outre, lorsqu'il y a lieu, le dossier :
 
-- mentionne la ou les rubriques de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 relatif à la nomenclature des
-opérations soumises à autorisation ou à déclaration en application des articles L. 214-1 à L. 214-6 du code de
-l'environnement, dont relèvent les travaux ;
+- mentionne la ou les rubriques de la nomenclature annexée à l'article R. 214-1 du code de l'environnement, dont relèvent les
+travaux ;
 
-- comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation
-et de déclaration prévues par les articles L. 214-1 à L. 214-6 du code de l'environnement. Si l'étude d'impact fournit les
-informations requises, elle tient lieu de ce document.
+- comporte le document prévu aux articles R. 214-6 et R. 214-32 du code de l'environnement. Si l'étude d'impact fournit les
+informations requises, elle tient lieu de ce document. 
 
-II. - L'instruction, menée par le directeur du port, comprend les formalités ci-après qui sont effectuées simultanément :
+II.-L'instruction, menée par le directeur du port, comprend les formalités ci-après qui sont effectuées simultanément : 
 
-1° Consultation du conseil portuaire ;
+1° Consultation du conseil portuaire ; 
 
-2° Consultation des collectivités et des services locaux intéressés ;
+2° Consultation des collectivités et des services locaux intéressés ; 
 
-3° Consultation du concessionnaire, lorsqu'il n'est pas maître d'ouvrage ;
+3° Consultation du concessionnaire, lorsqu'il n'est pas maître d'ouvrage ; 
 
-4° Consultation de la chambre de commerce et d'industrie compétente, lorsqu'elle n'est pas le concessionnaire ;
+4° Consultation de la chambre de commerce et d'industrie compétente, lorsqu'elle n'est pas le concessionnaire ; 
 
 5° Consultation, s'il y a lieu, de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté
 conjoint du ministre chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine
 marchande. La grande commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs
-du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ;
+du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ; 
 
 6° Consultation le cas échéant de la commission régionale pour l'amélioration des conditions de débarquement des produits de
-la pêche (CORECODE) ;
+la pêche (CORECODE) ; 
 
-7° Instruction mixte, conformément à la réglementation en vigueur ;
+7° Instruction mixte, conformément à la réglementation en vigueur ; 
 
-8° Enquête publique s'il y a lieu.
+8° Enquête publique s'il y a lieu. 
 
 Dans le cas où les travaux envisagés sont soumis aux procédures prévues les articles L. 214-1 à L. 214-6 du code de
-l'environnement, l'instruction est menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
-susmentionné.
+l'environnement, l'instruction est menée simultanément avec celle prévue par les articles R. 214-6 à R. 214-56 dudit code. 
 
-III. - Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°,
-2°, 3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
-invités. L'absence de réponse dans ce délai vaut avis favorable.
+III.-Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°, 2°,
+3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités.L'absence de réponse dans ce délai vaut avis favorable.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
 
 	**Cite**:
 
@@ -7904,14 +7902,14 @@ invités. L'absence de réponse dans ce délai vaut avis favorable.
 	  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
 	  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
 	  - Loi n°92-3 1992-01-03 art. 10
-	  - Décret n°93-743 1993-03-29 annexe
-	  - Décret n°93-742 1993-03-29 art. 2
+	  - Code de l'environnement - art. L214-1 (V)
 	  - Code de l'environnement - art. R122-3 (V)
-	  - Code de l'environnement R122-3, L214-1 à L214-6
+	  - Code de l'environnement - art. R214-1 (V)
+	  - Code de l'environnement - art. R214-6 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+	  - Décret n°2007-397 du 22 mars 2007 - art. 2 (V)
 
 
 ###### Article R*122-6
@@ -8067,24 +8065,29 @@ commission nautique s'il y a lieu.
 
 Les concessionnaires d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat ont le pouvoir de
 délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres d'occupation du
-domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 du même code et de l'article 3 de la loi n° 94-631 du
-25 juillet 1994.
+domaine public de l'Etat en application des articles L. 2122-1 à L. 2122-19 du code général de la propriété des personnes
+publiques.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°2007-397 du 22 mars 2007 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-	  - Code du domaine de l'Etat - art. R57-4 (M)
-	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
-
-	**Modifié par**:
-
-	  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+	  - Code du domaine de l'Etat - art. R57-4
+	  - Code général de la propriété des personnes publiques. - art. L2122-1
 
 
 ##### Sous-section 2 : Outillages privés.
@@ -8382,24 +8385,27 @@ l'Etat, et par les articles R. 115-9 à R. 115-11, lorsque l'autorité concédan
 
 Les concessionnaires d'installations portuaires de plaisance situées dans des ports relevant de la compétence de l'Etat ont
 le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres
-d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi
-n° 94-631 du 25 juillet 1994.
+d'occupation du domaine public de l'Etat en application des articles L. 2122-1 à L. 2122-19 du code général de la propriété
+des personnes publiques.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°2007-397 du 22 mars 2007 - art. 2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-90 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
-	  - Code du domaine de l'Etat - art. R57-4 (M)
-	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
-
-	**Créé par**:
-
-	  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
+	  - Code du domaine de l'Etat - art. R57-4
+	  - Code général de la propriété des personnes publiques. - art. L2122-1
 
 
 #### Chapitre III : Autorisations d'outillages privés avec obligation de service public.
