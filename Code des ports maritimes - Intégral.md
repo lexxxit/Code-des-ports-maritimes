@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2007-12-23
+Version Consolidée au 2007-12-31
 
 # Partie législative
 
@@ -920,30 +920,6 @@ auxquelles s'appliquent ses dispositions.
 	  - Code des transports - art. L1613-2 (VD)
 	  - Code des transports - art. L1614-1 (VD)
 	  - Code des transports - art. L5311-2 (V)
-
-
-### Titre VI : Dispositions particulières aux ports des départements d'outre-mer
-
-#### Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer.
-
-###### Article L161-1
-
-Des décrets en Conseil d'Etat adaptent, en tant que de besoin, les conditions et les modalités d'application du titre Ier
-dans les départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-487 du 22 mars 1978
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R*161-1 (Ab)
 
 
 ## Livre II : Droits de port et de navigation.
@@ -14892,1070 +14868,308 @@ lutte contre les sinistres.
 	  - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
-## Livre IV : Voies ferrées des quais
-
-### Titre Ier : Dispositions générales.
-
-###### Article R*411-4
-
-Le cahier des charges de la Société nationale des chemins de fer français pour l'ensemble des voies ferrées des quais des
-ports maritimes et de navigation intérieure entre en application, pour les voies ferrées des quais d'un port déterminé, à la
-date fixée pour ce port par l'arrêté interministériel visé à l'article R. 411-5.
-
-A cette date cessent d'être applicables, pout tout ce qui serait contraire à ce cahier des charges, les dispositions de
-concessions ou conventions antérieures ayant le même objet.
-
-Toutefois, et à moins qu'il n'en soit autrement décidé de façon expresse par arrêté, la mise en vigueur du nouveau cahier des
-charges ne comporte pas l'obligation de rendre les installations existantes conformes aux stipulations de ce cahier des
-charges.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Cité par**:
-
-	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes 42
-
-	**Cite**:
-
-	  - Code des ports maritimes R411-5
-
-
-###### Article R*411-5
-
-Pour chaque port, un arrêté conjoint du ministre chargé des ports maritimes et du ministre chargé des transports fixe, la
-Société nationale des chemins de fer français entendue :
-
-1. Les voies auxquelles s'applique le cahier des charges visé à l'article R. 411-4 avec l'indication de la limite, définie
-par décret, entre ces voies et les voies ferrées aboutissant au port, ainsi que la nature du service (marchandises,
-marchandises et voyageurs ou voyageurs) ;
-
-2. le délai d'achèvement des travaux quand il s'agit de voies à construire ;
-
-3. S'il y a lieu, les conditions particulières à chaque port et non contraires au cahier des charges de la Société nationale
-des chemins de fer français qui, figurant dans les contrats antérieurs, seraient maintenues en vigueur, telles que
-l'exécution des contrats en cours avec les tiers, notamment pour amortissement de dépenses ;
-
-4. Des dispositions diverses éventuelles spéciales au port intéressé.
-
-Cet arrêté prononce, s'il y a lieu, l'incorporation de voies existantes ou nouvelles au réseau des voies de quai du port.
-
-Toute modification des dispositions de cet arrêté est prise dans les formes prévues ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Cité par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 2 (V)
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes 43
-
-	**Cite**:
-
-	  - Code des ports maritimes R411-4
-
+## Livre IV : Voies ferrées portuaires.
 
 ###### Article R411-1
 
-Dans tout port maritime, la limite entre les voies de quai soumises aux dispositions du présent livre, d'une part, et les
-voies ferrées aboutissant au port, d'autre part, est fixée par une décision conjointe du ministre chargé des ports maritimes
-et du ministre chargé des transports, après consultation du concessionnaire, du fermier ou de l'exploitant et avis du conseil
-d'administration du port, s'il s'agit d'un port autonome, ou du conseil portuaire du port, s'il s'agit d'un port non
-autonome.
+L'autorité portuaire assure la gestion de la circulation ferroviaire sur les voies ferrées portuaires. 
+
+Elle assure à ce titre l'égal accès aux voies ferrées portuaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
+	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cité par**:
 
 	  - Code des transports - art. D4321-1 (M)
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5351-1 (M)
+
 
 ###### Article R411-2
 
-Dans les ports où les voies ferrées des quais ne sont pas concédées, les attributions conférées à l'autorité concédante par
-le présent livre sont exercées par le ministre chargé des transports.
+L'autorité portuaire détermine parmi les voies ferrées relevant de sa compétence celles d'entre elles ayant le caractère de
+voies ferrées portuaires et, sous réserve qu'elles ne soient pas indispensables à la circulation publique, celles ayant le
+caractère d'installations terminales embranchées au sens de l'article L. 411-2. 
 
-Dans les ports où ces voies sont concédées par un département, un syndicat de communes ou une commune, à titre d'annexes de
-lignes d'intérêt local, les attributions conférées au ministre chargé des transports par les articles R. 421-6 (2e alinéa),
-R. 421-7 (2e alinéa) et R. 461-1 sont exercées par le préfet statuant sur le rapport du service du contrôle si elles ne sont
-pas réservées au ministre ou à une autre autorité, par des lois ou règlements spéciaux.
+La conception, la réalisation, la maintenance et l'utilisation des installations terminales embranchées sont soumises aux
+dispositions du décret n° 92-352 du 1er avril 1992 pris pour l'application des articles L. 4643-2, L. 4643-3 et R. 4228-37 du
+code du travail et relatif aux mesures à prendre pour assurer la sécurité des travailleurs dans les établissements où il est
+fait usage de voies ferrées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
 	**Cite**:
 
-	  - Code des ports maritimes - art. R421-6 (V)
-	  - Code des ports maritimes - art. R421-7 (V)
-	  - Code des ports maritimes - art. R461-1 (V)
+	  - Décret n°92-352 du 1 avril 1992
+	  - Code du travail - art. L4643-2
+	  - Code du travail - art. L4643-3
+	  - Code du travail - art. R4228-37
+	  - Code des ports maritimes - art. L411-2
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°1935-03-04 art. 2
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5351-2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R411-3
 
-Les arrêtés réglementaires pris par les préfets en application du présent livre ne sont exécutoires qu'après approbation du
-ministre chargé des ports maritimes et du ministre chargé des transports.
+L'établissement, la modification ou la suppression d'un raccordement entre le réseau ferré national et les voies ferrées
+portuaires est financé par l'établissement public " Réseau ferré de France " dans les conditions fixées par l'article 4 du
+décret n° 97-444 du 5 mai 1997 relatif aux missions et aux statuts de Réseau ferré de France.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°1935-03-04 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-
-### Titre II : Etablissement, entretien et exploitation de la voie ferrée.
-
-###### Article R**421-2
-
-Dans tous les cas, les instructions ouvertes au sujet des voies ferrées des quais ont lieu dans les formes des instructions
-relatives à l'exécution des travaux des ports qu'elles desservent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°97-444 du 5 mai 1997 - art. 4
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5351-3 (M)
 
 
-###### Article R**421-4
+###### Article R411-4
 
-Sur les sections à rails noyés où l'emplacement de la voie ferrée est accessible aux véhicules routiers, l'entretien du
-pavage ou de l'empierrement de la surface affectée à la circulation sur la voie ferrée est réglé pour chaque concession par
-le cahier des charges qui indique le service chargé d'exécuter cet entretien, ainsi que la répartition des dépenses. Sur
-celles des voies publiques empruntées par la voie ferrée qui ne relèvent pas de l'autorité concédante, l'entretien est assuré
-par le concessionnaire dans l'entre-rail ainsi que dans une zone de 50 cm de chaque côté des rails, à moins qu'il n'en ait
-été décidé autrement par le cahier des charges, après accord avec l'autorité de qui relèvent ces voies publiques.
+La convention de raccordement conclue entre Réseau ferré de France et l'autorité portuaire en application de l'article L.
+411-3 est approuvée par le ministre chargé des transports. Elle définit les obligations et responsabilités de chacune des
+parties sur leurs infrastructures respectives. 
 
-Sur les sections où l'emplacement de la voie ferrée n'est pas accessible aux véhicules routiers, l'entretien, qui est à la
-charge du concessionnaire, comprend la surface entière occupée par les voies, augmentée, s'il y a lieu, d'une zone déterminée
-par le cahier des charges.
+Elle porte notamment sur :
+
+- la description des voies et installations assurant l'interface entre les deux réseaux ;
+
+- les modalités de gestion des capacités d'infrastructures sur ces voies et installations ;
+
+- les modalités de gestion des circulations ferroviaires d'un réseau à l'autre ;
+
+- les prestations d'entretien ou d'exploitation réalisées par une partie pour le compte de l'autre ;
+
+- les conditions financières de mise en oeuvre de ses stipulations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**421-5
-
-Pour des raisons de sécurité publique, le ministre chargé des transports peut, sur la proposition du ministre chargé des
-ports maritimes, imposer au concessionnaire, fermier ou exploitant, après l'avoir entendu, de placer des clôtures le long de
-tout ou partie des voies de quai.
-
-Le ministre peut, également, dans les mêmes conditions, prescrire la pose de barrières ou de tout autre dispositif de
-sécurité au croisement des voies publiques.
-
-Il fixe, l'intéressé entendu, les conditions d'éclairage des voies ferrées et de leurs annexes et les conditions de
-gardiennage et d'exploitation des passages à niveau.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**421-6
-
-Les voies ferrées des quais et les ouvrages qui en dépendent sont constamment entretenus en bon état.
-
-Dans le cas où les mesures prises par le concessionnaire, fermier ou exploitant sont insuffisantes pour assurer le bon
-entretien des voies ferrées, la sûreté de la circulation et la sécurité publique, le ministre chargé des transports prescrit
-celles qu'il juge nécessaires, sur la proposition du ministre chargé des ports maritimes, après avoir entendu l'intéressé.
-Faute d'exécution de la part de ce dernier dans les délais fixés, il y est pourvu d'office à la diligence du préfet et aux
-frais de l'intéressé. Le montant des avances faites est recouvré au moyen d'ordres de recettes rendus exécutoires par le
-préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 	**Cité par**:
 
-	  - Code des ports maritimes - art. R411-2 (V)
-
-
-###### Article R**421-7
-
-Il est placé, partout, où il en est besoin, des agents en nombre suffisant pour assurer la surveillance et la manoeuvre des
-signaux, aiguilles et autres appareils de voie.
-
-Le nombre de ces agents peut être fixé, l'intéressé entendu, par le ministre chargé des transports, sur la proposition du
-ministre chargé des ports maritimes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R411-2 (V)
-
-
-###### Article R**421-8
-
-Le concessionnaire, fermier ou exploitant n'est admis à réclamer aucune indemnité :
-
-- en raison des dommages que le roulage ordinaire pourrait occasionner aux ouvrages de la voie ferrée ;
-
-- en raison de l'état des terre-pleins ou de la chaussée et des conséquences qui pourraient en résulter pour l'état et pour
-l'entretien de la voie ;
-
-- enfin, pour une cause quelconque résultant de l'usage normal et des nécessités de l'entretien et de l'aménagement des
-quais, des terre-pleins et de la voie publique.
-
-Les indemnités dues à des tiers, pour les dommages qui résulteraient de la construction ou de l'exploitation de la voie
-ferrée, sont, sauf dispositions contraires des actes de concession, entièrement à la charge du concessionnaire, fermier ou
-exploitant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 11
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**421-9
-
-Lorsque les travaux exécutés sur un quai, un terre-plein ou une voie publique empruntée par une voie ferrée du port doivent
-interrompre momentanément la circulation sur celle-ci, l'autorité chargée de l'administration du port ou de la voie empruntée
-doit en aviser préalablement l'autorité concédante, ainsi que le concessionnaire, fermier ou exploitant.
-
-L'autorité concédante peut mettre le concessionnaire, fermier ou exploitant en demeure de maintenir provisoirement les
-communications ferroviaires et de déplacer momentanément les voies après accomplissement des formalités réglementaires.
-Lorsque l'autorité concédante est un syndicat de communes ou une commune, cette mise en demeure peut être adressée par le
-préfet si l'autorité concédante n'intervient pas.
-
-Les frais de déplacement et de rétablissement des voies sont, à moins de convention contraire, remboursés au concessionnaire,
-fermier ou exploitant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 12
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**421-10
-
-Le ministre chargé des transports peut, en accord avec le ministre chargé des ports maritimes, après instruction et avis de
-l'autorité concédante, prononcer, s'il y a lieu, soit de sa propre initiative, soit sur la demande du concessionnaire,
-fermier ou exploitant, la modification définitive ou la suppression d'une partie des voies ferrées des quais ou de leurs
-dépendances. Si la modification ou la suppression a été ordonnée par le ministre, de sa propre initiative, le
-concessionnaire, fermier ou exploitant a droit au remboursement des frais de suppression ou de modification, ainsi qu'à une
-indemnité, s'il y a préjudice. A moins de convention contraire, ces frais et indemnités sont déterminés dans les formes
-prévues par l'article 38 de la loi du 31 juillet 1913 modifiée.
-
-Ne peuvent toutefois donner lieu à aucune indemnité, la modification définitive ou la suppression des voies ferrées,
-lorsqu'elles sont exécutées aux frais du service chargé de l'administration du port ou de la voie publique, comme conséquence
-nécessaire de travaux à exécuter pour l'amélioration du port ou de la voie publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
 
 	**Modifié par**:
 
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Loi n°1913-07-31 art. 38
+	  - Code des ports maritimes - art. L411-3
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5352-1 (M)
 
 
-###### Article R*421-1
+###### Article R411-5
 
-En ce qui concerne les voies ferrées des quais et les gares maritimes, le directeur du port, s'il s'agit d'un port autonome,
-ou le chef du service maritime, s'il s'agit d'un port non autonome, exerce, jusqu'au point de raccordement avec le réseau
-général, le contrôle de l'exploitation technique et celui de la voie et des bâtiments, dans les conditions déterminées par un
-arrêté conjoint du ministre chargé des ports maritimes et du ministre chargé des transports.
+L'autorité portuaire établit et publie, après consultation des entreprises ferroviaires utilisant le réseau des voies ferrées
+portuaires relevant de sa compétence et des usagers du transport du fret sur ce réseau, un document de référence de ce réseau
+exposant les caractéristiques de celui-ci et précisant les conditions permettant d'y accéder. 
 
-**Liens relatifs à cet article**
+Le document de référence précise, en cas d'application de l'article L. 411-5, les principes de tarification et les tarifs des
+redevances d'utilisation. Il fixe les modalités de répartition des capacités et les procédures d'attribution de celles-ci. 
 
-	**Codifié par**:
+Ce document est tenu à jour et modifié en tant que de besoin, un délai minimal de quatre mois devant séparer la publication
+de toute modification de la date limite fixée pour la présentation de demandes de capacités d'infrastructure.
 
-	  - Décret n°78-488 1978-03-22
+**Nota:**
 
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R*421-3
-
-L'autorité concédante détermine, d'accord avec l'autorité chargée de l'administration du port, les sections où la voie ferrée
-doit être établie au niveau des terre-pleins ou de la chaussée, avec rails noyés, en restant praticable pour les véhicules
-routiers.
-
-Sur ces sections, les rails doivent être à gorge ou accompagnés de contre-rails.
-
-La largeur des vides ou ornières des contre-rails ne peut excéder, pour des voies à écartement normal, 50 mm dans les parties
-droites et 60 mm dans les parties en courbe.
-
-La largeur des ornières des rails à gorge ne peut excéder, pour des voies à écartement normal, 50 mm dans les parties
-droites, 60 mm dans les parties en courbe de rayon égal ou supérieur à 200 mètres, 70 mm dans les parties en courbe de rayon
-inférieur à 200 mètres. Toutefois, il est toléré un supplément de largeur de 4 mm du fait de l'usure des ornières.
-
-Pour les voies étroites, la largeur des vides ou ornières des contre-rails et rails à gorge ne peut excéder 35 mm dans les
-parties droites et 41 mm dans les parties en courbe.
-
-Les voies ferrées établies au moyen de rails à gorge ou munies de contre-rails sont posées au niveau de la chaussée ou du
-terre-plein sans saillie ni dépression sur le profil normal de ceux-ci.
-
-Toutefois, l'autorité concédante, d'accord avec celle de qui relève le quai ou la voie empruntée, peut, quand les nécessités
-de la circulation n'y font pas obstacle, dispenser le concessionnaire, à titre révocable, de poser des rails à gorge ou des
-contre-rails sur tout ou partie des quais ou des voies publiques dont le sol est emprunté par la voie ferrée.
+Décret n°2007-1867 du 26 décembre 2007 art. 2 : L'article R411-5 entre en vigueur, pour chaque port, à la fin de la mission
+de gestion des voies ferrées portuaires exercée par la SNCF en application de l'article 6 de l'ordonnance du 2 août 2005
+susvisée et au plus tard le 31 décembre 2008. Les règles antérieures portant sur la sécurité de l'exploitation et des
+circulations ferroviaires restent applicables jusqu'à l'entrée en vigueur de l'article R411-6.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-### Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains.
-
-###### Article R**431-1
-
-Des arrêtés préfectoraux, pris après avis du service du contrôle, le concessionnaire, fermier ou exploitant entendu,
-réglementent, s'il y a lieu, les conditions à remplir par le matériel ainsi que la composition des trains appelés à circuler
-sur les voies ferrées du port.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**431-2
-
-Le concessionnaire, fermier ou exploitant, n'est autorisé à effectuer la conduite des wagons, ainsi que les manoeuvres à
-faire pour répartir le matériel vide ou chargé à l'arrivée, ou pour la formation des trains au départ, qu'aux heures et
-suivant les conditions qui résultent des mesures prescrites, l'intéressé entendu, soit par le préfet, soit par le directeur
-du port, pour réglementer ces manoeuvres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**431-3
-
-Le stationnement des wagons sur les voies de port ne peut avoir lieu que conformément aux prescriptions des arrêtés
-préfectoraux qui sont pris, le concessionnaire, fermier ou exploitant entendu, pour réglementer ce stationnement.
-
-Cette réglementation comporte, en particulier, la signalisation de nuit et en temps de brouillard, sur les points où le
-préfet le juge nécessaire, des wagons ou rames stationnant sur une plateforme accessible à la circulation générale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**431-4
-
-Le préfet peut, sur l'avis du service du contrôle et le concessionnaire, fermier ou exploitant entendu, déterminer certains
-points où les trains pourront prendre ou laisser des marchandises ou des voyageurs qui ne soient pas en provenance ou à
-destination de la voie d'eau.
-
-Les wagons ne peuvent être amenés sur les voies des quais que pour le chargement et le déchargement des marchandises en
-provenance ou à destination des navires et bateaux alors même qu'elles auraient séjourné dans des magasins riverains. Dans le
-cas où des dérogations à cette règle ont été autorisées en raison des circonstances locales par des arrêtés préfectoraux, la
-priorité de l'usage des voies ferrées des quais est réservée aux voitures ou wagons transportant des voyageurs ou des
-marchandises en provenance ou à destination des navires et bateaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 17
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**431-5
-
-Sous réserve des droits qui appartiennent au maire en vertu de l'article L. 2212-1 du code général des collectivités
-territoriales, le préfet détermine les mesures à prendre pour la circulation des trains et les manoeuvres sur les parties des
-voies qui offriraient un danger particulier, notamment à la traversée des voies publiques.
-
-Il détermine également, sur l'avis du service du contrôle et le concessionnaire, fermier ou exploitant entendu, la vitesse
-maximale des trains et des manoeuvres sur les diverses parties du port et les précautions nécessaires à la sécurité publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 18
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**431-6
-
-Aucune personne étrangère au service des manoeuvres ne peut monter sur les machines, à moins d'une permission spéciale et
-écrite de l'exploitant ou de son délégué.
-
-Sont exceptés de cette interdiction, les fonctionnaires et agents des ponts et chaussées et des mines chargés du contrôle
-ainsi que les officiers de port.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-### Titre IV : Perception des taxes et des frais accessoires.
-
-###### Article R**441-1
-
-Pour les voies ferrées des quais non soumises au cahier des charges de la S.N.C.F., aucune taxe relative à l'exploitation des
-voies ferrées des quais ne peut être perçue qu'en vertu d'une autorisation du ministre chargé des transports ou du préfet
-dans les conditions ci-après.
-
-Cette autorisation est donnée par le ministre chargé des transports pour les voies ferrées non concédées et pour les voies
-ferrées concédées par l'Etat, dans les conditions fixées par le décret du 30 décembre 1933.
-
-Pour les voies concédées par un département, un syndicat de communes ou une commune, les taxes sont homologuées dans les
-conditions fixées par l'article 31 de la loi du 31 juillet 1913, modifiée par le décret-loi du 1er octobre 1926.
-
-Les frais accessoires, tels que ceux d'enregistrement, de chargement, de déchargement et de magasinage dans les gares et
-magasins, ainsi que toutes les taxes qui doivent être réglées annuellement, sont soumis dans le dixième mois de chaque année
-à l'approbation soit du ministre chargé des transports, soit du préfet suivant les distinctions établies ci-dessus pour les
-tarifs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1933-12-30
-	  - Décret-loi 1926-10-01
-	  - Loi n°1913-07-31 art. 31
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 20
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**441-2
-
-Les tableaux des taxes et des frais accessoires approuvés sont tenus à la disposition du public dans les bureaux du service
-du port et dans ceux de l'exploitant. Ils y sont affichés en permanence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 21
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**441-3
-
-L'exploitant doit effectuer avec soin, exactitude et célérité, et sans tour de faveur, tous les transports qui lui sont
-confiés en conformité de son cahier des charges.
-
-Les colis, animaux ou objets quelconques confiés au chemin de fer sont enregistrés au fur et à mesure de leur remise dans les
-locaux affectés à cet usage.
-
-Un récépissé énonçant la nature et le poids des marchandises, le prix total du transport et le délai dans lequel ce transport
-doit être effectué doit être délivré à l'expéditeur, s'il le demande, sans préjudice, s'il y a lieu, de la lettre de voiture.
-
-Les registres tenus en vertu du présent article sont présentés à toute réquisition des fonctionnaires et agents chargés de
-veiller à l'exécution du présent règlement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 22
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-### Titre V : Police et surveillance.
-
-###### Article R**451-1
-
-Les mesures de police destinées à assurer le bon ordre sur les voies ferrées des quais accessibles au public sont réglées par
-des arrêtés du préfet.
-
-Cette disposition s'applique notamment au stationnement et à la circulation des voitures publiques ou particulières,
-destinées soit au transport des personnes, soit au transport des marchandises sur les quais, les terre-pleins et celles de
-leurs dépendances occupées par les voies ferrées du port.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**451-2
-
-Les voies ferrées des quais sont soumises, quel que soit leur régime, à la surveillance d'un service spécial de contrôle. Un
-arrêté du ministre chargé des transports, sur la proposition du ministre chargé des ports maritimes, désigne les agents
-chargés de ce service spécial de contrôle et règle les conditions relatives aux frais de ce service.
-
-Toutefois, pour les voies ferrées des quais qui ne sont pas concédées et pour celles qui sont raccordées à un réseau
-d'intérêt général ou local desservant le port et concédées au même concessionnaire, les attributions de ce service spécial
-sont limitées au contrôle de la construction et de l'entretien des voies du port et de leur exploitation technique.
-L'organisation des services des catégories de contrôle comprenant le matériel et la traction (sauf le matériel spécialisé aux
-voies du port), l'exploitation commerciale, le travail des agents, le contrôle financier, est réglé par les dispositions
-réglementaires en vigueur concernant la surveillance et le contrôle exercés par l'Etat sur les chemins de fer d'intérêt
-général et les voies ferrées d'intérêt local.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 24
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 	**Cité par**:
 
-	  - Code des ports maritimes - art. R451-4 (V)
-
-
-###### Article R**451-3
-
-Le concessionnaire, fermier ou exploitant, est tenu de présenter, à toute réquisition, aux directeurs des services de
-contrôle ou à leurs délégués, les documents nécessaires à l'exercice de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 25
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°2007-1867 du 26 décembre 2007 - art. 2 (V)
 
 	**Abrogé par**:
 
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L411-5
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5352-2 (M)
+
+
+###### Article R411-6
+
+L'autorité portuaire établit, après consultation de l'autorité investie du pouvoir de police portuaire, un règlement de
+sécurité de l'exploitation des voies ferrées portuaires qui précise les mesures d'exploitation applicables. Ce règlement est
+soumis à l'approbation de l'Etablissement public de sécurité ferroviaire ; cette approbation est valable pour une durée
+maximale de cinq ans. 
+
+L'autorité portuaire fournit les consignes d'exploitation et les prescriptions techniques applicables sur ces voies à toute
+entreprise souhaitant les utiliser. 
+
+Un arrêté du ministre chargé des transports précise en tant que de besoin les modalités d'application du présent article.
+
+**Nota:**
+
+Décret n°2007-1867 du 26 décembre 2007 art. 2 : L'article R411-6 entre en vigueur, pour chaque port, à la fin de la mission
+de gestion des voies ferrées portuaires exercée par la SNCF en application de l'article 6 de l'ordonnance du 2 août 2005
+susvisée et au plus tard le 31 décembre 2008. Les règles antérieures portant sur la sécurité de l'exploitation et des
+circulations ferroviaires restent applicables jusqu'à l'entrée en vigueur de l'article R411-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
 	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
+	**Nouveaux textes**:
 
-###### Article R**451-4
+	  - Code des transports - art. R5352-3 (V)
 
-En cas d'accident sur des voies de quais, il en est fait immédiatement déclaration par l'exploitant ou par ses agents au
-service du contrôle des voies des quais prévu par le paragraphe 1er de l'article R. 451-2.
+	**Abrogé par**:
 
-Lorsque l'accident présente une certaine gravité, l'exploitant avise en outre, par la voie la plus rapide, le ministre chargé
-des transports, le ministre chargé des ports maritimes, le chef du service central du contrôle des voies ferrées des quais et
-le préfet.
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
-Lorsqu'il se produit un fait de nature à donner ouverture à l'action publique, et, en tout cas, s'il y a mort ou blessure,
-cet avis doit être également transmis au procureur de la République.
+
+###### Article R411-7
+
+L'octroi et l'utilisation de capacités d'infrastructure sur les voies ferrées portuaires peuvent donner lieu au paiement de
+redevances à l'autorité portuaire dans le respect des principes définis par les articles 7,8 et 9 de la directive 2001 / 14 /
+CE du Parlement européen et du Conseil du 26 février 2001 concernant la répartition des capacités d'infrastructure
+ferroviaire et la tarification de l'infrastructure ferroviaire, et dans les conditions fixées par arrêté du ministre chargé
+des transports. 
+
+L'autorité portuaire établit et perçoit les redevances, dont elle doit être en mesure de justifier le montant et dont elle
+utilise le produit pour le financement de ses activités de gestionnaire d'infrastructure ferroviaire. 
+
+Elle respecte la confidentialité des informations commerciales qui lui sont communiquées pour l'application de ces
+dispositions.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. R451-2 (V)
+	  - Directive Européenne n°2001-14 du 26 février 2001, v. init.
 
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 26
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-###### Article R**451-5
+###### Article R411-8
 
-Il est défendu à toute personne :
+L'obtention de l'agrément prévu au deuxième alinéa de l'article L. 411-6 est subordonnée à des conditions d'honorabilité, de
+capacité financière et de couverture des risques, ainsi qu'à des conditions relatives à la sécurité des circulations portant
+sur l'engagement de respecter les consignes d'exploitation et les prescriptions techniques applicables sur ces voies et de
+mettre en oeuvre une organisation et d'affecter à l'exploitation des personnels et des matériels permettant une exploitation
+sûre des services envisagés. 
 
-1° De modifier ou de déplacer sans autorisation et de dégrader ou déranger, pour quelque cause que ce soit, la voie ferrée,
-les talus, clôtures, barrières, bâtiments ou ouvrages d'art, les installations de production, de transport et de distribution
-d'énergie ainsi que les appareils et le matériel de toute nature servant à l'exploitation ;
+Lorsque l'autorité portuaire n'est pas le demandeur, elle transmet le dossier de demande d'agrément avec son avis à
+l'Etablissement public de sécurité ferroviaire dans un délai de quatre mois suivant la réception de la demande. L'agrément
+est accordé sur avis conforme de l'Etablissement public de sécurité ferroviaire au vu de l'engagement pris en la matière par
+le demandeur. L'avis est réputé conforme en l'absence de réponse dans les deux mois suivant la réception du dossier par
+l'Etablissement public de sécurité ferroviaire. 
 
-2° De rien jeter ou déposer sur les lignes de transport ou de distribution d'énergie ;
+L'agrément vaut certificat de sécurité pour les services empruntant les voies de service et d'embranchement du réseau ferré
+national en continuité de ces voies ferrées portuaires dans les conditions prévues au titre III du décret n° 2006-1279 du 19
+octobre 2006 relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire. 
 
-3° D'empêcher le fonctionnement des signaux ou appareils quelconques et de manoeuvrer sans en avoir mission ceux qui ne sont
-pas à la disposition du public ;
+Un arrêté du ministre chargé des transports précise en tant que de besoin les modalités d'application du présent article.
 
-4° De troubler ou entraver, par les signaux faits en dehors du service ou de toute autre façon, la mise en marche ou la
-circulation des trains, machines ou wagons ;
+**Nota:**
 
-5° De pénétrer, circuler ou stationner, sans autorisation régulière, dans les parties de l'enceinte ou des dépendances de la
-voie ferrée, notamment des gares maritimes, qui ne sont pas affectées à la circulation publique, d'y introduire ou laisser
-introduire aucun animal dont on est responsable, d'y faire circuler ou stationner aucun véhicule étranger au service, d'y
-jeter ou déposer aucun matériau ou objet quelconque ;
-
-6° De laisser séjourner sur les voies ferrées établies sur des emplacements affectés à la circulation publique des véhicules
-ou des animaux non gardés, d'y faire circuler des véhicules étrangers au service, d'y jeter ou déposer aucun matériau ou
-objet quelconque, enfin, d'y effectuer des dépôts de quelque nature qu'ils soient, susceptibles d'entraver la circulation des
-trains, machines ou wagons.
-
-A cet effet, une zone libre de 1,50 mètre de largeur devra être réservée entre tout dépôt et le bord intérieur du rail ;
-toutefois, cette largeur pourra être modifiée par les règlements du port.
-
-Par dérogation aux dispositions qui précèdent, les véhicules en chargement ou en déchargement peuvent stationner sur les
-voies, à la condition expresse qu'ils soient toujours en état de se déplacer par leurs propres moyens et à première
-réquisition, pour livrer passage aux trains, machines ou wagons.
+Décret n°2007-1867 du 26 décembre 2007 art. 2 : L'article R411-8 entre en vigueur, pour chaque port, à la fin de la mission
+de gestion des voies ferrées portuaires exercée par la SNCF en application de l'article 6 de l'ordonnance du 2 août 2005
+susvisée et au plus tard le 31 décembre 2008. Les règles antérieures portant sur la sécurité de l'exploitation et des
+circulations ferroviaires restent applicables jusqu'à l'entrée en vigueur de l'article R411-6.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°1935-03-04 art. 27
+	  - Décret n°2006-1279 du 19 octobre 2006
+	  - Code des ports maritimes - art. L411-6
 
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 	**Cité par**:
 
-	  - Code des ports maritimes - art. R451-10 (V)
-	  - Code des ports maritimes - art. R451-7 (Ab)
-
-
-###### Article R**451-6
-
-Tout piéton, cavalier, cycliste, automobiliste et conducteur de tout véhicule doit, à l'approche d'un train, d'une machine ou
-d'un wagon, dégager immédiatement la voie ferrée et s'en écarter de manière à livrer passage au matériel.
-
-Tout conducteur de troupeaux ou d'animaux doit également les écarter de la voie ferrée à l'approche d'un train, d'une machine
-ou d'un wagon.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 28
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
 
 	**Abrogé par**:
 
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code des ports maritimes - art. R451-10 (Ab)
+	  - Code des transports - art. R5352-5 (M)
 
 
-###### Article R**451-7
+###### Article R411-9
 
-Les cantonniers, garde-barrières et autres agents de la voie ferrée doivent faire sortir immédiatement toute personne qui
-contreviendrait aux dispositions de l'alinéa 5° de l'article R. 451-5.
-
-En cas de résistance de la part des contrevenants, tout employé de la voie ferrée peut requérir l'assistance des agents de la
-force publique.
-
-Les animaux abandonnés qui seront trouvés dans l'enceinte de la voie ferrée sont saisis et mis en fourrière.
+Le règlement général de police des voies ferrées portuaires mentionné à l'article L. 411-7 est arrêté par le ministre chargé
+des transports.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°1935-03-04 art. 29
+	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
-	**Codifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Code des transports - art. R5352-6 (V)
 
 	**Abrogé par**:
 
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. R**451-5
-
-
-###### Article R**451-8
-
-Les agents ou préposés du concessionnaire, fermier ou exploitant et les préposés ou mandataires des expéditeurs ou
-destinataires sont seuls autorisés à manoeuvrer, charger ou décharger les wagons stationnant sur les voies du port.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 30
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**451-9
-
-Les dispositions du titre III de la loi modifiée du 15 juillet 1845 sur la police des chemins de fer ainsi que celles de
-l'article 26 du décret n° 58-1303, modifié, du 23 décembre 1958 sont applicables aux contraventions aux prescriptions du
-présent livre, ainsi que des arrêtés pris pour son application par le ministre chargé des transports et par les préfets.
-
-Les procès-verbaux peuvent être dressés, en ce qui concerne les ports maritimes, par les officiers de port, les officiers de
-port adjoints ou par les agents assimilés du port.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 36
-
-	**Cite**:
-
-	  - Décret n°58-1303 1958-12-23 art. 26
-	  - Loi n°1845-07-15
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**451-10
-
-En cas de contravention aux prescriptions des articles R. 451-5 et R. 451-6, les officiers de port, officiers de port
-adjoints et agents assimilés, peuvent immédiatement, sans mise en demeure préalable, faire dégager d'office les voies ferrées
-encombrées, sans préjudice des poursuites auxquelles pourront donner lieu les contraventions commises.
-
-Les marchandises et véhicules gênant la circulation des wagons et des engins de traction sont enlevés et mis en dépôt.
-
-Ils ne peuvent être ensuite retirés du dépôt qu'après remboursement des divers frais exposés suivant un état arrêté et rendu
-exécutoire par le préfet sur la proposition du service du port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. R**451-6
-	  - Code des ports maritimes - art. R451-5 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 31
-
-
-###### Article R**451-11
-
-Les expéditeurs de matières dangereuses et de matières nauséabondes doivent les déclarer au moment de leur remise au
-concessionnaire et se conformer à la réglementation spéciale qui régit ces transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 32
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-### Titre VI : Dispositions diverses.
-
-###### Article R**461-1
-
-Si les installations des voies ferrées d'un port, le personnel ou le matériel sont insuffisants pour permettre au
-concessionnaire, fermier ou exploitant, d'assurer, sur le domaine où elles s'étendent, dans des conditions normales, la
-desserte du port et sa bonne exploitation, l'intéressé, sur la mise en demeure qui lui est adressée par le ministre chargé
-des transports, sur la proposition du ministre chargé des ports maritimes, doit prendre les mesures nécessaires pour y
-pourvoir.
-
-Faute par l'intéressé d'avoir, dans le délai qui lui aura été imparti, présenté au ministre des propositions ou pris les
-mesures prescrites, le ministre arrête les dispositions à prendre, sur le rapport du service du contrôle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 33
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-	**Cité par**:
-
-	  - Code des ports maritimes - art. R411-2 (V)
-
-
-###### Article R**461-2
-
-Il est tenu par l'exploitant un registre destiné à recevoir les réclamations des voyageurs, expéditeurs ou destinataires qui
-auraient des plaintes à formuler, soit contre l'exploitant, soit contre ses agents. Ce registre est présenté à toute
-réquisition des voyageurs, expéditeurs ou destinataires, et communiqué sur place aux fonctionnaires et agents du contrôle. Le
-local où sera déposé ce registre et les conditions dans lesquelles les réclamations inscrites ou déposées seront portées à la
-connaissance du service du contrôle seront fixés dans chaque cas par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 34
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
-
-
-###### Article R**461-3
-
-Les dispositions du présent livre sont affichées en permanence dans les bureaux de l'exploitant et par ses soins.
-
-Des extraits contenant les dispositions qui concernent chacun d'eux sont délivrés aux divers agents employés sur la voie
-ferrée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-03-04 art. 35
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+	  - Code des ports maritimes - art. L411-7
 
 
 ## Livre V : Régime du travail dans les ports maritimes.
