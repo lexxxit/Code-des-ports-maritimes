@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2007-12-31
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -920,6 +920,67 @@ auxquelles s'appliquent ses dispositions.
 	  - Code des transports - art. L1613-2 (VD)
 	  - Code des transports - art. L1614-1 (VD)
 	  - Code des transports - art. L5311-2 (V)
+
+
+### Titre VI : Dispositions particulières applicables aux ports des départements d'outre-mer et à Mayotte.
+
+#### Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer.
+
+###### Article L161-1
+
+Des décrets en Conseil d'Etat adaptent, en tant que de besoin, les conditions et les modalités d'application du titre Ier
+dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°78-487 du 22 mars 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R*161-1 (Ab)
+
+
+#### Chapitre III : Dispositions particulières applicables à Mayotte. 				 					  
+
+###### Article L163-1
+
+Les dispositions du présent code relatives à la domanialité publique sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 8
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5723-2 (Ab)
+
+
+###### Article L163-2
+
+Les dispositions des actes communautaires auxquelles il est fait référence dans le présent code sont applicables à Mayotte en
+tant qu'elles sont nécessaires à la mise en oeuvre à Mayotte des dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 8
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ## Livre II : Droits de port et de navigation.
