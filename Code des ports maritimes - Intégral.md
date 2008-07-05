@@ -1,29 +1,59 @@
 # Code des ports maritimes  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-07-06
 
 # Partie législative
 
 ## Livre Ier : Création, organisation et aménagement des ports maritimes.
 
-### Titre préliminaire : Organisation portuaire.
+### Titre préliminaire : Organisation portuaire et grands ports maritimes.
 
-###### Article L101-1
+#### Chapitre préliminaire : Organisation portuaire.
 
-Les ports maritimes de commerce et de pêche sont classés selon les catégories suivantes :
+###### Article L100-1
 
-- les ports maritimes autonomes, relevant de l'Etat, définis au titre Ier du livre Ier ;
+Les ports maritimes de commerce et de pêche sont classés selon les catégories suivantes : 
 
-- les ports maritimes relevant des collectivités territoriales et de leurs groupements ;
+1° Les grands ports maritimes définis au présent titre ; 
 
-- dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, les ports maritimes relevant de l'Etat ;
+2° Les ports autonomes définis au titre Ier du présent livre ; 
 
-- le port de Port-Cros, relevant, pour son aménagement, son entretien et sa gestion, du parc national de Port-Cros.
+3° Les ports maritimes relevant des collectivités territoriales et de leurs groupements ; 
+
+4° Dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon, les ports maritimes relevant de l'Etat ; 
+
+5° Le port de Port-Cros, relevant pour son aménagement, son entretien et sa gestion du Parc national de Port-Cros.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-449 du 22 avril 2009 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5311-1 (V)
+	  - Code des transports - art. L5713-1 (V)
+	  - Code des transports - art. L5753-1 (V)
+
+
+#### Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes.
+
+##### Section 1 : Institution.
+
+###### Article L101-1
+
+Lorsque l'importance particulière d'un port le justifie au regard des enjeux du développement économique et de l'aménagement
+du territoire, l'Etat peut instituer, par décret en Conseil d'Etat, un organisme appelé " grand port maritime ".
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -34,7 +64,652 @@ Les ports maritimes de commerce et de pêche sont classés selon les catégories
 
 	**Modifié par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 36 () JORF 6 janvier 2006
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-1 (V)
+
+
+##### Section 2 : Statut et missions.
+
+###### Article L101-2
+
+Les grands ports maritimes sont des établissements publics de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-1 (V)
+
+
+###### Article L101-3
+
+I.-Dans les limites de sa circonscription, le grand port maritime veille à l'intégration des enjeux de développement durable
+dans le respect des règles de concurrence et est chargé, selon les modalités qu'il détermine, des missions suivantes : 
+
+1° La réalisation, l'exploitation et l'entretien des accès maritimes ; 
+
+2° La police, la sûreté et la sécurité, au sens des dispositions du livre III, et les missions concourant au bon
+fonctionnement général du port ; 
+
+3° La gestion et la valorisation du domaine dont il est propriétaire ou qui lui est affecté ; 
+
+4° La gestion et la préservation du domaine public naturel et des espaces naturels dont il est propriétaire ou qui lui sont
+affectés ; il consulte le conseil scientifique d'estuaire, lorsqu'il existe, sur ses programmes d'aménagement affectant les
+espaces naturels ; 
+
+5° La construction et l'entretien de l'infrastructure portuaire, notamment des bassins et terre-pleins, ainsi que des voies
+et terminaux de desserte terrestre, notamment ferroviaire et fluviale ; 
+
+6° La promotion de l'offre de dessertes ferroviaires et fluviales en coopération avec les opérateurs concernés ; 
+
+7° L'aménagement et la gestion des zones industrielles ou logistiques liées à l'activité portuaire ; 
+
+8° Les actions concourant à la promotion générale du port. 
+
+II.-Le grand port maritime ne peut exploiter les outillages utilisés pour les opérations de chargement, de déchargement, de
+manutention et de stockage liées aux navires que dans les cas et conditions prévus à l'article L. 103-2. 
+
+III.-Sous réserve du II, le grand port maritime peut exercer, notamment par l'intermédiaire de prises de participations dans
+des personnes morales, des activités ou réaliser des acquisitions dont l'objet est de nature à concourir, à l'intérieur ou à
+l'extérieur de sa circonscription, au développement ou à la modernisation du port ou de la place portuaire. Il respecte les
+enjeux et règles visés au I. 
+
+Il peut proposer des prestations à des tiers s'il les réalise déjà pour son propre compte ou si elles constituent le
+prolongement de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 7 (V)
+	  - Arrêté du 2 septembre 2009 (V)
+	  - Décret n°2009-1349 du 29 octobre 2009 (V)
+	  - Code des ports maritimes - art. L101-5 (Ab)
+	  - Code des ports maritimes - art. L102-5 (VT)
+	  - Code des ports maritimes - art. L103-1 (Ab)
+	  - Code des ports maritimes - art. L103-2 (VT)
+	  - Code des ports maritimes - art. R103-6 (Ab)
+	  - Code des ports maritimes - art. R104-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-2 (V)
+	  - Code des transports - art. L5312-3 (V)
+	  - Code des transports - art. L5312-4 (V)
+
+
+##### Section 3 : Circonscription.
+
+###### Article L101-4
+
+Les conditions de délimitation à terre et en mer, après enquête, des circonscriptions des grands ports maritimes sont
+définies par décret en Conseil d'Etat. 
+
+La circonscription comprend les accès maritimes et peut englober des ports desservis par ces accès.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-5 (V)
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L101-6 (VT)
+
+
+##### Section 4 :  Régime financier.
+
+###### Article L101-5
+
+L'article L. 111-4 est applicable aux grands ports maritimes. 
+
+Pour les travaux devant être effectués dans le cadre des missions définies à l'article L. 101-3 sans le concours financier de
+l'Etat et n'entraînant pas de modification essentielle dans les accès ou ouvrages du port, le grand port maritime statue
+définitivement.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
+101-5.
+
+Le décret n° 2014-1670 du 30 décembre 2014 relatif aux dispositions du  livre III de la cinquième partie réglementaire du
+code des transports et  à leur adaptation à l'outre-mer est paru au JORF du 31 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-87 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L101-3
+	  - Code des ports maritimes - art. L111-4
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L101-6 (VT)
+
+
+##### Section 5 : Substitution d'un grand port maritime   à un port maritime relevant de l'Etat.
+
+###### Article L101-6
+
+I.-Lorsqu'un grand port maritime est substitué à un port maritime relevant de l'Etat, l'Etat et, le cas échéant, le port
+autonome ou l'établissement public délégataire lui remettent les biens immeubles et meubles nécessaires à l'exercice de ses
+missions autres que ceux relevant du domaine public maritime naturel et du domaine public fluvial naturel. Cette remise est
+gratuite et ne donne lieu à paiement d'aucune indemnité, ni d'aucun droit, taxe, salaire ou honoraires. 
+
+Sous réserve des dispositions de l'article L. 101-5, le grand port maritime est substitué de plein droit à l'Etat et, le cas
+échéant, au port autonome ou à l'établissement public délégataire, dans tous les droits et obligations attachés aux biens
+remis et aux activités transférées, en particulier dans le service des emprunts contractés par le port autonome, ou le
+délégataire pour le financement de l'activité déléguée et de ses participations aux travaux maritimes. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. 
+
+II.-Un grand port maritime substitué à un port autonome conserve la même circonscription. Elle peut être modifiée dans les
+conditions prévues à l'article L. 101-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L101-4
+	  - Code des ports maritimes - art. L101-5
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R101-2 (Ab)
+	  - Code des ports maritimes - art. R101-8 (Ab)
+
+
+#### Chapitre II : Organisation.
+
+###### Article L102-1
+
+Le grand port maritime est dirigé par un directoire, sous le contrôle d'un conseil de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-6 (V)
+
+
+##### Section 1 : Conseil de surveillance.
+
+###### Article L102-2
+
+Le conseil de surveillance est composé comme suit : 
+
+1° Cinq représentants de l'Etat ; 
+
+2° Quatre représentants des collectivités territoriales et de leurs groupements dont au moins un représentant de la région et
+un représentant du département ; 
+
+3° Trois représentants du personnel de l'établissement public, dont un représentant des cadres et assimilés ; 
+
+4° Cinq personnalités qualifiées nommées par l'autorité compétente de l'Etat, dont un représentant élu de chambre consulaire
+et un représentant du monde économique. 
+
+Le conseil de surveillance élit son président. 
+
+La voix du président est prépondérante en cas de partage égal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R102-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-7 (M)
+
+
+###### Article L102-3
+
+Le conseil de surveillance arrête les orientations stratégiques de l'établissement et exerce le contrôle permanent de sa
+gestion. 
+
+Un décret en Conseil d'Etat précise les opérations dont la conclusion est soumise à l'autorisation préalable du conseil de
+surveillance.
+
+A tout moment, le conseil de surveillance opère les vérifications et les contrôles qu'il juge opportuns et peut se faire
+communiquer les documents qu'il estime nécessaires à l'accomplissement de sa mission. 
+
+Une fois par trimestre au moins, le directoire présente un rapport au conseil de surveillance. 
+
+Après la clôture de chaque exercice et dans un délai de six mois, le directoire lui présente, aux fins de vérification et de
+contrôle, les comptes annuels avant leur certification par au moins un commissaire aux comptes et, le cas échéant, les
+comptes consolidés accompagnés du rapport de gestion y afférent. 
+
+Le président du conseil de surveillance invite le président du conseil de développement à présenter les propositions de
+celui-ci. 
+
+Le conseil de surveillance délibère sur le projet stratégique du port mentionné à l'article L. 103-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L103-1
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R102-27 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-8 (V)
+
+
+##### Section 2 : Directoire.
+
+###### Article L102-4
+
+Le nombre de membres du directoire est déterminé pour chaque grand port maritime par décret. 
+
+Le président du directoire est nommé par décret après avis conforme du conseil de surveillance. Les autres membres du
+directoire sont nommés par le conseil de surveillance sur proposition du président du directoire. 
+
+La durée du mandat des membres du directoire est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-9 (M)
+
+
+###### Article L102-5
+
+Le directoire assure la direction de l'établissement et est responsable de sa gestion.A cet effet, il est investi des
+pouvoirs les plus étendus pour agir en toute circonstance au nom du grand port maritime. Il les exerce dans la limite des
+missions définies à l'article L. 101-3 et sous réserve de ceux qui sont attribués au conseil de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-10 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L101-3
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R102-17 (Ab)
+
+
+##### Section 3 :  Conseil de développement.
+
+###### Article L102-6
+
+Dans chaque grand port maritime, les milieux professionnels, sociaux et associatifs ainsi que les collectivités territoriales
+et leurs groupements sont représentés dans un conseil de développement qui est consulté sur le projet stratégique et la
+politique tarifaire du grand port maritime. Il peut émettre des propositions et demander que des questions soient inscrites à
+l'ordre du jour d'une réunion du conseil de surveillance. 
+
+Un décret en Conseil d'Etat précise la composition du conseil de développement, les modalités de désignation de ses membres
+et ses règles de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R102-24 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-11 (M)
+	  - Code des transports - art. L5312-18 (V)
+
+
+##### Section 4 : Conseil de coordination interportuaire.
+
+###### Article L102-7
+
+Pour assurer la cohérence des actions de grands ports maritimes et, le cas échéant, de ports autonomes fluviaux, s'inscrivant
+dans un même ensemble géographique ou situés sur un même axe fluvial, un conseil de coordination interportuaire associant des
+représentants de l'Etat, des collectivités territoriales et de leurs groupements, des ports concernés ainsi que des
+personnalités qualifiées et des représentants des établissements gestionnaires d'infrastructures terrestres ou de
+l'établissement public chargé de la gestion des voies navigables peut être créé par décret. 
+
+Ce conseil adopte un document de coordination relatif aux grandes orientations en matière de développement, de projets
+d'investissement et de promotion des ports qui y sont représentés. Ce document peut proposer des modalités de mutualisation
+de leurs moyens. 
+
+Le décret visé au premier alinéa précise la composition du conseil de coordination interportuaire, les modalités de
+désignation de ses membres, ses règles de fonctionnement et les conditions d'élaboration du document de coordination.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-556 du 19 mai 2009 - art. 1 (Ab)
+	  - Décret n°2009-556 du 19 mai 2009 - art. 8 (Ab)
+	  - Décret n°2009-1009 du 25 août 2009 - art. 1 (Ab)
+	  - Décret n°2009-1009 du 25 août 2009 - art. 8 (Ab)
+	  - Code des ports maritimes - art. L103-1 (Ab)
+	  - Code des ports maritimes - art. L106-1 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-12 (M)
+
+
+##### Section 5 : Personnel.
+
+###### Article L102-8
+
+Les articles L. 112-4 et L. 112-5 sont applicables aux grands ports maritimes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-15 (V)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L112-4
+	  - Code des ports maritimes - art. L112-5
+
+
+#### Chapitre III : Fonctionnement du grand port maritime.
+
+##### Section 1 : Projet stratégique.
+
+###### Article L103-1
+
+Pour l'exercice des missions définies à l'article L. 101-3, le projet stratégique de chaque grand port maritime détermine ses
+grandes orientations, les modalités de son action et les dépenses et recettes prévisionnelles nécessaires à sa mise en œuvre.
+Il doit être compatible avec les orientations nationales en matière de dessertes intermodales des ports et les orientations
+prévues par le document de coordination mentionné à l'article L. 102-7, lorsqu'il existe. 
+
+Il comporte des documents graphiques indiquant les différentes zones et leur vocation, notamment les zones ayant des enjeux
+naturels. 
+
+Un décret en Conseil d'Etat fixe les modalités d'élaboration et de révision du projet stratégique et précise son contenu. 
+
+Le grand port maritime conclut un contrat pluriannuel avec l'Etat et, le cas échéant, avec les collectivités territoriales
+intéressées ou leurs groupements, qui a pour objet de préciser les modalités de mise en œuvre du projet stratégique dans
+leurs domaines de compétences respectifs. Ce contrat porte également sur la politique de dividendes versés à l'Etat.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le quatrième
+alinéa de l'article L. 103-1.
+
+Le décret n° 2014-1670 du 30 décembre 2014 relatif aux dispositions du livre III de la cinquième partie réglementaire du code
+des transports et à leur adaptation à l'outre-mer est paru au JORF du 31 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 8 (V)
+	  - Code des ports maritimes - art. L102-3 (VT)
+	  - Code des ports maritimes - art. R102-12 (Ab)
+	  - Code des ports maritimes - art. R102-17 (Ab)
+	  - Code des ports maritimes - art. R102-27 (V)
+	  - Code des ports maritimes - art. R103-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L101-3
+	  - Code des ports maritimes - art. L102-7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-13 (V)
+	  - Code des transports - art. L5312-18 (V)
+	  - Code des transports - art. R5312-66 (Ab)
+
+
+###### Article L103-2
+
+Le grand port maritime peut, à titre exceptionnel, si le projet stratégique le prévoit et après accord de l'autorité
+administrative compétente, exploiter les outillages mentionnés au II de l'article L. 101-3 dans les cas suivants : 
+
+1° En régie ou par l'intermédiaire de filiales, à condition qu'il s'agisse d'activités ou de prestations accessoires dans
+l'ensemble des activités d'outillage présentes sur le port ; 
+
+2° Par l'intermédiaire de filiales pour un motif d'intérêt national ; l'autorité administrative notifie au grand port
+maritime la liste des activités ou des outillages dont le maintien doit être prévu pour ce motif dans le projet
+stratégique ; 
+
+3° Par l'intermédiaire d'une filiale, après échec d'un appel à candidatures organisé en application de l'article 9 de la loi
+n° 2008-660 du 4 juillet 2008 portant réforme portuaire ; 
+
+4° En détenant des participations minoritaires dans une personne morale de droit privé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 9
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 7 (V)
+	  - Arrêté du 9 mars 2009 (V)
+	  - Arrêté du 9 mars 2009 - art. 1 (M)
+	  - Code des ports maritimes - art. L101-3 (VT)
+	  - Code des ports maritimes - art. R103-1 (Ab)
+	  - Code des ports maritimes - art. R103-3 (Ab)
+	  - Code des ports maritimes - art. R103-5 (Ab)
+	  - Code des ports maritimes - art. R105-1 (Ab)
+	  - Code des ports maritimes - art. R105-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-4 (V)
+
+
+#### Chapitre VI : Dispositions diverses.
+
+###### Article L106-1
+
+Les grands ports maritimes, ainsi que les collectivités territoriales et leurs groupements compétents en matière de ports
+maritimes, peuvent mettre en commun des moyens et poursuivre des actions communes.
+
+A cette fin, ils peuvent notamment créer des groupements d'intérêt public dotés de la personnalité morale et de l'autonomie
+financière, entre eux ou entre un ou plusieurs d'entre eux et une ou plusieurs collectivités publiques, pour conduire,
+pendant une durée déterminée, des activités de promotion commerciale et d'entretien des accès maritimes. 
+
+Ces groupements sont soumis au chapitre Ier du titre IV du livre III du code de la recherche. 
+
+Les collectivités territoriales ou leurs groupements responsables de la gestion d'un port maritime faisant partie d'un
+ensemble géographique pour lequel a été mis en place un conseil de coordination mentionné à l'article L. 102-7 du présent
+code peuvent demander à être associés à ses travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L102-7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-12 (M)
+	  - Code des transports - art. L5312-14 (V)
+
+
+###### Article L106-2
+
+Les textes applicables aux ports autonomes maritimes, à l'exception du titre Ier du livre Ier, s'appliquent également aux
+grands ports maritimes pour autant qu'il n'y est pas dérogé par des dispositions spéciales. Le président du directoire du
+grand port maritime exerce les attributions dévolues au directeur du port autonome maritime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-15 (V)
+
+
+###### Article L106-3
+
+Des décrets en Conseil d'Etat déterminent en tant que de besoin les modalités d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5312-18 (V)
 
 
 ### Titre Ier : Ports autonomes.
@@ -4090,51 +4765,62 @@ Les conditions d'application du présent livre aux départements d'outre-mer son
 
 ###### Article L601-1
 
-I. - La région ou la collectivité territoriale de Corse est compétente pour créer, aménager et exploiter les ports maritimes
-de commerce. Elle est compétente pour aménager et exploiter les ports maritimes de commerce et de pêche qui lui ont été
-transférés en application de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ou de la loi
-n° 2002-92 du 22 janvier 2002 relative à la Corse.
+I.-La région ou la collectivité territoriale de Corse, ou les groupements dont elles font partie, sont compétents pour créer,
+aménager et exploiter les ports maritimes de commerce. Elle est compétente pour aménager et exploiter les ports maritimes de
+commerce et de pêche qui lui ont été transférés en application de la loi n° 2004-809 du 13 août 2004 relative aux libertés et
+responsabilités locales ou de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse. 
 
-II. - Le département est compétent pour créer, aménager et exploiter les ports maritimes de pêche. Il est compétent pour
+II.-Le département est compétent pour créer, aménager et exploiter les ports maritimes de pêche. Il est compétent pour
 aménager et exploiter les ports maritimes de commerce et de pêche qui lui ont été transférés par la loi n° 83-663 du 22
 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les
-départements, les régions et l'Etat et en application de la loi n° 2004-809 du 13 août 2004 précitée.
+départements, les régions et l'Etat et en application de la loi n° 2004-809 du 13 août 2004 précitée. 
 
-III. - Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines ou les communautés
+III.-Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines ou les communautés
 d'agglomération, sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la
 plaisance. Elles sont également compétentes pour aménager et exploiter les ports de commerce et de pêche qui leur ont été
-transférés en application de la loi n° 2004-809 du 13 août 2004 précitée.
+transférés en application de la loi n° 2004-809 du 13 août 2004 précitée. 
 
 Toutefois, les compétences exercées à la date de promulgation de la loi n° 2004-809 du 13 août 2004 précitée par d'autres
 collectivités territoriales ou groupements de collectivités territoriales sur les ports maritimes dont l'activité principale
 est la plaisance ne peuvent être transférées aux communes ou, le cas échéant, aux communautés de communes, aux communautés
 urbaines ou aux communautés d'agglomération sans l'accord exprès de ces autres collectivités territoriales ou groupements de
-collectivités territoriales.
+collectivités territoriales. 
 
 Le département ou un syndicat mixte peut également, à la demande d'une commune ou, le cas échéant, d'une communauté de
-communes, créer, aménager et exploiter un port maritime dont l'activité principale est la plaisance.
+communes, créer, aménager et exploiter un port maritime dont l'activité principale est la plaisance. 
 
-IV. - Par dérogation aux dispositions précédentes, l'organisme chargé du parc national de Port-Cros est compétent pour
+IV.-Par dérogation aux dispositions précédentes, l'organisme chargé du parc national de Port-Cros est compétent pour
 aménager, entretenir et gérer les installations portuaires de Port-Cros, dans le respect des missions assignées au parc.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Loi n°83-8 du 7 janvier 1983
+	  - Loi n°83-663 du 22 juillet 1983
+	  - Loi n°2002-92 du 22 janvier 2002
+	  - Loi n°2004-809 du 13 août 2004
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
-
-	**Créé par**:
-
-	  - Loi n°2004-809 2004-08-13 art. 30 VII JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2008-660 du 4 juillet 2008 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2009-449 du 22 avril 2009 (V)
 	  - Code du tourisme. - art. L341-5 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5314-1 (V)
+	  - Code des transports - art. L5314-11 (V)
+	  - Code des transports - art. L5314-2 (V)
+	  - Code des transports - art. L5314-4 (V)
+	  - Code des transports - art. L5314-7 (V)
 
 
 ###### Article L601-2
