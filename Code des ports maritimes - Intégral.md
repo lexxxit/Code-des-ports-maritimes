@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2009-07-20
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -12942,31 +12942,6 @@ sont présentés suivant le cadre type uniforme mentionné à l'article R. *211-
 
 ##### Section 4 : Affectation du produit du droit de port.
 
-###### Article R*211-10
-
-Les redevances mentionnées à l'article R. 211-1 sont versées à l'organisme assurant la prestation qui est, suivant les cas :
-
-a) Le port autonome ;
-
-b) Dans les ports d'intérêt national, le concessionnaire ou, en l'absence de concessionnaire, l'Etat ;
-
-c) Dans les autres ports, le concessionnaire ou, en l'absence de concessionnaire, la personne publique dont relève le port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°2001-566 du 29 juin 2001 - art. 7 () JORF 30 juin 2001
-
-	**Cite**:
-
-	  - Code des ports maritimes R211-1
-
-
 ###### Article R*211-11
 
 Le produit des redevances d'équipement des ports de pêche et des ports de plaisance ne peut être utilisé qu'à des dépenses
@@ -12995,6 +12970,44 @@ chenaux et bassins.
 	**Abrogé par**:
 
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R211-10
+
+Les redevances mentionnées à l'article R. 211-1 sont versées aux organismes suivants : 
+
+a) Dans les ports autonomes, le port autonome ; 
+
+b) Dans les grands ports maritimes, le grand port maritime ; 
+
+c) Dans les ports d'intérêt national, le concessionnaire ou, en l'absence de concessionnaire, l'Etat ; 
+
+d) Dans les autres ports, la personne publique dont relève le port ou, si le contrat de concession le prévoit, le
+concessionnaire.
+
+**Nota:**
+
+Décret n° 2008-1032 du 9 octobre 2008 article 12 : Les dispositions du III de l'article 4 entrent en vigueur le 1er janvier
+2010. Toutefois, dans les grands ports maritimes, les redevances sont versées à ceux-ci à compter de l'entrée en vigueur du
+décret les instituant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1032 du 9 octobre 2008 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-16 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R*211-1 (Ab)
 
 
 #### Chapitre II : Dispositions propres aux navires de commerce.
@@ -14888,9 +14901,9 @@ ni conduire l'expertise prévue à ce même article.
 	  - Code des ports maritimes - art. L311-1
 
 
-### Titre II : Polices de la conservation et de l'exploitation.
+### Titre II : Sûreté portuaire.
 
-#### Chapitre Ier : Sûreté du transport maritime et des opérations portuaires.
+#### Chapitre unique :  Sûreté du transport maritime et des opérations portuaires.
 
 ##### Section 1 : Organisation administrative.
 
@@ -17067,22 +17080,6 @@ pénal.
 	  - Code pénal - art. 132-15
 	  - Code des ports maritimes
 
-
-### Titre II : Sûreté portuaire.
-
-#### Chapitre unique :  Sûreté du transport maritime et des opérations portuaires.
-
-##### Section 1 : Organisation administrative.
-
-##### Section 2 : Organismes de sûreté habilités.
-
-##### Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires.
-
-##### Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint.
-
-##### Section 5 : Sûreté des plans d'eau portuaires.
-
-##### Section 6 : Mesures d'exécution et sanctions.
 
 ### Titre III : Polices de la grande voirie.
 
