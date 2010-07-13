@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -1600,6 +1600,70 @@ auxquelles s'appliquent ses dispositions.
 	  - Code des transports - art. L1613-2 (VD)
 	  - Code des transports - art. L1614-1 (VD)
 	  - Code des transports - art. L5311-2 (V)
+
+
+#### Chapitre VI : Dispositions tendant à assurer l'adoption, dans les ports maritimes décentralisés, de plans de réception et de traitement des déchets d'exploitation des navires et des résidus de cargaison
+
+###### Article L156-1
+
+Le représentant de l'Etat  dans le département adresse une mise en demeure à la collectivité  territoriale ou au groupement
+compétent qui n'a pas élaboré et adopté,  pour chacun des ports maritimes relevant de sa compétence, un plan de  réception,
+de traitement des déchets d'exploitation des navires et des  résidus de cargaison. 
+
+Lorsque cette mise en  demeure est restée infructueuse pendant un délai d'un an, le  représentant de l'Etat peut constater
+par arrêté la carence de cette  collectivité territoriale ou groupement compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 189
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-10 (V)
+
+
+###### Article L156-2
+
+Lorsqu'il constate la carence en application de  l'article L. 156-1, le représentant de l'Etat dans le département arrête  le
+montant d'un prélèvement sur les ressources fiscales de la  collectivité territoriale ou groupement compétent, en tenant
+compte, le  cas échéant, des difficultés rencontrées par la collectivité  territoriale ou le groupement compétent. 
+
+Le  prélèvement est effectué mensuellement jusqu'à la communication du plan  adopté. 
+
+Il ne peut excéder, sur une période d'un  an, la somme de 1 000 € multipliée par le nombre d'anneaux ou de postes à  quai
+dans le port. 
+
+Le produit de la taxe  foncière sur les propriétés bâties, de la taxe foncière sur les  propriétés non bâties, de la taxe
+d'habitation et de la contribution  économique territoriale inscrit à la section de fonctionnement du budget  de la
+collectivité territoriale ou du groupement compétent est diminué  du montant du prélèvement. Celui-ci est imputé sur les
+attributions  mentionnées au premier alinéa de  l'article L. 2332-2 du code général des collectivités territoriales. Lorsque
+l'autorité portuaire est un syndicat mixte, le montant du prélèvement  constitue une dépense obligatoire. 
+
+La somme  correspondant au prélèvement est consignée entre les mains du comptable  public, dans les conditions fixées à
+l'article L. 216-1 du  code de l'environnement, jusqu'à  l'adoption définitive du plan visé à l'article L. 156-1 du présent
+code  dans le délai fixé par le représentant de l'Etat dans le département.  Si le plan n'est pas adopté dans ce délai, la
+somme est définitivement  acquise à l'Etat qui se substitue à la collectivité territoriale ou au  groupement compétent
+défaillant pour l'élaboration et l'adoption du plan  visé au même article L. 156-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 189
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5334-11 (V)
 
 
 ### Titre VI : Dispositions particulières applicables aux ports des départements d'outre-mer et à Mayotte.
@@ -3920,11 +3984,12 @@ L'utilisation des voies ferrées portuaires peut donner lieu au versement de red
 
 ###### Article L411-6
 
-Le ministre chargé des transports qui délivre à une entreprise ferroviaire un certificat de sécurité permettant l'accès à un
-port peut étendre la validité de ce certificat à l'utilisation des voies ferrées portuaires de ce port.
+Le certificat de sécurité permettant l'accès à un port vaut également pour l'utilisation des voies ferrées portuaires de ce
+port.
 
 Les entreprises non titulaires d'un certificat de sécurité doivent, pour l'utilisation des voies ferrées portuaires, être
-agréées par le ministre chargé des transports dans des conditions fixées par décret en Conseil d'Etat.
+agréées par le ministre chargé des transports dans des conditions fixées par décret en Conseil d'Etat, après avis conforme de
+l'Etablissement public de sécurité ferroviaire.
 
 Ce décret précise notamment dans quels cas cet agrément vaut certificat de sécurité pour les services empruntant le réseau
 ferré national entre des voies ferrées relevant d'une même autorité portuaire ou dans les points d'échange entre le réseau
@@ -3932,13 +3997,13 @@ ferré national et les voies ferrées portuaires.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 61
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cité par**:
 
@@ -3952,22 +4017,22 @@ La police des voies ferrées portuaires est exercée par l'autorité portuaire.
 Le règlement général de police des voies ferrées portuaires est fixé par l'autorité administrative. Des règlements locaux
 d'application sont, en tant que de besoin, arrêtés pour chaque port par le préfet sur proposition de l'autorité portuaire.
 
-Les agents mentionnés à l'article L. 345-1 sont habilités à constater les infractions aux règlements de police des voies
-ferrées portuaires.
+Les atteintes aux voies ferrées portuaires et les infractions aux règlements de police qui leur sont applicables sont régies
+par le chapitre Ier du titre III et le chapitre V du titre IV du livre III.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°78-487 1978-03-22
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 61
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L345-1 (V)
+	  - Code des ports maritimes - art. L345-1
 
 	**Cité par**:
 
