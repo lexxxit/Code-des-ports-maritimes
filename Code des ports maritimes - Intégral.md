@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-09-04
 
 # Partie législative
 
@@ -5363,17 +5363,6 @@ d'exploitation des navires et des résidus de cargaison reste en vigueur jusqu'�
 
 
 
-###### Article R*102-10
-
-Le mandat du président du conseil de surveillance est d'une durée de cinq ans renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1031 du 9 octobre 2008 - art. 1
-
-
 ###### Article R102-1
 
 I. ― Les représentants de l'Etat au conseil de surveillance sont : 
@@ -5715,6 +5704,17 @@ assistent aux séances sans prendre part aux délibérations.
 	  - Code des ports maritimes - art. R102-4 (Ab)
 
 
+###### Article R102-10
+
+Le mandat du président du conseil de surveillance est d'une durée de cinq ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+
+
 ###### Article R102-11
 
 Le conseil de surveillance établit son règlement intérieur. Il peut constituer en son sein des commissions spécialisées. 
@@ -5861,16 +5861,24 @@ l'a pas confirmée dans ce délai.
 
 
 
-###### Article R* 102-15
+###### Article R102-15
 
 Les membres du directoire sont nommés pour une durée de cinq ans renouvelable. Le président du directoire est nommé pour une
 durée de cinq ans renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1031 du 9 octobre 2008 - art. 2
+	  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-27 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R102-16
