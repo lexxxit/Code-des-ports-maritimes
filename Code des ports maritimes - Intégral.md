@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-05-09
 
 # Partie législative
 
@@ -643,6 +643,8 @@ transférées.
 
 
 
+##### Section 5 : Services connexes et annexes.
+
 ###### Article R101-11
 
 Le grand port maritime peut être chargé, à la demande du directoire, de la gestion de services publics liés à l'accueil des
@@ -669,6 +671,34 @@ de ces services au grand port maritime ainsi que les règles de leur fonctionnem
 	**Cite**:
 
 	  - Code des ports maritimes - art. R*151-1
+
+
+###### Article R101-11-1
+
+Le ministre chargé des ports maritimes peut, après avis du conseil de surveillance, confier par arrêté au grand port
+maritime, au titre de services annexes, la gestion d'un service maritime ou d'un service de navigation dont il définit la
+consistance. 
+
+Dans l'exercice de cette activité, le président du directoire relève directement de l'autorité du ministre chargé des ports
+maritimes et le personnel du grand port maritime agit pour le compte de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-93 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-501 du 6 mai 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 2012 - art. 1 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ##### Section 6 : Réception des déchets. 
@@ -1156,7 +1186,11 @@ Toutefois, si ce quorum n'est pas atteint, le conseil, réuni sur une nouvelle c
 délibère valablement quel que soit le nombre des membres présents. 
 
 Les délibérations sont prises à la majorité des suffrages exprimés. En cas de partage, la voix du président est
-prépondérante. 
+prépondérante.
+
+Tout membre du conseil de surveillance peut, par procuration spéciale écrite, déléguer à un autre membre du même conseil la
+faculté de voter en ses lieu et place sur les questions portées à l'ordre du jour. Nul membre ne peut détenir plus d'une
+procuration. 
 
 Le vote a lieu au scrutin secret en cas de nomination ou d'avis sur une désignation. Dans ces deux cas, si, après deux tours
 de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour de scrutin et la nomination ou
@@ -1178,9 +1212,17 @@ constituées au sein du conseil. Ils assistent à ces commissions s'ils le jugen
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+	  - Décret n°2011-501 du 6 mai 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-23 (V)
 
 
 ###### Article R102-14
@@ -6003,41 +6045,6 @@ R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 	  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
 
 
-###### Article R*121-7
-
-La liste des ports d'intérêt national et des ports maritimes contigus aux ports militaires tels qu'ils sont délimités dans
-les conditions prévues à l'article R. *151-1 du code des ports maritimes et qui relèvent de la compétence de l'Etat est la
-suivante :
-
-a) Métropole :
-
-Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Le Fret, Roscanvel, Concarneau, Lorient, La
-Rochelle (port de pêche de Chef de Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice.
-
-b) Outre-mer :
-
-Fort-de-France (Martinique), Degrad-des-Cannes et Larivot (Guyane), Saint-Pierre-et-Miquelon (Saint-Pierre et Miquelon),
-Port-Réunion (Réunion).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 du 22 mars 1978
-
-	**Modifié par**:
-
-	  - Décret n°2004-1378 du 20 décembre 2004 - art. 4 () JORF 21 décembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-501 du 6 mai 2011 - art. 3
-
-	**Cite**:
-
-	  - Code des ports maritimes
-
-
 #### Chapitre II : Aménagement.
 
 ##### Section 1 : Travaux.
@@ -7473,18 +7480,14 @@ modèles statistiques à utiliser, les modalités d'établissement et de mise à
 
 ###### Article R154-2
 
-L'autorité portuaire met à tout moment à la disposition du préfet du département les informations relatives aux mouvements
-des navires et aux cargaisons de marchandises dangereuses ou polluantes et conserve ces informations pendant une durée
-suffisante pour permettre leur utilisation en cas d'incident ou d'accident de mer.
+L'autorité portuaire met à tout moment, par voie électronique, à la disposition du préfet du département les informations
+relatives aux mouvements des navires et aux cargaisons de marchandises dangereuses ou polluantes et conserve ces informations
+pendant une durée suffisante pour permettre leur utilisation en cas d'incident ou d'accident de mer.
 
 Un arrêté du ministre chargé des ports maritimes fixe la liste des ports concernés, précise les informations à mettre à
 disposition et les modalités de transmission de ces informations.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1032 du 9 octobre 2008 - art. 2
 
 	**Cité par**:
 
@@ -7492,6 +7495,18 @@ disposition et les modalités de transmission de ces informations.
 	  - Arrêté du 6 juillet 2010 - art. 2 (M)
 	  - Arrêté du 19 mars 2012 (V)
 	  - Arrêté du 27 janvier 2017 - art. 9
+
+	**Modifié par**:
+
+	  - Décret n°2011-501 du 6 mai 2011 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5334-3 (V)
 
 
 #### Chapitre V : Sécurité des ouvrages maritimes portuaires.
@@ -7731,6 +7746,26 @@ finances et du ministre chargé de la marine marchande.
 	**Cite**:
 
 	  - Code des ports maritimes - art. L161-1
+
+
+###### Article R161-1-1
+
+La liste des ports qui relèvent de la compétence de l'Etat est la suivante : 
+
+Fort-de-France (Martinique), Degrad-des-Cannes (Guyane), Saint-Pierre-et-Miquelon (Saint-Pierre-et-Miquelon) et Port-Réunion
+(Réunion). 
+
+Pour leur délimitation, il est fait application des dispositions de l'article R. 151-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-501 du 6 mai 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 #### Chapitre II : Dispositions particulières au port autonome de la Guadeloupe.
@@ -8940,16 +8975,26 @@ Les navires en relâche forcée mentionnés au 4° de l'article R. *212-5 peuven
 ###### Article R212-4
 
 Le tarif peut autoriser le classement d'un navire selon son utilisation dominante à l'entrée ou à la sortie du port, lorsque
-celle-ci est différente de celle résultant de son aménagement ou de l'usage pour lequel il a été conçu. 
+celle-ci est différente de celle résultant de son aménagement ou de l'usage pour lequel il a été conçu. Le tarif précise
+selon quelles modalités est déterminée l'utilisation dominante du navire pour le calcul de l'assiette de la redevance sur le
+navire.
 
-Un arrêté du ministre chargé des ports maritimes et du ministre chargé des douanes précise les modalités de détermination de
-l'utilisation dominante d'un navire.
+Un arrêté conjoint du ministre chargé des ports maritimes et du ministre chargé des douanes peut déterminer les modalités
+d'application du présent article.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-21 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2008-1032 du 9 octobre 2008 - art. 4
+	  - Décret n°2011-501 du 6 mai 2011 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R212-6
@@ -9240,8 +9285,8 @@ quel que soit le prestataire qui réalise ces opérations.
 
 I. - Tout navire faisant escale dans un port est assujetti au paiement d'une redevance au titre des prestations de réception
 et de traitement des déchets d'exploitation du navire, lorsque celles-ci sont réalisées en tout ou en partie par les
-organismes mentionnés aux a, b et c de l'article R. *211-10. Cette redevance, qui est perçue au profit de ces organismes,
-constitue un droit de port qui doit être payé ou garanti avant le départ du navire.
+organismes mentionnés à l'article R. 211-10. Cette redevance, qui est perçue au profit de ces organismes, constitue un droit
+de port qui doit être payé ou garanti avant le départ du navire.
 
 II. - Les tarifs de la redevance sur les déchets d'exploitation des navires, arrêtés par chaque port en fonction de la
 catégorie, du type et de la taille des navires, doivent refléter les coûts des prestations réalisées par les organismes
@@ -9274,19 +9319,29 @@ des ports maritimes et du ministre chargé de l'environnement.
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
-
-	**Créé par**:
-
-	  - Décret n°2003-920 du 22 septembre 2003 - art. 2 () JORF 27 septembre 2003
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Cité par**:
 
 	  - Arrêté du 5 juillet 2004 - art. 2 (M)
+	  - Code des ports maritimes - art. R343-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5321-38 (V)
+	  - Code des transports - art. R5321-39 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-501 du 6 mai 2011 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R211-10, R211-8, R211-9
+	  - Code des ports maritimes
 
 
 #### Chapitre III : Dispositions propres aux navires de pêche.
@@ -13243,10 +13298,9 @@ circulations ferroviaires restent applicables jusqu'à l'entrée en vigueur de l
 ###### Article R411-7
 
 L'octroi et l'utilisation de capacités d'infrastructure sur les voies ferrées portuaires peuvent donner lieu au paiement de
-redevances à l'autorité portuaire dans le respect des principes définis par les articles 7,8 et 9 de la directive 2001 / 14 /
-CE du Parlement européen et du Conseil du 26 février 2001 concernant la répartition des capacités d'infrastructure
-ferroviaire et la tarification de l'infrastructure ferroviaire, et dans les conditions fixées par arrêté du ministre chargé
-des transports. 
+redevances à l'autorité portuaire dans le respect des principes définis par les articles 7,8 et 9 de la directive 2001/14/CE
+du Parlement européen et du Conseil du 26 février 2001 concernant la répartition des capacités d'infrastructure ferroviaire
+et la tarification de l'infrastructure ferroviaire. 
 
 L'autorité portuaire établit et perçoit les redevances, dont elle doit être en mesure de justifier le montant et dont elle
 utilise le produit pour le financement de ses activités de gestionnaire d'infrastructure ferroviaire. 
@@ -13254,15 +13308,25 @@ utilise le produit pour le financement de ses activités de gestionnaire d'infra
 Elle respecte la confidentialité des informations commerciales qui lui sont communiquées pour l'application de ces
 dispositions.
 
+Un arrêté du ministre chargé des transports peut définir les conditions d'application du présent article.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Directive Européenne n°2001-14 du 26 février 2001, v. init.
+	  - Directive 2001/14/CE du Parlement européen et du Conseil du 26 février 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1867 du 26 décembre 2007 - art. 1
+	  - Décret n°2011-501 du 6 mai 2011 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5352-4 (Ab)
 
 
 ###### Article R411-8
@@ -13338,6 +13402,34 @@ des transports.
 	**Cite**:
 
 	  - Code des ports maritimes - art. L411-7
+
+
+###### Article R411-10
+
+Les manquements au règlement général de police des voies ferrées portuaires et aux règlements locaux d'application, qui
+constituent des atteintes au domaine ferroviaire, sont des contraventions de grande voirie punies d'une amende égale au plus
+au montant de l'amende contraventionnelle de la 5e classe. 
+
+En cas de récidive, les articles 132-11 et 132-15 du code pénal sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5352-7 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-501 du 6 mai 2011 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
 
 
 ## Livre V : Régime du travail dans les ports maritimes.
@@ -13993,10 +14085,9 @@ paragraphe I du présent article.
 
 ###### Article R*611-1
 
-Pour l'application de l'article 6 de la loi n° 83-663 du 22 juillet 1983 et en l'absence de schéma de mise en valeur de la
-mer, sont considérés comme création ou extension de port, les projets comportant l'institution ou la modification d'un
-périmètre délimité en application de l'article R. 613-1 du code des ports maritimes ou, à l'intérieur d'un périmètre
-délimité, l'accroissement de la superficie du plan d'eau abrité.
+Pour l'application de l'article L. 5314-8 du code des transports, sont considérés comme création ou extension de port, les
+projets comportant l'institution ou la modification d'un périmètre délimité en application de l'article R. 613-1 du code des
+ports maritimes ou, à l'intérieur d'un périmètre délimité, l'accroissement de la superficie du plan d'eau abrité. 
 
 Lorsque la création ou l'extension d'un port comporte la réalisation de travaux, le dossier de proposition de création ou
 d'extension présenté au préfet est accompagné des résultats de l'instruction prévue par l'article R. *611-2.
@@ -14005,17 +14096,23 @@ d'extension présenté au préfet est accompagné des résultats de l'instructio
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5314-1 (V)
 
 	**Cite**:
 
-	  - Loi n°83-663 1983-07-22 art. 6
-	  - Code des ports maritimes R613-1, R611-2
+	  - Code des transports - art. L5314-8
 
 	**Modifié par**:
 
-	  - Décret n°2005-255 2005-03-14 art. 1 I, II JORF 19 mars 2005
-	  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+	  - Décret n°2011-501 du 6 mai 2011 - art. 9
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*611-2
@@ -14220,48 +14317,65 @@ Ces opérations sont conduites à la diligence de l'autorité compétente.
 
 ###### Article R*613-1
 
-Il est procédé à la délimitation des ports maritimes relevant de la compétence des départements et des communes, du côté de
-la mer ou du côté des terres, par l'autorité compétente pour l'administration du port sous réserve des droits des tiers. Les
-limites du port ne peuvent empiéter sur le domaine public de l'Etat qui n'aurait pas été mis à disposition de la collectivité
-compétente en application de l'article L. 1321-1 du code général des collectivités territoriales et de l'article 9 de la loi
-n° 83-663 du 22 juillet 1983.
+Il est procédé à la délimitation des ports maritimes relevant de la compétence des collectivités territoriales et de leurs
+groupements, du côté de la mer et du côté des terres, par l'organe délibérant de ces collectivités ou groupements. Les
+limites du port sont établies sous réserve des droits des tiers. Elles ne peuvent empiéter sur le domaine public de l'Etat
+qui n'aurait pas été mis à disposition de la collectivité ou du groupement compétent ou qui n'aurait pas fait l'objet, à leur
+profit, d'un transfert de gestion.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Cite**:
 
-	  - Loi n°83-663 1983-07-22 art. 9
-	  - Code général des collectivités territoriales - art. L1321-1 (M)
+	  - Loi n°83-663 du 22 juillet 1983
+	  - Code général des collectivités territoriales - art. L1321-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5311-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+	  - Décret n°2011-501 du 6 mai 2011 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 #### Chapitre IV : Dispositions communes.
 
 ###### Article R*614-1
 
-L'autorité compétente mentionnée aux articles R. *611-3, R. *612-2, R. *612-3 et R. *613-1 est le président du conseil
-général dans les ports départementaux et le maire dans les ports communaux.
+L'autorité compétente mentionnée aux articles R. 611-3, R. 612-2 et R. 612-3 est le président du conseil général dans les
+ports départementaux et le maire dans les ports communaux.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°78-488 1978-03-22
+	  - Décret n°78-488 du 22 mars 1978
 
 	**Modifié par**:
 
-	  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+	  - Décret n°2011-501 du 6 mai 2011 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes R611-3, R612-2, R612-3, R613-1
+	  - Code des ports maritimes - art. R*611-3 (Ab)
+	  - Code des ports maritimes - art. R*612-2 (Ab)
 
 
 #### Chapitre V : Suivi du trafic maritime.
