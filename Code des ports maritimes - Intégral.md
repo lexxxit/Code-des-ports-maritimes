@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2011-05-09
+Version Consolidée au 2011-11-30
 
 # Partie législative
 
@@ -638,11 +638,6 @@ transférées.
 	  - Code des ports maritimes - art. R101-7
 
 
-##### Section 5 : Services connexes. 
-
-
-
-
 ##### Section 5 : Services connexes et annexes.
 
 ###### Article R101-11
@@ -1098,13 +1093,22 @@ assistent aux séances sans prendre part aux délibérations.
 
 ###### Article R102-10
 
-Le mandat du président du conseil de surveillance est d'une durée de cinq ans renouvelable.
+Le mandat du président du conseil de surveillance est d'une durée de cinq ans renouvelable. Toutefois, il prend fin au plus
+tard lorsque son titulaire atteint l'âge de soixante-sept ans.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-15 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+	  - Décret n°2011-1655 du 28 novembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R102-11
