@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2012-02-04
+Version Consolidée au 2012-10-03
 
 # Partie législative
 
@@ -7772,208 +7772,450 @@ Pour leur délimitation, il est fait application des dispositions de l'article R
 	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Dispositions particulières au port autonome de la Guadeloupe.
+#### Chapitre III : Dispositions particulières applicables en Guadeloupe, Guyane, Martinique et à La Réunion
 
-###### Article R*162-1
+###### Article R163-1
 
-Les installations et outillages portuaires gérés par le département de la Guadeloupe sont remis au port autonome dans les
-conditions fixées, en ce qui concerne les concessions des      chambres de commerce et d'industrie territoriales, par les
-articles L. 111-10, R. 111-8, R. 111-9 et R. 111-11.
+Pour son application aux ports relevant de l'Etat mentionnés à l'article L. 5713-1 du code des transports, le livre Ier fait
+l'objet des adaptations prévues au présent chapitre.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 du 22 mars 1978
-
-	**Modifié par**:
-
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
 
 	**Cite**:
 
-	  - Code des ports maritimes
-	  - Code des ports maritimes - art. L111-10
+	  - Code des transports - art. L5713-1
 
+	**Créé par**:
 
-###### Article R*162-2
-
-L'Etat participe, dans la proportion de 50 %, aux dépenses résultant des opérations de modernisation suivantes :
-
-- creusement des bassins ;
-
-- création et extension des chenaux d'accès maritimes et des plans d'eau des avant-ports ;
-
-- construction et extension d'ouvrages de protection contre la mer et d'écluses d'accès, ainsi que renouvellement de ces deux
-dernières catégories d'ouvrages.
-
-Le second alinéa de l'article L. 111-5 n'est pas applicable au port autonome de la Guadeloupe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-373 1974-05-06 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°78-488 du 22 mars 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Section 1 : Circonscription et dispositions générales 
+
+
+
+###### Article R163-2
+
+Aux articles R. 101-2, R. 101-3, R. 101-4, R. 102-1, R. 102-25, R. 102-26 et R. 102-27, les mots : " préfet de région ” sont
+remplacés par les mots : " représentant de l'Etat dans la région ou dans la collectivité territoriale ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L111-5
+	  - Code des ports maritimes - art. R101-2 (Ab)
+	  - Code des ports maritimes - art. R102-1
+	  - Code des ports maritimes - art. R102-25 (Ab)
 
 
-###### Article R*162-3
+##### Section 2 : Conseil de surveillance 
 
-Les charges des travaux de création, d'extension ou de renouvellement des ouvrages d'infrastructure et engins de radoub
-autres que ceux qui sont visés à l'article R. *162-2 sont couvertes dans la proportion de 40 % par des participations de
-l'Etat.
 
-Le deuxième alinéa de l'article L. 111-6 n'est pas applicable au port autonome de la Guadeloupe.
+
+
+###### Article R163-3
+
+L'article R. 102-1 est modifié ainsi qu'il suit : 
+
+1° Au deuxième alinéa, les mots : " préfet de la région ” sont remplacés par les mots : " représentant de l'Etat dans la
+région ou dans la collectivité territoriale ” ; 
+
+2° Le troisième alinéa est remplacé par un alinéa ainsi rédigé : 
+
+" Le directeur de l'environnement, de l'aménagement et du logement ; ” ; 
+
+3° Le quatrième alinéa est supprimé ; 
+
+4° Le sixième alinéa est remplacé par un alinéa ainsi rédigé : 
+
+" Un représentant désigné conjointement par les ministres chargés de la mer et de l'outre-mer ; ” ; 
+
+5° Le neuvième alinéa est ainsi rédigé : 
+
+" 1° Un membre du conseil régional en Guadeloupe et à La Réunion, désigné par ce conseil ; ” ; 
+
+6° Le dixième alinéa est ainsi rédigé : 
+
+" 2° Un membre du conseil général en Guadeloupe et à La Réunion, désigné par ce conseil ; ” ; 
+
+7° Après le dixième alinéa, est inséré un alinéa ainsi rédigé : 
+
+" 3° Deux représentants de l'assemblée de Guyane en Guyane et deux représentants de l'assemblée de Martinique en Martinique.
+” ; 
+
+8° Le onzième alinéa est ainsi rédigé : 
+
+" 4° Deux représentants des autres collectivités territoriales et de leurs groupements en Martinique et à La Réunion et trois
+représentants des autres collectivités territoriales et de leurs groupements en Guyane et en Guadeloupe. Le décret instituant
+le grand port maritime détermine les communes ou groupements disposant d'un représentant. Ces membres sont désignés par
+l'organe délibérant de la collectivité ou du groupement. ” ; 
+
+9° Le douzième alinéa est remplacé par deux alinéas ainsi rédigés : 
+
+" III. ― Les personnalités qualifiées visées au 4° de l'article L. 5312-7 du code des transports sont nommées par arrêté du
+ministre chargé des ports maritimes, après consultation du ministre chargé de l'économie et avis des collectivités
+territoriales et de leur groupement dont une partie du territoire est située dans la circonscription du port. A défaut de
+réponse dans le mois suivant la saisine, l'avis est réputé émis. 
+
+" Les personnalités qualifiées sont choisies en raison de leur compétence dans les activités intéressant les ports,
+l'aménagement, l'environnement, la navigation maritime, les transports, l'économie régionale ou l'économie nationale. ” ; 
+
+10° Le treizième alinéa est ainsi rédigé : 
+
+" Le décret en Conseil d'Etat instituant le grand port désigne la chambre consulaire qui dispose de trois représentants élus
+au conseil de surveillance. Le ministre chargé des ports maritimes invite cette chambre consulaire à proposer ses
+représentants. ”
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-373 1974-05-06 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
 
 	**Cite**:
 
-	  - Code des ports maritimes
-	  - Code des ports maritimes - art. L111-6
+	  - Code des transports - art. L5312-7
+	  - Code des ports maritimes - art. R102-1
 
+	**Créé par**:
 
-###### Article R*162-4
-
-L'administration du port autonome est assurée par un conseil d'administration assisté d'un directeur.
-
-Le directeur est nommé par arrêté du ministre chargé des ports maritimes, après avis du conseil d'administration. Il est mis
-fin à ses fonctions dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°74-373 1974-05-06 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°78-488 du 22 mars 1978
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-###### Article R*162-6
+###### Article R163-4
 
-Le conseil d'administration du port autonome comprend : 
+I. ― Jusqu'à la première réunion de l'assemblée de Guyane suivant sa première élection en mars 2014, le conseil de
+surveillance comporte, pour l'application en Guyane de l'article R. 102-1, au moins un représentant du conseil régional et un
+représentant du conseil général. 
 
-I.-1. a) Deux membres désignés par la chambre de commerce et d'industrie territoriale de Pointe-à-Pitre ; 
-
-b) Un membre désigné par la chambre de commerce et d'industrie territoriale de Basse-Terre ; 
-
-2. a) Un membre désigné par le conseil régional de la Guadeloupe ; 
-
-b) Un membre désigné par le conseil général de la Guadeloupe ; 
-
-c) Un membre désigné par le conseil municipal de Pointe-à-pitre ; 
-
-d) Un membre désigné par le conseil municipal de Baie-Mahaut ; 
-
-3. Cinq membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
-administratifs, commerciaux ou techniques assimilés sur le plan de la classification ; 
-
-4. Un membre représentant les ouvriers dockers du port. 
-
-II.-1. Trois membres représentant l'Etat, dont : 
-
-a) Un représentant du ministre chargé de l'économie et des finances choisi parmi les fonctionnaires en activité de son
-département ; 
-
-b) Un représentant du ministre chargé des ports maritimes choisi parmi les fonctionnaires en activité de son département ; 
-
-c) Le préfet de la région de la Guadeloupe ou son suppléant qu'il désigne à titre permanent ; 
-
-2. a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
-*112-2, établie conjointement par les      chambres de commerce et d'industrie territoriales de Basse-terre et de pointe-à-
-pitre ; 
-
-b) Une personnalité choisie sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
-*112-2, établie par la chambre d'agriculture de la Guadeloupe ; 
-
-c) Sept personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
-les transports, l'économie régionale ou l'économie nationale, dont deux au moins doivent appartenir aux catégories d'usagers
-mentionnées à l'article R. *112-2. 
-
-Les membres du conseil d'administration énumérés au I 4 et au II ci-dessus sont nommés par décret pris sur le rapport du
-ministre chargé des ports maritimes.
+II. ― Jusqu'à la première réunion de l'assemblée de Martinique suivant sa première élection en mars 2014, le conseil de
+surveillance comporte, pour l'application en Martinique du même article, au moins un représentant du conseil régional et un
+représentant du conseil général.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°78-488 du 22 mars 1978
-
-	**Modifié par**:
-
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R102-1 (Ab)
 
 
-###### Article R*162-7
+###### Article R163-5
 
-Le conseil d'administration se réunit au moins trois fois par an sur la convocation de son président.
+Le sixième alinéa de l'article R. 102-12 est ainsi rédigé : 
+
+" e) Les conventions mentionnées au I de l'article R. 102-8, sous réserve du II du même article, les autorisations
+d'outillages privé avec obligation de service public, la concession ou l'affermage d'outillages ; ”.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°74-373 1974-05-06 art. 7 II
-
-	**Codifié par**:
-
-	  - Décret n°78-488 1978-03-22
-
-	**Modifié par**:
-
-	  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R102-12 (Ab)
+	  - Code des ports maritimes - art. R102-8
+
+
+##### Section 3 : Directoire 
+
+
+
+
+
+
+###### Article R163-6
+
+Au troisième alinéa de l'article R. 102-18, les mots : " et du budget ” sont remplacés par les mots : ", du budget et de
+l'outre-mer ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R102-18 (Ab)
+
+
+##### Section 4 : Conseil de développement 
+
+
+
+
+###### Article R163-7
+
+Le sixième alinéa de l'article R. 102-24 est ainsi complété : 
+
+" Il comprend également un représentant des consommateurs désigné au sein d'une association de consommateurs. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R102-24 (Ab)
+
+
+##### Section 5 : Projet stratégique 
+
+
+
+
+###### Article R163-8
+
+Le quatrième alinéa de l'article R. 103-1 est ainsi rédigé : 
+
+" 3° De la démarche prospective sur les modalités retenues à terme pour l'exploitation des outillages publics de
+manutention ; ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R103-1 (Ab)
+
+
+###### Article R163-9
+
+Au deuxième alinéa de l'article R. 103-2, les mots : " et du budget ” sont remplacés par les mots : ", du budget et de
+l'outre-mer ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R103-2 (Ab)
+
+
+##### Section 6 : Gestion financière et comptable 
+
+
+
+
+
+
+###### Article R163-10
+
+Au deuxième alinéa de l'article R. 103-7, les mots : " et du budget ” sont remplacés par les mots : ", du budget et de
+l'outre-mer ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R103-7 (Ab)
+
+
+##### Section 7 : Outillage et terminaux 
+
+
+
+
+##### Sous-section 1 : Dispositions générales et terminaux 
+
+
+
+
+###### Article R163-11
+
+Au premier alinéa de l'article R. 105-1, les mots : " Sous réserve des cas d'exploitation en régie prévus à l'article L.
+5312-4 du code des transports, ” sont supprimés et les mots : " sont exploités ” sont remplacés par les mots : " peuvent être
+exploités ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5312-4
+	  - Code des ports maritimes - art. R105-1 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R163-12
+
+Au premier alinéa de l'article R. 105-2, les mots : " Sans préjudice des dispositions des articles 7,8,9 de la loi n°
+2008-660 du 4 juillet 2008 portant réforme portuaire, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. R105-2 (Ab)
+
+
+###### Article R163-13
+
+L'article R. 115-7 est ainsi rédigé : 
+
+" Art. R. 115-7. ― I. ― Dans le cadre fixé par l'article L. 5713-1-1 du code des transports, la réalisation et l'exploitation
+d'outillages mis à disposition du public sont assurées par le grand port maritime lui-même ou font l'objet d'une concession
+ou d'un contrat d'affermage qui peuvent être conclus avec des collectivités publiques, des établissements publics ou des
+entreprises privées. 
+
+" II. ― Des outillages mis en place par une entreprise et nécessaires à ses propres besoins font l'objet d'une autorisation
+d'outillage privé avec obligation de service public. ”
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5713-1-1
+	  - Code des ports maritimes - art. R*115-7 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Sous-section 2 : Outillages publics gérés par le grand port maritime lui-même 
+
+
+
+
+###### Article R163-14
+
+Au premier alinéa de l'article R. 105-5, les mots : " l'article L. 5312-4 du code des transports ” sont remplacés par les
+mots : " l'article L. 5713-1-1 du code des transports ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5713-1-1
+	  - Code des ports maritimes - art. R105-5 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Section 8 : Personnels 
+
+
+
+
+###### Article R163-15
+
+L'article R. 112-19 est remplacé par les dispositions suivantes : 
+
+" Art. R. 112-19. ― Le personnel des concessions d'outillage public des chambres de commerce et d'industrie de région ou le
+personnel du port autonome de la Guadeloupe conservent leurs contrats de travail fondés sur la convention collective en
+vigueur à la date de création du grand port maritime et applicable aux personnels des ports maritimes. 
+
+" A cette fin et dès l'intervention du décret portant création du grand port maritime, le représentant de l'Etat dans la
+région ou dans la collectivité territoriale consulte les chambres de commerce et d'industrie de région intéressées,
+concessionnaires d'outillage public, en vue d'établir la liste nominative, par fonction, du personnel visé ci-dessus. Cette
+liste est communiquée aux représentants des personnels intéressés qui doivent faire connaître leurs observations dans un
+délai de quinze jours. Le représentant de l'Etat dans la région ou dans la collectivité territoriale établit la liste
+définitive puis la transmet au personnel concerné des chambres de commerce et d'industrie de région qui ont quinze jours pour
+contester. En cas de contestation concernant la reprise de certains membres du personnel des chambres de commerce et
+d'industrie de région, il est statué par décision conjointe du ministre chargé des ports maritimes et du ministre chargé de
+l'industrie. 
+
+" Le personnel ouvrier, bénéficiaire du régime de retraites défini par le décret n° 2004-1056 du 5 octobre 2004 modifié
+relatif au régime de pensions des ouvriers des établissements industriels de l'Etat, qui aura opté pour la conservation de
+son statut n'est pas soumis à la convention collective précitée. ”
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-1056 du 5 octobre 2004
+	  - Code des ports maritimes - art. R*112-19 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2012-1102 du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ## Livre II : Droits de port et de navigation.
