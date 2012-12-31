@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -887,11 +887,11 @@ plénitude de ses fonctions par le vice-président.
 Les membres du conseil de surveillance adressent au commissaire du Gouvernement auprès du grand port maritime, dans les
 quinze jours suivant leur nomination ou désignation, une déclaration mentionnant : 
 
-― les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps ou les personnes avec lesquelles elles sont
+- les fonctions exercées par eux-mêmes et leurs conjoints non séparés de corps ou les personnes avec lesquelles elles sont
 liées par un pacte civil de solidarité dans les sociétés ou organismes susceptibles, du fait de leur secteur d'activité, de
 conclure des conventions avec le grand port maritime ; 
 
-― la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
+- la liste et le nombre des actions et droits sociaux représentant au moins un vingtième du capital ou des droits de vote,
 possédés par eux-mêmes, leurs conjoints et enfants mineurs non émancipés dans les mêmes sociétés ou organismes. 
 
 Tout membre n'ayant pas souscrit cette déclaration dans le délai prescrit auprès du commissaire du Gouvernement fait l'objet,
@@ -910,11 +910,16 @@ par les membres du conseil ainsi que les modifications qui y sont apportées.
 
 	  - Décret n°69-535 du 21 mai 1969 - art. 9 (Ab)
 	  - Code des ports maritimes - art. R102-8 (V)
+	  - Code des ports maritimes - art. R102-9 (Ab)
 	  - Code des transports - art. R4322-16 (M)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-19 (V)
 
 
 ###### Article R102-5
@@ -1832,7 +1837,9 @@ les estuaires visés à l'article 16 de la loi n° 2008-660 du 4 juillet 2008 po
 Il est transmis aux ministres chargés des ports maritimes, de l'économie et du budget, après approbation du conseil de
 surveillance. 
 
-Il est révisé dans les cinq ans suivant son adoption ou sa précédente révision 
+A l'exception des 4° et 5° de l'article R. 103-1, il est révisé dans les cinq ans suivant son adoption ou sa précédente
+révision. Les 4° et 5° de l'article R. 103-1 sont révisés lorsque le positionnement stratégique ou politique de
+l'établissement le nécessite. 
 
 La révision du projet stratégique est opérée selon les mêmes modalités que son élaboration.
 
@@ -1841,10 +1848,23 @@ La révision du projet stratégique est opérée selon les mêmes modalités que
 	**Cite**:
 
 	  - Loi n°2008-660 du 4 juillet 2008 - art. 16
+	  - Code des ports maritimes - art. R103-1
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+	  - Code des transports - art. R5312-64 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-616 du 2 mai 2012 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R163-9 (Ab)
 
 
 ###### Article R103-3
@@ -1881,9 +1901,9 @@ maritimes et du ministre chargé de l'économie.
 
 ###### Article R103-4
 
-Les grands ports maritimes se conforment, en matière de gestion financière et comptable, aux règles en usage pour les
-établissements publics nationaux à caractère industriel et commercial dotés d'un agent comptable et sont soumis aux articles
-190 à 225 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique.
+Les grands ports maritimes sont soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185,
+204 à 208 et 220 à 228. 
 
 L'agent comptable est nommé par arrêté conjoint des ministres chargés des ports maritimes et du budget après avis du conseil
 de surveillance. 
@@ -1894,23 +1914,31 @@ modifié relatif aux régies de recettes et aux régies d'avances des organismes
 Avec l'accord du ministre chargé du budget, le président du directoire peut autoriser l'agent comptable à payer, sans son
 intervention préalable et dans la limite des crédits approuvés, certaines menues dépenses. Ces dépenses sont payées soit
 directement par l'agent comptable, soit, sous sa responsabilité, par certains agents du grand port maritime désignés après
-son accord par le président du directoire.L'agent comptable est tenu de justifier, chaque mois, des dépenses effectuées. Au
+son accord par le président du directoire. L'agent comptable est tenu de justifier, chaque mois, des dépenses effectuées. Au
 vu des justifications produites, le président du directoire émet un titre de régularisation au nom de l'agent comptable.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 190
 	  - Décret n°92-681 du 20 juillet 1992
-
-	**Créé par**:
-
-	  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Cité par**:
 
 	  - Décret n°2008-1032 du 9 octobre 2008 - art. 11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5312-67 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R103-5
@@ -4350,9 +4378,9 @@ l'initiative du conseil d'administration lui-même.
 
 ###### Article R*113-12
 
-Le fonctionnement comptable du port autonome est assuré dans les conditions prévues pour les établissements publics à
-caractère industriel et commercial dotés d'un agent comptable, par les articles 190 à 225 du décret du 29 décembre 1962
-portant règlement général sur la comptabilité publique. 
+Le port autonome est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185, 204 à 208 et
+220 à 228. 
 
 Il est élaboré un plan comptable commun, applicable à l'ensemble des ports autonomes. 
 
@@ -4374,13 +4402,21 @@ finances, après avis de l'Autorité des normes comptables.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R5313-42 (V)
+
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 36
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-13
