@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-12-06
 
 # Partie législative
 
@@ -10046,63 +10046,6 @@ ministre chargé des ports maritimes dans les mêmes conditions que les autres m
 
 
 
-###### Article R*301-1
-
-La zone maritime et fluviale de régulation est délimitée : 
-
-a) Pour les grands ports maritimes et les ports autonomes, par un arrêté conjoint du préfet maritime ou du délégué du
-Gouvernement pour l'action de l'Etat en mer territorialement compétent et du préfet du département, pris après avis
-respectivement du directoire ou du conseil d'administration du port ; 
-
-b) Pour les autres ports, par un arrêté conjoint du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en
-mer territorialement compétent, du préfet de département pour ce qui concerne, le cas échéant, la partie fluviale de la zone,
-et de l'autorité investie du pouvoir de police portuaire. 
-
-Dans le cas où ces installations portuaires sont implantées sur le territoire de plusieurs départements, un arrêté du Premier
-ministre détermine le préfet de département compétent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-875 du 17 juillet 2009 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. R*5331-1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
-
-
-###### Article R*301-2
-
-Le représentant de l'Etat mentionné à l'article L. 302-4 est le préfet du département où sont implantées les installations du
-port. 
-
-Dans le cas où ces installations sont implantées sur le territoire de plusieurs départements, un arrêté du Premier ministre
-détermine le préfet de département compétent.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-875 du 17 juillet 2009 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. R*5331-6 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L302-4
-
-
 ###### Article R301-3
 
 La délimitation de la zone maritime et fluviale de régulation des ports maritimes attenants aux ports militaires est arrêtée
@@ -11125,32 +11068,6 @@ du 8 juin 2014 (Comité local de sûreté portuaire).
 
 
 ##### Sous-section 3 : Compétences du représentant de l'Etat dans le département.
-
-###### Article R321-6
-
-Lorsque l'emprise d'un port s'étend sur plusieurs départements, un arrêté du ministre de l'intérieur pris après avis du
-ministre chargé des transports désigne le préfet de département qui exerce les prérogatives dévolues par le présent chapitre
-au représentant de l'Etat dans le département. Cet arrêté prévoit les modalités d'information des préfets des autres
-départements sur lesquels s'étend le port.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°78-488 du 22 mars 1978
-
-	**Créé par**:
-
-	  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. R*5332-6 (M)
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
-
 
 ###### Article R321-6-1
 
